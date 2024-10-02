@@ -1,0 +1,21 @@
+player,org,agents,rounds_played,rating,average_combat_score,kill_deaths,kill_assists_survived_traded,average_damage_per_round,kills_per_round,assists_per_round,first_kills_per_round,first_deaths_per_round,headshot_percentage,clutch_success_percentage,team_id,team_name,region,gamechanger
+miNt,FL.GC,"['raze', 'jett']",328,1.31,287.9,1.41,74%,182.8,1.03,0.17,0.26,0.17,37%,24%,9516,FENNEL GC,oc,False
+Caedye,RID,"['gekko', 'raze', 'viper']",307,1.09,226.7,1.14,78%,139.6,0.80,0.27,0.13,0.09,33%,17%,14375,RIDDLE ORDER,oc,False
+HakuNa,RIG.L,"['viper', 'killjoy', 'cypher']",233,1.09,206.1,1.09,68%,136.9,0.73,0.15,0.07,0.06,24%,21%,9523,REIGNITE Lily,oc,False
+Xdll,FL,"['sova', 'fade', 'sage']",257,1.09,233.3,1.13,72%,154.7,0.82,0.26,0.12,0.09,27%,23%,2934,FENNEL,oc,False
+Seoldam,RID,"['jett', 'gekko', 'cypher']",307,1.09,231.6,1.18,73%,141.7,0.82,0.22,0.18,0.12,23%,9%,14375,RIDDLE ORDER,oc,False
+CLZ,FL,"['breach', 'sage', 'gekko']",257,1.09,192.4,1.05,76%,135.2,0.70,0.33,0.08,0.08,30%,26%,2934,FENNEL,oc,False
+SyouTa,FL,"['raze', 'jett', 'viper']",257,1.06,207.2,1.16,71%,135.2,0.80,0.16,0.12,0.10,33%,13%,2934,FENNEL,oc,False
+YamzzI,FL.GC,"['omen', 'gekko']",328,1.06,184.9,1.03,75%,122.2,0.68,0.45,0.07,0.05,29%,25%,9516,FENNEL GC,oc,False
+romia,FL.GC,"['cypher', 'killjoy', 'sova']",328,1.04,198.6,1.11,70%,133.3,0.74,0.18,0.08,0.07,30%,19%,9516,FENNEL GC,oc,False
+Aace,307,"['viper', 'brimstone', 'omen']",307,1.02,187.8,1.06,74%,120.8,0.71,0.33,0.04,0.06,30%,25%,14375,RIDDLE ORDER,oc,False
+JoXJo,RID,"['kayo', 'fade', 'clove']",307,0.99,189.2,0.95,76%,119.8,0.65,0.35,0.07,0.07,28%,23%,14375,RIDDLE ORDER,oc,False
+yatsuka,RID,"['killjoy', 'viper', 'iso']",307,0.98,187.0,1.07,72%,122.4,0.71,0.21,0.09,0.08,31%,24%,14375,RIDDLE ORDER,oc,False
+R4M,233,"['brimstone', 'omen', 'viper']",233,0.98,197.9,0.92,75%,127.9,0.69,0.40,0.08,0.10,22%,19%,9523,REIGNITE Lily,oc,False
+maripo,RIG.L,"['skye', 'sova', 'fade']",233,0.97,191.9,0.94,70%,133.7,0.70,0.31,0.06,0.09,20%,21%,9523,REIGNITE Lily,oc,False
+Curumi,FL.GC,"['breach', 'kayo', 'viper']",328,0.95,187.9,0.89,72%,120.9,0.63,0.50,0.06,0.07,19%,11%,9516,FENNEL GC,oc,False
+Zodiac,233,"['raze', 'jett', 'neon']",233,0.95,222.5,0.93,69%,155.1,0.75,0.22,0.18,0.15,22%,22%,9523,REIGNITE Lily,oc,False
+TENNN,FL,"['cypher', 'viper', 'killjoy']",257,0.93,179.3,0.99,69%,120.8,0.70,0.16,0.10,0.10,39%,10%,2934,FENNEL,oc,False
+PingSong,FL.GC,"['fade', 'sova', 'skye']",328,0.90,178.4,0.86,74%,116.1,0.61,0.36,0.09,0.07,26%,17%,9516,FENNEL GC,oc,False
+GON,FL,"['omen', 'brimstone']",257,0.88,161.8,0.90,72%,100.7,0.60,0.31,0.05,0.10,34%,10%,2934,FENNEL,oc,False
+HANE,RIG.L,"['gekko', 'kayo', 'breach']",233,0.85,186.5,0.82,73%,123.3,0.65,0.43,0.09,0.11,32%,8%,9523,REIGNITE Lily,oc,False

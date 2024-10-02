@@ -1,0 +1,236 @@
+{
+  "data": {
+    "status": 200,
+    "segments": [
+      {
+        "player": "murza",
+        "org": "Dead",
+        "agents": [
+          "jett",
+          "raze",
+          "clove"
+        ],
+        "rounds_played": "299",
+        "rating": "1.15",
+        "average_combat_score": "234.3",
+        "kill_deaths": "1.25",
+        "kill_assists_survived_traded": "72%",
+        "average_damage_per_round": "151.1",
+        "kills_per_round": "0.83",
+        "assists_per_round": "0.21",
+        "first_kills_per_round": "0.12",
+        "first_deaths_per_round": "0.11",
+        "headshot_percentage": "21%",
+        "clutch_success_percentage": "17%",
+        "team_id": "13849",
+        "team_name": "Justice For Tomorrow"
+      },
+      {
+        "player": "IKANA",
+        "org": "GZL",
+        "agents": [
+          "sova",
+          "skye",
+          "fade"
+        ],
+        "rounds_played": "299",
+        "rating": "1.12",
+        "average_combat_score": "203.9",
+        "kill_deaths": "1.14",
+        "kill_assists_survived_traded": "69%",
+        "average_damage_per_round": "134.6",
+        "kills_per_round": "0.73",
+        "assists_per_round": "0.36",
+        "first_kills_per_round": "0.06",
+        "first_deaths_per_round": "0.07",
+        "headshot_percentage": "22%",
+        "clutch_success_percentage": "18%",
+        "team_id": "13849",
+        "team_name": "Justice For Tomorrow"
+      },
+      {
+        "player": "ANDY",
+        "org": "FC",
+        "agents": [
+          "iso",
+          "deadlock",
+          "neon"
+        ],
+        "rounds_played": "299",
+        "rating": "1.09",
+        "average_combat_score": "217.5",
+        "kill_deaths": "1.10",
+        "kill_assists_survived_traded": "74%",
+        "average_damage_per_round": "146.6",
+        "kills_per_round": "0.78",
+        "assists_per_round": "0.28",
+        "first_kills_per_round": "0.14",
+        "first_deaths_per_round": "0.14",
+        "headshot_percentage": "21%",
+        "clutch_success_percentage": "13%",
+        "team_id": "13849",
+        "team_name": "Justice For Tomorrow"
+      },
+      {
+        "player": "kiss",
+        "org": "Dead",
+        "agents": [
+          "viper",
+          "brimstone",
+          "omen"
+        ],
+        "rounds_played": "277",
+        "rating": "1.08",
+        "average_combat_score": "208.4",
+        "kill_deaths": "1.07",
+        "kill_assists_survived_traded": "77%",
+        "average_damage_per_round": "141.2",
+        "kills_per_round": "0.74",
+        "assists_per_round": "0.41",
+        "first_kills_per_round": "0.13",
+        "first_deaths_per_round": "0.12",
+        "headshot_percentage": "32%",
+        "clutch_success_percentage": "22%",
+        "team_id": "13849",
+        "team_name": "Justice For Tomorrow"
+      },
+      {
+        "player": "MaiShiu",
+        "org": "FOC",
+        "agents": [
+          "sova",
+          "fade"
+        ],
+        "rounds_played": "227",
+        "rating": "1.04",
+        "average_combat_score": "208.1",
+        "kill_deaths": "1.04",
+        "kill_assists_survived_traded": "69%",
+        "average_damage_per_round": "135.8",
+        "kills_per_round": "0.72",
+        "assists_per_round": "0.31",
+        "first_kills_per_round": "0.12",
+        "first_deaths_per_round": "0.08",
+        "headshot_percentage": "29%",
+        "clutch_success_percentage": "14%",
+        "team_id": "15253",
+        "team_name": "FOCUSGG"
+      },
+      {
+        "player": "vizsla",
+        "org": "FOC",
+        "agents": [
+          "killjoy",
+          "viper",
+          "cypher"
+        ],
+        "rounds_played": "227",
+        "rating": "1.03",
+        "average_combat_score": "219.5",
+        "kill_deaths": "1.06",
+        "kill_assists_survived_traded": "67%",
+        "average_damage_per_round": "146.7",
+        "kills_per_round": "0.74",
+        "assists_per_round": "0.19",
+        "first_kills_per_round": "0.11",
+        "first_deaths_per_round": "0.09",
+        "headshot_percentage": "30%",
+        "clutch_success_percentage": "4%",
+        "team_id": "15253",
+        "team_name": "FOCUSGG"
+      },
+      {
+        "player": "Myth",
+        "org": "FOC",
+        "agents": [
+          "kayo",
+          "brimstone",
+          "omen"
+        ],
+        "rounds_played": "227",
+        "rating": "1.02",
+        "average_combat_score": "185.9",
+        "kill_deaths": "0.93",
+        "kill_assists_survived_traded": "75%",
+        "average_damage_per_round": "116.9",
+        "kills_per_round": "0.63",
+        "assists_per_round": "0.50",
+        "first_kills_per_round": "0.04",
+        "first_deaths_per_round": "0.06",
+        "headshot_percentage": "23%",
+        "clutch_success_percentage": "17%",
+        "team_id": "15253",
+        "team_name": "FOCUSGG"
+      },
+      {
+        "player": "RAMEN",
+        "org": "AZN",
+        "agents": [
+          "killjoy",
+          "cypher",
+          "breach"
+        ],
+        "rounds_played": "299",
+        "rating": "0.99",
+        "average_combat_score": "181.2",
+        "kill_deaths": "0.98",
+        "kill_assists_survived_traded": "72%",
+        "average_damage_per_round": "120.2",
+        "kills_per_round": "0.62",
+        "assists_per_round": "0.24",
+        "first_kills_per_round": "0.06",
+        "first_deaths_per_round": "0.04",
+        "headshot_percentage": "22%",
+        "clutch_success_percentage": "9%",
+        "team_id": "13849",
+        "team_name": "Justice For Tomorrow"
+      },
+      {
+        "player": "Bonobo",
+        "org": "FOC",
+        "agents": [
+          "jett",
+          "raze",
+          "neon"
+        ],
+        "rounds_played": "227",
+        "rating": "0.91",
+        "average_combat_score": "194.6",
+        "kill_deaths": "0.90",
+        "kill_assists_survived_traded": "70%",
+        "average_damage_per_round": "134.0",
+        "kills_per_round": "0.67",
+        "assists_per_round": "0.17",
+        "first_kills_per_round": "0.15",
+        "first_deaths_per_round": "0.15",
+        "headshot_percentage": "25%",
+        "clutch_success_percentage": "10%",
+        "team_id": "15253",
+        "team_name": "FOCUSGG"
+      },
+      {
+        "player": "Blessed",
+        "org": "FOC",
+        "agents": [
+          "viper",
+          "gekko",
+          "kayo"
+        ],
+        "rounds_played": "227",
+        "rating": "0.88",
+        "average_combat_score": "175.9",
+        "kill_deaths": "0.84",
+        "kill_assists_survived_traded": "68%",
+        "average_damage_per_round": "110.8",
+        "kills_per_round": "0.60",
+        "assists_per_round": "0.40",
+        "first_kills_per_round": "0.09",
+        "first_deaths_per_round": "0.10",
+        "headshot_percentage": "31%",
+        "clutch_success_percentage": "6%",
+        "team_id": "15253",
+        "team_name": "FOCUSGG"
+      }
+    ]
+  }
+}

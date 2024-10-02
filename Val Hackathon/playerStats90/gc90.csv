@@ -1,0 +1,22 @@
+player,org,agents,rounds_played,rating,average_combat_score,kill_deaths,kill_assists_survived_traded,average_damage_per_round,kills_per_round,assists_per_round,first_kills_per_round,first_deaths_per_round,headshot_percentage,clutch_success_percentage,team_id,team_name,region,gamechanger
+aNNja,NSR.I,['jett'],224,1.25,282.1,1.28,73%,181.8,0.99,0.18,0.21,0.17,37%,5%,12566,NASR Ignite,gc,False
+Avez,NASR,"['killjoy', 'cypher', 'fade']",215,1.17,227.3,1.17,69%,152.1,0.82,0.18,0.10,0.07,35%,12%,1470,NASR Esports,gc,False
+SimonD4rk,R8,"['reyna', 'raze', 'yoru']",473,1.15,250.6,1.18,71%,167.5,0.86,0.25,0.15,0.16,18%,13%,15120,R8 Esports,gc,False
+Akai,FLC,"['raze', 'neon', 'jett']",277,1.14,248.5,1.20,67%,165.4,0.88,0.13,0.17,0.21,26%,21%,7969,Team Falcons,gc,False
+sickrey,R8,"['gekko', 'skye', 'sova']",492,1.13,198.6,1.13,74%,134.0,0.71,0.39,0.05,0.05,30%,13%,15120,R8 Esports,gc,False
+Moh,TU,"['omen', 'brimstone', 'chamber']",529,1.08,204.6,1.07,73%,139.5,0.74,0.30,0.10,0.07,31%,8%,1458,The Ultimates,gc,False
+7ssk7,NASR,"['breach', 'phoenix', 'skye']",215,1.06,190.1,0.93,76%,122.2,0.65,0.47,0.08,0.06,35%,8%,1470,NASR Esports,gc,False
+Fighter,TU,"['raze', 'jett', 'neon']",252,1.05,224.1,1.06,68%,150.0,0.80,0.15,0.13,0.15,33%,12%,1458,The Ultimates,gc,False
+Bgg,R8,"['viper', 'omen', 'brimstone']",492,1.00,183.9,1.00,72%,123.7,0.65,0.29,0.12,0.10,28%,17%,15120,R8 Esports,gc,False
+nugget,GMX.L,"['cypher', 'killjoy', 'brimstone']",224,0.97,192.8,0.92,70%,128.4,0.67,0.18,0.08,0.05,22%,13%,12595,Gamax Lite,gc,False
+Winteryrook,R8,"['sage', 'astra', 'viper']",492,0.97,201.8,0.99,72%,130.6,0.72,0.32,0.11,0.10,32%,6%,15120,R8 Esports,gc,False
+rainssa,BACK,"['omen', 'astra', 'viper']",224,0.97,195.9,0.98,69%,135.7,0.69,0.24,0.08,0.13,30%,21%,14847,BACKSTABBED,gc,False
+KHaaLiD,TU,"['breach', 'sage', 'sova']",529,0.96,189.0,0.95,69%,125.7,0.66,0.29,0.07,0.10,33%,21%,1458,The Ultimates,gc,False
+Sand,TU,"['cypher', 'viper', 'killjoy']",529,0.93,179.6,0.94,66%,123.5,0.66,0.19,0.06,0.10,33%,13%,1458,The Ultimates,gc,False
+moner,R8,"['killjoy', 'cypher', 'chamber']",492,0.92,178.4,0.94,71%,122.9,0.63,0.16,0.09,0.08,25%,12%,15120,R8 Esports,gc,False
+vakk,NASR,"['gekko', 'sova', 'cypher']",215,0.90,170.1,0.89,70%,117.9,0.61,0.26,0.10,0.07,28%,26%,1470,NASR Esports,gc,False
+SpYzera,TU,"['skye', 'gekko', 'iso']",529,0.90,178.5,0.86,69%,117.4,0.61,0.32,0.07,0.09,29%,4%,1458,The Ultimates,gc,False
+sibeastw0w,NASR,"['neon', 'jett', 'raze']",215,0.87,191.5,0.84,67%,126.9,0.64,0.23,0.15,0.21,20%,27%,1470,NASR Esports,gc,False
+T4C,Curs,"['breach', 'kayo', 'sage']",224,0.87,164.7,0.80,71%,104.1,0.57,0.49,0.04,0.09,19%,24%,15395,Salt n Shake,gc,False
+xenon,NASR,"['omen', 'brimstone', 'astra']",215,0.86,168.5,0.82,68%,104.7,0.59,0.38,0.07,0.11,38%,13%,1470,NASR Esports,gc,False
+dati,FUT.Fe,"['gekko', 'sova', 'breach']",224,0.75,151.2,0.69,65%,107.1,0.50,0.27,0.07,0.07,32%,13%,15881,Last Second,gc,False

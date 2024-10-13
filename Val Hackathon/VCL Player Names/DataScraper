@@ -1,21 +1,16 @@
 import requests
 from bs4 import BeautifulSoup
-import pandas as pd
 import os
 
 def makeFileName(url):
     path = url.replace('https://liquipedia.net/valorant/', '')
     filename = path.replace('/', '_')
-    return f'{filename}.csv'
+    return f'{filename}.txt'
 
-def names(url):
+def name(url):
     response = requests.get(url)
     soup = BeautifulSoup(response.content, 'html.parser')
     table = soup.find('table')
-    
-    if table is None:
-        return None
-    
     player_names = []
     
     for row in table.find_all('tr')[1:]:
@@ -25,16 +20,20 @@ def names(url):
             if cell.find('a'):
                 player_names.append(cell.text.strip())
                 break
-    df = pd.DataFrame(player_names, columns=['Player Name'])
     
-    return df
+
+    player_names_string = ', '.join(name.strip() for name in player_names)
+    player_names_string = player_names_string.replace('"', '').replace("'", "")
+
+    return player_names_string
 
 # Change this part for each link
-url = 'https://liquipedia.net/valorant/VCL/2024/Oceania/Split_2/Statistics'
+url = 'https://liquipedia.net/valorant/VCL/2024/Japan/Split_2'
+player_names_string = name(url)
 
-data = names(url)
-
-if data is not None:
+if player_names_string:
     filename = makeFileName(url)
     filepath = os.path.join('.', filename)
-    data.to_csv(filepath, index=False)
+    
+    with open(filepath, 'w') as f:
+        f.write(player_names_string)

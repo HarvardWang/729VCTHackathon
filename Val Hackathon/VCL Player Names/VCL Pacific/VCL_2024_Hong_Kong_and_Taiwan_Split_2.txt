@@ -1,9 +1,7 @@
-Player Name
-"Americas
+Americas
  China
  EMEA
- Pacific"
-"Americas
+ Pacific, Americas
  North America [ Playoffs ]
  Latin America [  North /  South ]
  Brazil
@@ -27,11 +25,9 @@ Player Name
  Hong Kong & Taiwan
  Philippines
  Indonesia
- Oceania"
-"North America [ Playoffs ]
+ Oceania, North America [ Playoffs ]
  Latin America [  North /  South ]
- Brazil"
-"North
+ Brazil, North
  Spain
  France
  DACH
@@ -39,8 +35,7 @@ Player Name
  East
  MENA [   GCC & Iraq /   Levant & North Africa ]
  Italy
- Portugal"
-"South Asia
+ Portugal, South Asia
  Thailand [ AQS ]
  Vietnam
  Malaysia & Singapore
@@ -49,5 +44,4 @@ Player Name
  Hong Kong & Taiwan
  Philippines
  Indonesia
- Oceania"
-Season 2
+ Oceania, Season 2

@@ -81,14 +81,14 @@ regions = {'na': 'North America', 'eu': 'Europe', 'sa': 'Latin America', 'mn': '
 for _, row in df.iterrows():
     filename_base = str(row['player']).replace(' ', '_')
 
-    #json_dict = {k: v for k, v in row.items() if v != 'Unknown'}
-    #json_content = {"metadataAttributes": json_dict}
+    json_dict = {k: v for k, v in row.items() if v != 'Unknown'}
+    json_content = {"metadataAttributes": json_dict}
 
     text_dict = row.to_dict()
 
-    #json_filename = f'./Val Hackathon/playerDataFinal/playerMetadata/{filename_base}.metadata.json'
-    #with open(json_filename, 'w', encoding='utf-8') as json_file:
-    #    json.dump(json_content, json_file, indent=4)
+    json_filename = f'./Val Hackathon/playerDataFinal/playerMetadata/{filename_base}.metadata.json'
+    with open(json_filename, 'w', encoding='utf-8') as json_file:
+        json.dump(json_content, json_file, indent=4)
 
     text_filename = f'./Val Hackathon/playerDataFinal/playerText/{filename_base}.txt'
     with open(text_filename, 'w', encoding='utf-8') as text_file:

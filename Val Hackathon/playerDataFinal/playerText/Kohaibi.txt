@@ -1,71 +1,26 @@
-The player is Kohaibi.
-The org is SMG.GC.
-The agents is ['reyna', 'jett', 'killjoy'].
-The rounds_played is 2995.
-The rating is 1.22.
-The average_combat_score is 235.5.
-The kill_deaths is 1.31.
-The kill_assists_survived_traded is 79%.
-The average_damage_per_round is 158.4.
-The kills_per_round is 0.84.
-The assists_per_round is 0.26.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.07.
-The headshot_percentage is 23%.
-The clutch_success_percentage is 15%.
-The team_id is 15327.0.
-The team_name is BOBA.
-The agent1 is raze.
-The agent1_use_pct is (67) 26%.
-The agent1_rounds is 1295.
-The agent1_rating is 1.48.
-The agent1_acs is 303.0.
-The agent1_kd is 1.67.
-The agent1_adr is 198.8.
-The agent1_kast is 83%.
-The agent1_kpr is 1.04.
-The agent1_apr is 0.26.
-The agent1_fkpr is 0.15.
-The agent1_fdpr is 0.07.
-The agent1_kills is 1341.
-The agent1_deaths is 805.
-The agent1_assists is 341.
-The agent1_fk is 194.
-The agent1_fd is 89.
-The agent2 is killjoy.
-The agent2_use_pct is (42) 16%.
-The agent2_rounds is 822.0.
-The agent2_rating is 1.26.
-The agent2_acs is 239.8.
-The agent2_kd is 1.45.
-The agent2_adr is 164.2.
-The agent2_kast is 79%.
-The agent2_kpr is 0.88.
-The agent2_apr is 0.19.
-The agent2_fkpr is 0.12.
-The agent2_fdpr is 0.08.
-The agent2_kills is 720.0.
-The agent2_deaths is 496.0.
-The agent2_assists is 157.0.
-The agent2_fk is 95.0.
-The agent2_fd is 63.0.
-The agent3 is reyna.
-The agent3_use_pct is (35) 14%.
-The agent3_rounds is 688.0.
-The agent3_rating is 1.53.
-The agent3_acs is 302.4.
-The agent3_kd is 1.75.
-The agent3_adr is 186.6.
-The agent3_kast is 83%.
-The agent3_kpr is 1.07.
-The agent3_apr is 0.19.
-The agent3_fkpr is 0.16.
-The agent3_fdpr is 0.07.
-The agent3_kills is 737.0.
-The agent3_deaths is 420.0.
-The agent3_assists is 134.0.
-The agent3_fk is 111.0.
-The agent3_fd is 47.0.
-The igl is False.
-The region is ap.
-The level is game-changer.
+Kohaibi is a member of BOBA (SMG.GC). They play in the Asia Pacific region and the VCT 
+game-changer circuit. Over their entire career, they have played 2995 rounds 
+with an average rating of 1.22, an average average combat score (ACS) of 235.5, an average kills death ratio 
+of 1.31, an average average damage per round (ADR) of 158.4, an average kill, assist, survive, trade percent (KAST) 
+of 79%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 23%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 1295 rounds they have played raze, 
+they have an average rating of 1.48, an average average combat score (ACS) of 303.0, an average kills death ratio 
+of 1.67, an average average damage per round (ADR) of 198.8, an average kill, assist, survive, trade percent (KAST) 
+of 83%, an average kills per round (KPR) of 1.04, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.07. Using raze this player has a total of 1341 kills, 805 deaths, 
+341 assists, 194 first bloods, and 89 first deaths. Over their entire career, killjoy is their second most played agent. Over the 822.0 rounds they have played killjoy, 
+they have an average rating of 1.26, an average average combat score (ACS) of 239.8, an average kills death ratio 
+of 1.45, an average average damage per round (ADR) of 164.2, an average kill, assist, survive, trade percent (KAST) 
+of 79%, an average kills per round (KPR) of 0.88, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.08. Using killjoy this player has a total of 720.0 kills, 496.0 deaths, 
+157.0 assists, 95.0 first bloods, and 63.0 first deaths. Over their entire career, reyna is their third most played agent. Over the 688.0 rounds they have played reyna, 
+they have an average rating of 1.53, an average average combat score (ACS) of 302.4, an average kills death ratio 
+of 1.75, an average average damage per round (ADR) of 186.6, an average kill, assist, survive, trade percent (KAST) 
+of 83%, an average kills per round (KPR) of 1.07, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.07. Using reyna this player has a total of 737.0 kills, 420.0 deaths, 
+134.0 assists, 111.0 first bloods, and 47.0 first deaths. 

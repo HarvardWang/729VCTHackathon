@@ -1,71 +1,26 @@
-The player is kaya.
-The org is YFP.
-The agents is ['sage', 'breach', 'fade'].
-The rounds_played is 613.
-The rating is 0.92.
-The average_combat_score is 181.5.
-The kill_deaths is 0.86.
-The kill_assists_survived_traded is 66%.
-The average_damage_per_round is 122.5.
-The kills_per_round is 0.66.
-The assists_per_round is 0.13.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 12%.
-The team_id is 13301.0.
-The team_name is YFP X.
-The agent1 is chamber.
-The agent1_use_pct is (57) 45%.
-The agent1_rounds is 1116.
-The agent1_rating is 1.02.
-The agent1_acs is 197.9.
-The agent1_kd is 1.1.
-The agent1_adr is 129.7.
-The agent1_kast is 71%.
-The agent1_kpr is 0.72.
-The agent1_apr is 0.11.
-The agent1_fkpr is 0.13.
-The agent1_fdpr is 0.09.
-The agent1_kills is 807.
-The agent1_deaths is 733.
-The agent1_assists is 126.
-The agent1_fk is 147.
-The agent1_fd is 104.
-The agent2 is killjoy.
-The agent2_use_pct is (23) 18%.
-The agent2_rounds is 465.0.
-The agent2_rating is 1.06.
-The agent2_acs is 192.8.
-The agent2_kd is 1.13.
-The agent2_adr is 128.9.
-The agent2_kast is 75%.
-The agent2_kpr is 0.69.
-The agent2_apr is 0.16.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.04.
-The agent2_kills is 321.0.
-The agent2_deaths is 285.0.
-The agent2_assists is 76.0.
-The agent2_fk is 28.0.
-The agent2_fd is 20.0.
-The agent3 is sova.
-The agent3_use_pct is (17) 13%.
-The agent3_rounds is 320.0.
-The agent3_rating is 0.84.
-The agent3_acs is 149.1.
-The agent3_kd is 0.77.
-The agent3_adr is 102.6.
-The agent3_kast is 73%.
-The agent3_kpr is 0.51.
-The agent3_apr is 0.26.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.04.
-The agent3_kills is 162.0.
-The agent3_deaths is 210.0.
-The agent3_assists is 82.0.
-The agent3_fk is 17.0.
-The agent3_fd is 14.0.
-The igl is False.
-The region is na.
-The level is international.
+kaya is a member of YFP X (YFP). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 613 rounds 
+with an average rating of 0.92, an average average combat score (ACS) of 181.5, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 122.5, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 27%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, chamber is their most played agent. Over the 1116 rounds they have played chamber, 
+they have an average rating of 1.02, an average average combat score (ACS) of 197.9, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 129.7, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.11, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.09. Using chamber this player has a total of 807 kills, 733 deaths, 
+126 assists, 147 first bloods, and 104 first deaths. Over their entire career, killjoy is their second most played agent. Over the 465.0 rounds they have played killjoy, 
+they have an average rating of 1.06, an average average combat score (ACS) of 192.8, an average kills death ratio 
+of 1.13, an average average damage per round (ADR) of 128.9, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.04. Using killjoy this player has a total of 321.0 kills, 285.0 deaths, 
+76.0 assists, 28.0 first bloods, and 20.0 first deaths. Over their entire career, sova is their third most played agent. Over the 320.0 rounds they have played sova, 
+they have an average rating of 0.84, an average average combat score (ACS) of 149.1, an average kills death ratio 
+of 0.77, an average average damage per round (ADR) of 102.6, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.51, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.04. Using sova this player has a total of 162.0 kills, 210.0 deaths, 
+82.0 assists, 17.0 first bloods, and 14.0 first deaths. 

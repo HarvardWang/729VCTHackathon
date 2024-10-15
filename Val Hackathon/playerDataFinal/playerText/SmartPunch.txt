@@ -1,71 +1,26 @@
-The player is SmartPunch.
-The org is IU.
-The agents is ['jett', 'raze', 'sova'].
-The rounds_played is 225.
-The rating is 0.94.
-The average_combat_score is 208.0.
-The kill_deaths is 0.91.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 140.7.
-The kills_per_round is 0.7.
-The assists_per_round is 0.24.
-The first_kills_per_round is 0.12.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 28%.
-The clutch_success_percentage is 5%.
-The team_id is 10541.0.
-The team_name is Indiana Hoosiers.
-The agent1 is jett.
-The agent1_use_pct is (14) 61%.
-The agent1_rounds is 309.
-The agent1_rating is 0.98.
-The agent1_acs is 218.0.
-The agent1_kd is 1.02.
-The agent1_adr is 143.3.
-The agent1_kast is 70%.
-The agent1_kpr is 0.75.
-The agent1_apr is 0.17.
-The agent1_fkpr is 0.13.
-The agent1_fdpr is 0.11.
-The agent1_kills is 233.
-The agent1_deaths is 229.
-The agent1_assists is 51.
-The agent1_fk is 40.
-The agent1_fd is 35.
-The agent2 is raze.
-The agent2_use_pct is (6) 26%.
-The agent2_rounds is 128.0.
-The agent2_rating is 0.88.
-The agent2_acs is 197.5.
-The agent2_kd is 0.83.
-The agent2_adr is 134.1.
-The agent2_kast is 67%.
-The agent2_kpr is 0.66.
-The agent2_apr is 0.18.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.14.
-The agent2_kills is 85.0.
-The agent2_deaths is 103.0.
-The agent2_assists is 23.0.
-The agent2_fk is 10.0.
-The agent2_fd is 18.0.
-The agent3 is sova.
-The agent3_use_pct is (2) 9%.
-The agent3_rounds is 46.0.
-The agent3_rating is 1.47.
-The agent3_acs is 301.0.
-The agent3_kd is 1.69.
-The agent3_adr is 187.5.
-The agent3_kast is 85%.
-The agent3_kpr is 1.07.
-The agent3_apr is 0.37.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.0.
-The agent3_kills is 49.0.
-The agent3_deaths is 29.0.
-The agent3_assists is 17.0.
-The agent3_fk is 4.0.
-The agent3_fd is 0.0.
-The igl is False.
-The region is na.
-The level is international.
+SmartPunch is a member of Indiana Hoosiers (IU). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 225 rounds 
+with an average rating of 0.94, an average average combat score (ACS) of 208.0, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 140.7, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.12, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 28%, and an average clutch success percentage 
+of 5%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 309 rounds they have played jett, 
+they have an average rating of 0.98, an average average combat score (ACS) of 218.0, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 143.3, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.11. Using jett this player has a total of 233 kills, 229 deaths, 
+51 assists, 40 first bloods, and 35 first deaths. Over their entire career, raze is their second most played agent. Over the 128.0 rounds they have played raze, 
+they have an average rating of 0.88, an average average combat score (ACS) of 197.5, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 134.1, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 85.0 kills, 103.0 deaths, 
+23.0 assists, 10.0 first bloods, and 18.0 first deaths. Over their entire career, sova is their third most played agent. Over the 46.0 rounds they have played sova, 
+they have an average rating of 1.47, an average average combat score (ACS) of 301.0, an average kills death ratio 
+of 1.69, an average average damage per round (ADR) of 187.5, an average kill, assist, survive, trade percent (KAST) 
+of 85%, an average kills per round (KPR) of 1.07, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.0. Using sova this player has a total of 49.0 kills, 29.0 deaths, 
+17.0 assists, 4.0 first bloods, and 0.0 first deaths. 

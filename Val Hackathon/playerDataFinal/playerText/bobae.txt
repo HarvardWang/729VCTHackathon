@@ -1,71 +1,26 @@
-The player is bobae.
-The org is (+3).
-The agents is ['reyna', 'skye', 'cypher'].
-The rounds_played is 226.
-The rating is 1.0.
-The average_combat_score is 210.5.
-The kill_deaths is 0.94.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 134.6.
-The kills_per_round is 0.72.
-The assists_per_round is 0.33.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 10%.
-The team_id is 14007.0.
-The team_name is Crocodile Tears.
-The agent1 is skye.
-The agent1_use_pct is (24) 37%.
-The agent1_rounds is 514.
-The agent1_rating is 1.01.
-The agent1_acs is 193.3.
-The agent1_kd is 0.96.
-The agent1_adr is 125.5.
-The agent1_kast is 73%.
-The agent1_kpr is 0.68.
-The agent1_apr is 0.47.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.09.
-The agent1_kills is 348.
-The agent1_deaths is 363.
-The agent1_assists is 240.
-The agent1_fk is 40.
-The agent1_fd is 45.
-The agent2 is reyna.
-The agent2_use_pct is (14) 22%.
-The agent2_rounds is 298.0.
-The agent2_rating is 0.96.
-The agent2_acs is 212.0.
-The agent2_kd is 0.99.
-The agent2_adr is 136.3.
-The agent2_kast is 68%.
-The agent2_kpr is 0.77.
-The agent2_apr is 0.18.
-The agent2_fkpr is 0.13.
-The agent2_fdpr is 0.17.
-The agent2_kills is 229.0.
-The agent2_deaths is 232.0.
-The agent2_assists is 55.0.
-The agent2_fk is 38.0.
-The agent2_fd is 50.0.
-The agent3 is gekko.
-The agent3_use_pct is (6) 9%.
-The agent3_rounds is 139.0.
-The agent3_rating is 1.06.
-The agent3_acs is 209.3.
-The agent3_kd is 1.01.
-The agent3_adr is 137.3.
-The agent3_kast is 75%.
-The agent3_kpr is 0.73.
-The agent3_apr is 0.22.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.06.
-The agent3_kills is 101.0.
-The agent3_deaths is 100.0.
-The agent3_assists is 31.0.
-The agent3_fk is 13.0.
-The agent3_fd is 8.0.
-The igl is False.
-The region is ap.
-The level is challenger.
+bobae is a member of Crocodile Tears ((+3)). They play in the Asia Pacific region and the VCT 
+challenger circuit. Over their entire career, they have played 226 rounds 
+with an average rating of 1.0, an average average combat score (ACS) of 210.5, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 134.6, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 25%, and an average clutch success percentage 
+of 10%. This player is not an in game leader. Over their entire career, skye is their most played agent. Over the 514 rounds they have played skye, 
+they have an average rating of 1.01, an average average combat score (ACS) of 193.3, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 125.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.47, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.09. Using skye this player has a total of 348 kills, 363 deaths, 
+240 assists, 40 first bloods, and 45 first deaths. Over their entire career, reyna is their second most played agent. Over the 298.0 rounds they have played reyna, 
+they have an average rating of 0.96, an average average combat score (ACS) of 212.0, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 136.3, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.17. Using reyna this player has a total of 229.0 kills, 232.0 deaths, 
+55.0 assists, 38.0 first bloods, and 50.0 first deaths. Over their entire career, gekko is their third most played agent. Over the 139.0 rounds they have played gekko, 
+they have an average rating of 1.06, an average average combat score (ACS) of 209.3, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 137.3, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.06. Using gekko this player has a total of 101.0 kills, 100.0 deaths, 
+31.0 assists, 13.0 first bloods, and 8.0 first deaths. 

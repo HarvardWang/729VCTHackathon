@@ -1,71 +1,26 @@
-The player is soRa.
-The org is IMP.
-The agents is ['jett', 'raze', 'yoru'].
-The rounds_played is 453.
-The rating is 1.0.
-The average_combat_score is 220.9.
-The kill_deaths is 0.96.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 147.9.
-The kills_per_round is 0.76.
-The assists_per_round is 0.16.
-The first_kills_per_round is 0.16.
-The first_deaths_per_round is 0.14.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 7%.
-The team_id is 12868.0.
-The team_name is Imperium Gaming.
-The agent1 is jett.
-The agent1_use_pct is (65) 68%.
-The agent1_rounds is 1422.
-The agent1_rating is 1.21.
-The agent1_acs is 245.7.
-The agent1_kd is 1.29.
-The agent1_adr is 159.4.
-The agent1_kast is 72%.
-The agent1_kpr is 0.88.
-The agent1_apr is 0.17.
-The agent1_fkpr is 0.19.
-The agent1_fdpr is 0.12.
-The agent1_kills is 1249.
-The agent1_deaths is 969.
-The agent1_assists is 245.
-The agent1_fk is 265.
-The agent1_fd is 171.
-The agent2 is reyna.
-The agent2_use_pct is (9) 9%.
-The agent2_rounds is 181.0.
-The agent2_rating is 1.26.
-The agent2_acs is 261.6.
-The agent2_kd is 1.44.
-The agent2_adr is 165.5.
-The agent2_kast is 71%.
-The agent2_kpr is 0.94.
-The agent2_apr is 0.22.
-The agent2_fkpr is 0.13.
-The agent2_fdpr is 0.12.
-The agent2_kills is 170.0.
-The agent2_deaths is 118.0.
-The agent2_assists is 40.0.
-The agent2_fk is 23.0.
-The agent2_fd is 21.0.
-The agent3 is neon.
-The agent3_use_pct is (9) 9%.
-The agent3_rounds is 174.0.
-The agent3_rating is 1.01.
-The agent3_acs is 231.9.
-The agent3_kd is 1.06.
-The agent3_adr is 152.5.
-The agent3_kast is 70%.
-The agent3_kpr is 0.8.
-The agent3_apr is 0.19.
-The agent3_fkpr is 0.16.
-The agent3_fdpr is 0.21.
-The agent3_kills is 140.0.
-The agent3_deaths is 132.0.
-The agent3_assists is 33.0.
-The agent3_fk is 28.0.
-The agent3_fd is 36.0.
-The igl is False.
-The region is eu.
-The level is international.
+soRa is a member of Imperium Gaming (IMP). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 453 rounds 
+with an average rating of 1.0, an average average combat score (ACS) of 220.9, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 147.9, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.16, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 22%, and an average clutch success percentage 
+of 7%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 1422 rounds they have played jett, 
+they have an average rating of 1.21, an average average combat score (ACS) of 245.7, an average kills death ratio 
+of 1.29, an average average damage per round (ADR) of 159.4, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.88, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.12. Using jett this player has a total of 1249 kills, 969 deaths, 
+245 assists, 265 first bloods, and 171 first deaths. Over their entire career, reyna is their second most played agent. Over the 181.0 rounds they have played reyna, 
+they have an average rating of 1.26, an average average combat score (ACS) of 261.6, an average kills death ratio 
+of 1.44, an average average damage per round (ADR) of 165.5, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.94, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.12. Using reyna this player has a total of 170.0 kills, 118.0 deaths, 
+40.0 assists, 23.0 first bloods, and 21.0 first deaths. Over their entire career, neon is their third most played agent. Over the 174.0 rounds they have played neon, 
+they have an average rating of 1.01, an average average combat score (ACS) of 231.9, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 152.5, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.21. Using neon this player has a total of 140.0 kills, 132.0 deaths, 
+33.0 assists, 28.0 first bloods, and 36.0 first deaths. 

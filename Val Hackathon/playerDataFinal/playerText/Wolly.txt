@@ -1,71 +1,26 @@
-The player is Wolly.
-The org is Shao.
-The agents is ['skye'].
-The rounds_played is 416.
-The rating is 0.93.
-The average_combat_score is 194.3.
-The kill_deaths is 0.93.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 118.9.
-The kills_per_round is 0.68.
-The assists_per_round is 0.22.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.07.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 11%.
-The team_id is 9412.0.
-The team_name is Shaolin.
-The agent1 is skye.
-The agent1_use_pct is (41) 62%.
-The agent1_rounds is 892.
-The agent1_rating is 0.97.
-The agent1_acs is 194.2.
-The agent1_kd is 0.98.
-The agent1_adr is 123.8.
-The agent1_kast is 71%.
-The agent1_kpr is 0.69.
-The agent1_apr is 0.25.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.08.
-The agent1_kills is 612.
-The agent1_deaths is 625.
-The agent1_assists is 220.
-The agent1_fk is 71.
-The agent1_fd is 67.
-The agent2 is cypher.
-The agent2_use_pct is (7) 11%.
-The agent2_rounds is 166.0.
-The agent2_rating is 0.89.
-The agent2_acs is 192.9.
-The agent2_kd is 0.93.
-The agent2_adr is 126.0.
-The agent2_kast is 68%.
-The agent2_kpr is 0.67.
-The agent2_apr is 0.17.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.13.
-The agent2_kills is 111.0.
-The agent2_deaths is 119.0.
-The agent2_assists is 28.0.
-The agent2_fk is 16.0.
-The agent2_fd is 22.0.
-The agent3 is kayo.
-The agent3_use_pct is (5) 8%.
-The agent3_rounds is 103.0.
-The agent3_rating is 0.84.
-The agent3_acs is 159.8.
-The agent3_kd is 0.81.
-The agent3_adr is 107.4.
-The agent3_kast is 63%.
-The agent3_kpr is 0.57.
-The agent3_apr is 0.34.
-The agent3_fkpr is 0.03.
-The agent3_fdpr is 0.17.
-The agent3_kills is 59.0.
-The agent3_deaths is 73.0.
-The agent3_assists is 35.0.
-The agent3_fk is 3.0.
-The agent3_fd is 18.0.
-The igl is False.
-The region is eu.
-The level is international.
+Wolly is a member of Shaolin (Shao). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 416 rounds 
+with an average rating of 0.93, an average average combat score (ACS) of 194.3, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 118.9, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 20%, and an average clutch success percentage 
+of 11%. This player is not an in game leader. Over their entire career, skye is their most played agent. Over the 892 rounds they have played skye, 
+they have an average rating of 0.97, an average average combat score (ACS) of 194.2, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 123.8, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.08. Using skye this player has a total of 612 kills, 625 deaths, 
+220 assists, 71 first bloods, and 67 first deaths. Over their entire career, cypher is their second most played agent. Over the 166.0 rounds they have played cypher, 
+they have an average rating of 0.89, an average average combat score (ACS) of 192.9, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 126.0, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.13. Using cypher this player has a total of 111.0 kills, 119.0 deaths, 
+28.0 assists, 16.0 first bloods, and 22.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 103.0 rounds they have played kayo, 
+they have an average rating of 0.84, an average average combat score (ACS) of 159.8, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 107.4, an average kill, assist, survive, trade percent (KAST) 
+of 63%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.03, and an average first deaths per round (FDPR) 
+of 0.17. Using kayo this player has a total of 59.0 kills, 73.0 deaths, 
+35.0 assists, 3.0 first bloods, and 18.0 first deaths. 

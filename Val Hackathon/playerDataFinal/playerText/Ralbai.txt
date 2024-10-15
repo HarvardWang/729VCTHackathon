@@ -1,71 +1,26 @@
-The player is Ralbai.
-The org is (+4).
-The agents is ['sage', 'skye', 'omen'].
-The rounds_played is 355.
-The rating is 0.87.
-The average_combat_score is 183.2.
-The kill_deaths is 0.78.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 128.3.
-The kills_per_round is 0.62.
-The assists_per_round is 0.31.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.13.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 17%.
-The team_id is 9888.0.
-The team_name is QLASH Syrax.
-The agent1 is viper.
-The agent1_use_pct is (9) 21%.
-The agent1_rounds is 183.
-The agent1_rating is 1.03.
-The agent1_acs is 214.6.
-The agent1_kd is 1.03.
-The agent1_adr is 139.5.
-The agent1_kast is 75%.
-The agent1_kpr is 0.76.
-The agent1_apr is 0.27.
-The agent1_fkpr is 0.12.
-The agent1_fdpr is 0.09.
-The agent1_kills is 139.
-The agent1_deaths is 135.
-The agent1_assists is 49.
-The agent1_fk is 22.
-The agent1_fd is 17.
-The agent2 is sage.
-The agent2_use_pct is (6) 14%.
-The agent2_rounds is 119.0.
-The agent2_rating is 0.82.
-The agent2_acs is 201.0.
-The agent2_kd is 0.84.
-The agent2_adr is 122.9.
-The agent2_kast is 61%.
-The agent2_kpr is 0.66.
-The agent2_apr is 0.33.
-The agent2_fkpr is 0.12.
-The agent2_fdpr is 0.13.
-The agent2_kills is 78.0.
-The agent2_deaths is 93.0.
-The agent2_assists is 39.0.
-The agent2_fk is 14.0.
-The agent2_fd is 16.0.
-The agent3 is omen.
-The agent3_use_pct is (6) 14%.
-The agent3_rounds is 106.0.
-The agent3_rating is 0.78.
-The agent3_acs is 162.5.
-The agent3_kd is 0.67.
-The agent3_adr is 114.5.
-The agent3_kast is 63%.
-The agent3_kpr is 0.53.
-The agent3_apr is 0.39.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.17.
-The agent3_kills is 56.0.
-The agent3_deaths is 83.0.
-The agent3_assists is 41.0.
-The agent3_fk is 9.0.
-The agent3_fd is 18.0.
-The igl is False.
-The region is eu.
-The level is international.
+Ralbai is a member of QLASH Syrax ((+4)). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 355 rounds 
+with an average rating of 0.87, an average average combat score (ACS) of 183.2, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 128.3, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 22%, and an average clutch success percentage 
+of 17%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 183 rounds they have played viper, 
+they have an average rating of 1.03, an average average combat score (ACS) of 214.6, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 139.5, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.09. Using viper this player has a total of 139 kills, 135 deaths, 
+49 assists, 22 first bloods, and 17 first deaths. Over their entire career, sage is their second most played agent. Over the 119.0 rounds they have played sage, 
+they have an average rating of 0.82, an average average combat score (ACS) of 201.0, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 122.9, an average kill, assist, survive, trade percent (KAST) 
+of 61%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.13. Using sage this player has a total of 78.0 kills, 93.0 deaths, 
+39.0 assists, 14.0 first bloods, and 16.0 first deaths. Over their entire career, omen is their third most played agent. Over the 106.0 rounds they have played omen, 
+they have an average rating of 0.78, an average average combat score (ACS) of 162.5, an average kills death ratio 
+of 0.67, an average average damage per round (ADR) of 114.5, an average kill, assist, survive, trade percent (KAST) 
+of 63%, an average kills per round (KPR) of 0.53, an average assists per round (APR) 
+of 0.39, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.17. Using omen this player has a total of 56.0 kills, 83.0 deaths, 
+41.0 assists, 9.0 first bloods, and 18.0 first deaths. 

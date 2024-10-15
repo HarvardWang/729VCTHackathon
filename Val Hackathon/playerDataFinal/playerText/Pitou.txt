@@ -1,71 +1,26 @@
-The player is Pitou.
-The org is Exal.
-The agents is ['brimstone', 'viper', 'sage'].
-The rounds_played is 238.
-The rating is 0.9.
-The average_combat_score is 213.8.
-The kill_deaths is 0.88.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 138.2.
-The kills_per_round is 0.74.
-The assists_per_round is 0.21.
-The first_kills_per_round is 0.17.
-The first_deaths_per_round is 0.18.
-The headshot_percentage is 23%.
-The clutch_success_percentage is 4%.
-The team_id is 5719.0.
-The team_name is Exalty.
-The agent1 is raze.
-The agent1_use_pct is (19) 48%.
-The agent1_rounds is 415.
-The agent1_rating is 1.16.
-The agent1_acs is 255.4.
-The agent1_kd is 1.14.
-The agent1_adr is 167.5.
-The agent1_kast is 74%.
-The agent1_kpr is 0.87.
-The agent1_apr is 0.23.
-The agent1_fkpr is 0.2.
-The agent1_fdpr is 0.15.
-The agent1_kills is 361.
-The agent1_deaths is 318.
-The agent1_assists is 96.
-The agent1_fk is 84.
-The agent1_fd is 63.
-The agent2 is jett.
-The agent2_use_pct is (16) 40%.
-The agent2_rounds is 346.0.
-The agent2_rating is 1.03.
-The agent2_acs is 238.6.
-The agent2_kd is 1.03.
-The agent2_adr is 153.0.
-The agent2_kast is 71%.
-The agent2_kpr is 0.81.
-The agent2_apr is 0.19.
-The agent2_fkpr is 0.21.
-The agent2_fdpr is 0.22.
-The agent2_kills is 279.0.
-The agent2_deaths is 271.0.
-The agent2_assists is 67.0.
-The agent2_fk is 72.0.
-The agent2_fd is 77.0.
-The agent3 is viper.
-The agent3_use_pct is (2) 5%.
-The agent3_rounds is 34.0.
-The agent3_rating is 0.13.
-The agent3_acs is 105.0.
-The agent3_kd is 0.27.
-The agent3_adr is 67.5.
-The agent3_kast is 35%.
-The agent3_kpr is 0.26.
-The agent3_apr is 0.15.
-The agent3_fkpr is 0.03.
-The agent3_fdpr is 0.24.
-The agent3_kills is 9.0.
-The agent3_deaths is 33.0.
-The agent3_assists is 5.0.
-The agent3_fk is 1.0.
-The agent3_fd is 8.0.
-The igl is False.
-The region is eu.
-The level is international.
+Pitou is a member of Exalty (Exal). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 238 rounds 
+with an average rating of 0.9, an average average combat score (ACS) of 213.8, an average kills death ratio 
+of 0.88, an average average damage per round (ADR) of 138.2, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.17, an average first deaths per round (FDPR) 
+of 0.18, an average headshot percentage of 23%, and an average clutch success percentage 
+of 4%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 415 rounds they have played raze, 
+they have an average rating of 1.16, an average average combat score (ACS) of 255.4, an average kills death ratio 
+of 1.14, an average average damage per round (ADR) of 167.5, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.87, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.2, and an average first deaths per round (FDPR) 
+of 0.15. Using raze this player has a total of 361 kills, 318 deaths, 
+96 assists, 84 first bloods, and 63 first deaths. Over their entire career, jett is their second most played agent. Over the 346.0 rounds they have played jett, 
+they have an average rating of 1.03, an average average combat score (ACS) of 238.6, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 153.0, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.81, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.21, and an average first deaths per round (FDPR) 
+of 0.22. Using jett this player has a total of 279.0 kills, 271.0 deaths, 
+67.0 assists, 72.0 first bloods, and 77.0 first deaths. Over their entire career, viper is their third most played agent. Over the 34.0 rounds they have played viper, 
+they have an average rating of 0.13, an average average combat score (ACS) of 105.0, an average kills death ratio 
+of 0.27, an average average damage per round (ADR) of 67.5, an average kill, assist, survive, trade percent (KAST) 
+of 35%, an average kills per round (KPR) of 0.26, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.03, and an average first deaths per round (FDPR) 
+of 0.24. Using viper this player has a total of 9.0 kills, 33.0 deaths, 
+5.0 assists, 1.0 first bloods, and 8.0 first deaths. 

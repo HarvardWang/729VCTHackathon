@@ -1,71 +1,26 @@
-The player is Revenge.
-The org is TNX.
-The agents is ['cypher', 'kayo', 'viper'].
-The rounds_played is 353.
-The rating is 0.69.
-The average_combat_score is 171.4.
-The kill_deaths is 0.68.
-The kill_assists_survived_traded is 60%.
-The average_damage_per_round is 116.0.
-The kills_per_round is 0.58.
-The assists_per_round is 0.2.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.15.
-The headshot_percentage is 23%.
-The clutch_success_percentage is 5%.
-The team_id is 14182.0.
-The team_name is Siena Heights University.
-The agent1 is killjoy.
-The agent1_use_pct is (33) 42%.
-The agent1_rounds is 646.
-The agent1_rating is 1.02.
-The agent1_acs is 213.2.
-The agent1_kd is 1.08.
-The agent1_adr is 144.6.
-The agent1_kast is 73%.
-The agent1_kpr is 0.76.
-The agent1_apr is 0.19.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.1.
-The agent1_kills is 488.
-The agent1_deaths is 450.
-The agent1_assists is 123.
-The agent1_fk is 54.
-The agent1_fd is 62.
-The agent2 is clove.
-The agent2_use_pct is (18) 23%.
-The agent2_rounds is 367.0.
-The agent2_rating is 0.94.
-The agent2_acs is 205.3.
-The agent2_kd is 0.9.
-The agent2_adr is 138.1.
-The agent2_kast is 68%.
-The agent2_kpr is 0.72.
-The agent2_apr is 0.27.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.09.
-The agent2_kills is 266.0.
-The agent2_deaths is 294.0.
-The agent2_assists is 98.0.
-The agent2_fk is 33.0.
-The agent2_fd is 32.0.
-The agent3 is cypher.
-The agent3_use_pct is (11) 14%.
-The agent3_rounds is 211.0.
-The agent3_rating is 1.02.
-The agent3_acs is 206.0.
-The agent3_kd is 1.03.
-The agent3_adr is 141.6.
-The agent3_kast is 70%.
-The agent3_kpr is 0.74.
-The agent3_apr is 0.25.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.11.
-The agent3_kills is 156.0.
-The agent3_deaths is 151.0.
-The agent3_assists is 52.0.
-The agent3_fk is 20.0.
-The agent3_fd is 23.0.
-The igl is False.
-The region is na.
-The level is international.
+Revenge is a member of Siena Heights University (TNX). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 353 rounds 
+with an average rating of 0.69, an average average combat score (ACS) of 171.4, an average kills death ratio 
+of 0.68, an average average damage per round (ADR) of 116.0, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.15, an average headshot percentage of 23%, and an average clutch success percentage 
+of 5%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 646 rounds they have played killjoy, 
+they have an average rating of 1.02, an average average combat score (ACS) of 213.2, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 144.6, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.1. Using killjoy this player has a total of 488 kills, 450 deaths, 
+123 assists, 54 first bloods, and 62 first deaths. Over their entire career, clove is their second most played agent. Over the 367.0 rounds they have played clove, 
+they have an average rating of 0.94, an average average combat score (ACS) of 205.3, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 138.1, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.09. Using clove this player has a total of 266.0 kills, 294.0 deaths, 
+98.0 assists, 33.0 first bloods, and 32.0 first deaths. Over their entire career, cypher is their third most played agent. Over the 211.0 rounds they have played cypher, 
+they have an average rating of 1.02, an average average combat score (ACS) of 206.0, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 141.6, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.11. Using cypher this player has a total of 156.0 kills, 151.0 deaths, 
+52.0 assists, 20.0 first bloods, and 23.0 first deaths. 

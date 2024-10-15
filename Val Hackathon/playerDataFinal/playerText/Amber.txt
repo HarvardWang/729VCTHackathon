@@ -1,71 +1,26 @@
-The player is Amber.
-The org is Euph.
-The agents is ['breach', 'sova', 'astra'].
-The rounds_played is 919.
-The rating is 0.88.
-The average_combat_score is 191.6.
-The kill_deaths is 0.85.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 128.3.
-The kills_per_round is 0.67.
-The assists_per_round is 0.25.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 29%.
-The clutch_success_percentage is 13%.
-The team_id is 13147.0.
-The team_name is Euphoria.
-The agent1 is sova.
-The agent1_use_pct is (72) 48%.
-The agent1_rounds is 1500.
-The agent1_rating is 1.03.
-The agent1_acs is 213.1.
-The agent1_kd is 1.0.
-The agent1_adr is 143.2.
-The agent1_kast is 71%.
-The agent1_kpr is 0.73.
-The agent1_apr is 0.31.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.1.
-The agent1_kills is 1095.
-The agent1_deaths is 1090.
-The agent1_assists is 460.
-The agent1_fk is 121.
-The agent1_fd is 145.
-The agent2 is viper.
-The agent2_use_pct is (45) 30%.
-The agent2_rounds is 939.0.
-The agent2_rating is 1.11.
-The agent2_acs is 231.6.
-The agent2_kd is 1.14.
-The agent2_adr is 151.0.
-The agent2_kast is 71%.
-The agent2_kpr is 0.8.
-The agent2_apr is 0.26.
-The agent2_fkpr is 0.11.
-The agent2_fdpr is 0.11.
-The agent2_kills is 751.0.
-The agent2_deaths is 659.0.
-The agent2_assists is 248.0.
-The agent2_fk is 100.0.
-The agent2_fd is 107.0.
-The agent3 is fade.
-The agent3_use_pct is (16) 11%.
-The agent3_rounds is 312.0.
-The agent3_rating is 0.98.
-The agent3_acs is 214.0.
-The agent3_kd is 1.0.
-The agent3_adr is 135.9.
-The agent3_kast is 67%.
-The agent3_kpr is 0.76.
-The agent3_apr is 0.29.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.11.
-The agent3_kills is 237.0.
-The agent3_deaths is 236.0.
-The agent3_assists is 92.0.
-The agent3_fk is 24.0.
-The agent3_fd is 35.0.
-The igl is False.
-The region is na.
-The level is international.
+Amber is a member of Euphoria (Euph). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 919 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 191.6, an average kills death ratio 
+of 0.85, an average average damage per round (ADR) of 128.3, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 29%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 1500 rounds they have played sova, 
+they have an average rating of 1.03, an average average combat score (ACS) of 213.1, an average kills death ratio 
+of 1.0, an average average damage per round (ADR) of 143.2, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.1. Using sova this player has a total of 1095 kills, 1090 deaths, 
+460 assists, 121 first bloods, and 145 first deaths. Over their entire career, viper is their second most played agent. Over the 939.0 rounds they have played viper, 
+they have an average rating of 1.11, an average average combat score (ACS) of 231.6, an average kills death ratio 
+of 1.14, an average average damage per round (ADR) of 151.0, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.11. Using viper this player has a total of 751.0 kills, 659.0 deaths, 
+248.0 assists, 100.0 first bloods, and 107.0 first deaths. Over their entire career, fade is their third most played agent. Over the 312.0 rounds they have played fade, 
+they have an average rating of 0.98, an average average combat score (ACS) of 214.0, an average kills death ratio 
+of 1.0, an average average damage per round (ADR) of 135.9, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.11. Using fade this player has a total of 237.0 kills, 236.0 deaths, 
+92.0 assists, 24.0 first bloods, and 35.0 first deaths. 

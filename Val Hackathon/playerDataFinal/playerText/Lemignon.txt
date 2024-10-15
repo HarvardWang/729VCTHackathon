@@ -1,71 +1,26 @@
-The player is Lemignon.
-The org is MLC.
-The agents is ['skye', 'breach', 'sage'].
-The rounds_played is 581.
-The rating is 0.89.
-The average_combat_score is 186.9.
-The kill_deaths is 0.84.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 122.7.
-The kills_per_round is 0.65.
-The assists_per_round is 0.3.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 33%.
-The clutch_success_percentage is 9%.
-The team_id is 6723.0.
-The team_name is MLC Esports.
-The agent1 is astra.
-The agent1_use_pct is (36) 44%.
-The agent1_rounds is 751.
-The agent1_rating is 1.09.
-The agent1_acs is 211.3.
-The agent1_kd is 1.17.
-The agent1_adr is 134.3.
-The agent1_kast is 76%.
-The agent1_kpr is 0.78.
-The agent1_apr is 0.28.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.06.
-The agent1_kills is 585.
-The agent1_deaths is 502.
-The agent1_assists is 212.
-The agent1_fk is 59.
-The agent1_fd is 47.
-The agent2 is sova.
-The agent2_use_pct is (16) 20%.
-The agent2_rounds is 298.0.
-The agent2_rating is 1.09.
-The agent2_acs is 228.0.
-The agent2_kd is 1.03.
-The agent2_adr is 146.3.
-The agent2_kast is 69%.
-The agent2_kpr is 0.76.
-The agent2_apr is 0.31.
-The agent2_fkpr is 0.04.
-The agent2_fdpr is 0.04.
-The agent2_kills is 227.0.
-The agent2_deaths is 220.0.
-The agent2_assists is 92.0.
-The agent2_fk is 13.0.
-The agent2_fd is 11.0.
-The agent3 is omen.
-The agent3_use_pct is (8) 10%.
-The agent3_rounds is 164.0.
-The agent3_rating is 1.17.
-The agent3_acs is 219.6.
-The agent3_kd is 1.22.
-The agent3_adr is 145.1.
-The agent3_kast is 77%.
-The agent3_kpr is 0.81.
-The agent3_apr is 0.37.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.04.
-The agent3_kills is 133.0.
-The agent3_deaths is 109.0.
-The agent3_assists is 60.0.
-The agent3_fk is 12.0.
-The agent3_fd is 7.0.
-The igl is False.
-The region is mn.
-The level is international.
+Lemignon is a member of MLC Esports (MLC). They play in the Middle East and North Africa region and the VCT 
+international circuit. Over their entire career, they have played 581 rounds 
+with an average rating of 0.89, an average average combat score (ACS) of 186.9, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 122.7, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 33%, and an average clutch success percentage 
+of 9%. This player is not an in game leader. Over their entire career, astra is their most played agent. Over the 751 rounds they have played astra, 
+they have an average rating of 1.09, an average average combat score (ACS) of 211.3, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 134.3, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.06. Using astra this player has a total of 585 kills, 502 deaths, 
+212 assists, 59 first bloods, and 47 first deaths. Over their entire career, sova is their second most played agent. Over the 298.0 rounds they have played sova, 
+they have an average rating of 1.09, an average average combat score (ACS) of 228.0, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 146.3, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.04. Using sova this player has a total of 227.0 kills, 220.0 deaths, 
+92.0 assists, 13.0 first bloods, and 11.0 first deaths. Over their entire career, omen is their third most played agent. Over the 164.0 rounds they have played omen, 
+they have an average rating of 1.17, an average average combat score (ACS) of 219.6, an average kills death ratio 
+of 1.22, an average average damage per round (ADR) of 145.1, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.81, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.04. Using omen this player has a total of 133.0 kills, 109.0 deaths, 
+60.0 assists, 12.0 first bloods, and 7.0 first deaths. 

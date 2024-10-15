@@ -1,71 +1,26 @@
-The player is Egg.
-The org is (+3).
-The agents is ['killjoy', 'cypher', 'chamber'].
-The rounds_played is 235.
-The rating is 0.64.
-The average_combat_score is 144.4.
-The kill_deaths is 0.59.
-The kill_assists_survived_traded is 60%.
-The average_damage_per_round is 94.3.
-The kills_per_round is 0.47.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.04.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 16%.
-The clutch_success_percentage is 5%.
-The team_id is 9699.0.
-The team_name is ACE eSports Female.
-The agent1 is killjoy.
-The agent1_use_pct is (19) 29%.
-The agent1_rounds is 389.
-The agent1_rating is 0.76.
-The agent1_acs is 149.5.
-The agent1_kd is 0.71.
-The agent1_adr is 99.8.
-The agent1_kast is 63%.
-The agent1_kpr is 0.5.
-The agent1_apr is 0.17.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.09.
-The agent1_kills is 194.
-The agent1_deaths is 273.
-The agent1_assists is 68.
-The agent1_fk is 22.
-The agent1_fd is 35.
-The agent2 is viper.
-The agent2_use_pct is (10) 15%.
-The agent2_rounds is 194.0.
-The agent2_rating is 0.73.
-The agent2_acs is 142.7.
-The agent2_kd is 0.65.
-The agent2_adr is 95.4.
-The agent2_kast is 70%.
-The agent2_kpr is 0.46.
-The agent2_apr is 0.31.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.07.
-The agent2_kills is 90.0.
-The agent2_deaths is 139.0.
-The agent2_assists is 61.0.
-The agent2_fk is 12.0.
-The agent2_fd is 14.0.
-The agent3 is chamber.
-The agent3_use_pct is (9) 14%.
-The agent3_rounds is 172.0.
-The agent3_rating is 0.72.
-The agent3_acs is 163.0.
-The agent3_kd is 0.75.
-The agent3_adr is 109.6.
-The agent3_kast is 56%.
-The agent3_kpr is 0.56.
-The agent3_apr is 0.1.
-The agent3_fkpr is 0.1.
-The agent3_fdpr is 0.12.
-The agent3_kills is 97.0.
-The agent3_deaths is 130.0.
-The agent3_assists is 18.0.
-The agent3_fk is 18.0.
-The agent3_fd is 21.0.
-The igl is False.
-The region is eu.
-The level is international.
+Egg is a member of ACE eSports Female ((+3)). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 235 rounds 
+with an average rating of 0.64, an average average combat score (ACS) of 144.4, an average kills death ratio 
+of 0.59, an average average damage per round (ADR) of 94.3, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.47, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 16%, and an average clutch success percentage 
+of 5%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 389 rounds they have played killjoy, 
+they have an average rating of 0.76, an average average combat score (ACS) of 149.5, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 99.8, an average kill, assist, survive, trade percent (KAST) 
+of 63%, an average kills per round (KPR) of 0.5, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.09. Using killjoy this player has a total of 194 kills, 273 deaths, 
+68 assists, 22 first bloods, and 35 first deaths. Over their entire career, viper is their second most played agent. Over the 194.0 rounds they have played viper, 
+they have an average rating of 0.73, an average average combat score (ACS) of 142.7, an average kills death ratio 
+of 0.65, an average average damage per round (ADR) of 95.4, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.46, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using viper this player has a total of 90.0 kills, 139.0 deaths, 
+61.0 assists, 12.0 first bloods, and 14.0 first deaths. Over their entire career, chamber is their third most played agent. Over the 172.0 rounds they have played chamber, 
+they have an average rating of 0.72, an average average combat score (ACS) of 163.0, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 109.6, an average kill, assist, survive, trade percent (KAST) 
+of 56%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.1, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.12. Using chamber this player has a total of 97.0 kills, 130.0 deaths, 
+18.0 assists, 18.0 first bloods, and 21.0 first deaths. 

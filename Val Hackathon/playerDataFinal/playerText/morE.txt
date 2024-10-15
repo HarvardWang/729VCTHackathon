@@ -1,71 +1,26 @@
-The player is morE.
-The org is 214.
-The agents is ['sage', 'killjoy', 'cypher'].
-The rounds_played is 214.
-The rating is 0.82.
-The average_combat_score is 168.0.
-The kill_deaths is 0.79.
-The kill_assists_survived_traded is 62%.
-The average_damage_per_round is 114.4.
-The kills_per_round is 0.57.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 24%.
-The clutch_success_percentage is 8%.
-The team_id is 4918.0.
-The team_name is RTG eSports.
-The agent1 is killjoy.
-The agent1_use_pct is (5) 38%.
-The agent1_rounds is 109.
-The agent1_rating is 0.7.
-The agent1_acs is 150.8.
-The agent1_kd is 0.72.
-The agent1_adr is 100.8.
-The agent1_kast is 57%.
-The agent1_kpr is 0.51.
-The agent1_apr is 0.13.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.1.
-The agent1_kills is 56.
-The agent1_deaths is 78.
-The agent1_assists is 14.
-The agent1_fk is 8.
-The agent1_fd is 11.
-The agent2 is sage.
-The agent2_use_pct is (5) 38%.
-The agent2_rounds is 102.0.
-The agent2_rating is 1.08.
-The agent2_acs is 200.8.
-The agent2_kd is 1.0.
-The agent2_adr is 140.4.
-The agent2_kast is 75%.
-The agent2_kpr is 0.7.
-The agent2_apr is 0.38.
-The agent2_fkpr is 0.11.
-The agent2_fdpr is 0.1.
-The agent2_kills is 71.0.
-The agent2_deaths is 71.0.
-The agent2_assists is 39.0.
-The agent2_fk is 11.0.
-The agent2_fd is 10.0.
-The agent3 is skye.
-The agent3_use_pct is (1) 8%.
-The agent3_rounds is 23.0.
-The agent3_rating is 0.74.
-The agent3_acs is 175.0.
-The agent3_kd is 0.79.
-The agent3_adr is 120.2.
-The agent3_kast is 65%.
-The agent3_kpr is 0.65.
-The agent3_apr is 0.43.
-The agent3_fkpr is 0.13.
-The agent3_fdpr is 0.13.
-The agent3_kills is 15.0.
-The agent3_deaths is 19.0.
-The agent3_assists is 10.0.
-The agent3_fk is 3.0.
-The agent3_fd is 3.0.
-The igl is False.
-The region is mn.
-The level is international.
+morE is a member of RTG eSports (214). They play in the Middle East and North Africa region and the VCT 
+international circuit. Over their entire career, they have played 214 rounds 
+with an average rating of 0.82, an average average combat score (ACS) of 168.0, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 114.4, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 24%, and an average clutch success percentage 
+of 8%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 109 rounds they have played killjoy, 
+they have an average rating of 0.7, an average average combat score (ACS) of 150.8, an average kills death ratio 
+of 0.72, an average average damage per round (ADR) of 100.8, an average kill, assist, survive, trade percent (KAST) 
+of 57%, an average kills per round (KPR) of 0.51, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.1. Using killjoy this player has a total of 56 kills, 78 deaths, 
+14 assists, 8 first bloods, and 11 first deaths. Over their entire career, sage is their second most played agent. Over the 102.0 rounds they have played sage, 
+they have an average rating of 1.08, an average average combat score (ACS) of 200.8, an average kills death ratio 
+of 1.0, an average average damage per round (ADR) of 140.4, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.1. Using sage this player has a total of 71.0 kills, 71.0 deaths, 
+39.0 assists, 11.0 first bloods, and 10.0 first deaths. Over their entire career, skye is their third most played agent. Over the 23.0 rounds they have played skye, 
+they have an average rating of 0.74, an average average combat score (ACS) of 175.0, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 120.2, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.43, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.13. Using skye this player has a total of 15.0 kills, 19.0 deaths, 
+10.0 assists, 3.0 first bloods, and 3.0 first deaths. 

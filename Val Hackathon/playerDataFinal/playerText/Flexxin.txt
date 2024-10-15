@@ -1,71 +1,26 @@
-The player is Flexxin.
-The org is 010.
-The agents is ['viper', 'astra', 'omen'].
-The rounds_played is 346.
-The rating is 0.86.
-The average_combat_score is 165.5.
-The kill_deaths is 0.79.
-The kill_assists_survived_traded is 68%.
-The average_damage_per_round is 111.2.
-The kills_per_round is 0.57.
-The assists_per_round is 0.32.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 29%.
-The clutch_success_percentage is 18%.
-The team_id is 7559.0.
-The team_name is 010 Esports.
-The agent1 is omen.
-The agent1_use_pct is (12) 25%.
-The agent1_rounds is 248.
-The agent1_rating is 1.25.
-The agent1_acs is 210.4.
-The agent1_kd is 1.09.
-The agent1_adr is 130.3.
-The agent1_kast is 74%.
-The agent1_kpr is 0.75.
-The agent1_apr is 0.28.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.07.
-The agent1_kills is 185.
-The agent1_deaths is 169.
-The agent1_assists is 70.
-The agent1_fk is 23.
-The agent1_fd is 18.
-The agent2 is viper.
-The agent2_use_pct is (11) 23%.
-The agent2_rounds is 219.0.
-The agent2_rating is 0.89.
-The agent2_acs is 174.1.
-The agent2_kd is 0.83.
-The agent2_adr is 114.6.
-The agent2_kast is 70%.
-The agent2_kpr is 0.6.
-The agent2_apr is 0.27.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.11.
-The agent2_kills is 131.0.
-The agent2_deaths is 158.0.
-The agent2_assists is 59.0.
-The agent2_fk is 16.0.
-The agent2_fd is 23.0.
-The agent3 is kayo.
-The agent3_use_pct is (9) 19%.
-The agent3_rounds is 197.0.
-The agent3_rating is 1.01.
-The agent3_acs is 191.7.
-The agent3_kd is 0.92.
-The agent3_adr is 130.2.
-The agent3_kast is 72%.
-The agent3_kpr is 0.65.
-The agent3_apr is 0.56.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.09.
-The agent3_kills is 128.0.
-The agent3_deaths is 139.0.
-The agent3_assists is 110.0.
-The agent3_fk is 16.0.
-The agent3_fd is 17.0.
-The igl is False.
-The region is eu.
-The level is international.
+Flexxin is a member of 010 Esports (010). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 346 rounds 
+with an average rating of 0.86, an average average combat score (ACS) of 165.5, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 111.2, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 29%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 248 rounds they have played omen, 
+they have an average rating of 1.25, an average average combat score (ACS) of 210.4, an average kills death ratio 
+of 1.09, an average average damage per round (ADR) of 130.3, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using omen this player has a total of 185 kills, 169 deaths, 
+70 assists, 23 first bloods, and 18 first deaths. Over their entire career, viper is their second most played agent. Over the 219.0 rounds they have played viper, 
+they have an average rating of 0.89, an average average combat score (ACS) of 174.1, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 114.6, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.11. Using viper this player has a total of 131.0 kills, 158.0 deaths, 
+59.0 assists, 16.0 first bloods, and 23.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 197.0 rounds they have played kayo, 
+they have an average rating of 1.01, an average average combat score (ACS) of 191.7, an average kills death ratio 
+of 0.92, an average average damage per round (ADR) of 130.2, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.56, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.09. Using kayo this player has a total of 128.0 kills, 139.0 deaths, 
+110.0 assists, 16.0 first bloods, and 17.0 first deaths. 

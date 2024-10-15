@@ -1,71 +1,26 @@
-The player is Synergy.
-The org is Valo.
-The agents is ['omen', 'astra', 'chamber'].
-The rounds_played is 494.
-The rating is 0.73.
-The average_combat_score is 149.6.
-The kill_deaths is 0.61.
-The kill_assists_survived_traded is 60%.
-The average_damage_per_round is 102.3.
-The kills_per_round is 0.51.
-The assists_per_round is 0.25.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 12%.
-The team_id is 6388.0.
-The team_name is ValorsGG.
-The agent1 is astra.
-The agent1_use_pct is (40) 41%.
-The agent1_rounds is 818.
-The agent1_rating is 0.82.
-The agent1_acs is 162.0.
-The agent1_kd is 0.76.
-The agent1_adr is 111.5.
-The agent1_kast is 65%.
-The agent1_kpr is 0.58.
-The agent1_apr is 0.28.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.09.
-The agent1_kills is 474.
-The agent1_deaths is 621.
-The agent1_assists is 227.
-The agent1_fk is 70.
-The agent1_fd is 75.
-The agent2 is omen.
-The agent2_use_pct is (38) 39%.
-The agent2_rounds is 769.0.
-The agent2_rating is 0.68.
-The agent2_acs is 172.5.
-The agent2_kd is 0.75.
-The agent2_adr is 107.6.
-The agent2_kast is 64%.
-The agent2_kpr is 0.6.
-The agent2_apr is 0.2.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.13.
-The agent2_kills is 465.0.
-The agent2_deaths is 620.0.
-The agent2_assists is 153.0.
-The agent2_fk is 75.0.
-The agent2_fd is 101.0.
-The agent3 is kayo.
-The agent3_use_pct is (15) 15%.
-The agent3_rounds is 303.0.
-The agent3_rating is 0.8.
-The agent3_acs is 152.5.
-The agent3_kd is 0.69.
-The agent3_adr is 108.6.
-The agent3_kast is 66%.
-The agent3_kpr is 0.52.
-The agent3_apr is 0.36.
-The agent3_fkpr is 0.12.
-The agent3_fdpr is 0.1.
-The agent3_kills is 159.0.
-The agent3_deaths is 229.0.
-The agent3_assists is 109.0.
-The agent3_fk is 35.0.
-The agent3_fd is 29.0.
-The igl is False.
-The region is na.
-The level is international.
+Synergy is a member of ValorsGG (Valo). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 494 rounds 
+with an average rating of 0.73, an average average combat score (ACS) of 149.6, an average kills death ratio 
+of 0.61, an average average damage per round (ADR) of 102.3, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.51, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 22%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, astra is their most played agent. Over the 818 rounds they have played astra, 
+they have an average rating of 0.82, an average average combat score (ACS) of 162.0, an average kills death ratio 
+of 0.76, an average average damage per round (ADR) of 111.5, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.09. Using astra this player has a total of 474 kills, 621 deaths, 
+227 assists, 70 first bloods, and 75 first deaths. Over their entire career, omen is their second most played agent. Over the 769.0 rounds they have played omen, 
+they have an average rating of 0.68, an average average combat score (ACS) of 172.5, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 107.6, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.13. Using omen this player has a total of 465.0 kills, 620.0 deaths, 
+153.0 assists, 75.0 first bloods, and 101.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 303.0 rounds they have played kayo, 
+they have an average rating of 0.8, an average average combat score (ACS) of 152.5, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 108.6, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.52, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.1. Using kayo this player has a total of 159.0 kills, 229.0 deaths, 
+109.0 assists, 35.0 first bloods, and 29.0 first deaths. 

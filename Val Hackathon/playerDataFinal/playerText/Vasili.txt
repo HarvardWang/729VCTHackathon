@@ -1,71 +1,26 @@
-The player is Vasili.
-The org is GG.
-The agents is ['killjoy', 'jett', 'raze'].
-The rounds_played is 324.
-The rating is 0.88.
-The average_combat_score is 178.4.
-The kill_deaths is 0.78.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 116.7.
-The kills_per_round is 0.6.
-The assists_per_round is 0.21.
-The first_kills_per_round is 0.11.
-The first_deaths_per_round is 0.14.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 13%.
-The team_id is 8258.0.
-The team_name is ZETA Gaming.
-The agent1 is jett.
-The agent1_use_pct is (27) 31%.
-The agent1_rounds is 552.
-The agent1_rating is 0.98.
-The agent1_acs is 222.7.
-The agent1_kd is 1.04.
-The agent1_adr is 137.3.
-The agent1_kast is 65%.
-The agent1_kpr is 0.76.
-The agent1_apr is 0.14.
-The agent1_fkpr is 0.21.
-The agent1_fdpr is 0.16.
-The agent1_kills is 420.
-The agent1_deaths is 405.
-The agent1_assists is 78.
-The agent1_fk is 117.
-The agent1_fd is 87.
-The agent2 is raze.
-The agent2_use_pct is (19) 22%.
-The agent2_rounds is 356.0.
-The agent2_rating is 1.09.
-The agent2_acs is 222.3.
-The agent2_kd is 1.01.
-The agent2_adr is 144.4.
-The agent2_kast is 73%.
-The agent2_kpr is 0.72.
-The agent2_apr is 0.27.
-The agent2_fkpr is 0.15.
-The agent2_fdpr is 0.14.
-The agent2_kills is 257.0.
-The agent2_deaths is 255.0.
-The agent2_assists is 95.0.
-The agent2_fk is 54.0.
-The agent2_fd is 51.0.
-The agent3 is killjoy.
-The agent3_use_pct is (15) 17%.
-The agent3_rounds is 273.0.
-The agent3_rating is 0.95.
-The agent3_acs is 182.0.
-The agent3_kd is 0.86.
-The agent3_adr is 129.4.
-The agent3_kast is 70%.
-The agent3_kpr is 0.59.
-The agent3_apr is 0.29.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.09.
-The agent3_kills is 160.0.
-The agent3_deaths is 186.0.
-The agent3_assists is 79.0.
-The agent3_fk is 19.0.
-The agent3_fd is 25.0.
-The igl is False.
-The region is eu.
-The level is international.
+Vasili is a member of ZETA Gaming (GG). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 324 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 178.4, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 116.7, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.11, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 20%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 552 rounds they have played jett, 
+they have an average rating of 0.98, an average average combat score (ACS) of 222.7, an average kills death ratio 
+of 1.04, an average average damage per round (ADR) of 137.3, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.21, and an average first deaths per round (FDPR) 
+of 0.16. Using jett this player has a total of 420 kills, 405 deaths, 
+78 assists, 117 first bloods, and 87 first deaths. Over their entire career, raze is their second most played agent. Over the 356.0 rounds they have played raze, 
+they have an average rating of 1.09, an average average combat score (ACS) of 222.3, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 144.4, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 257.0 kills, 255.0 deaths, 
+95.0 assists, 54.0 first bloods, and 51.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 273.0 rounds they have played killjoy, 
+they have an average rating of 0.95, an average average combat score (ACS) of 182.0, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 129.4, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.09. Using killjoy this player has a total of 160.0 kills, 186.0 deaths, 
+79.0 assists, 19.0 first bloods, and 25.0 first deaths. 

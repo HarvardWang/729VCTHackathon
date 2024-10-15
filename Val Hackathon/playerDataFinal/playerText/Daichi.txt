@@ -1,71 +1,26 @@
-The player is Daichi.
-The org is QT.
-The agents is ['phoenix', 'omen', 'breach'].
-The rounds_played is 323.
-The rating is 0.88.
-The average_combat_score is 158.0.
-The kill_deaths is 0.75.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 109.5.
-The kills_per_round is 0.56.
-The assists_per_round is 0.31.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 11%.
-The team_id is 14671.0.
-The team_name is NTPOJA.
-The agent1 is killjoy.
-The agent1_use_pct is (26) 33%.
-The agent1_rounds is 528.
-The agent1_rating is 1.01.
-The agent1_acs is 203.1.
-The agent1_kd is 1.03.
-The agent1_adr is 134.5.
-The agent1_kast is 73%.
-The agent1_kpr is 0.69.
-The agent1_apr is 0.2.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.07.
-The agent1_kills is 366.
-The agent1_deaths is 356.
-The agent1_assists is 103.
-The agent1_fk is 38.
-The agent1_fd is 36.
-The agent2 is omen.
-The agent2_use_pct is (13) 16%.
-The agent2_rounds is 272.0.
-The agent2_rating is 0.84.
-The agent2_acs is 166.7.
-The agent2_kd is 0.96.
-The agent2_adr is 106.3.
-The agent2_kast is 70%.
-The agent2_kpr is 0.63.
-The agent2_apr is 0.29.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.09.
-The agent2_kills is 171.0.
-The agent2_deaths is 179.0.
-The agent2_assists is 80.0.
-The agent2_fk is 21.0.
-The agent2_fd is 24.0.
-The agent3 is breach.
-The agent3_use_pct is (9) 11%.
-The agent3_rounds is 178.0.
-The agent3_rating is 1.3.
-The agent3_acs is 168.1.
-The agent3_kd is 1.01.
-The agent3_adr is 108.1.
-The agent3_kast is 84%.
-The agent3_kpr is 0.66.
-The agent3_apr is 0.36.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.11.
-The agent3_kills is 117.0.
-The agent3_deaths is 116.0.
-The agent3_assists is 64.0.
-The agent3_fk is 10.0.
-The agent3_fd is 20.0.
-The igl is False.
-The region is jp.
-The level is international.
+Daichi is a member of NTPOJA (QT). They play in the Japan region and the VCT 
+international circuit. Over their entire career, they have played 323 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 158.0, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 109.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 25%, and an average clutch success percentage 
+of 11%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 528 rounds they have played killjoy, 
+they have an average rating of 1.01, an average average combat score (ACS) of 203.1, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 134.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.07. Using killjoy this player has a total of 366 kills, 356 deaths, 
+103 assists, 38 first bloods, and 36 first deaths. Over their entire career, omen is their second most played agent. Over the 272.0 rounds they have played omen, 
+they have an average rating of 0.84, an average average combat score (ACS) of 166.7, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 106.3, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.09. Using omen this player has a total of 171.0 kills, 179.0 deaths, 
+80.0 assists, 21.0 first bloods, and 24.0 first deaths. Over their entire career, breach is their third most played agent. Over the 178.0 rounds they have played breach, 
+they have an average rating of 1.3, an average average combat score (ACS) of 168.1, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 108.1, an average kill, assist, survive, trade percent (KAST) 
+of 84%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.11. Using breach this player has a total of 117.0 kills, 116.0 deaths, 
+64.0 assists, 10.0 first bloods, and 20.0 first deaths. 

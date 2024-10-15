@@ -1,71 +1,26 @@
-The player is lg1c.
-The org is (+3).
-The agents is ['jett', 'chamber', 'reyna'].
-The rounds_played is 1152.
-The rating is 0.97.
-The average_combat_score is 200.4.
-The kill_deaths is 0.97.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 130.5.
-The kills_per_round is 0.73.
-The assists_per_round is 0.17.
-The first_kills_per_round is 0.15.
-The first_deaths_per_round is 0.14.
-The headshot_percentage is 26%.
-The clutch_success_percentage is 13%.
-The team_id is 15197.0.
-The team_name is iPGN.
-The agent1 is jett.
-The agent1_use_pct is (69) 51%.
-The agent1_rounds is 1411.
-The agent1_rating is 1.1.
-The agent1_acs is 226.4.
-The agent1_kd is 1.17.
-The agent1_adr is 147.4.
-The agent1_kast is 69%.
-The agent1_kpr is 0.82.
-The agent1_apr is 0.14.
-The agent1_fkpr is 0.2.
-The agent1_fdpr is 0.15.
-The agent1_kills is 1158.
-The agent1_deaths is 990.
-The agent1_assists is 196.
-The agent1_fk is 278.
-The agent1_fd is 210.
-The agent2 is breach.
-The agent2_use_pct is (28) 21%.
-The agent2_rounds is 579.0.
-The agent2_rating is 0.97.
-The agent2_acs is 170.0.
-The agent2_kd is 0.88.
-The agent2_adr is 106.9.
-The agent2_kast is 74%.
-The agent2_kpr is 0.61.
-The agent2_apr is 0.49.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.07.
-The agent2_kills is 355.0.
-The agent2_deaths is 404.0.
-The agent2_assists is 285.0.
-The agent2_fk is 34.0.
-The agent2_fd is 39.0.
-The agent3 is raze.
-The agent3_use_pct is (19) 14%.
-The agent3_rounds is 375.0.
-The agent3_rating is 0.93.
-The agent3_acs is 199.8.
-The agent3_kd is 0.91.
-The agent3_adr is 135.4.
-The agent3_kast is 71%.
-The agent3_kpr is 0.69.
-The agent3_apr is 0.16.
-The agent3_fkpr is 0.16.
-The agent3_fdpr is 0.15.
-The agent3_kills is 260.0.
-The agent3_deaths is 285.0.
-The agent3_assists is 61.0.
-The agent3_fk is 60.0.
-The agent3_fd is 56.0.
-The igl is False.
-The region is oce.
-The level is challenger.
+lg1c is a member of iPGN ((+3)). They play in the Oceania region and the VCT 
+challenger circuit. Over their entire career, they have played 1152 rounds 
+with an average rating of 0.97, an average average combat score (ACS) of 200.4, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 130.5, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.15, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 26%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 1411 rounds they have played jett, 
+they have an average rating of 1.1, an average average combat score (ACS) of 226.4, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 147.4, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.2, and an average first deaths per round (FDPR) 
+of 0.15. Using jett this player has a total of 1158 kills, 990 deaths, 
+196 assists, 278 first bloods, and 210 first deaths. Over their entire career, breach is their second most played agent. Over the 579.0 rounds they have played breach, 
+they have an average rating of 0.97, an average average combat score (ACS) of 170.0, an average kills death ratio 
+of 0.88, an average average damage per round (ADR) of 106.9, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.49, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using breach this player has a total of 355.0 kills, 404.0 deaths, 
+285.0 assists, 34.0 first bloods, and 39.0 first deaths. Over their entire career, raze is their third most played agent. Over the 375.0 rounds they have played raze, 
+they have an average rating of 0.93, an average average combat score (ACS) of 199.8, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 135.4, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.15. Using raze this player has a total of 260.0 kills, 285.0 deaths, 
+61.0 assists, 60.0 first bloods, and 56.0 first deaths. 

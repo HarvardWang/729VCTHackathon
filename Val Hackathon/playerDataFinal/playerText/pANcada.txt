@@ -1,71 +1,26 @@
-The player is pANcada.
-The org is LOUD.
-The agents is ['sage', 'omen', 'astra'].
-The rounds_played is 486.
-The rating is 1.07.
-The average_combat_score is 205.6.
-The kill_deaths is 1.18.
-The kill_assists_survived_traded is 77%.
-The average_damage_per_round is 130.8.
-The kills_per_round is 0.73.
-The assists_per_round is 0.27.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 13%.
-The team_id is 6961.0.
-The team_name is LOUD.
-The agent1 is omen.
-The agent1_use_pct is (86) 27%.
-The agent1_rounds is 1744.
-The agent1_rating is 1.1.
-The agent1_acs is 205.2.
-The agent1_kd is 1.2.
-The agent1_adr is 132.6.
-The agent1_kast is 76%.
-The agent1_kpr is 0.75.
-The agent1_apr is 0.32.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.08.
-The agent1_kills is 1314.
-The agent1_deaths is 1095.
-The agent1_assists is 558.
-The agent1_fk is 158.
-The agent1_fd is 131.
-The agent2 is astra.
-The agent2_use_pct is (80) 25%.
-The agent2_rounds is 1665.0.
-The agent2_rating is 1.14.
-The agent2_acs is 206.8.
-The agent2_kd is 1.21.
-The agent2_adr is 135.1.
-The agent2_kast is 78%.
-The agent2_kpr is 0.74.
-The agent2_apr is 0.33.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.05.
-The agent2_kills is 1239.0.
-The agent2_deaths is 1021.0.
-The agent2_assists is 542.0.
-The agent2_fk is 102.0.
-The agent2_fd is 83.0.
-The agent3 is sage.
-The agent3_use_pct is (57) 18%.
-The agent3_rounds is 1149.0.
-The agent3_rating is 1.13.
-The agent3_acs is 202.4.
-The agent3_kd is 1.27.
-The agent3_adr is 137.6.
-The agent3_kast is 78%.
-The agent3_kpr is 0.73.
-The agent3_apr is 0.32.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.06.
-The agent3_kills is 838.0.
-The agent3_deaths is 662.0.
-The agent3_assists is 364.0.
-The agent3_fk is 99.0.
-The agent3_fd is 55.0.
-The igl is False.
-The region is sa.
-The level is international.
+pANcada is a member of LOUD (LOUD). They play in the Latin America region and the VCT 
+international circuit. Over their entire career, they have played 486 rounds 
+with an average rating of 1.07, an average average combat score (ACS) of 205.6, an average kills death ratio 
+of 1.18, an average average damage per round (ADR) of 130.8, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 27%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 1744 rounds they have played omen, 
+they have an average rating of 1.1, an average average combat score (ACS) of 205.2, an average kills death ratio 
+of 1.2, an average average damage per round (ADR) of 132.6, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.08. Using omen this player has a total of 1314 kills, 1095 deaths, 
+558 assists, 158 first bloods, and 131 first deaths. Over their entire career, astra is their second most played agent. Over the 1665.0 rounds they have played astra, 
+they have an average rating of 1.14, an average average combat score (ACS) of 206.8, an average kills death ratio 
+of 1.21, an average average damage per round (ADR) of 135.1, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.05. Using astra this player has a total of 1239.0 kills, 1021.0 deaths, 
+542.0 assists, 102.0 first bloods, and 83.0 first deaths. Over their entire career, sage is their third most played agent. Over the 1149.0 rounds they have played sage, 
+they have an average rating of 1.13, an average average combat score (ACS) of 202.4, an average kills death ratio 
+of 1.27, an average average damage per round (ADR) of 137.6, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.06. Using sage this player has a total of 838.0 kills, 662.0 deaths, 
+364.0 assists, 99.0 first bloods, and 55.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Docent.
-The org is KAST.
-The agents is ['brimstone', 'killjoy', 'omen'].
-The rounds_played is 4130.
-The rating is 0.99.
-The average_combat_score is 199.4.
-The kill_deaths is 0.95.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 129.7.
-The kills_per_round is 0.69.
-The assists_per_round is 0.3.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 20%.
-The team_id is 4572.0.
-The team_name is Galatasaray Esports.
-The agent1 is omen.
-The agent1_use_pct is (85) 25%.
-The agent1_rounds is 1835.
-The agent1_rating is 1.02.
-The agent1_acs is 205.2.
-The agent1_kd is 0.96.
-The agent1_adr is 131.1.
-The agent1_kast is 71%.
-The agent1_kpr is 0.71.
-The agent1_apr is 0.38.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.1.
-The agent1_kills is 1310.
-The agent1_deaths is 1363.
-The agent1_assists is 703.
-The agent1_fk is 165.
-The agent1_fd is 182.
-The agent2 is viper.
-The agent2_use_pct is (83) 25%.
-The agent2_rounds is 1782.0.
-The agent2_rating is 1.09.
-The agent2_acs is 220.6.
-The agent2_kd is 1.11.
-The agent2_adr is 141.1.
-The agent2_kast is 71%.
-The agent2_kpr is 0.77.
-The agent2_apr is 0.3.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.09.
-The agent2_kills is 1364.0.
-The agent2_deaths is 1226.0.
-The agent2_assists is 529.0.
-The agent2_fk is 180.0.
-The agent2_fd is 161.0.
-The agent3 is sage.
-The agent3_use_pct is (41) 12%.
-The agent3_rounds is 859.0.
-The agent3_rating is 1.03.
-The agent3_acs is 198.0.
-The agent3_kd is 1.02.
-The agent3_adr is 125.6.
-The agent3_kast is 72%.
-The agent3_kpr is 0.7.
-The agent3_apr is 0.29.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.08.
-The agent3_kills is 598.0.
-The agent3_deaths is 586.0.
-The agent3_assists is 245.0.
-The agent3_fk is 79.0.
-The agent3_fd is 65.0.
-The igl is False.
-The region is eu.
-The level is challenger.
+Docent is a member of Galatasaray Esports (KAST). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 4130 rounds 
+with an average rating of 0.99, an average average combat score (ACS) of 199.4, an average kills death ratio 
+of 0.95, an average average damage per round (ADR) of 129.7, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 27%, and an average clutch success percentage 
+of 20%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 1835 rounds they have played omen, 
+they have an average rating of 1.02, an average average combat score (ACS) of 205.2, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 131.1, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.1. Using omen this player has a total of 1310 kills, 1363 deaths, 
+703 assists, 165 first bloods, and 182 first deaths. Over their entire career, viper is their second most played agent. Over the 1782.0 rounds they have played viper, 
+they have an average rating of 1.09, an average average combat score (ACS) of 220.6, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 141.1, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.09. Using viper this player has a total of 1364.0 kills, 1226.0 deaths, 
+529.0 assists, 180.0 first bloods, and 161.0 first deaths. Over their entire career, sage is their third most played agent. Over the 859.0 rounds they have played sage, 
+they have an average rating of 1.03, an average average combat score (ACS) of 198.0, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 125.6, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.08. Using sage this player has a total of 598.0 kills, 586.0 deaths, 
+245.0 assists, 79.0 first bloods, and 65.0 first deaths. 

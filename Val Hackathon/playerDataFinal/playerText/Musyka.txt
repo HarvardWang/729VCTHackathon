@@ -1,71 +1,26 @@
-The player is Musyka.
-The org is DSY.
-The agents is ['killjoy', 'cypher', 'jett'].
-The rounds_played is 307.
-The rating is 0.75.
-The average_combat_score is 150.3.
-The kill_deaths is 0.66.
-The kill_assists_survived_traded is 64%.
-The average_damage_per_round is 103.3.
-The kills_per_round is 0.53.
-The assists_per_round is 0.22.
-The first_kills_per_round is 0.04.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 7%.
-The team_id is 6538.0.
-The team_name is DSYRE.
-The agent1 is omen.
-The agent1_use_pct is (18) 20%.
-The agent1_rounds is 365.
-The agent1_rating is 1.02.
-The agent1_acs is 196.0.
-The agent1_kd is 1.0.
-The agent1_adr is 125.6.
-The agent1_kast is 73%.
-The agent1_kpr is 0.7.
-The agent1_apr is 0.38.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.07.
-The agent1_kills is 254.
-The agent1_deaths is 254.
-The agent1_assists is 137.
-The agent1_fk is 32.
-The agent1_fd is 27.
-The agent2 is cypher.
-The agent2_use_pct is (18) 20%.
-The agent2_rounds is 348.0.
-The agent2_rating is 0.94.
-The agent2_acs is 176.9.
-The agent2_kd is 0.9.
-The agent2_adr is 117.3.
-The agent2_kast is 66%.
-The agent2_kpr is 0.64.
-The agent2_apr is 0.19.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.07.
-The agent2_kills is 223.0.
-The agent2_deaths is 249.0.
-The agent2_assists is 66.0.
-The agent2_fk is 21.0.
-The agent2_fd is 25.0.
-The agent3 is breach.
-The agent3_use_pct is (11) 12%.
-The agent3_rounds is 219.0.
-The agent3_rating is 0.92.
-The agent3_acs is 165.6.
-The agent3_kd is 0.83.
-The agent3_adr is 106.2.
-The agent3_kast is 73%.
-The agent3_kpr is 0.58.
-The agent3_apr is 0.51.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.05.
-The agent3_kills is 126.0.
-The agent3_deaths is 151.0.
-The agent3_assists is 112.0.
-The agent3_fk is 11.0.
-The agent3_fd is 11.0.
-The igl is False.
-The region is eu.
-The level is international.
+Musyka is a member of DSYRE (DSY). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 307 rounds 
+with an average rating of 0.75, an average average combat score (ACS) of 150.3, an average kills death ratio 
+of 0.66, an average average damage per round (ADR) of 103.3, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.53, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 25%, and an average clutch success percentage 
+of 7%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 365 rounds they have played omen, 
+they have an average rating of 1.02, an average average combat score (ACS) of 196.0, an average kills death ratio 
+of 1.0, an average average damage per round (ADR) of 125.6, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using omen this player has a total of 254 kills, 254 deaths, 
+137 assists, 32 first bloods, and 27 first deaths. Over their entire career, cypher is their second most played agent. Over the 348.0 rounds they have played cypher, 
+they have an average rating of 0.94, an average average combat score (ACS) of 176.9, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 117.3, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using cypher this player has a total of 223.0 kills, 249.0 deaths, 
+66.0 assists, 21.0 first bloods, and 25.0 first deaths. Over their entire career, breach is their third most played agent. Over the 219.0 rounds they have played breach, 
+they have an average rating of 0.92, an average average combat score (ACS) of 165.6, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 106.2, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.51, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.05. Using breach this player has a total of 126.0 kills, 151.0 deaths, 
+112.0 assists, 11.0 first bloods, and 11.0 first deaths. 

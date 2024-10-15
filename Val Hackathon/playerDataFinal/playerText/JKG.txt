@@ -1,71 +1,26 @@
-The player is JKG.
-The org is NXT.
-The agents is ['fade', 'sova', 'omen'].
-The rounds_played is 635.
-The rating is 0.97.
-The average_combat_score is 176.8.
-The kill_deaths is 0.92.
-The kill_assists_survived_traded is 71%.
-The average_damage_per_round is 120.7.
-The kills_per_round is 0.64.
-The assists_per_round is 0.29.
-The first_kills_per_round is 0.04.
-The first_deaths_per_round is 0.05.
-The headshot_percentage is 31%.
-The clutch_success_percentage is 13%.
-The team_id is 13224.0.
-The team_name is NXT.
-The agent1 is sova.
-The agent1_use_pct is (38) 27%.
-The agent1_rounds is 809.
-The agent1_rating is 0.95.
-The agent1_acs is 170.0.
-The agent1_kd is 0.9.
-The agent1_adr is 118.0.
-The agent1_kast is 70%.
-The agent1_kpr is 0.6.
-The agent1_apr is 0.26.
-The agent1_fkpr is 0.03.
-The agent1_fdpr is 0.06.
-The agent1_kills is 488.
-The agent1_deaths is 545.
-The agent1_assists is 211.
-The agent1_fk is 27.
-The agent1_fd is 45.
-The agent2 is omen.
-The agent2_use_pct is (30) 21%.
-The agent2_rounds is 631.0.
-The agent2_rating is 1.09.
-The agent2_acs is 193.0.
-The agent2_kd is 1.05.
-The agent2_adr is 128.7.
-The agent2_kast is 73%.
-The agent2_kpr is 0.7.
-The agent2_apr is 0.37.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.05.
-The agent2_kills is 443.0.
-The agent2_deaths is 423.0.
-The agent2_assists is 236.0.
-The agent2_fk is 44.0.
-The agent2_fd is 29.0.
-The agent3 is brimstone.
-The agent3_use_pct is (21) 15%.
-The agent3_rounds is 453.0.
-The agent3_rating is 1.12.
-The agent3_acs is 187.8.
-The agent3_kd is 1.1.
-The agent3_adr is 125.5.
-The agent3_kast is 78%.
-The agent3_kpr is 0.68.
-The agent3_apr is 0.42.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.06.
-The agent3_kills is 306.0.
-The agent3_deaths is 277.0.
-The agent3_assists is 189.0.
-The agent3_fk is 31.0.
-The agent3_fd is 26.0.
-The igl is False.
-The region is eu.
-The level is challenger.
+JKG is a member of NXT (NXT). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 635 rounds 
+with an average rating of 0.97, an average average combat score (ACS) of 176.8, an average kills death ratio 
+of 0.92, an average average damage per round (ADR) of 120.7, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.05, an average headshot percentage of 31%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 809 rounds they have played sova, 
+they have an average rating of 0.95, an average average combat score (ACS) of 170.0, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 118.0, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.03, and an average first deaths per round (FDPR) 
+of 0.06. Using sova this player has a total of 488 kills, 545 deaths, 
+211 assists, 27 first bloods, and 45 first deaths. Over their entire career, omen is their second most played agent. Over the 631.0 rounds they have played omen, 
+they have an average rating of 1.09, an average average combat score (ACS) of 193.0, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 128.7, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.05. Using omen this player has a total of 443.0 kills, 423.0 deaths, 
+236.0 assists, 44.0 first bloods, and 29.0 first deaths. Over their entire career, brimstone is their third most played agent. Over the 453.0 rounds they have played brimstone, 
+they have an average rating of 1.12, an average average combat score (ACS) of 187.8, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 125.5, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.42, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using brimstone this player has a total of 306.0 kills, 277.0 deaths, 
+189.0 assists, 31.0 first bloods, and 26.0 first deaths. 

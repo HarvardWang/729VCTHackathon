@@ -1,71 +1,26 @@
-The player is Touven.
-The org is GGO.
-The agents is ['omen', 'astra', 'raze'].
-The rounds_played is 3919.
-The rating is 1.01.
-The average_combat_score is 208.5.
-The kill_deaths is 0.96.
-The kill_assists_survived_traded is 70%.
-The average_damage_per_round is 140.7.
-The kills_per_round is 0.71.
-The assists_per_round is 0.3.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 12%.
-The team_id is 4572.0.
-The team_name is Galatasaray Esports.
-The agent1 is sova.
-The agent1_use_pct is (130) 39%.
-The agent1_rounds is 2788.
-The agent1_rating is 1.11.
-The agent1_acs is 219.1.
-The agent1_kd is 1.09.
-The agent1_adr is 150.3.
-The agent1_kast is 73%.
-The agent1_kpr is 0.74.
-The agent1_apr is 0.34.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.08.
-The agent1_kills is 2067.
-The agent1_deaths is 1905.
-The agent1_assists is 946.
-The agent1_fk is 225.
-The agent1_fd is 219.
-The agent2 is jett.
-The agent2_use_pct is (41) 12%.
-The agent2_rounds is 889.0.
-The agent2_rating is 0.99.
-The agent2_acs is 225.7.
-The agent2_kd is 1.02.
-The agent2_adr is 147.5.
-The agent2_kast is 68%.
-The agent2_kpr is 0.78.
-The agent2_apr is 0.18.
-The agent2_fkpr is 0.17.
-The agent2_fdpr is 0.21.
-The agent2_kills is 693.0.
-The agent2_deaths is 682.0.
-The agent2_assists is 162.0.
-The agent2_fk is 155.0.
-The agent2_fd is 189.0.
-The agent3 is raze.
-The agent3_use_pct is (33) 10%.
-The agent3_rounds is 731.0.
-The agent3_rating is 0.93.
-The agent3_acs is 210.5.
-The agent3_kd is 0.94.
-The agent3_adr is 145.1.
-The agent3_kast is 71%.
-The agent3_kpr is 0.7.
-The agent3_apr is 0.21.
-The agent3_fkpr is 0.14.
-The agent3_fdpr is 0.18.
-The agent3_kills is 512.0.
-The agent3_deaths is 547.0.
-The agent3_assists is 157.0.
-The agent3_fk is 104.0.
-The agent3_fd is 130.0.
-The igl is False.
-The region is eu.
-The level is challenger.
+Touven is a member of Galatasaray Esports (GGO). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 3919 rounds 
+with an average rating of 1.01, an average average combat score (ACS) of 208.5, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 140.7, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 25%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 2788 rounds they have played sova, 
+they have an average rating of 1.11, an average average combat score (ACS) of 219.1, an average kills death ratio 
+of 1.09, an average average damage per round (ADR) of 150.3, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.08. Using sova this player has a total of 2067 kills, 1905 deaths, 
+946 assists, 225 first bloods, and 219 first deaths. Over their entire career, jett is their second most played agent. Over the 889.0 rounds they have played jett, 
+they have an average rating of 0.99, an average average combat score (ACS) of 225.7, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 147.5, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.21. Using jett this player has a total of 693.0 kills, 682.0 deaths, 
+162.0 assists, 155.0 first bloods, and 189.0 first deaths. Over their entire career, raze is their third most played agent. Over the 731.0 rounds they have played raze, 
+they have an average rating of 0.93, an average average combat score (ACS) of 210.5, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 145.1, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.18. Using raze this player has a total of 512.0 kills, 547.0 deaths, 
+157.0 assists, 104.0 first bloods, and 130.0 first deaths. 

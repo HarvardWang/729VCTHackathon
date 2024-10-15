@@ -1,71 +1,26 @@
-The player is Envyz.
-The org is (+3).
-The agents is ['brimstone', 'breach', 'astra'].
-The rounds_played is 277.
-The rating is 0.77.
-The average_combat_score is 170.5.
-The kill_deaths is 0.71.
-The kill_assists_survived_traded is 64%.
-The average_damage_per_round is 108.8.
-The kills_per_round is 0.57.
-The assists_per_round is 0.35.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 21%.
-The team_id is 2800.0.
-The team_name is GCU Esports.
-The agent1 is viper.
-The agent1_use_pct is (19) 51%.
-The agent1_rounds is 386.
-The agent1_rating is 0.95.
-The agent1_acs is 208.3.
-The agent1_kd is 0.94.
-The agent1_adr is 134.6.
-The agent1_kast is 70%.
-The agent1_kpr is 0.7.
-The agent1_apr is 0.32.
-The agent1_fkpr is 0.11.
-The agent1_fdpr is 0.1.
-The agent1_kills is 272.
-The agent1_deaths is 289.
-The agent1_assists is 123.
-The agent1_fk is 41.
-The agent1_fd is 38.
-The agent2 is breach.
-The agent2_use_pct is (10) 27%.
-The agent2_rounds is 202.0.
-The agent2_rating is 0.78.
-The agent2_acs is 158.7.
-The agent2_kd is 0.66.
-The agent2_adr is 98.1.
-The agent2_kast is 68%.
-The agent2_kpr is 0.52.
-The agent2_apr is 0.46.
-The agent2_fkpr is 0.05.
-The agent2_fdpr is 0.08.
-The agent2_kills is 105.0.
-The agent2_deaths is 159.0.
-The agent2_assists is 92.0.
-The agent2_fk is 11.0.
-The agent2_fd is 17.0.
-The agent3 is kayo.
-The agent3_use_pct is (3) 8%.
-The agent3_rounds is 67.0.
-The agent3_rating is 0.68.
-The agent3_acs is 180.0.
-The agent3_kd is 0.69.
-The agent3_adr is 116.5.
-The agent3_kast is 61%.
-The agent3_kpr is 0.57.
-The agent3_apr is 0.4.
-The agent3_fkpr is 0.1.
-The agent3_fdpr is 0.16.
-The agent3_kills is 38.0.
-The agent3_deaths is 55.0.
-The agent3_assists is 27.0.
-The agent3_fk is 7.0.
-The agent3_fd is 11.0.
-The igl is False.
-The region is na.
-The level is international.
+Envyz is a member of GCU Esports ((+3)). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 277 rounds 
+with an average rating of 0.77, an average average combat score (ACS) of 170.5, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 108.8, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.35, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 21%, and an average clutch success percentage 
+of 21%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 386 rounds they have played viper, 
+they have an average rating of 0.95, an average average combat score (ACS) of 208.3, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 134.6, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.1. Using viper this player has a total of 272 kills, 289 deaths, 
+123 assists, 41 first bloods, and 38 first deaths. Over their entire career, breach is their second most played agent. Over the 202.0 rounds they have played breach, 
+they have an average rating of 0.78, an average average combat score (ACS) of 158.7, an average kills death ratio 
+of 0.66, an average average damage per round (ADR) of 98.1, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.52, an average assists per round (APR) 
+of 0.46, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.08. Using breach this player has a total of 105.0 kills, 159.0 deaths, 
+92.0 assists, 11.0 first bloods, and 17.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 67.0 rounds they have played kayo, 
+they have an average rating of 0.68, an average average combat score (ACS) of 180.0, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 116.5, an average kill, assist, survive, trade percent (KAST) 
+of 61%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.16. Using kayo this player has a total of 38.0 kills, 55.0 deaths, 
+27.0 assists, 7.0 first bloods, and 11.0 first deaths. 

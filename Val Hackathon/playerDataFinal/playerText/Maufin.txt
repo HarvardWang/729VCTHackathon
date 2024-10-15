@@ -1,70 +1,26 @@
-The player is Maufin.
-The org is RID.
-The agents is ['skye', 'breach', 'sage'].
-The rounds_played is 337.
-The rating is 0.69.
-The average_combat_score is 142.4.
-The kill_deaths is 0.64.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 88.5.
-The kills_per_round is 0.48.
-The assists_per_round is 0.43.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.07.
-The headshot_percentage is 23%.
-The team_id is 14375.0.
-The team_name is RIDDLE ORDER.
-The agent1 is breach.
-The agent1_use_pct is (12) 40%.
-The agent1_rounds is 245.
-The agent1_rating is 0.86.
-The agent1_acs is 152.9.
-The agent1_kd is 0.79.
-The agent1_adr is 94.0.
-The agent1_kast is 76%.
-The agent1_kpr is 0.51.
-The agent1_apr is 0.47.
-The agent1_fkpr is 0.05.
-The agent1_fdpr is 0.04.
-The agent1_kills is 125.
-The agent1_deaths is 159.
-The agent1_assists is 116.
-The agent1_fk is 13.
-The agent1_fd is 11.
-The agent2 is kayo.
-The agent2_use_pct is (10) 33%.
-The agent2_rounds is 187.0.
-The agent2_rating is 0.91.
-The agent2_acs is 171.8.
-The agent2_kd is 0.86.
-The agent2_adr is 108.6.
-The agent2_kast is 73%.
-The agent2_kpr is 0.61.
-The agent2_apr is 0.56.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.08.
-The agent2_kills is 114.0.
-The agent2_deaths is 133.0.
-The agent2_assists is 104.0.
-The agent2_fk is 16.0.
-The agent2_fd is 15.0.
-The agent3 is skye.
-The agent3_use_pct is (4) 13%.
-The agent3_rounds is 87.0.
-The agent3_rating is 0.7.
-The agent3_acs is 151.3.
-The agent3_kd is 0.67.
-The agent3_adr is 96.7.
-The agent3_kast is 66%.
-The agent3_kpr is 0.52.
-The agent3_apr is 0.36.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.09.
-The agent3_kills is 45.0.
-The agent3_deaths is 67.0.
-The agent3_assists is 31.0.
-The agent3_fk is 4.0.
-The agent3_fd is 8.0.
-The igl is False.
-The region is jp.
-The level is international.
+Maufin is a member of RIDDLE ORDER (RID). They play in the Japan region and the VCT 
+international circuit. Over their entire career, they have played 337 rounds 
+with an average rating of 0.69, an average average combat score (ACS) of 142.4, an average kills death ratio 
+of 0.64, an average average damage per round (ADR) of 88.5, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.48, an average assists per round (APR) 
+of 0.43, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 23%, and an average clutch success percentage 
+of Unknown. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 245 rounds they have played breach, 
+they have an average rating of 0.86, an average average combat score (ACS) of 152.9, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 94.0, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.51, an average assists per round (APR) 
+of 0.47, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.04. Using breach this player has a total of 125 kills, 159 deaths, 
+116 assists, 13 first bloods, and 11 first deaths. Over their entire career, kayo is their second most played agent. Over the 187.0 rounds they have played kayo, 
+they have an average rating of 0.91, an average average combat score (ACS) of 171.8, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 108.6, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.56, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.08. Using kayo this player has a total of 114.0 kills, 133.0 deaths, 
+104.0 assists, 16.0 first bloods, and 15.0 first deaths. Over their entire career, skye is their third most played agent. Over the 87.0 rounds they have played skye, 
+they have an average rating of 0.7, an average average combat score (ACS) of 151.3, an average kills death ratio 
+of 0.67, an average average damage per round (ADR) of 96.7, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.52, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.09. Using skye this player has a total of 45.0 kills, 67.0 deaths, 
+31.0 assists, 4.0 first bloods, and 8.0 first deaths. 

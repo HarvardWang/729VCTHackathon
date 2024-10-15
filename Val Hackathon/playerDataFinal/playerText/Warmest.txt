@@ -1,71 +1,26 @@
-The player is Warmest.
-The org is Aloha.
-The agents is ['reyna', 'killjoy', 'cypher'].
-The rounds_played is 450.
-The rating is 1.08.
-The average_combat_score is 221.3.
-The kill_deaths is 1.09.
-The kill_assists_survived_traded is 70%.
-The average_damage_per_round is 143.3.
-The kills_per_round is 0.78.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 18%.
-The team_id is 10559.0.
-The team_name is CPP Black.
-The agent1 is killjoy.
-The agent1_use_pct is (25) 38%.
-The agent1_rounds is 522.
-The agent1_rating is 1.12.
-The agent1_acs is 222.9.
-The agent1_kd is 1.1.
-The agent1_adr is 149.7.
-The agent1_kast is 69%.
-The agent1_kpr is 0.78.
-The agent1_apr is 0.15.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.07.
-The agent1_kills is 409.
-The agent1_deaths is 371.
-The agent1_assists is 80.
-The agent1_fk is 37.
-The agent1_fd is 38.
-The agent2 is breach.
-The agent2_use_pct is (17) 26%.
-The agent2_rounds is 359.0.
-The agent2_rating is 1.31.
-The agent2_acs is 234.2.
-The agent2_kd is 1.38.
-The agent2_adr is 146.2.
-The agent2_kast is 81%.
-The agent2_kpr is 0.85.
-The agent2_apr is 0.53.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.08.
-The agent2_kills is 304.0.
-The agent2_deaths is 220.0.
-The agent2_assists is 189.0.
-The agent2_fk is 23.0.
-The agent2_fd is 28.0.
-The agent3 is raze.
-The agent3_use_pct is (9) 14%.
-The agent3_rounds is 188.0.
-The agent3_rating is 1.29.
-The agent3_acs is 285.7.
-The agent3_kd is 1.31.
-The agent3_adr is 183.6.
-The agent3_kast is 75%.
-The agent3_kpr is 0.95.
-The agent3_apr is 0.24.
-The agent3_fkpr is 0.16.
-The agent3_fdpr is 0.12.
-The agent3_kills is 179.0.
-The agent3_deaths is 137.0.
-The agent3_assists is 45.0.
-The agent3_fk is 30.0.
-The agent3_fd is 22.0.
-The igl is False.
-The region is na.
-The level is international.
+Warmest is a member of CPP Black (Aloha). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 450 rounds 
+with an average rating of 1.08, an average average combat score (ACS) of 221.3, an average kills death ratio 
+of 1.09, an average average damage per round (ADR) of 143.3, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 21%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 522 rounds they have played killjoy, 
+they have an average rating of 1.12, an average average combat score (ACS) of 222.9, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 149.7, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.07. Using killjoy this player has a total of 409 kills, 371 deaths, 
+80 assists, 37 first bloods, and 38 first deaths. Over their entire career, breach is their second most played agent. Over the 359.0 rounds they have played breach, 
+they have an average rating of 1.31, an average average combat score (ACS) of 234.2, an average kills death ratio 
+of 1.38, an average average damage per round (ADR) of 146.2, an average kill, assist, survive, trade percent (KAST) 
+of 81%, an average kills per round (KPR) of 0.85, an average assists per round (APR) 
+of 0.53, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.08. Using breach this player has a total of 304.0 kills, 220.0 deaths, 
+189.0 assists, 23.0 first bloods, and 28.0 first deaths. Over their entire career, raze is their third most played agent. Over the 188.0 rounds they have played raze, 
+they have an average rating of 1.29, an average average combat score (ACS) of 285.7, an average kills death ratio 
+of 1.31, an average average damage per round (ADR) of 183.6, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.95, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.12. Using raze this player has a total of 179.0 kills, 137.0 deaths, 
+45.0 assists, 30.0 first bloods, and 22.0 first deaths. 

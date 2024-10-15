@@ -1,71 +1,26 @@
-The player is GangPin.
-The org is T1A.
-The agents is ['sova', 'skye', 'fade'].
-The rounds_played is 2097.
-The rating is 1.0.
-The average_combat_score is 193.0.
-The kill_deaths is 0.98.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 127.1.
-The kills_per_round is 0.68.
-The assists_per_round is 0.33.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 28%.
-The clutch_success_percentage is 13%.
-The team_id is 15578.0.
-The team_name is T1 Academy.
-The agent1 is jett.
-The agent1_use_pct is (39) 23%.
-The agent1_rounds is 714.
-The agent1_rating is 1.23.
-The agent1_acs is 264.3.
-The agent1_kd is 1.38.
-The agent1_adr is 162.7.
-The agent1_kast is 76%.
-The agent1_kpr is 0.92.
-The agent1_apr is 0.22.
-The agent1_fkpr is 0.21.
-The agent1_fdpr is 0.17.
-The agent1_kills is 660.
-The agent1_deaths is 478.
-The agent1_assists is 157.
-The agent1_fk is 151.
-The agent1_fd is 118.
-The agent2 is omen.
-The agent2_use_pct is (22) 13%.
-The agent2_rounds is 479.0.
-The agent2_rating is 1.01.
-The agent2_acs is 184.8.
-The agent2_kd is 0.98.
-The agent2_adr is 122.5.
-The agent2_kast is 74%.
-The agent2_kpr is 0.65.
-The agent2_apr is 0.41.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.06.
-The agent2_kills is 312.0.
-The agent2_deaths is 318.0.
-The agent2_assists is 194.0.
-The agent2_fk is 29.0.
-The agent2_fd is 27.0.
-The agent3 is viper.
-The agent3_use_pct is (21) 12%.
-The agent3_rounds is 467.0.
-The agent3_rating is 1.04.
-The agent3_acs is 193.7.
-The agent3_kd is 1.09.
-The agent3_adr is 125.8.
-The agent3_kast is 75%.
-The agent3_kpr is 0.68.
-The agent3_apr is 0.32.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.06.
-The agent3_kills is 317.0.
-The agent3_deaths is 292.0.
-The agent3_assists is 150.0.
-The agent3_fk is 27.0.
-The agent3_fd is 29.0.
-The igl is False.
-The region is jp.
-The level is challenger.
+GangPin is a member of T1 Academy (T1A). They play in the Japan region and the VCT 
+challenger circuit. Over their entire career, they have played 2097 rounds 
+with an average rating of 1.0, an average average combat score (ACS) of 193.0, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 127.1, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 28%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 714 rounds they have played jett, 
+they have an average rating of 1.23, an average average combat score (ACS) of 264.3, an average kills death ratio 
+of 1.38, an average average damage per round (ADR) of 162.7, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.92, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.21, and an average first deaths per round (FDPR) 
+of 0.17. Using jett this player has a total of 660 kills, 478 deaths, 
+157 assists, 151 first bloods, and 118 first deaths. Over their entire career, omen is their second most played agent. Over the 479.0 rounds they have played omen, 
+they have an average rating of 1.01, an average average combat score (ACS) of 184.8, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 122.5, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.41, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.06. Using omen this player has a total of 312.0 kills, 318.0 deaths, 
+194.0 assists, 29.0 first bloods, and 27.0 first deaths. Over their entire career, viper is their third most played agent. Over the 467.0 rounds they have played viper, 
+they have an average rating of 1.04, an average average combat score (ACS) of 193.7, an average kills death ratio 
+of 1.09, an average average damage per round (ADR) of 125.8, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.06. Using viper this player has a total of 317.0 kills, 292.0 deaths, 
+150.0 assists, 27.0 first bloods, and 29.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Zee.
-The org is Dark.
-The agents is ['breach', 'omen', 'skye'].
-The rounds_played is 297.
-The rating is 0.69.
-The average_combat_score is 154.8.
-The kill_deaths is 0.62.
-The kill_assists_survived_traded is 61%.
-The average_damage_per_round is 99.5.
-The kills_per_round is 0.52.
-The assists_per_round is 0.33.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.13.
-The headshot_percentage is 17%.
-The clutch_success_percentage is 12%.
-The team_id is 13673.0.
-The team_name is Dark Nebula.
-The agent1 is breach.
-The agent1_use_pct is (20) 36%.
-The agent1_rounds is 396.
-The agent1_rating is 0.85.
-The agent1_acs is 175.0.
-The agent1_kd is 0.81.
-The agent1_adr is 108.3.
-The agent1_kast is 69%.
-The agent1_kpr is 0.6.
-The agent1_apr is 0.4.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.09.
-The agent1_kills is 236.
-The agent1_deaths is 292.
-The agent1_assists is 158.
-The agent1_fk is 28.
-The agent1_fd is 36.
-The agent2 is omen.
-The agent2_use_pct is (16) 29%.
-The agent2_rounds is 329.0.
-The agent2_rating is 1.03.
-The agent2_acs is 193.8.
-The agent2_kd is 1.02.
-The agent2_adr is 126.9.
-The agent2_kast is 77%.
-The agent2_kpr is 0.68.
-The agent2_apr is 0.47.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.05.
-The agent2_kills is 224.0.
-The agent2_deaths is 220.0.
-The agent2_assists is 154.0.
-The agent2_fk is 22.0.
-The agent2_fd is 17.0.
-The agent3 is brimstone.
-The agent3_use_pct is (7) 13%.
-The agent3_rounds is 130.0.
-The agent3_rating is 1.23.
-The agent3_acs is 212.3.
-The agent3_kd is 1.29.
-The agent3_adr is 137.5.
-The agent3_kast is 78%.
-The agent3_kpr is 0.75.
-The agent3_apr is 0.48.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.05.
-The agent3_kills is 98.0.
-The agent3_deaths is 76.0.
-The agent3_assists is 63.0.
-The agent3_fk is 10.0.
-The agent3_fd is 7.0.
-The igl is False.
-The region is mn.
-The level is international.
+Zee is a member of Dark Nebula (Dark). They play in the Middle East and North Africa region and the VCT 
+international circuit. Over their entire career, they have played 297 rounds 
+with an average rating of 0.69, an average average combat score (ACS) of 154.8, an average kills death ratio 
+of 0.62, an average average damage per round (ADR) of 99.5, an average kill, assist, survive, trade percent (KAST) 
+of 61%, an average kills per round (KPR) of 0.52, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 17%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 396 rounds they have played breach, 
+they have an average rating of 0.85, an average average combat score (ACS) of 175.0, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 108.3, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.09. Using breach this player has a total of 236 kills, 292 deaths, 
+158 assists, 28 first bloods, and 36 first deaths. Over their entire career, omen is their second most played agent. Over the 329.0 rounds they have played omen, 
+they have an average rating of 1.03, an average average combat score (ACS) of 193.8, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 126.9, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.47, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.05. Using omen this player has a total of 224.0 kills, 220.0 deaths, 
+154.0 assists, 22.0 first bloods, and 17.0 first deaths. Over their entire career, brimstone is their third most played agent. Over the 130.0 rounds they have played brimstone, 
+they have an average rating of 1.23, an average average combat score (ACS) of 212.3, an average kills death ratio 
+of 1.29, an average average damage per round (ADR) of 137.5, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.48, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.05. Using brimstone this player has a total of 98.0 kills, 76.0 deaths, 
+63.0 assists, 10.0 first bloods, and 7.0 first deaths. 

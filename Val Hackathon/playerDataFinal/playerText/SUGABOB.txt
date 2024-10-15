@@ -1,69 +1,26 @@
-The player is SUGABOB.
-The org is (+2).
-The agents is ['jett', 'omen', 'sage'].
-The rounds_played is 234.
-The rating is 0.72.
-The average_combat_score is 167.1.
-The kill_deaths is 0.69.
-The kill_assists_survived_traded is 66%.
-The average_damage_per_round is 103.3.
-The kills_per_round is 0.55.
-The assists_per_round is 0.24.
-The first_kills_per_round is 0.12.
-The first_deaths_per_round is 0.14.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 7%.
-The team_id is 5056.0.
-The team_name is VAMOS.
-The agent1 is jett.
-The agent1_use_pct is (23) 56%.
-The agent1_rounds is 449.
-The agent1_rating is 1.79.
-The agent1_acs is 236.1.
-The agent1_kd is 1.11.
-The agent1_adr is 141.5.
-The agent1_kast is 75%.
-The agent1_kpr is 0.81.
-The agent1_apr is 0.16.
-The agent1_fkpr is 0.2.
-The agent1_fdpr is 0.17.
-The agent1_kills is 364.
-The agent1_deaths is 329.
-The agent1_assists is 70.
-The agent1_fk is 90.
-The agent1_fd is 77.
-The agent2 is raze.
-The agent2_use_pct is (6) 15%.
-The agent2_rounds is 122.0.
-The agent2_rating is 1.14.
-The agent2_acs is 271.2.
-The agent2_kd is 1.28.
-The agent2_adr is 164.1.
-The agent2_kast is 76%.
-The agent2_kpr is 0.93.
-The agent2_apr is 0.3.
-The agent2_fkpr is 0.16.
-The agent2_fdpr is 0.15.
-The agent2_kills is 113.0.
-The agent2_deaths is 88.0.
-The agent2_assists is 36.0.
-The agent2_fk is 20.0.
-The agent2_fd is 18.0.
-The agent3 is omen.
-The agent3_use_pct is (3) 7%.
-The agent3_rounds is 64.0.
-The agent3_acs is 198.0.
-The agent3_kd is 0.79.
-The agent3_adr is 124.5.
-The agent3_kpr is 0.66.
-The agent3_apr is 0.3.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.14.
-The agent3_kills is 42.0.
-The agent3_deaths is 53.0.
-The agent3_assists is 19.0.
-The agent3_fk is 6.0.
-The agent3_fd is 9.0.
-The igl is False.
-The region is eu.
-The level is international.
+SUGABOB is a member of VAMOS ((+2)). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 234 rounds 
+with an average rating of 0.72, an average average combat score (ACS) of 167.1, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 103.3, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.55, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.12, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 20%, and an average clutch success percentage 
+of 7%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 449 rounds they have played jett, 
+they have an average rating of 1.79, an average average combat score (ACS) of 236.1, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 141.5, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.81, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.2, and an average first deaths per round (FDPR) 
+of 0.17. Using jett this player has a total of 364 kills, 329 deaths, 
+70 assists, 90 first bloods, and 77 first deaths. Over their entire career, raze is their second most played agent. Over the 122.0 rounds they have played raze, 
+they have an average rating of 1.14, an average average combat score (ACS) of 271.2, an average kills death ratio 
+of 1.28, an average average damage per round (ADR) of 164.1, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.93, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.15. Using raze this player has a total of 113.0 kills, 88.0 deaths, 
+36.0 assists, 20.0 first bloods, and 18.0 first deaths. Over their entire career, omen is their third most played agent. Over the 64.0 rounds they have played omen, 
+they have an average rating of Unknown, an average average combat score (ACS) of 198.0, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 124.5, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.14. Using omen this player has a total of 42.0 kills, 53.0 deaths, 
+19.0 assists, 6.0 first bloods, and 9.0 first deaths. 

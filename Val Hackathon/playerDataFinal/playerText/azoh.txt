@@ -1,71 +1,26 @@
-The player is azoh.
-The org is EDGE.
-The agents is ['skye', 'viper', 'cypher'].
-The rounds_played is 1170.
-The rating is 0.87.
-The average_combat_score is 189.0.
-The kill_deaths is 0.83.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 122.2.
-The kills_per_round is 0.63.
-The assists_per_round is 0.31.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 19%.
-The clutch_success_percentage is 14%.
-The team_id is 15208.0.
-The team_name is EDGE.
-The agent1 is sova.
-The agent1_use_pct is (45) 31%.
-The agent1_rounds is 966.
-The agent1_rating is 0.98.
-The agent1_acs is 194.4.
-The agent1_kd is 0.9.
-The agent1_adr is 132.0.
-The agent1_kast is 72%.
-The agent1_kpr is 0.64.
-The agent1_apr is 0.33.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.08.
-The agent1_kills is 614.
-The agent1_deaths is 679.
-The agent1_assists is 318.
-The agent1_fk is 61.
-The agent1_fd is 77.
-The agent2 is viper.
-The agent2_use_pct is (19) 13%.
-The agent2_rounds is 393.0.
-The agent2_rating is 0.96.
-The agent2_acs is 218.0.
-The agent2_kd is 0.96.
-The agent2_adr is 131.9.
-The agent2_kast is 65%.
-The agent2_kpr is 0.73.
-The agent2_apr is 0.3.
-The agent2_fkpr is 0.13.
-The agent2_fdpr is 0.13.
-The agent2_kills is 288.0.
-The agent2_deaths is 300.0.
-The agent2_assists is 119.0.
-The agent2_fk is 50.0.
-The agent2_fd is 51.0.
-The agent3 is jett.
-The agent3_use_pct is (11) 8%.
-The agent3_rounds is 221.0.
-The agent3_rating is 0.67.
-The agent3_acs is 231.0.
-The agent3_kd is 0.94.
-The agent3_adr is 134.0.
-The agent3_kast is 60%.
-The agent3_kpr is 0.78.
-The agent3_apr is 0.18.
-The agent3_fkpr is 0.17.
-The agent3_fdpr is 0.22.
-The agent3_kills is 173.0.
-The agent3_deaths is 185.0.
-The agent3_assists is 40.0.
-The agent3_fk is 38.0.
-The agent3_fd is 48.0.
-The igl is False.
-The region is oce.
-The level is challenger.
+azoh is a member of EDGE (EDGE). They play in the Oceania region and the VCT 
+challenger circuit. Over their entire career, they have played 1170 rounds 
+with an average rating of 0.87, an average average combat score (ACS) of 189.0, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 122.2, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 19%, and an average clutch success percentage 
+of 14%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 966 rounds they have played sova, 
+they have an average rating of 0.98, an average average combat score (ACS) of 194.4, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 132.0, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.08. Using sova this player has a total of 614 kills, 679 deaths, 
+318 assists, 61 first bloods, and 77 first deaths. Over their entire career, viper is their second most played agent. Over the 393.0 rounds they have played viper, 
+they have an average rating of 0.96, an average average combat score (ACS) of 218.0, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 131.9, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.13. Using viper this player has a total of 288.0 kills, 300.0 deaths, 
+119.0 assists, 50.0 first bloods, and 51.0 first deaths. Over their entire career, jett is their third most played agent. Over the 221.0 rounds they have played jett, 
+they have an average rating of 0.67, an average average combat score (ACS) of 231.0, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 134.0, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.22. Using jett this player has a total of 173.0 kills, 185.0 deaths, 
+40.0 assists, 38.0 first bloods, and 48.0 first deaths. 

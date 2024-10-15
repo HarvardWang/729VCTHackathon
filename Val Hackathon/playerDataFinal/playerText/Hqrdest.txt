@@ -1,69 +1,26 @@
-The player is Hqrdest.
-The org is Bons.
-The agents is ['raze', 'sova'].
-The rounds_played is 355.
-The rating is 0.72.
-The average_combat_score is 198.6.
-The kill_deaths is 0.79.
-The kill_assists_survived_traded is 58%.
-The average_damage_per_round is 120.6.
-The kills_per_round is 0.66.
-The assists_per_round is 0.2.
-The first_kills_per_round is 0.12.
-The first_deaths_per_round is 0.17.
-The headshot_percentage is 13%.
-The clutch_success_percentage is 15%.
-The team_id is 5052.0.
-The team_name is Bonsoir.
-The agent1 is raze.
-The agent1_use_pct is (68) 85%.
-The agent1_rounds is 1368.
-The agent1_rating is 0.84.
-The agent1_acs is 232.0.
-The agent1_kd is 1.04.
-The agent1_adr is 142.5.
-The agent1_kast is 64%.
-The agent1_kpr is 0.77.
-The agent1_apr is 0.27.
-The agent1_fkpr is 0.13.
-The agent1_fdpr is 0.16.
-The agent1_kills is 1060.
-The agent1_deaths is 1022.
-The agent1_assists is 366.
-The agent1_fk is 184.
-The agent1_fd is 197.
-The agent2 is sova.
-The agent2_use_pct is (6) 8%.
-The agent2_rounds is 108.0.
-The agent2_rating is 0.89.
-The agent2_acs is 177.0.
-The agent2_kd is 0.93.
-The agent2_adr is 111.7.
-The agent2_kast is 69%.
-The agent2_kpr is 0.6.
-The agent2_apr is 0.28.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.06.
-The agent2_kills is 65.0.
-The agent2_deaths is 70.0.
-The agent2_assists is 30.0.
-The agent2_fk is 8.0.
-The agent2_fd is 7.0.
-The agent3 is omen.
-The agent3_use_pct is (4) 5%.
-The agent3_rounds is 78.0.
-The agent3_acs is 217.8.
-The agent3_kd is 1.11.
-The agent3_adr is 131.9.
-The agent3_kpr is 0.76.
-The agent3_apr is 0.41.
-The agent3_fkpr is 0.03.
-The agent3_fdpr is 0.09.
-The agent3_kills is 59.0.
-The agent3_deaths is 53.0.
-The agent3_assists is 32.0.
-The agent3_fk is 2.0.
-The agent3_fd is 7.0.
-The igl is False.
-The region is eu.
-The level is international.
+Hqrdest is a member of Bonsoir (Bons). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 355 rounds 
+with an average rating of 0.72, an average average combat score (ACS) of 198.6, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 120.6, an average kill, assist, survive, trade percent (KAST) 
+of 58%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.12, an average first deaths per round (FDPR) 
+of 0.17, an average headshot percentage of 13%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 1368 rounds they have played raze, 
+they have an average rating of 0.84, an average average combat score (ACS) of 232.0, an average kills death ratio 
+of 1.04, an average average damage per round (ADR) of 142.5, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.16. Using raze this player has a total of 1060 kills, 1022 deaths, 
+366 assists, 184 first bloods, and 197 first deaths. Over their entire career, sova is their second most played agent. Over the 108.0 rounds they have played sova, 
+they have an average rating of 0.89, an average average combat score (ACS) of 177.0, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 111.7, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using sova this player has a total of 65.0 kills, 70.0 deaths, 
+30.0 assists, 8.0 first bloods, and 7.0 first deaths. Over their entire career, omen is their third most played agent. Over the 78.0 rounds they have played omen, 
+they have an average rating of Unknown, an average average combat score (ACS) of 217.8, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 131.9, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.41, an average first kills per round (FKPR) of 0.03, and an average first deaths per round (FDPR) 
+of 0.09. Using omen this player has a total of 59.0 kills, 53.0 deaths, 
+32.0 assists, 2.0 first bloods, and 7.0 first deaths. 

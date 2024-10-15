@@ -1,71 +1,26 @@
-The player is cbbk.
-The org is FS.
-The agents is ['viper', 'breach', 'kayo'].
-The rounds_played is 214.
-The rating is 0.75.
-The average_combat_score is 150.9.
-The kill_deaths is 0.68.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 96.3.
-The kills_per_round is 0.49.
-The assists_per_round is 0.33.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 15%.
-The team_id is 4050.0.
-The team_name is FULL SENSE.
-The agent1 is viper.
-The agent1_use_pct is (5) 50%.
-The agent1_rounds is 98.
-The agent1_rating is 0.74.
-The agent1_acs is 156.8.
-The agent1_kd is 0.68.
-The agent1_adr is 104.4.
-The agent1_kast is 62%.
-The agent1_kpr is 0.5.
-The agent1_apr is 0.26.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.05.
-The agent1_kills is 49.
-The agent1_deaths is 72.
-The agent1_assists is 25.
-The agent1_fk is 8.
-The agent1_fd is 5.
-The agent2 is kayo.
-The agent2_use_pct is (3) 30%.
-The agent2_rounds is 66.0.
-The agent2_rating is 0.79.
-The agent2_acs is 161.3.
-The agent2_kd is 0.73.
-The agent2_adr is 100.6.
-The agent2_kast is 64%.
-The agent2_kpr is 0.55.
-The agent2_apr is 0.35.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.15.
-The agent2_kills is 36.0.
-The agent2_deaths is 49.0.
-The agent2_assists is 23.0.
-The agent2_fk is 6.0.
-The agent2_fd is 10.0.
-The agent3 is breach.
-The agent3_use_pct is (2) 20%.
-The agent3_rounds is 50.0.
-The agent3_rating is 0.71.
-The agent3_acs is 120.5.
-The agent3_kd is 0.59.
-The agent3_adr is 74.7.
-The agent3_kast is 80%.
-The agent3_kpr is 0.4.
-The agent3_apr is 0.46.
-The agent3_fkpr is 0.04.
-The agent3_fdpr is 0.1.
-The agent3_kills is 20.0.
-The agent3_deaths is 34.0.
-The agent3_assists is 23.0.
-The agent3_fk is 2.0.
-The agent3_fd is 5.0.
-The igl is False.
-The region is ap.
-The level is international.
+cbbk is a member of FULL SENSE (FS). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 214 rounds 
+with an average rating of 0.75, an average average combat score (ACS) of 150.9, an average kills death ratio 
+of 0.68, an average average damage per round (ADR) of 96.3, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.49, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 21%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 98 rounds they have played viper, 
+they have an average rating of 0.74, an average average combat score (ACS) of 156.8, an average kills death ratio 
+of 0.68, an average average damage per round (ADR) of 104.4, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.5, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.05. Using viper this player has a total of 49 kills, 72 deaths, 
+25 assists, 8 first bloods, and 5 first deaths. Over their entire career, kayo is their second most played agent. Over the 66.0 rounds they have played kayo, 
+they have an average rating of 0.79, an average average combat score (ACS) of 161.3, an average kills death ratio 
+of 0.73, an average average damage per round (ADR) of 100.6, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.55, an average assists per round (APR) 
+of 0.35, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.15. Using kayo this player has a total of 36.0 kills, 49.0 deaths, 
+23.0 assists, 6.0 first bloods, and 10.0 first deaths. Over their entire career, breach is their third most played agent. Over the 50.0 rounds they have played breach, 
+they have an average rating of 0.71, an average average combat score (ACS) of 120.5, an average kills death ratio 
+of 0.59, an average average damage per round (ADR) of 74.7, an average kill, assist, survive, trade percent (KAST) 
+of 80%, an average kills per round (KPR) of 0.4, an average assists per round (APR) 
+of 0.46, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.1. Using breach this player has a total of 20.0 kills, 34.0 deaths, 
+23.0 assists, 2.0 first bloods, and 5.0 first deaths. 

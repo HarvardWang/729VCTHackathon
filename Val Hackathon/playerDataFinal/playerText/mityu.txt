@@ -1,71 +1,26 @@
-The player is mityu.
-The org is CGST.
-The agents is ['breach', 'skye', 'kayo'].
-The rounds_played is 230.
-The rating is 0.9.
-The average_combat_score is 155.1.
-The kill_deaths is 0.75.
-The kill_assists_survived_traded is 74%.
-The average_damage_per_round is 100.9.
-The kills_per_round is 0.52.
-The assists_per_round is 0.47.
-The first_kills_per_round is 0.04.
-The first_deaths_per_round is 0.02.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 18%.
-The team_id is 9526.0.
-The team_name is Insomnia GC.
-The agent1 is breach.
-The agent1_use_pct is (14) 37%.
-The agent1_rounds is 290.
-The agent1_rating is 0.98.
-The agent1_acs is 157.9.
-The agent1_kd is 0.85.
-The agent1_adr is 103.3.
-The agent1_kast is 77%.
-The agent1_kpr is 0.56.
-The agent1_apr is 0.51.
-The agent1_fkpr is 0.04.
-The agent1_fdpr is 0.03.
-The agent1_kills is 163.
-The agent1_deaths is 191.
-The agent1_assists is 149.
-The agent1_fk is 12.
-The agent1_fd is 10.
-The agent2 is skye.
-The agent2_use_pct is (7) 18%.
-The agent2_rounds is 138.0.
-The agent2_rating is 0.93.
-The agent2_acs is 164.1.
-The agent2_kd is 0.81.
-The agent2_adr is 101.5.
-The agent2_kast is 76%.
-The agent2_kpr is 0.53.
-The agent2_apr is 0.54.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.06.
-The agent2_kills is 73.0.
-The agent2_deaths is 90.0.
-The agent2_assists is 75.0.
-The agent2_fk is 9.0.
-The agent2_fd is 8.0.
-The agent3 is kayo.
-The agent3_use_pct is (6) 16%.
-The agent3_rounds is 103.0.
-The agent3_rating is 1.13.
-The agent3_acs is 189.7.
-The agent3_kd is 1.1.
-The agent3_adr is 122.8.
-The agent3_kast is 78%.
-The agent3_kpr is 0.67.
-The agent3_apr is 0.52.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.06.
-The agent3_kills is 69.0.
-The agent3_deaths is 63.0.
-The agent3_assists is 54.0.
-The agent3_fk is 8.0.
-The agent3_fd is 6.0.
-The igl is False.
-The region is jp.
-The level is game-changer.
+mityu is a member of Insomnia GC (CGST). They play in the Japan region and the VCT 
+game-changer circuit. Over their entire career, they have played 230 rounds 
+with an average rating of 0.9, an average average combat score (ACS) of 155.1, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 100.9, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.52, an average assists per round (APR) 
+of 0.47, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.02, an average headshot percentage of 20%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 290 rounds they have played breach, 
+they have an average rating of 0.98, an average average combat score (ACS) of 157.9, an average kills death ratio 
+of 0.85, an average average damage per round (ADR) of 103.3, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.51, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.03. Using breach this player has a total of 163 kills, 191 deaths, 
+149 assists, 12 first bloods, and 10 first deaths. Over their entire career, skye is their second most played agent. Over the 138.0 rounds they have played skye, 
+they have an average rating of 0.93, an average average combat score (ACS) of 164.1, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 101.5, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.53, an average assists per round (APR) 
+of 0.54, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using skye this player has a total of 73.0 kills, 90.0 deaths, 
+75.0 assists, 9.0 first bloods, and 8.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 103.0 rounds they have played kayo, 
+they have an average rating of 1.13, an average average combat score (ACS) of 189.7, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 122.8, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.52, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.06. Using kayo this player has a total of 69.0 kills, 63.0 deaths, 
+54.0 assists, 8.0 first bloods, and 6.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Limp.
-The org is BPC.
-The agents is ['cypher', 'sage', 'omen'].
-The rounds_played is 476.
-The rating is 0.86.
-The average_combat_score is 183.7.
-The kill_deaths is 0.8.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 126.7.
-The kills_per_round is 0.64.
-The assists_per_round is 0.21.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 6%.
-The team_id is 15350.0.
-The team_name is Brewton Parker College.
-The agent1 is omen.
-The agent1_use_pct is (79) 41%.
-The agent1_rounds is 1662.
-The agent1_rating is 1.04.
-The agent1_acs is 203.0.
-The agent1_kd is 1.01.
-The agent1_adr is 130.3.
-The agent1_kast is 72%.
-The agent1_kpr is 0.72.
-The agent1_apr is 0.35.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.07.
-The agent1_kills is 1190.
-The agent1_deaths is 1173.
-The agent1_assists is 585.
-The agent1_fk is 128.
-The agent1_fd is 119.
-The agent2 is killjoy.
-The agent2_use_pct is (24) 12%.
-The agent2_rounds is 487.0.
-The agent2_rating is 0.96.
-The agent2_acs is 196.0.
-The agent2_kd is 0.98.
-The agent2_adr is 138.5.
-The agent2_kast is 73%.
-The agent2_kpr is 0.7.
-The agent2_apr is 0.19.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.08.
-The agent2_kills is 339.0.
-The agent2_deaths is 345.0.
-The agent2_assists is 94.0.
-The agent2_fk is 45.0.
-The agent2_fd is 41.0.
-The agent3 is raze.
-The agent3_use_pct is (17) 9%.
-The agent3_rounds is 327.0.
-The agent3_rating is 1.0.
-The agent3_acs is 222.4.
-The agent3_kd is 1.01.
-The agent3_adr is 151.2.
-The agent3_kast is 67%.
-The agent3_kpr is 0.77.
-The agent3_apr is 0.2.
-The agent3_fkpr is 0.16.
-The agent3_fdpr is 0.1.
-The agent3_kills is 253.0.
-The agent3_deaths is 250.0.
-The agent3_assists is 67.0.
-The agent3_fk is 51.0.
-The agent3_fd is 33.0.
-The igl is False.
-The region is eu.
-The level is challenger.
+Limp is a member of Brewton Parker College (BPC). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 476 rounds 
+with an average rating of 0.86, an average average combat score (ACS) of 183.7, an average kills death ratio 
+of 0.8, an average average damage per round (ADR) of 126.7, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 27%, and an average clutch success percentage 
+of 6%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 1662 rounds they have played omen, 
+they have an average rating of 1.04, an average average combat score (ACS) of 203.0, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 130.3, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.35, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.07. Using omen this player has a total of 1190 kills, 1173 deaths, 
+585 assists, 128 first bloods, and 119 first deaths. Over their entire career, killjoy is their second most played agent. Over the 487.0 rounds they have played killjoy, 
+they have an average rating of 0.96, an average average combat score (ACS) of 196.0, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 138.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.08. Using killjoy this player has a total of 339.0 kills, 345.0 deaths, 
+94.0 assists, 45.0 first bloods, and 41.0 first deaths. Over their entire career, raze is their third most played agent. Over the 327.0 rounds they have played raze, 
+they have an average rating of 1.0, an average average combat score (ACS) of 222.4, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 151.2, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.1. Using raze this player has a total of 253.0 kills, 250.0 deaths, 
+67.0 assists, 51.0 first bloods, and 33.0 first deaths. 

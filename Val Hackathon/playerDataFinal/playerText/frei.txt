@@ -1,71 +1,26 @@
-The player is frei.
-The org is RIX.
-The agents is ['breach', 'raze', 'cypher'].
-The rounds_played is 1720.
-The rating is 1.02.
-The average_combat_score is 213.3.
-The kill_deaths is 1.07.
-The kill_assists_survived_traded is 70%.
-The average_damage_per_round is 137.1.
-The kills_per_round is 0.75.
-The assists_per_round is 0.27.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 26%.
-The clutch_success_percentage is 13%.
-The team_id is 2373.0.
-The team_name is Rix.GG Thunder.
-The agent1 is cypher.
-The agent1_use_pct is (56) 33%.
-The agent1_rounds is 1196.
-The agent1_rating is 1.2.
-The agent1_acs is 219.5.
-The agent1_kd is 1.2.
-The agent1_adr is 134.9.
-The agent1_kast is 79%.
-The agent1_kpr is 0.79.
-The agent1_apr is 0.25.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.07.
-The agent1_kills is 942.
-The agent1_deaths is 788.
-The agent1_assists is 300.
-The agent1_fk is 107.
-The agent1_fd is 77.
-The agent2 is viper.
-The agent2_use_pct is (40) 23%.
-The agent2_rounds is 810.0.
-The agent2_rating is 1.11.
-The agent2_acs is 216.8.
-The agent2_kd is 1.18.
-The agent2_adr is 136.4.
-The agent2_kast is 75%.
-The agent2_kpr is 0.76.
-The agent2_apr is 0.33.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.08.
-The agent2_kills is 617.0.
-The agent2_deaths is 523.0.
-The agent2_assists is 271.0.
-The agent2_fk is 75.0.
-The agent2_fd is 63.0.
-The agent3 is breach.
-The agent3_use_pct is (24) 14%.
-The agent3_rounds is 464.0.
-The agent3_rating is 1.11.
-The agent3_acs is 216.3.
-The agent3_kd is 1.17.
-The agent3_adr is 140.1.
-The agent3_kast is 77%.
-The agent3_kpr is 0.78.
-The agent3_apr is 0.47.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.06.
-The agent3_kills is 360.0.
-The agent3_deaths is 308.0.
-The agent3_assists is 220.0.
-The agent3_fk is 36.0.
-The agent3_fd is 29.0.
-The igl is False.
-The region is eu.
-The level is international.
+frei is a member of Rix.GG Thunder (RIX). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 1720 rounds 
+with an average rating of 1.02, an average average combat score (ACS) of 213.3, an average kills death ratio 
+of 1.07, an average average damage per round (ADR) of 137.1, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 26%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, cypher is their most played agent. Over the 1196 rounds they have played cypher, 
+they have an average rating of 1.2, an average average combat score (ACS) of 219.5, an average kills death ratio 
+of 1.2, an average average damage per round (ADR) of 134.9, an average kill, assist, survive, trade percent (KAST) 
+of 79%, an average kills per round (KPR) of 0.79, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using cypher this player has a total of 942 kills, 788 deaths, 
+300 assists, 107 first bloods, and 77 first deaths. Over their entire career, viper is their second most played agent. Over the 810.0 rounds they have played viper, 
+they have an average rating of 1.11, an average average combat score (ACS) of 216.8, an average kills death ratio 
+of 1.18, an average average damage per round (ADR) of 136.4, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.08. Using viper this player has a total of 617.0 kills, 523.0 deaths, 
+271.0 assists, 75.0 first bloods, and 63.0 first deaths. Over their entire career, breach is their third most played agent. Over the 464.0 rounds they have played breach, 
+they have an average rating of 1.11, an average average combat score (ACS) of 216.3, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 140.1, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.47, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.06. Using breach this player has a total of 360.0 kills, 308.0 deaths, 
+220.0 assists, 36.0 first bloods, and 29.0 first deaths. 

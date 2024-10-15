@@ -1,71 +1,26 @@
-The player is Ticey.
-The org is SNS.
-The agents is ['chamber', 'raze', 'jett'].
-The rounds_played is 1977.
-The rating is 1.04.
-The average_combat_score is 228.8.
-The kill_deaths is 1.06.
-The kill_assists_survived_traded is 70%.
-The average_damage_per_round is 150.9.
-The kills_per_round is 0.79.
-The assists_per_round is 0.22.
-The first_kills_per_round is 0.17.
-The first_deaths_per_round is 0.18.
-The headshot_percentage is 18%.
-The clutch_success_percentage is 13%.
-The team_id is 14467.0.
-The team_name is SweetNsour.
-The agent1 is raze.
-The agent1_use_pct is (81) 53%.
-The agent1_rounds is 1727.
-The agent1_rating is 1.13.
-The agent1_acs is 251.7.
-The agent1_kd is 1.13.
-The agent1_adr is 166.9.
-The agent1_kast is 72%.
-The agent1_kpr is 0.84.
-The agent1_apr is 0.27.
-The agent1_fkpr is 0.16.
-The agent1_fdpr is 0.17.
-The agent1_kills is 1452.
-The agent1_deaths is 1288.
-The agent1_assists is 458.
-The agent1_fk is 282.
-The agent1_fd is 301.
-The agent2 is jett.
-The agent2_use_pct is (47) 31%.
-The agent2_rounds is 1011.0.
-The agent2_rating is 1.06.
-The agent2_acs is 233.6.
-The agent2_kd is 1.08.
-The agent2_adr is 151.5.
-The agent2_kast is 69%.
-The agent2_kpr is 0.82.
-The agent2_apr is 0.17.
-The agent2_fkpr is 0.21.
-The agent2_fdpr is 0.19.
-The agent2_kills is 834.0.
-The agent2_deaths is 771.0.
-The agent2_assists is 174.0.
-The agent2_fk is 209.0.
-The agent2_fd is 193.0.
-The agent3 is skye.
-The agent3_use_pct is (10) 7%.
-The agent3_rounds is 217.0.
-The agent3_rating is 1.0.
-The agent3_acs is 186.9.
-The agent3_kd is 0.96.
-The agent3_adr is 125.4.
-The agent3_kast is 71%.
-The agent3_kpr is 0.66.
-The agent3_apr is 0.41.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.11.
-The agent3_kills is 143.0.
-The agent3_deaths is 149.0.
-The agent3_assists is 89.0.
-The agent3_fk is 15.0.
-The agent3_fd is 24.0.
-The igl is False.
-The region is eu.
-The level is challenger.
+Ticey is a member of SweetNsour (SNS). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 1977 rounds 
+with an average rating of 1.04, an average average combat score (ACS) of 228.8, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 150.9, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.79, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.17, an average first deaths per round (FDPR) 
+of 0.18, an average headshot percentage of 18%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 1727 rounds they have played raze, 
+they have an average rating of 1.13, an average average combat score (ACS) of 251.7, an average kills death ratio 
+of 1.13, an average average damage per round (ADR) of 166.9, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.17. Using raze this player has a total of 1452 kills, 1288 deaths, 
+458 assists, 282 first bloods, and 301 first deaths. Over their entire career, jett is their second most played agent. Over the 1011.0 rounds they have played jett, 
+they have an average rating of 1.06, an average average combat score (ACS) of 233.6, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 151.5, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.21, and an average first deaths per round (FDPR) 
+of 0.19. Using jett this player has a total of 834.0 kills, 771.0 deaths, 
+174.0 assists, 209.0 first bloods, and 193.0 first deaths. Over their entire career, skye is their third most played agent. Over the 217.0 rounds they have played skye, 
+they have an average rating of 1.0, an average average combat score (ACS) of 186.9, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 125.4, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.41, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.11. Using skye this player has a total of 143.0 kills, 149.0 deaths, 
+89.0 assists, 15.0 first bloods, and 24.0 first deaths. 

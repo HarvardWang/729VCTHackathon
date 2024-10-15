@@ -1,138 +1,50 @@
-The player is superkata.
-The org is NES.
-The agents is ['jett', 'neon'].
-The rounds_played is 279.
-The rating is 0.88.
-The average_combat_score is 199.2.
-The kill_deaths is 0.91.
-The kill_assists_survived_traded is 66%.
-The average_damage_per_round is 135.9.
-The kills_per_round is 0.7.
-The assists_per_round is 0.17.
-The first_kills_per_round is 0.2.
-The first_deaths_per_round is 0.21.
-The headshot_percentage is 29%.
-The clutch_success_percentage is 18%.
-The team_id is 16334.0.
-The team_name is Niory Esports.
-The agent1 is neon.
-The agent1_use_pct is (16) 44%.
-The agent1_rounds is 322.
-The agent1_rating is 1.05.
-The agent1_acs is 242.9.
-The agent1_kd is 1.12.
-The agent1_adr is 159.3.
-The agent1_kast is 71%.
-The agent1_kpr is 0.84.
-The agent1_apr is 0.22.
-The agent1_fkpr is 0.22.
-The agent1_fdpr is 0.18.
-The agent1_kills is 269.
-The agent1_deaths is 240.
-The agent1_assists is 71.
-The agent1_fk is 72.
-The agent1_fd is 57.
-The agent2 is jett.
-The agent2_use_pct is (13) 36%.
-The agent2_rounds is 271.0.
-The agent2_rating is 1.02.
-The agent2_acs is 230.8.
-The agent2_kd is 1.1.
-The agent2_adr is 146.7.
-The agent2_kast is 68%.
-The agent2_kpr is 0.84.
-The agent2_apr is 0.11.
-The agent2_fkpr is 0.18.
-The agent2_fdpr is 0.18.
-The agent2_kills is 227.0.
-The agent2_deaths is 207.0.
-The agent2_assists is 31.0.
-The agent2_fk is 50.0.
-The agent2_fd is 49.0.
-The agent3 is cypher.
-The agent3_use_pct is (3) 8%.
-The agent3_rounds is 65.0.
-The agent3_rating is 1.14.
-The agent3_acs is 245.7.
-The agent3_kd is 1.19.
-The agent3_adr is 153.6.
-The agent3_kast is 77%.
-The agent3_kpr is 0.88.
-The agent3_apr is 0.29.
-The agent3_fkpr is 0.14.
-The agent3_fdpr is 0.11.
-The agent3_kills is 57.0.
-The agent3_deaths is 48.0.
-The agent3_assists is 19.0.
-The agent3_fk is 9.0.
-The agent3_fd is 7.0.
-The igl is False.
-The region is ap.
-The level is international.
-The org30 is NES.
-The agents30 is ['jett', 'neon'].
-The rounds_played30 is 279.0.
-The rating30 is 0.88.
-The average_combat_score30 is 199.2.
-The kill_deaths30 is 0.91.
-The kill_assists_survived_traded30 is 66%.
-The average_damage_per_round30 is 135.9.
-The kills_per_round30 is 0.7.
-The assists_per_round30 is 0.17.
-The first_kills_per_round30 is 0.2.
-The first_deaths_per_round30 is 0.21.
-The headshot_percentage30 is 29%.
-The clutch_success_percentage30 is 18%.
-The team_id30 is 16334.0.
-The team_name30 is Niory Esports.
-The agent130 is neon.
-The agent1_use_pct30 is (16) 44%.
-The agent1_rounds30 is 322.0.
-The agent1_rating30 is 1.05.
-The agent1_acs30 is 242.9.
-The agent1_kd30 is 1.12.
-The agent1_adr30 is 159.3.
-The agent1_kast30 is 71%.
-The agent1_kpr30 is 0.84.
-The agent1_apr30 is 0.22.
-The agent1_fkpr30 is 0.22.
-The agent1_fdpr30 is 0.18.
-The agent1_kills30 is 269.0.
-The agent1_deaths30 is 240.0.
-The agent1_assists30 is 71.0.
-The agent1_fk30 is 72.0.
-The agent1_fd30 is 57.0.
-The agent230 is jett.
-The agent2_use_pct30 is (13) 36%.
-The agent2_rounds30 is 271.0.
-The agent2_rating30 is 1.02.
-The agent2_acs30 is 230.8.
-The agent2_kd30 is 1.1.
-The agent2_adr30 is 146.7.
-The agent2_kast30 is 68%.
-The agent2_kpr30 is 0.84.
-The agent2_apr30 is 0.11.
-The agent2_fkpr30 is 0.18.
-The agent2_fdpr30 is 0.18.
-The agent2_kills30 is 227.0.
-The agent2_deaths30 is 207.0.
-The agent2_assists30 is 31.0.
-The agent2_fk30 is 50.0.
-The agent2_fd30 is 49.0.
-The agent330 is cypher.
-The agent3_use_pct30 is (3) 8%.
-The agent3_rounds30 is 65.0.
-The agent3_rating30 is 1.14.
-The agent3_acs30 is 245.7.
-The agent3_kd30 is 1.19.
-The agent3_adr30 is 153.6.
-The agent3_kast30 is 77%.
-The agent3_kpr30 is 0.88.
-The agent3_apr30 is 0.29.
-The agent3_fkpr30 is 0.14.
-The agent3_fdpr30 is 0.11.
-The agent3_kills30 is 57.0.
-The agent3_deaths30 is 48.0.
-The agent3_assists30 is 19.0.
-The agent3_fk30 is 9.0.
-The agent3_fd30 is 7.0.
+superkata is a member of Niory Esports (NES). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 279 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 199.2, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 135.9, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.2, an average first deaths per round (FDPR) 
+of 0.21, an average headshot percentage of 29%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, neon is their most played agent. Over the 322 rounds they have played neon, 
+they have an average rating of 1.05, an average average combat score (ACS) of 242.9, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 159.3, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.22, and an average first deaths per round (FDPR) 
+of 0.18. Using neon this player has a total of 269 kills, 240 deaths, 
+71 assists, 72 first bloods, and 57 first deaths. Over their entire career, jett is their second most played agent. Over the 271.0 rounds they have played jett, 
+they have an average rating of 1.02, an average average combat score (ACS) of 230.8, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 146.7, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.11, an average first kills per round (FKPR) of 0.18, and an average first deaths per round (FDPR) 
+of 0.18. Using jett this player has a total of 227.0 kills, 207.0 deaths, 
+31.0 assists, 50.0 first bloods, and 49.0 first deaths. Over their entire career, cypher is their third most played agent. Over the 65.0 rounds they have played cypher, 
+they have an average rating of 1.14, an average average combat score (ACS) of 245.7, an average kills death ratio 
+of 1.19, an average average damage per round (ADR) of 153.6, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.88, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.11. Using cypher this player has a total of 57.0 kills, 48.0 deaths, 
+19.0 assists, 9.0 first bloods, and 7.0 first deaths. Over the past thirty days, superkata has played 279.0 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 199.2, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 135.9, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.2, an average first deaths per round (FDPR) 
+of 0.21, an average headshot percentage of 29%, and an average clutch success percentage 
+of 18%. Over the past thirty days, neon is their most played agent. Over the 322.0 rounds they have played neon, 
+they have an average rating of 1.05, an average average combat score (ACS) of 242.9, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 159.3, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.22, and an average first deaths per round (FDPR) 
+of 0.18. Using neon this player has a total of 269.0 kills, 240.0 deaths, 
+71.0 assists, 72.0 first bloods, and 57.0 first deaths. Over the past thirty days, jett is their second most played agent. Over the 271.0 rounds they have played jett, 
+they have an average rating of 1.02, an average average combat score (ACS) of 230.8, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 146.7, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.11, an average first kills per round (FKPR) of 0.18, and an average first deaths per round (FDPR) 
+of 0.18. Using jett this player has a total of 227.0 kills, 207.0 deaths, 
+31.0 assists, 50.0 first bloods, and 49.0 first deaths. Over the past thirty days, cypher is their third most played agent. Over the 65.0 rounds they have played cypher, 
+they have an average rating of 1.14, an average average combat score (ACS) of 245.7, an average kills death ratio 
+of 1.19, an average average damage per round (ADR) of 153.6, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.88, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.11. Using cypher this player has a total of 57.0 kills, 48.0 deaths, 
+19.0 assists, 9.0 first bloods, and 7.0 first deaths. 

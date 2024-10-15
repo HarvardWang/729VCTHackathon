@@ -1,69 +1,26 @@
-The player is donQ.
-The org is (+1).
-The agents is ['omen', 'brimstone', 'astra'].
-The rounds_played is 1211.
-The rating is 1.03.
-The average_combat_score is 178.8.
-The kill_deaths is 0.97.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 118.6.
-The kills_per_round is 0.67.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 31%.
-The clutch_success_percentage is 13%.
-The team_id is 6139.0.
-The team_name is 19esports.
-The agent1 is omen.
-The agent1_use_pct is (133) 79%.
-The agent1_rounds is 2681.
-The agent1_rating is 1.11.
-The agent1_acs is 202.2.
-The agent1_kd is 1.2.
-The agent1_adr is 129.7.
-The agent1_kast is 75%.
-The agent1_kpr is 0.75.
-The agent1_apr is 0.24.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.06.
-The agent1_kills is 2017.
-The agent1_deaths is 1683.
-The agent1_assists is 654.
-The agent1_fk is 183.
-The agent1_fd is 158.
-The agent2 is brimstone.
-The agent2_use_pct is (17) 10%.
-The agent2_rounds is 323.0.
-The agent2_acs is 218.8.
-The agent2_kd is 1.4.
-The agent2_adr is 154.7.
-The agent2_kpr is 0.83.
-The agent2_apr is 0.26.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.07.
-The agent2_kills is 267.0.
-The agent2_deaths is 191.0.
-The agent2_assists is 83.0.
-The agent2_fk is 28.0.
-The agent2_fd is 16.0.
-The agent3 is viper.
-The agent3_use_pct is (10) 6%.
-The agent3_rounds is 206.0.
-The agent3_rating is 1.04.
-The agent3_acs is 195.4.
-The agent3_kd is 1.06.
-The agent3_adr is 130.1.
-The agent3_kast is 74%.
-The agent3_kpr is 0.71.
-The agent3_apr is 0.31.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.05.
-The agent3_kills is 147.0.
-The agent3_deaths is 139.0.
-The agent3_assists is 64.0.
-The agent3_fk is 12.0.
-The agent3_fd is 11.0.
-The igl is False.
-The region is eu.
-The level is international.
+donQ is a member of 19esports ((+1)). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 1211 rounds 
+with an average rating of 1.03, an average average combat score (ACS) of 178.8, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 118.6, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 31%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 2681 rounds they have played omen, 
+they have an average rating of 1.11, an average average combat score (ACS) of 202.2, an average kills death ratio 
+of 1.2, an average average damage per round (ADR) of 129.7, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using omen this player has a total of 2017 kills, 1683 deaths, 
+654 assists, 183 first bloods, and 158 first deaths. Over their entire career, brimstone is their second most played agent. Over the 323.0 rounds they have played brimstone, 
+they have an average rating of Unknown, an average average combat score (ACS) of 218.8, an average kills death ratio 
+of 1.4, an average average damage per round (ADR) of 154.7, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.83, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using brimstone this player has a total of 267.0 kills, 191.0 deaths, 
+83.0 assists, 28.0 first bloods, and 16.0 first deaths. Over their entire career, viper is their third most played agent. Over the 206.0 rounds they have played viper, 
+they have an average rating of 1.04, an average average combat score (ACS) of 195.4, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 130.1, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.05. Using viper this player has a total of 147.0 kills, 139.0 deaths, 
+64.0 assists, 12.0 first bloods, and 11.0 first deaths. 

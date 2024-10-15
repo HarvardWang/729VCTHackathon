@@ -1,71 +1,26 @@
-The player is Legedien.
-The org is Up.
-The agents is ['raze', 'jett', 'chamber'].
-The rounds_played is 220.
-The rating is 0.83.
-The average_combat_score is 193.9.
-The kill_deaths is 0.78.
-The kill_assists_survived_traded is 62%.
-The average_damage_per_round is 133.8.
-The kills_per_round is 0.66.
-The assists_per_round is 0.15.
-The first_kills_per_round is 0.12.
-The first_deaths_per_round is 0.16.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 7%.
-The team_id is 6782.0.
-The team_name is Up Next.
-The agent1 is jett.
-The agent1_use_pct is (26) 87%.
-The agent1_rounds is 551.
-The agent1_rating is 0.95.
-The agent1_acs is 213.0.
-The agent1_kd is 0.97.
-The agent1_adr is 140.6.
-The agent1_kast is 66%.
-The agent1_kpr is 0.74.
-The agent1_apr is 0.15.
-The agent1_fkpr is 0.14.
-The agent1_fdpr is 0.16.
-The agent1_kills is 407.
-The agent1_deaths is 418.
-The agent1_assists is 80.
-The agent1_fk is 79.
-The agent1_fd is 89.
-The agent2 is chamber.
-The agent2_use_pct is (2) 7%.
-The agent2_rounds is 37.0.
-The agent2_rating is 0.7.
-The agent2_acs is 159.0.
-The agent2_kd is 0.69.
-The agent2_adr is 112.3.
-The agent2_kast is 57%.
-The agent2_kpr is 0.54.
-The agent2_apr is 0.11.
-The agent2_fkpr is 0.05.
-The agent2_fdpr is 0.16.
-The agent2_kills is 20.0.
-The agent2_deaths is 29.0.
-The agent2_assists is 4.0.
-The agent2_fk is 2.0.
-The agent2_fd is 6.0.
-The agent3 is raze.
-The agent3_use_pct is (1) 3%.
-The agent3_rounds is 21.0.
-The agent3_rating is 0.69.
-The agent3_acs is 151.0.
-The agent3_kd is 0.5.
-The agent3_adr is 115.3.
-The agent3_kast is 71%.
-The agent3_kpr is 0.38.
-The agent3_apr is 0.62.
-The agent3_fkpr is 0.0.
-The agent3_fdpr is 0.19.
-The agent3_kills is 8.0.
-The agent3_deaths is 16.0.
-The agent3_assists is 13.0.
-The agent3_fk is 0.0.
-The agent3_fd is 4.0.
-The igl is False.
-The region is na.
-The level is international.
+Legedien is a member of Up Next (Up). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 220 rounds 
+with an average rating of 0.83, an average average combat score (ACS) of 193.9, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 133.8, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.12, an average first deaths per round (FDPR) 
+of 0.16, an average headshot percentage of 27%, and an average clutch success percentage 
+of 7%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 551 rounds they have played jett, 
+they have an average rating of 0.95, an average average combat score (ACS) of 213.0, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 140.6, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.16. Using jett this player has a total of 407 kills, 418 deaths, 
+80 assists, 79 first bloods, and 89 first deaths. Over their entire career, chamber is their second most played agent. Over the 37.0 rounds they have played chamber, 
+they have an average rating of 0.7, an average average combat score (ACS) of 159.0, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 112.3, an average kill, assist, survive, trade percent (KAST) 
+of 57%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.11, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.16. Using chamber this player has a total of 20.0 kills, 29.0 deaths, 
+4.0 assists, 2.0 first bloods, and 6.0 first deaths. Over their entire career, raze is their third most played agent. Over the 21.0 rounds they have played raze, 
+they have an average rating of 0.69, an average average combat score (ACS) of 151.0, an average kills death ratio 
+of 0.5, an average average damage per round (ADR) of 115.3, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.38, an average assists per round (APR) 
+of 0.62, an average first kills per round (FKPR) of 0.0, and an average first deaths per round (FDPR) 
+of 0.19. Using raze this player has a total of 8.0 kills, 16.0 deaths, 
+13.0 assists, 0.0 first bloods, and 4.0 first deaths. 

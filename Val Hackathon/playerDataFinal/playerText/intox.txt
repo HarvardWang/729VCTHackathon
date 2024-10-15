@@ -1,71 +1,26 @@
-The player is intox.
-The org is PUGS.
-The agents is ['reyna', 'breach', 'jett'].
-The rounds_played is 3803.
-The rating is 0.96.
-The average_combat_score is 192.2.
-The kill_deaths is 0.9.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 125.8.
-The kills_per_round is 0.66.
-The assists_per_round is 0.29.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 11%.
-The team_id is 2938.0.
-The team_name is PUGSTARS.
-The agent1 is sova.
-The agent1_use_pct is (154) 34%.
-The agent1_rounds is 3142.
-The agent1_rating is 1.1.
-The agent1_acs is 212.7.
-The agent1_kd is 1.08.
-The agent1_adr is 141.8.
-The agent1_kast is 74%.
-The agent1_kpr is 0.73.
-The agent1_apr is 0.33.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.06.
-The agent1_kills is 2296.
-The agent1_deaths is 2134.
-The agent1_assists is 1039.
-The agent1_fk is 210.
-The agent1_fd is 194.
-The agent2 is killjoy.
-The agent2_use_pct is (38) 8%.
-The agent2_rounds is 762.0.
-The agent2_rating is 1.05.
-The agent2_acs is 214.7.
-The agent2_kd is 1.07.
-The agent2_adr is 138.2.
-The agent2_kast is 71%.
-The agent2_kpr is 0.74.
-The agent2_apr is 0.22.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.09.
-The agent2_kills is 565.0.
-The agent2_deaths is 528.0.
-The agent2_assists is 170.0.
-The agent2_fk is 80.0.
-The agent2_fd is 72.0.
-The agent3 is reyna.
-The agent3_use_pct is (37) 8%.
-The agent3_rounds is 761.0.
-The agent3_rating is 1.38.
-The agent3_acs is 226.9.
-The agent3_kd is 1.22.
-The agent3_adr is 139.4.
-The agent3_kast is 76%.
-The agent3_kpr is 0.81.
-The agent3_apr is 0.23.
-The agent3_fkpr is 0.12.
-The agent3_fdpr is 0.1.
-The agent3_kills is 619.0.
-The agent3_deaths is 509.0.
-The agent3_assists is 177.0.
-The agent3_fk is 89.0.
-The agent3_fd is 75.0.
-The igl is False.
-The region is na.
-The level is international.
+intox is a member of PUGSTARS (PUGS). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 3803 rounds 
+with an average rating of 0.96, an average average combat score (ACS) of 192.2, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 125.8, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 21%, and an average clutch success percentage 
+of 11%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 3142 rounds they have played sova, 
+they have an average rating of 1.1, an average average combat score (ACS) of 212.7, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 141.8, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using sova this player has a total of 2296 kills, 2134 deaths, 
+1039 assists, 210 first bloods, and 194 first deaths. Over their entire career, killjoy is their second most played agent. Over the 762.0 rounds they have played killjoy, 
+they have an average rating of 1.05, an average average combat score (ACS) of 214.7, an average kills death ratio 
+of 1.07, an average average damage per round (ADR) of 138.2, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.09. Using killjoy this player has a total of 565.0 kills, 528.0 deaths, 
+170.0 assists, 80.0 first bloods, and 72.0 first deaths. Over their entire career, reyna is their third most played agent. Over the 761.0 rounds they have played reyna, 
+they have an average rating of 1.38, an average average combat score (ACS) of 226.9, an average kills death ratio 
+of 1.22, an average average damage per round (ADR) of 139.4, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.81, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.1. Using reyna this player has a total of 619.0 kills, 509.0 deaths, 
+177.0 assists, 89.0 first bloods, and 75.0 first deaths. 

@@ -1,63 +1,26 @@
-The player is JP2.
-The org is CN.
-The agents is ['breach', 'cypher'].
-The rounds_played is 483.
-The average_combat_score is 156.0.
-The kill_deaths is 0.71.
-The average_damage_per_round is 107.8.
-The kills_per_round is 0.53.
-The assists_per_round is 0.36.
-The first_kills_per_round is 0.04.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 19%.
-The team_id is 2128.0.
-The team_name is Carpe Noctem.
-The agent1 is breach.
-The agent1_use_pct is (31) 46%.
-The agent1_rounds is 661.
-The agent1_acs is 156.8.
-The agent1_kd is 0.87.
-The agent1_adr is 98.6.
-The agent1_kpr is 0.58.
-The agent1_apr is 0.44.
-The agent1_fkpr is 0.05.
-The agent1_fdpr is 0.05.
-The agent1_kills is 383.
-The agent1_deaths is 439.
-The agent1_assists is 292.
-The agent1_fk is 30.
-The agent1_fd is 34.
-The agent2 is cypher.
-The agent2_use_pct is (29) 43%.
-The agent2_rounds is 607.0.
-The agent2_acs is 168.9.
-The agent2_kd is 0.86.
-The agent2_adr is 112.7.
-The agent2_kpr is 0.61.
-The agent2_apr is 0.28.
-The agent2_fkpr is 0.04.
-The agent2_fdpr is 0.06.
-The agent2_kills is 368.0.
-The agent2_deaths is 430.0.
-The agent2_assists is 170.0.
-The agent2_fk is 26.0.
-The agent2_fd is 36.0.
-The agent3 is killjoy.
-The agent3_use_pct is (7) 10%.
-The agent3_rounds is 150.0.
-The agent3_acs is 202.9.
-The agent3_kd is 1.16.
-The agent3_adr is 145.3.
-The agent3_kpr is 0.75.
-The agent3_apr is 0.15.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.03.
-The agent3_kills is 113.0.
-The agent3_deaths is 97.0.
-The agent3_assists is 23.0.
-The agent3_fk is 10.0.
-The agent3_fd is 4.0.
-The igl is False.
-The region is na.
-The level is international.
+JP2 is a member of Carpe Noctem (CN). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 483 rounds 
+with an average rating of Unknown, an average average combat score (ACS) of 156.0, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 107.8, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.53, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 22%, and an average clutch success percentage 
+of 19%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 661 rounds they have played breach, 
+they have an average rating of Unknown, an average average combat score (ACS) of 156.8, an average kills death ratio 
+of 0.87, an average average damage per round (ADR) of 98.6, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.44, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.05. Using breach this player has a total of 383 kills, 439 deaths, 
+292 assists, 30 first bloods, and 34 first deaths. Over their entire career, cypher is their second most played agent. Over the 607.0 rounds they have played cypher, 
+they have an average rating of Unknown, an average average combat score (ACS) of 168.9, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 112.7, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.06. Using cypher this player has a total of 368.0 kills, 430.0 deaths, 
+170.0 assists, 26.0 first bloods, and 36.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 150.0 rounds they have played killjoy, 
+they have an average rating of Unknown, an average average combat score (ACS) of 202.9, an average kills death ratio 
+of 1.16, an average average damage per round (ADR) of 145.3, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.03. Using killjoy this player has a total of 113.0 kills, 97.0 deaths, 
+23.0 assists, 10.0 first bloods, and 4.0 first deaths. 

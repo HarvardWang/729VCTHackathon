@@ -1,71 +1,26 @@
-The player is SwayZ.
-The org is MU.
-The agents is ['omen', 'reyna', 'cypher'].
-The rounds_played is 3308.
-The rating is 1.05.
-The average_combat_score is 211.6.
-The kill_deaths is 1.08.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 140.2.
-The kills_per_round is 0.77.
-The assists_per_round is 0.15.
-The first_kills_per_round is 0.13.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 28%.
-The clutch_success_percentage is 12%.
-The team_id is 12743.0.
-The team_name is Torch.
-The agent1 is chamber.
-The agent1_use_pct is (158) 48%.
-The agent1_rounds is 3253.
-The agent1_rating is 1.15.
-The agent1_acs is 220.1.
-The agent1_kd is 1.3.
-The agent1_adr is 141.3.
-The agent1_kast is 73%.
-The agent1_kpr is 0.82.
-The agent1_apr is 0.12.
-The agent1_fkpr is 0.14.
-The agent1_fdpr is 0.09.
-The agent1_kills is 2671.
-The agent1_deaths is 2061.
-The agent1_assists is 386.
-The agent1_fk is 459.
-The agent1_fd is 283.
-The agent2 is jett.
-The agent2_use_pct is (68) 20%.
-The agent2_rounds is 1396.0.
-The agent2_rating is 1.06.
-The agent2_acs is 225.1.
-The agent2_kd is 1.11.
-The agent2_adr is 145.9.
-The agent2_kast is 71%.
-The agent2_kpr is 0.8.
-The agent2_apr is 0.17.
-The agent2_fkpr is 0.17.
-The agent2_fdpr is 0.16.
-The agent2_kills is 1119.0.
-The agent2_deaths is 1004.0.
-The agent2_assists is 235.0.
-The agent2_fk is 244.0.
-The agent2_fd is 223.0.
-The agent3 is raze.
-The agent3_use_pct is (52) 16%.
-The agent3_rounds is 1092.0.
-The agent3_rating is 1.12.
-The agent3_acs is 243.5.
-The agent3_kd is 1.16.
-The agent3_adr is 162.5.
-The agent3_kast is 73%.
-The agent3_kpr is 0.84.
-The agent3_apr is 0.2.
-The agent3_fkpr is 0.17.
-The agent3_fdpr is 0.15.
-The agent3_kills is 913.0.
-The agent3_deaths is 788.0.
-The agent3_assists is 223.0.
-The agent3_fk is 187.0.
-The agent3_fd is 163.0.
-The igl is False.
-The region is na.
-The level is international.
+SwayZ is a member of Torch (MU). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 3308 rounds 
+with an average rating of 1.05, an average average combat score (ACS) of 211.6, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 140.2, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.13, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 28%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, chamber is their most played agent. Over the 3253 rounds they have played chamber, 
+they have an average rating of 1.15, an average average combat score (ACS) of 220.1, an average kills death ratio 
+of 1.3, an average average damage per round (ADR) of 141.3, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.12, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.09. Using chamber this player has a total of 2671 kills, 2061 deaths, 
+386 assists, 459 first bloods, and 283 first deaths. Over their entire career, jett is their second most played agent. Over the 1396.0 rounds they have played jett, 
+they have an average rating of 1.06, an average average combat score (ACS) of 225.1, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 145.9, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.16. Using jett this player has a total of 1119.0 kills, 1004.0 deaths, 
+235.0 assists, 244.0 first bloods, and 223.0 first deaths. Over their entire career, raze is their third most played agent. Over the 1092.0 rounds they have played raze, 
+they have an average rating of 1.12, an average average combat score (ACS) of 243.5, an average kills death ratio 
+of 1.16, an average average damage per round (ADR) of 162.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.15. Using raze this player has a total of 913.0 kills, 788.0 deaths, 
+223.0 assists, 187.0 first bloods, and 163.0 first deaths. 

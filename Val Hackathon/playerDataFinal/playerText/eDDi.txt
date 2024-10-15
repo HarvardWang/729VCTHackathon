@@ -1,71 +1,26 @@
-The player is eDDi.
-The org is (+6).
-The agents is ['raze', 'jett', 'sage'].
-The rounds_played is 461.
-The rating is 0.73.
-The average_combat_score is 181.8.
-The kill_deaths is 0.77.
-The kill_assists_survived_traded is 63%.
-The average_damage_per_round is 115.1.
-The kills_per_round is 0.61.
-The assists_per_round is 0.29.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 18%.
-The clutch_success_percentage is 3%.
-The team_id is 12735.0.
-The team_name is PingPongPeek.
-The agent1 is breach.
-The agent1_use_pct is (18) 30%.
-The agent1_rounds is 341.
-The agent1_rating is 0.82.
-The agent1_acs is 165.4.
-The agent1_kd is 0.85.
-The agent1_adr is 111.1.
-The agent1_kast is 69%.
-The agent1_kpr is 0.6.
-The agent1_apr is 0.4.
-The agent1_fkpr is 0.02.
-The agent1_fdpr is 0.03.
-The agent1_kills is 203.
-The agent1_deaths is 240.
-The agent1_assists is 137.
-The agent1_fk is 8.
-The agent1_fd is 9.
-The agent2 is jett.
-The agent2_use_pct is (8) 13%.
-The agent2_rounds is 177.0.
-The agent2_rating is 1.14.
-The agent2_acs is 203.3.
-The agent2_kd is 0.95.
-The agent2_adr is 124.1.
-The agent2_kast is 57%.
-The agent2_kpr is 0.68.
-The agent2_apr is 0.17.
-The agent2_fkpr is 0.12.
-The agent2_fdpr is 0.08.
-The agent2_kills is 121.0.
-The agent2_deaths is 128.0.
-The agent2_assists is 30.0.
-The agent2_fk is 22.0.
-The agent2_fd is 14.0.
-The agent3 is sage.
-The agent3_use_pct is (7) 11%.
-The agent3_rounds is 148.0.
-The agent3_rating is 0.63.
-The agent3_acs is 160.3.
-The agent3_kd is 0.78.
-The agent3_adr is 108.3.
-The agent3_kast is 50%.
-The agent3_kpr is 0.54.
-The agent3_apr is 0.37.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.03.
-The agent3_kills is 80.0.
-The agent3_deaths is 102.0.
-The agent3_assists is 55.0.
-The agent3_fk is 7.0.
-The agent3_fd is 5.0.
-The igl is False.
-The region is eu.
-The level is international.
+eDDi is a member of PingPongPeek ((+6)). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 461 rounds 
+with an average rating of 0.73, an average average combat score (ACS) of 181.8, an average kills death ratio 
+of 0.77, an average average damage per round (ADR) of 115.1, an average kill, assist, survive, trade percent (KAST) 
+of 63%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 18%, and an average clutch success percentage 
+of 3%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 341 rounds they have played breach, 
+they have an average rating of 0.82, an average average combat score (ACS) of 165.4, an average kills death ratio 
+of 0.85, an average average damage per round (ADR) of 111.1, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.02, and an average first deaths per round (FDPR) 
+of 0.03. Using breach this player has a total of 203 kills, 240 deaths, 
+137 assists, 8 first bloods, and 9 first deaths. Over their entire career, jett is their second most played agent. Over the 177.0 rounds they have played jett, 
+they have an average rating of 1.14, an average average combat score (ACS) of 203.3, an average kills death ratio 
+of 0.95, an average average damage per round (ADR) of 124.1, an average kill, assist, survive, trade percent (KAST) 
+of 57%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.08. Using jett this player has a total of 121.0 kills, 128.0 deaths, 
+30.0 assists, 22.0 first bloods, and 14.0 first deaths. Over their entire career, sage is their third most played agent. Over the 148.0 rounds they have played sage, 
+they have an average rating of 0.63, an average average combat score (ACS) of 160.3, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 108.3, an average kill, assist, survive, trade percent (KAST) 
+of 50%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.03. Using sage this player has a total of 80.0 kills, 102.0 deaths, 
+55.0 assists, 7.0 first bloods, and 5.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is nixoon.
-The org is OF.
-The agents is ['breach', 'raze', 'sova'].
-The rounds_played is 4766.
-The rating is 0.81.
-The average_combat_score is 161.4.
-The kill_deaths is 0.77.
-The kill_assists_survived_traded is 70%.
-The average_damage_per_round is 103.5.
-The kills_per_round is 0.56.
-The assists_per_round is 0.35.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 12%.
-The team_id is 7932.0.
-The team_name is OnlyFins.
-The agent1 is fade.
-The agent1_use_pct is (111) 22%.
-The agent1_rounds is 2337.
-The agent1_rating is 0.93.
-The agent1_acs is 173.6.
-The agent1_kd is 0.88.
-The agent1_adr is 109.4.
-The agent1_kast is 73%.
-The agent1_kpr is 0.59.
-The agent1_apr is 0.44.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.07.
-The agent1_kills is 1384.
-The agent1_deaths is 1564.
-The agent1_assists is 1023.
-The agent1_fk is 134.
-The agent1_fd is 153.
-The agent2 is sova.
-The agent2_use_pct is (76) 15%.
-The agent2_rounds is 1603.0.
-The agent2_rating is 0.91.
-The agent2_acs is 179.5.
-The agent2_kd is 0.83.
-The agent2_adr is 123.8.
-The agent2_kast is 71%.
-The agent2_kpr is 0.59.
-The agent2_apr is 0.35.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.07.
-The agent2_kills is 943.0.
-The agent2_deaths is 1142.0.
-The agent2_assists is 564.0.
-The agent2_fk is 91.0.
-The agent2_fd is 118.0.
-The agent3 is breach.
-The agent3_use_pct is (71) 14%.
-The agent3_rounds is 1501.0.
-The agent3_rating is 0.84.
-The agent3_acs is 161.9.
-The agent3_kd is 0.82.
-The agent3_adr is 102.4.
-The agent3_kast is 73%.
-The agent3_kpr is 0.56.
-The agent3_apr is 0.45.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.07.
-The agent3_kills is 845.0.
-The agent3_deaths is 1025.0.
-The agent3_assists is 672.0.
-The agent3_fk is 93.0.
-The agent3_fd is 101.0.
-The igl is False.
-The region is eu.
-The level is challenger.
+nixoon is a member of OnlyFins (OF). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 4766 rounds 
+with an average rating of 0.81, an average average combat score (ACS) of 161.4, an average kills death ratio 
+of 0.77, an average average damage per round (ADR) of 103.5, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.35, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 20%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, fade is their most played agent. Over the 2337 rounds they have played fade, 
+they have an average rating of 0.93, an average average combat score (ACS) of 173.6, an average kills death ratio 
+of 0.88, an average average damage per round (ADR) of 109.4, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.44, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using fade this player has a total of 1384 kills, 1564 deaths, 
+1023 assists, 134 first bloods, and 153 first deaths. Over their entire career, sova is their second most played agent. Over the 1603.0 rounds they have played sova, 
+they have an average rating of 0.91, an average average combat score (ACS) of 179.5, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 123.8, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.35, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using sova this player has a total of 943.0 kills, 1142.0 deaths, 
+564.0 assists, 91.0 first bloods, and 118.0 first deaths. Over their entire career, breach is their third most played agent. Over the 1501.0 rounds they have played breach, 
+they have an average rating of 0.84, an average average combat score (ACS) of 161.9, an average kills death ratio 
+of 0.82, an average average damage per round (ADR) of 102.4, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.45, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using breach this player has a total of 845.0 kills, 1025.0 deaths, 
+672.0 assists, 93.0 first bloods, and 101.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Chefstrobel.
-The org is UOL.
-The agents is ['chamber', 'sage', 'viper'].
-The rounds_played is 226.
-The rating is 0.56.
-The average_combat_score is 126.1.
-The kill_deaths is 0.5.
-The kill_assists_survived_traded is 56%.
-The average_damage_per_round is 82.5.
-The kills_per_round is 0.42.
-The assists_per_round is 0.19.
-The first_kills_per_round is 0.04.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 14%.
-The clutch_success_percentage is 13%.
-The team_id is 7038.0.
-The team_name is Unicorns of Love.
-The agent1 is viper.
-The agent1_use_pct is (9) 29%.
-The agent1_rounds is 176.
-The agent1_rating is 0.65.
-The agent1_acs is 135.2.
-The agent1_kd is 0.59.
-The agent1_adr is 86.9.
-The agent1_kast is 61%.
-The agent1_kpr is 0.46.
-The agent1_apr is 0.26.
-The agent1_fkpr is 0.04.
-The agent1_fdpr is 0.13.
-The agent1_kills is 81.
-The agent1_deaths is 138.
-The agent1_assists is 46.
-The agent1_fk is 7.
-The agent1_fd is 23.
-The agent2 is killjoy.
-The agent2_use_pct is (9) 29%.
-The agent2_rounds is 166.0.
-The agent2_rating is 0.76.
-The agent2_acs is 160.0.
-The agent2_kd is 0.71.
-The agent2_adr is 108.3.
-The agent2_kast is 59%.
-The agent2_kpr is 0.54.
-The agent2_apr is 0.2.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.06.
-The agent2_kills is 90.0.
-The agent2_deaths is 126.0.
-The agent2_assists is 34.0.
-The agent2_fk is 10.0.
-The agent2_fd is 10.0.
-The agent3 is sage.
-The agent3_use_pct is (5) 16%.
-The agent3_rounds is 93.0.
-The agent3_rating is 0.61.
-The agent3_acs is 131.0.
-The agent3_kd is 0.57.
-The agent3_adr is 81.2.
-The agent3_kast is 59%.
-The agent3_kpr is 0.42.
-The agent3_apr is 0.27.
-The agent3_fkpr is 0.03.
-The agent3_fdpr is 0.1.
-The agent3_kills is 39.0.
-The agent3_deaths is 69.0.
-The agent3_assists is 25.0.
-The agent3_fk is 3.0.
-The agent3_fd is 9.0.
-The igl is False.
-The region is eu.
-The level is international.
+Chefstrobel is a member of Unicorns of Love (UOL). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 226 rounds 
+with an average rating of 0.56, an average average combat score (ACS) of 126.1, an average kills death ratio 
+of 0.5, an average average damage per round (ADR) of 82.5, an average kill, assist, survive, trade percent (KAST) 
+of 56%, an average kills per round (KPR) of 0.42, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 14%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 176 rounds they have played viper, 
+they have an average rating of 0.65, an average average combat score (ACS) of 135.2, an average kills death ratio 
+of 0.59, an average average damage per round (ADR) of 86.9, an average kill, assist, survive, trade percent (KAST) 
+of 61%, an average kills per round (KPR) of 0.46, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.13. Using viper this player has a total of 81 kills, 138 deaths, 
+46 assists, 7 first bloods, and 23 first deaths. Over their entire career, killjoy is their second most played agent. Over the 166.0 rounds they have played killjoy, 
+they have an average rating of 0.76, an average average combat score (ACS) of 160.0, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 108.3, an average kill, assist, survive, trade percent (KAST) 
+of 59%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.06. Using killjoy this player has a total of 90.0 kills, 126.0 deaths, 
+34.0 assists, 10.0 first bloods, and 10.0 first deaths. Over their entire career, sage is their third most played agent. Over the 93.0 rounds they have played sage, 
+they have an average rating of 0.61, an average average combat score (ACS) of 131.0, an average kills death ratio 
+of 0.57, an average average damage per round (ADR) of 81.2, an average kill, assist, survive, trade percent (KAST) 
+of 59%, an average kills per round (KPR) of 0.42, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.03, and an average first deaths per round (FDPR) 
+of 0.1. Using sage this player has a total of 39.0 kills, 69.0 deaths, 
+25.0 assists, 3.0 first bloods, and 9.0 first deaths. 

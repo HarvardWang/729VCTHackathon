@@ -1,71 +1,26 @@
-The player is GR1MM.
-The org is Roch.
-The agents is ['raze', 'sage', 'skye'].
-The rounds_played is 689.
-The rating is 0.79.
-The average_combat_score is 172.9.
-The kill_deaths is 0.75.
-The kill_assists_survived_traded is 62%.
-The average_damage_per_round is 114.2.
-The kills_per_round is 0.59.
-The assists_per_round is 0.25.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 9%.
-The team_id is 10536.0.
-The team_name is Rochester University Esports.
-The agent1 is skye.
-The agent1_use_pct is (62) 39%.
-The agent1_rounds is 1277.
-The agent1_rating is 0.95.
-The agent1_acs is 182.9.
-The agent1_kd is 0.91.
-The agent1_adr is 119.2.
-The agent1_kast is 70%.
-The agent1_kpr is 0.65.
-The agent1_apr is 0.36.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.07.
-The agent1_kills is 834.
-The agent1_deaths is 914.
-The agent1_assists is 462.
-The agent1_fk is 72.
-The agent1_fd is 94.
-The agent2 is raze.
-The agent2_use_pct is (38) 24%.
-The agent2_rounds is 768.0.
-The agent2_rating is 1.08.
-The agent2_acs is 219.8.
-The agent2_kd is 1.05.
-The agent2_adr is 147.1.
-The agent2_kast is 69%.
-The agent2_kpr is 0.78.
-The agent2_apr is 0.16.
-The agent2_fkpr is 0.11.
-The agent2_fdpr is 0.15.
-The agent2_kills is 600.0.
-The agent2_deaths is 573.0.
-The agent2_assists is 122.0.
-The agent2_fk is 85.0.
-The agent2_fd is 119.0.
-The agent3 is sova.
-The agent3_use_pct is (27) 17%.
-The agent3_rounds is 551.0.
-The agent3_rating is 0.91.
-The agent3_acs is 193.7.
-The agent3_kd is 0.89.
-The agent3_adr is 127.3.
-The agent3_kast is 66%.
-The agent3_kpr is 0.68.
-The agent3_apr is 0.21.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.08.
-The agent3_kills is 373.0.
-The agent3_deaths is 419.0.
-The agent3_assists is 113.0.
-The agent3_fk is 35.0.
-The agent3_fd is 43.0.
-The igl is False.
-The region is na.
-The level is international.
+GR1MM is a member of Rochester University Esports (Roch). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 689 rounds 
+with an average rating of 0.79, an average average combat score (ACS) of 172.9, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 114.2, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 25%, and an average clutch success percentage 
+of 9%. This player is not an in game leader. Over their entire career, skye is their most played agent. Over the 1277 rounds they have played skye, 
+they have an average rating of 0.95, an average average combat score (ACS) of 182.9, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 119.2, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using skye this player has a total of 834 kills, 914 deaths, 
+462 assists, 72 first bloods, and 94 first deaths. Over their entire career, raze is their second most played agent. Over the 768.0 rounds they have played raze, 
+they have an average rating of 1.08, an average average combat score (ACS) of 219.8, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 147.1, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.15. Using raze this player has a total of 600.0 kills, 573.0 deaths, 
+122.0 assists, 85.0 first bloods, and 119.0 first deaths. Over their entire career, sova is their third most played agent. Over the 551.0 rounds they have played sova, 
+they have an average rating of 0.91, an average average combat score (ACS) of 193.7, an average kills death ratio 
+of 0.89, an average average damage per round (ADR) of 127.3, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.08. Using sova this player has a total of 373.0 kills, 419.0 deaths, 
+113.0 assists, 35.0 first bloods, and 43.0 first deaths. 

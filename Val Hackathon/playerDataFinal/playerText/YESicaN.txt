@@ -1,71 +1,26 @@
-The player is YESicaN.
-The org is FCY.
-The agents is ['sova', 'raze', 'sage'].
-The rounds_played is 5262.
-The rating is 1.14.
-The average_combat_score is 212.1.
-The kill_deaths is 1.13.
-The kill_assists_survived_traded is 77%.
-The average_damage_per_round is 137.7.
-The kills_per_round is 0.74.
-The assists_per_round is 0.38.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.07.
-The headshot_percentage is 26%.
-The clutch_success_percentage is 18%.
-The team_id is 4330.0.
-The team_name is Fancy United Esports.
-The agent1 is skye.
-The agent1_use_pct is (59) 17%.
-The agent1_rounds is 1213.
-The agent1_rating is 1.13.
-The agent1_acs is 201.2.
-The agent1_kd is 1.16.
-The agent1_adr is 131.5.
-The agent1_kast is 78%.
-The agent1_kpr is 0.72.
-The agent1_apr is 0.36.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.06.
-The agent1_kills is 876.
-The agent1_deaths is 757.
-The agent1_assists is 434.
-The agent1_fk is 98.
-The agent1_fd is 77.
-The agent2 is viper.
-The agent2_use_pct is (58) 16%.
-The agent2_rounds is 1125.0.
-The agent2_rating is 1.26.
-The agent2_acs is 226.2.
-The agent2_kd is 1.34.
-The agent2_adr is 147.3.
-The agent2_kast is 78%.
-The agent2_kpr is 0.79.
-The agent2_apr is 0.36.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.05.
-The agent2_kills is 886.0.
-The agent2_deaths is 661.0.
-The agent2_assists is 408.0.
-The agent2_fk is 90.0.
-The agent2_fd is 58.0.
-The agent3 is breach.
-The agent3_use_pct is (45) 13%.
-The agent3_rounds is 926.0.
-The agent3_rating is 1.16.
-The agent3_acs is 192.9.
-The agent3_kd is 1.13.
-The agent3_adr is 123.1.
-The agent3_kast is 80%.
-The agent3_kpr is 0.68.
-The agent3_apr is 0.54.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.04.
-The agent3_kills is 631.0.
-The agent3_deaths is 558.0.
-The agent3_assists is 498.0.
-The agent3_fk is 49.0.
-The agent3_fd is 39.0.
-The igl is True.
-The region is ap.
-The level is challenger.
+YESicaN is a member of Fancy United Esports (FCY). They play in the Asia Pacific region and the VCT 
+challenger circuit. Over their entire career, they have played 5262 rounds 
+with an average rating of 1.14, an average average combat score (ACS) of 212.1, an average kills death ratio 
+of 1.13, an average average damage per round (ADR) of 137.7, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 26%, and an average clutch success percentage 
+of 18%. This player plays the role of an in game leader (IGL). Over their entire career, skye is their most played agent. Over the 1213 rounds they have played skye, 
+they have an average rating of 1.13, an average average combat score (ACS) of 201.2, an average kills death ratio 
+of 1.16, an average average damage per round (ADR) of 131.5, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.06. Using skye this player has a total of 876 kills, 757 deaths, 
+434 assists, 98 first bloods, and 77 first deaths. Over their entire career, viper is their second most played agent. Over the 1125.0 rounds they have played viper, 
+they have an average rating of 1.26, an average average combat score (ACS) of 226.2, an average kills death ratio 
+of 1.34, an average average damage per round (ADR) of 147.3, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.79, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.05. Using viper this player has a total of 886.0 kills, 661.0 deaths, 
+408.0 assists, 90.0 first bloods, and 58.0 first deaths. Over their entire career, breach is their third most played agent. Over the 926.0 rounds they have played breach, 
+they have an average rating of 1.16, an average average combat score (ACS) of 192.9, an average kills death ratio 
+of 1.13, an average average damage per round (ADR) of 123.1, an average kill, assist, survive, trade percent (KAST) 
+of 80%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.54, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.04. Using breach this player has a total of 631.0 kills, 558.0 deaths, 
+498.0 assists, 49.0 first bloods, and 39.0 first deaths. 

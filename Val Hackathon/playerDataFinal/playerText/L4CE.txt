@@ -1,71 +1,26 @@
-The player is L4CE.
-The org is UCI.
-The agents is ['sova', 'skye', 'breach'].
-The rounds_played is 5844.
-The rating is 1.11.
-The average_combat_score is 208.4.
-The kill_deaths is 1.11.
-The kill_assists_survived_traded is 76%.
-The average_damage_per_round is 137.0.
-The kills_per_round is 0.74.
-The assists_per_round is 0.36.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 30%.
-The clutch_success_percentage is 13%.
-The team_id is 10577.0.
-The team_name is UC Irvine.
-The agent1 is sova.
-The agent1_use_pct is (189) 35%.
-The agent1_rounds is 3745.
-The agent1_rating is 1.18.
-The agent1_acs is 212.5.
-The agent1_kd is 1.22.
-The agent1_adr is 143.0.
-The agent1_kast is 78%.
-The agent1_kpr is 0.75.
-The agent1_apr is 0.36.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.04.
-The agent1_kills is 2795.
-The agent1_deaths is 2289.
-The agent1_assists is 1350.
-The agent1_fk is 262.
-The agent1_fd is 159.
-The agent2 is skye.
-The agent2_use_pct is (76) 14%.
-The agent2_rounds is 1555.0.
-The agent2_rating is 1.12.
-The agent2_acs is 211.7.
-The agent2_kd is 1.13.
-The agent2_adr is 134.5.
-The agent2_kast is 76%.
-The agent2_kpr is 0.75.
-The agent2_apr is 0.45.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.05.
-The agent2_kills is 1170.0.
-The agent2_deaths is 1040.0.
-The agent2_assists is 703.0.
-The agent2_fk is 97.0.
-The agent2_fd is 82.0.
-The agent3 is omen.
-The agent3_use_pct is (64) 12%.
-The agent3_rounds is 1335.0.
-The agent3_rating is 1.19.
-The agent3_acs is 221.3.
-The agent3_kd is 1.19.
-The agent3_adr is 139.8.
-The agent3_kast is 78%.
-The agent3_kpr is 0.79.
-The agent3_apr is 0.45.
-The agent3_fkpr is 0.11.
-The agent3_fdpr is 0.06.
-The agent3_kills is 1056.0.
-The agent3_deaths is 891.0.
-The agent3_assists is 597.0.
-The agent3_fk is 152.0.
-The agent3_fd is 77.0.
-The igl is False.
-The region is na.
-The level is game-changer.
+L4CE is a member of UC Irvine (UCI). They play in the North America region and the VCT 
+game-changer circuit. Over their entire career, they have played 5844 rounds 
+with an average rating of 1.11, an average average combat score (ACS) of 208.4, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 137.0, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 30%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 3745 rounds they have played sova, 
+they have an average rating of 1.18, an average average combat score (ACS) of 212.5, an average kills death ratio 
+of 1.22, an average average damage per round (ADR) of 143.0, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.04. Using sova this player has a total of 2795 kills, 2289 deaths, 
+1350 assists, 262 first bloods, and 159 first deaths. Over their entire career, skye is their second most played agent. Over the 1555.0 rounds they have played skye, 
+they have an average rating of 1.12, an average average combat score (ACS) of 211.7, an average kills death ratio 
+of 1.13, an average average damage per round (ADR) of 134.5, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.45, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.05. Using skye this player has a total of 1170.0 kills, 1040.0 deaths, 
+703.0 assists, 97.0 first bloods, and 82.0 first deaths. Over their entire career, omen is their third most played agent. Over the 1335.0 rounds they have played omen, 
+they have an average rating of 1.19, an average average combat score (ACS) of 221.3, an average kills death ratio 
+of 1.19, an average average damage per round (ADR) of 139.8, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.79, an average assists per round (APR) 
+of 0.45, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.06. Using omen this player has a total of 1056.0 kills, 891.0 deaths, 
+597.0 assists, 152.0 first bloods, and 77.0 first deaths. 

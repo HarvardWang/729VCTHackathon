@@ -1,71 +1,26 @@
-The player is Yawnpeek.
-The org is AIM.
-The agents is ['kayo', 'raze', 'sova'].
-The rounds_played is 352.
-The rating is 0.75.
-The average_combat_score is 168.8.
-The kill_deaths is 0.68.
-The kill_assists_survived_traded is 64%.
-The average_damage_per_round is 115.5.
-The kills_per_round is 0.54.
-The assists_per_round is 0.27.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.13.
-The headshot_percentage is 18%.
-The clutch_success_percentage is 9%.
-The team_id is 10356.0.
-The team_name is AIM PH.
-The agent1 is raze.
-The agent1_use_pct is (17) 49%.
-The agent1_rounds is 340.
-The agent1_rating is 0.82.
-The agent1_acs is 196.5.
-The agent1_kd is 0.78.
-The agent1_adr is 135.0.
-The agent1_kast is 65%.
-The agent1_kpr is 0.63.
-The agent1_apr is 0.18.
-The agent1_fkpr is 0.16.
-The agent1_fdpr is 0.18.
-The agent1_kills is 215.
-The agent1_deaths is 274.
-The agent1_assists is 62.
-The agent1_fk is 55.
-The agent1_fd is 62.
-The agent2 is kayo.
-The agent2_use_pct is (8) 23%.
-The agent2_rounds is 170.0.
-The agent2_rating is 0.89.
-The agent2_acs is 167.9.
-The agent2_kd is 0.75.
-The agent2_adr is 111.1.
-The agent2_kast is 71%.
-The agent2_kpr is 0.54.
-The agent2_apr is 0.49.
-The agent2_fkpr is 0.05.
-The agent2_fdpr is 0.03.
-The agent2_kills is 92.0.
-The agent2_deaths is 123.0.
-The agent2_assists is 84.0.
-The agent2_fk is 9.0.
-The agent2_fd is 5.0.
-The agent3 is sova.
-The agent3_use_pct is (5) 14%.
-The agent3_rounds is 94.0.
-The agent3_rating is 0.93.
-The agent3_acs is 179.8.
-The agent3_kd is 0.86.
-The agent3_adr is 124.9.
-The agent3_kast is 69%.
-The agent3_kpr is 0.63.
-The agent3_apr is 0.23.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.1.
-The agent3_kills is 59.0.
-The agent3_deaths is 69.0.
-The agent3_assists is 22.0.
-The agent3_fk is 5.0.
-The agent3_fd is 9.0.
-The igl is False.
-The region is ap.
-The level is international.
+Yawnpeek is a member of AIM PH (AIM). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 352 rounds 
+with an average rating of 0.75, an average average combat score (ACS) of 168.8, an average kills death ratio 
+of 0.68, an average average damage per round (ADR) of 115.5, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 18%, and an average clutch success percentage 
+of 9%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 340 rounds they have played raze, 
+they have an average rating of 0.82, an average average combat score (ACS) of 196.5, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 135.0, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.18. Using raze this player has a total of 215 kills, 274 deaths, 
+62 assists, 55 first bloods, and 62 first deaths. Over their entire career, kayo is their second most played agent. Over the 170.0 rounds they have played kayo, 
+they have an average rating of 0.89, an average average combat score (ACS) of 167.9, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 111.1, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.49, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.03. Using kayo this player has a total of 92.0 kills, 123.0 deaths, 
+84.0 assists, 9.0 first bloods, and 5.0 first deaths. Over their entire career, sova is their third most played agent. Over the 94.0 rounds they have played sova, 
+they have an average rating of 0.93, an average average combat score (ACS) of 179.8, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 124.9, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.1. Using sova this player has a total of 59.0 kills, 69.0 deaths, 
+22.0 assists, 5.0 first bloods, and 9.0 first deaths. 

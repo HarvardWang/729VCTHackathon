@@ -1,71 +1,26 @@
-The player is Circle5.
-The org is KuCy.
-The agents is ['sova', 'viper', 'sage'].
-The rounds_played is 1186.
-The rating is 0.89.
-The average_combat_score is 193.4.
-The kill_deaths is 0.93.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 127.1.
-The kills_per_round is 0.64.
-The assists_per_round is 0.28.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.05.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 15%.
-The team_id is 7926.0.
-The team_name is KuCyJIbKu.
-The agent1 is sova.
-The agent1_use_pct is (115) 80%.
-The agent1_rounds is 2389.
-The agent1_rating is 1.05.
-The agent1_acs is 203.8.
-The agent1_kd is 1.06.
-The agent1_adr is 133.4.
-The agent1_kast is 73%.
-The agent1_kpr is 0.69.
-The agent1_apr is 0.33.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.05.
-The agent1_kills is 1641.
-The agent1_deaths is 1546.
-The agent1_assists is 798.
-The agent1_fk is 188.
-The agent1_fd is 121.
-The agent2 is viper.
-The agent2_use_pct is (25) 17%.
-The agent2_rounds is 535.0.
-The agent2_rating is 0.89.
-The agent2_acs is 184.4.
-The agent2_kd is 0.97.
-The agent2_adr is 119.3.
-The agent2_kast is 70%.
-The agent2_kpr is 0.64.
-The agent2_apr is 0.18.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.07.
-The agent2_kills is 344.0.
-The agent2_deaths is 356.0.
-The agent2_assists is 96.0.
-The agent2_fk is 38.0.
-The agent2_fd is 36.0.
-The agent3 is sage.
-The agent3_use_pct is (2) 1%.
-The agent3_rounds is 46.0.
-The agent3_rating is 0.92.
-The agent3_acs is 164.5.
-The agent3_kd is 0.84.
-The agent3_adr is 118.3.
-The agent3_kast is 76%.
-The agent3_kpr is 0.57.
-The agent3_apr is 0.39.
-The agent3_fkpr is 0.02.
-The agent3_fdpr is 0.07.
-The agent3_kills is 26.0.
-The agent3_deaths is 31.0.
-The agent3_assists is 18.0.
-The agent3_fk is 1.0.
-The agent3_fd is 3.0.
-The igl is False.
-The region is eu.
-The level is international.
+Circle5 is a member of KuCyJIbKu (KuCy). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 1186 rounds 
+with an average rating of 0.89, an average average combat score (ACS) of 193.4, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 127.1, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.05, an average headshot percentage of 20%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 2389 rounds they have played sova, 
+they have an average rating of 1.05, an average average combat score (ACS) of 203.8, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 133.4, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.05. Using sova this player has a total of 1641 kills, 1546 deaths, 
+798 assists, 188 first bloods, and 121 first deaths. Over their entire career, viper is their second most played agent. Over the 535.0 rounds they have played viper, 
+they have an average rating of 0.89, an average average combat score (ACS) of 184.4, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 119.3, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.07. Using viper this player has a total of 344.0 kills, 356.0 deaths, 
+96.0 assists, 38.0 first bloods, and 36.0 first deaths. Over their entire career, sage is their third most played agent. Over the 46.0 rounds they have played sage, 
+they have an average rating of 0.92, an average average combat score (ACS) of 164.5, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 118.3, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.39, an average first kills per round (FKPR) of 0.02, and an average first deaths per round (FDPR) 
+of 0.07. Using sage this player has a total of 26.0 kills, 31.0 deaths, 
+18.0 assists, 1.0 first bloods, and 3.0 first deaths. 

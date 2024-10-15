@@ -1,71 +1,26 @@
-The player is Affect.
-The org is BZK.
-The agents is ['sova', 'killjoy', 'raze'].
-The rounds_played is 671.
-The rating is 0.88.
-The average_combat_score is 187.8.
-The kill_deaths is 0.81.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 122.4.
-The kills_per_round is 0.61.
-The assists_per_round is 0.3.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.11.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 13%.
-The team_id is 7711.0.
-The team_name is Berzerkers.
-The agent1 is kayo.
-The agent1_use_pct is (16) 12%.
-The agent1_rounds is 335.
-The agent1_rating is 0.84.
-The agent1_acs is 171.3.
-The agent1_kd is 0.77.
-The agent1_adr is 114.5.
-The agent1_kast is 71%.
-The agent1_kpr is 0.56.
-The agent1_apr is 0.44.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.13.
-The agent1_kills is 189.
-The agent1_deaths is 247.
-The agent1_assists is 149.
-The agent1_fk is 20.
-The agent1_fd is 42.
-The agent2 is raze.
-The agent2_use_pct is (15) 11%.
-The agent2_rounds is 321.0.
-The agent2_rating is 0.95.
-The agent2_acs is 233.5.
-The agent2_kd is 0.97.
-The agent2_adr is 154.2.
-The agent2_kast is 66%.
-The agent2_kpr is 0.81.
-The agent2_apr is 0.17.
-The agent2_fkpr is 0.2.
-The agent2_fdpr is 0.2.
-The agent2_kills is 259.0.
-The agent2_deaths is 268.0.
-The agent2_assists is 53.0.
-The agent2_fk is 64.0.
-The agent2_fd is 63.0.
-The agent3 is breach.
-The agent3_use_pct is (13) 9%.
-The agent3_rounds is 280.0.
-The agent3_rating is 0.98.
-The agent3_acs is 202.2.
-The agent3_kd is 0.94.
-The agent3_adr is 126.5.
-The agent3_kast is 72%.
-The agent3_kpr is 0.66.
-The agent3_apr is 0.42.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.06.
-The agent3_kills is 184.0.
-The agent3_deaths is 196.0.
-The agent3_assists is 117.0.
-The agent3_fk is 23.0.
-The agent3_fd is 18.0.
-The igl is False.
-The region is na.
-The level is international.
+Affect is a member of Berzerkers (BZK). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 671 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 187.8, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 122.4, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.11, an average headshot percentage of 25%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, kayo is their most played agent. Over the 335 rounds they have played kayo, 
+they have an average rating of 0.84, an average average combat score (ACS) of 171.3, an average kills death ratio 
+of 0.77, an average average damage per round (ADR) of 114.5, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.44, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.13. Using kayo this player has a total of 189 kills, 247 deaths, 
+149 assists, 20 first bloods, and 42 first deaths. Over their entire career, raze is their second most played agent. Over the 321.0 rounds they have played raze, 
+they have an average rating of 0.95, an average average combat score (ACS) of 233.5, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 154.2, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.81, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.2, and an average first deaths per round (FDPR) 
+of 0.2. Using raze this player has a total of 259.0 kills, 268.0 deaths, 
+53.0 assists, 64.0 first bloods, and 63.0 first deaths. Over their entire career, breach is their third most played agent. Over the 280.0 rounds they have played breach, 
+they have an average rating of 0.98, an average average combat score (ACS) of 202.2, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 126.5, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.42, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.06. Using breach this player has a total of 184.0 kills, 196.0 deaths, 
+117.0 assists, 23.0 first bloods, and 18.0 first deaths. 

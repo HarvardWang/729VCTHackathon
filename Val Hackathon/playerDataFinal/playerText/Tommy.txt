@@ -1,71 +1,26 @@
-The player is Tommy.
-The org is Exal.
-The agents is ['sova', 'skye', 'kayo'].
-The rounds_played is 209.
-The rating is 0.82.
-The average_combat_score is 173.8.
-The kill_deaths is 0.75.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 110.7.
-The kills_per_round is 0.6.
-The assists_per_round is 0.36.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.11.
-The headshot_percentage is 34%.
-The clutch_success_percentage is 5%.
-The team_id is 5719.0.
-The team_name is Exalty.
-The agent1 is sova.
-The agent1_use_pct is (11) 28%.
-The agent1_rounds is 247.
-The agent1_rating is 0.78.
-The agent1_acs is 166.3.
-The agent1_kd is 0.73.
-The agent1_adr is 113.4.
-The agent1_kast is 67%.
-The agent1_kpr is 0.54.
-The agent1_apr is 0.26.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.08.
-The agent1_kills is 133.
-The agent1_deaths is 182.
-The agent1_assists is 63.
-The agent1_fk is 19.
-The agent1_fd is 20.
-The agent2 is kayo.
-The agent2_use_pct is (11) 28%.
-The agent2_rounds is 232.0.
-The agent2_rating is 0.89.
-The agent2_acs is 176.7.
-The agent2_kd is 0.76.
-The agent2_adr is 115.4.
-The agent2_kast is 73%.
-The agent2_kpr is 0.58.
-The agent2_apr is 0.51.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.09.
-The agent2_kills is 135.0.
-The agent2_deaths is 178.0.
-The agent2_assists is 119.0.
-The agent2_fk is 24.0.
-The agent2_fd is 22.0.
-The agent3 is gekko.
-The agent3_use_pct is (9) 23%.
-The agent3_rounds is 192.0.
-The agent3_rating is 0.8.
-The agent3_acs is 154.0.
-The agent3_kd is 0.83.
-The agent3_adr is 97.6.
-The agent3_kast is 69%.
-The agent3_kpr is 0.57.
-The agent3_apr is 0.28.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.07.
-The agent3_kills is 110.0.
-The agent3_deaths is 133.0.
-The agent3_assists is 53.0.
-The agent3_fk is 18.0.
-The agent3_fd is 14.0.
-The igl is False.
-The region is eu.
-The level is international.
+Tommy is a member of Exalty (Exal). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 209 rounds 
+with an average rating of 0.82, an average average combat score (ACS) of 173.8, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 110.7, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.11, an average headshot percentage of 34%, and an average clutch success percentage 
+of 5%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 247 rounds they have played sova, 
+they have an average rating of 0.78, an average average combat score (ACS) of 166.3, an average kills death ratio 
+of 0.73, an average average damage per round (ADR) of 113.4, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.08. Using sova this player has a total of 133 kills, 182 deaths, 
+63 assists, 19 first bloods, and 20 first deaths. Over their entire career, kayo is their second most played agent. Over the 232.0 rounds they have played kayo, 
+they have an average rating of 0.89, an average average combat score (ACS) of 176.7, an average kills death ratio 
+of 0.76, an average average damage per round (ADR) of 115.4, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.51, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.09. Using kayo this player has a total of 135.0 kills, 178.0 deaths, 
+119.0 assists, 24.0 first bloods, and 22.0 first deaths. Over their entire career, gekko is their third most played agent. Over the 192.0 rounds they have played gekko, 
+they have an average rating of 0.8, an average average combat score (ACS) of 154.0, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 97.6, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using gekko this player has a total of 110.0 kills, 133.0 deaths, 
+53.0 assists, 18.0 first bloods, and 14.0 first deaths. 

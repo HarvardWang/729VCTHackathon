@@ -1,71 +1,26 @@
-The player is keenc.
-The org is EG.GC.
-The agents is ['raze', 'killjoy', 'chamber'].
-The rounds_played is 2064.
-The rating is 1.4.
-The average_combat_score is 291.4.
-The kill_deaths is 1.57.
-The kill_assists_survived_traded is 78%.
-The average_damage_per_round is 181.8.
-The kills_per_round is 1.03.
-The assists_per_round is 0.2.
-The first_kills_per_round is 0.2.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 19%.
-The clutch_success_percentage is 18%.
-The team_id is 9547.0.
-The team_name is Evil Geniuses GC.
-The agent1 is jett.
-The agent1_use_pct is (63) 37%.
-The agent1_rounds is 1226.
-The agent1_rating is 1.52.
-The agent1_acs is 319.6.
-The agent1_kd is 1.84.
-The agent1_adr is 192.3.
-The agent1_kast is 81%.
-The agent1_kpr is 1.14.
-The agent1_apr is 0.17.
-The agent1_fkpr is 0.24.
-The agent1_fdpr is 0.08.
-The agent1_kills is 1402.
-The agent1_deaths is 761.
-The agent1_assists is 212.
-The agent1_fk is 296.
-The agent1_fd is 104.
-The agent2 is chamber.
-The agent2_use_pct is (56) 33%.
-The agent2_rounds is 1054.0.
-The agent2_rating is 1.47.
-The agent2_acs is 300.3.
-The agent2_kd is 1.79.
-The agent2_adr is 185.6.
-The agent2_kast is 81%.
-The agent2_kpr is 1.09.
-The agent2_apr is 0.18.
-The agent2_fkpr is 0.22.
-The agent2_fdpr is 0.09.
-The agent2_kills is 1152.0.
-The agent2_deaths is 645.0.
-The agent2_assists is 194.0.
-The agent2_fk is 227.0.
-The agent2_fd is 93.0.
-The agent3 is raze.
-The agent3_use_pct is (24) 14%.
-The agent3_rounds is 512.0.
-The agent3_rating is 1.26.
-The agent3_acs is 277.0.
-The agent3_kd is 1.29.
-The agent3_adr is 181.0.
-The agent3_kast is 77%.
-The agent3_kpr is 0.92.
-The agent3_apr is 0.29.
-The agent3_fkpr is 0.16.
-The agent3_fdpr is 0.12.
-The agent3_kills is 471.0.
-The agent3_deaths is 365.0.
-The agent3_assists is 146.0.
-The agent3_fk is 82.0.
-The agent3_fd is 60.0.
-The igl is False.
-The region is na.
-The level is game-changer.
+keenc is a member of Evil Geniuses GC (EG.GC). They play in the North America region and the VCT 
+game-changer circuit. Over their entire career, they have played 2064 rounds 
+with an average rating of 1.4, an average average combat score (ACS) of 291.4, an average kills death ratio 
+of 1.57, an average average damage per round (ADR) of 181.8, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 1.03, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.2, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 19%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 1226 rounds they have played jett, 
+they have an average rating of 1.52, an average average combat score (ACS) of 319.6, an average kills death ratio 
+of 1.84, an average average damage per round (ADR) of 192.3, an average kill, assist, survive, trade percent (KAST) 
+of 81%, an average kills per round (KPR) of 1.14, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.24, and an average first deaths per round (FDPR) 
+of 0.08. Using jett this player has a total of 1402 kills, 761 deaths, 
+212 assists, 296 first bloods, and 104 first deaths. Over their entire career, chamber is their second most played agent. Over the 1054.0 rounds they have played chamber, 
+they have an average rating of 1.47, an average average combat score (ACS) of 300.3, an average kills death ratio 
+of 1.79, an average average damage per round (ADR) of 185.6, an average kill, assist, survive, trade percent (KAST) 
+of 81%, an average kills per round (KPR) of 1.09, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.22, and an average first deaths per round (FDPR) 
+of 0.09. Using chamber this player has a total of 1152.0 kills, 645.0 deaths, 
+194.0 assists, 227.0 first bloods, and 93.0 first deaths. Over their entire career, raze is their third most played agent. Over the 512.0 rounds they have played raze, 
+they have an average rating of 1.26, an average average combat score (ACS) of 277.0, an average kills death ratio 
+of 1.29, an average average damage per round (ADR) of 181.0, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.92, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.12. Using raze this player has a total of 471.0 kills, 365.0 deaths, 
+146.0 assists, 82.0 first bloods, and 60.0 first deaths. 

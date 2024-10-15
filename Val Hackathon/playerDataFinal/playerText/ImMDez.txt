@@ -1,71 +1,26 @@
-The player is ImMDez.
-The org is Aspi.
-The agents is ['killjoy', 'cypher', 'omen'].
-The rounds_played is 629.
-The rating is 0.73.
-The average_combat_score is 167.8.
-The kill_deaths is 0.7.
-The kill_assists_survived_traded is 60%.
-The average_damage_per_round is 109.1.
-The kills_per_round is 0.55.
-The assists_per_round is 0.28.
-The first_kills_per_round is 0.12.
-The first_deaths_per_round is 0.14.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 23%.
-The team_id is 6466.0.
-The team_name is Redragon.
-The agent1 is killjoy.
-The agent1_use_pct is (43) 34%.
-The agent1_rounds is 871.
-The agent1_rating is 0.84.
-The agent1_acs is 198.6.
-The agent1_kd is 0.85.
-The agent1_adr is 123.6.
-The agent1_kast is 68%.
-The agent1_kpr is 0.65.
-The agent1_apr is 0.21.
-The agent1_fkpr is 0.13.
-The agent1_fdpr is 0.13.
-The agent1_kills is 562.
-The agent1_deaths is 658.
-The agent1_assists is 182.
-The agent1_fk is 111.
-The agent1_fd is 110.
-The agent2 is cypher.
-The agent2_use_pct is (22) 17%.
-The agent2_rounds is 434.0.
-The agent2_rating is 0.82.
-The agent2_acs is 189.1.
-The agent2_kd is 0.93.
-The agent2_adr is 115.9.
-The agent2_kast is 65%.
-The agent2_kpr is 0.68.
-The agent2_apr is 0.24.
-The agent2_fkpr is 0.12.
-The agent2_fdpr is 0.13.
-The agent2_kills is 296.0.
-The agent2_deaths is 319.0.
-The agent2_assists is 103.0.
-The agent2_fk is 50.0.
-The agent2_fd is 55.0.
-The agent3 is omen.
-The agent3_use_pct is (15) 12%.
-The agent3_rounds is 323.0.
-The agent3_rating is 0.89.
-The agent3_acs is 186.5.
-The agent3_kd is 0.9.
-The agent3_adr is 116.3.
-The agent3_kast is 66%.
-The agent3_kpr is 0.64.
-The agent3_apr is 0.28.
-The agent3_fkpr is 0.11.
-The agent3_fdpr is 0.13.
-The agent3_kills is 208.0.
-The agent3_deaths is 231.0.
-The agent3_assists is 89.0.
-The agent3_fk is 36.0.
-The agent3_fd is 41.0.
-The igl is False.
-The region is eu.
-The level is international.
+ImMDez is a member of Redragon (Aspi). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 629 rounds 
+with an average rating of 0.73, an average average combat score (ACS) of 167.8, an average kills death ratio 
+of 0.7, an average average damage per round (ADR) of 109.1, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.55, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.12, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 21%, and an average clutch success percentage 
+of 23%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 871 rounds they have played killjoy, 
+they have an average rating of 0.84, an average average combat score (ACS) of 198.6, an average kills death ratio 
+of 0.85, an average average damage per round (ADR) of 123.6, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.13. Using killjoy this player has a total of 562 kills, 658 deaths, 
+182 assists, 111 first bloods, and 110 first deaths. Over their entire career, cypher is their second most played agent. Over the 434.0 rounds they have played cypher, 
+they have an average rating of 0.82, an average average combat score (ACS) of 189.1, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 115.9, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.13. Using cypher this player has a total of 296.0 kills, 319.0 deaths, 
+103.0 assists, 50.0 first bloods, and 55.0 first deaths. Over their entire career, omen is their third most played agent. Over the 323.0 rounds they have played omen, 
+they have an average rating of 0.89, an average average combat score (ACS) of 186.5, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 116.3, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.13. Using omen this player has a total of 208.0 kills, 231.0 deaths, 
+89.0 assists, 36.0 first bloods, and 41.0 first deaths. 

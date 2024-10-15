@@ -1,71 +1,26 @@
-The player is Huston.
-The org is Bad.
-The agents is ['cypher', 'reyna', 'phoenix'].
-The rounds_played is 1818.
-The rating is 0.9.
-The average_combat_score is 186.9.
-The kill_deaths is 0.85.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 125.6.
-The kills_per_round is 0.62.
-The assists_per_round is 0.27.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.13.
-The headshot_percentage is 19%.
-The clutch_success_percentage is 10%.
-The team_id is 12836.0.
-The team_name is Aspyre x Swarm.
-The agent1 is kayo.
-The agent1_use_pct is (37) 16%.
-The agent1_rounds is 808.
-The agent1_rating is 0.91.
-The agent1_acs is 180.8.
-The agent1_kd is 0.82.
-The agent1_adr is 121.1.
-The agent1_kast is 70%.
-The agent1_kpr is 0.59.
-The agent1_apr is 0.45.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.08.
-The agent1_kills is 479.
-The agent1_deaths is 585.
-The agent1_assists is 366.
-The agent1_fk is 60.
-The agent1_fd is 66.
-The agent2 is reyna.
-The agent2_use_pct is (34) 15%.
-The agent2_rounds is 704.0.
-The agent2_rating is 0.98.
-The agent2_acs is 220.9.
-The agent2_kd is 1.03.
-The agent2_adr is 142.3.
-The agent2_kast is 68%.
-The agent2_kpr is 0.75.
-The agent2_apr is 0.24.
-The agent2_fkpr is 0.14.
-The agent2_fdpr is 0.16.
-The agent2_kills is 526.0.
-The agent2_deaths is 513.0.
-The agent2_assists is 172.0.
-The agent2_fk is 100.0.
-The agent2_fd is 111.0.
-The agent3 is cypher.
-The agent3_use_pct is (28) 12%.
-The agent3_rounds is 601.0.
-The agent3_rating is 0.95.
-The agent3_acs is 172.1.
-The agent3_kd is 0.86.
-The agent3_adr is 116.6.
-The agent3_kast is 68%.
-The agent3_kpr is 0.6.
-The agent3_apr is 0.22.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.1.
-The agent3_kills is 362.0.
-The agent3_deaths is 423.0.
-The agent3_assists is 132.0.
-The agent3_fk is 42.0.
-The agent3_fd is 62.0.
-The igl is False.
-The region is na.
-The level is international.
+Huston is a member of Aspyre x Swarm (Bad). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 1818 rounds 
+with an average rating of 0.9, an average average combat score (ACS) of 186.9, an average kills death ratio 
+of 0.85, an average average damage per round (ADR) of 125.6, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 19%, and an average clutch success percentage 
+of 10%. This player is not an in game leader. Over their entire career, kayo is their most played agent. Over the 808 rounds they have played kayo, 
+they have an average rating of 0.91, an average average combat score (ACS) of 180.8, an average kills death ratio 
+of 0.82, an average average damage per round (ADR) of 121.1, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.45, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using kayo this player has a total of 479 kills, 585 deaths, 
+366 assists, 60 first bloods, and 66 first deaths. Over their entire career, reyna is their second most played agent. Over the 704.0 rounds they have played reyna, 
+they have an average rating of 0.98, an average average combat score (ACS) of 220.9, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 142.3, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.16. Using reyna this player has a total of 526.0 kills, 513.0 deaths, 
+172.0 assists, 100.0 first bloods, and 111.0 first deaths. Over their entire career, cypher is their third most played agent. Over the 601.0 rounds they have played cypher, 
+they have an average rating of 0.95, an average average combat score (ACS) of 172.1, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 116.6, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.1. Using cypher this player has a total of 362.0 kills, 423.0 deaths, 
+132.0 assists, 42.0 first bloods, and 62.0 first deaths. 

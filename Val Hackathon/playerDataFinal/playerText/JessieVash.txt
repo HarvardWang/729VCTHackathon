@@ -1,71 +1,26 @@
-The player is JessieVash.
-The org is TS.
-The agents is ['cypher', 'sova', 'breach'].
-The rounds_played is 5843.
-The rating is 1.02.
-The average_combat_score is 192.5.
-The kill_deaths is 0.99.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 129.7.
-The kills_per_round is 0.65.
-The assists_per_round is 0.34.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 24%.
-The clutch_success_percentage is 14%.
-The team_id is 6199.0.
-The team_name is Team Secret.
-The agent1 is sova.
-The agent1_use_pct is (276) 74%.
-The agent1_rounds is 5703.
-The agent1_rating is 1.06.
-The agent1_acs is 197.4.
-The agent1_kd is 1.04.
-The agent1_adr is 134.9.
-The agent1_kast is 75%.
-The agent1_kpr is 0.66.
-The agent1_apr is 0.37.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.05.
-The agent1_kills is 3769.
-The agent1_deaths is 3637.
-The agent1_assists is 2129.
-The agent1_fk is 378.
-The agent1_fd is 310.
-The agent2 is sage.
-The agent2_use_pct is (22) 6%.
-The agent2_rounds is 458.0.
-The agent2_rating is 0.94.
-The agent2_acs is 180.5.
-The agent2_kd is 0.98.
-The agent2_adr is 115.1.
-The agent2_kast is 70%.
-The agent2_kpr is 0.65.
-The agent2_apr is 0.32.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.08.
-The agent2_kills is 299.0.
-The agent2_deaths is 306.0.
-The agent2_assists is 147.0.
-The agent2_fk is 31.0.
-The agent2_fd is 31.0.
-The agent3 is fade.
-The agent3_use_pct is (20) 5%.
-The agent3_rounds is 403.0.
-The agent3_rating is 0.97.
-The agent3_acs is 187.4.
-The agent3_kd is 0.94.
-The agent3_adr is 118.3.
-The agent3_kast is 66%.
-The agent3_kpr is 0.66.
-The agent3_apr is 0.3.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.07.
-The agent3_kills is 266.0.
-The agent3_deaths is 284.0.
-The agent3_assists is 119.0.
-The agent3_fk is 25.0.
-The agent3_fd is 30.0.
-The igl is True.
-The region is ap.
-The level is international.
+JessieVash is a member of Team Secret (TS). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 5843 rounds 
+with an average rating of 1.02, an average average combat score (ACS) of 192.5, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 129.7, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 24%, and an average clutch success percentage 
+of 14%. This player plays the role of an in game leader (IGL). Over their entire career, sova is their most played agent. Over the 5703 rounds they have played sova, 
+they have an average rating of 1.06, an average average combat score (ACS) of 197.4, an average kills death ratio 
+of 1.04, an average average damage per round (ADR) of 134.9, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.05. Using sova this player has a total of 3769 kills, 3637 deaths, 
+2129 assists, 378 first bloods, and 310 first deaths. Over their entire career, sage is their second most played agent. Over the 458.0 rounds they have played sage, 
+they have an average rating of 0.94, an average average combat score (ACS) of 180.5, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 115.1, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using sage this player has a total of 299.0 kills, 306.0 deaths, 
+147.0 assists, 31.0 first bloods, and 31.0 first deaths. Over their entire career, fade is their third most played agent. Over the 403.0 rounds they have played fade, 
+they have an average rating of 0.97, an average average combat score (ACS) of 187.4, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 118.3, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using fade this player has a total of 266.0 kills, 284.0 deaths, 
+119.0 assists, 25.0 first bloods, and 30.0 first deaths. 

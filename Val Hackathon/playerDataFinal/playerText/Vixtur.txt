@@ -1,138 +1,50 @@
-The player is Vixtur.
-The org is DXG.
-The agents is ['breach', 'viper', 'kayo'].
-The rounds_played is 567.
-The rating is 0.85.
-The average_combat_score is 175.0.
-The kill_deaths is 0.73.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 115.3.
-The kills_per_round is 0.59.
-The assists_per_round is 0.37.
-The first_kills_per_round is 0.04.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 24%.
-The clutch_success_percentage is 6%.
-The team_id is 13842.0.
-The team_name is Dexterity Gaming.
-The agent1 is breach.
-The agent1_use_pct is (46) 30%.
-The agent1_rounds is 953.
-The agent1_rating is 1.0.
-The agent1_acs is 182.3.
-The agent1_kd is 0.91.
-The agent1_adr is 120.0.
-The agent1_kast is 75%.
-The agent1_kpr is 0.65.
-The agent1_apr is 0.5.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.05.
-The agent1_kills is 615.
-The agent1_deaths is 677.
-The agent1_assists is 481.
-The agent1_fk is 54.
-The agent1_fd is 48.
-The agent2 is viper.
-The agent2_use_pct is (22) 14%.
-The agent2_rounds is 431.0.
-The agent2_rating is 1.04.
-The agent2_acs is 200.3.
-The agent2_kd is 0.99.
-The agent2_adr is 132.7.
-The agent2_kast is 72%.
-The agent2_kpr is 0.68.
-The agent2_apr is 0.29.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.11.
-The agent2_kills is 295.0.
-The agent2_deaths is 298.0.
-The agent2_assists is 123.0.
-The agent2_fk is 41.0.
-The agent2_fd is 49.0.
-The agent3 is killjoy.
-The agent3_use_pct is (14) 9%.
-The agent3_rounds is 302.0.
-The agent3_rating is 0.95.
-The agent3_acs is 201.6.
-The agent3_kd is 1.02.
-The agent3_adr is 137.7.
-The agent3_kast is 68%.
-The agent3_kpr is 0.72.
-The agent3_apr is 0.13.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.1.
-The agent3_kills is 217.0.
-The agent3_deaths is 213.0.
-The agent3_assists is 40.0.
-The agent3_fk is 26.0.
-The agent3_fd is 30.0.
-The igl is False.
-The region is na.
-The level is international.
-The org30 is DXG.
-The agents30 is ['vyse', 'omen', 'astra'].
-The rounds_played30 is 274.0.
-The rating30 is 0.88.
-The average_combat_score30 is 180.1.
-The kill_deaths30 is 0.76.
-The kill_assists_survived_traded30 is 66%.
-The average_damage_per_round30 is 120.7.
-The kills_per_round30 is 0.61.
-The assists_per_round30 is 0.36.
-The first_kills_per_round30 is 0.03.
-The first_deaths_per_round30 is 0.07.
-The headshot_percentage30 is 24%.
-The clutch_success_percentage30 is 10%.
-The team_id30 is 13842.0.
-The team_name30 is Dexterity Gaming.
-The agent130 is breach.
-The agent1_use_pct30 is (46) 30%.
-The agent1_rounds30 is 953.0.
-The agent1_rating30 is 1.0.
-The agent1_acs30 is 182.3.
-The agent1_kd30 is 0.91.
-The agent1_adr30 is 120.0.
-The agent1_kast30 is 75%.
-The agent1_kpr30 is 0.65.
-The agent1_apr30 is 0.5.
-The agent1_fkpr30 is 0.06.
-The agent1_fdpr30 is 0.05.
-The agent1_kills30 is 615.0.
-The agent1_deaths30 is 677.0.
-The agent1_assists30 is 481.0.
-The agent1_fk30 is 54.0.
-The agent1_fd30 is 48.0.
-The agent230 is viper.
-The agent2_use_pct30 is (22) 14%.
-The agent2_rounds30 is 431.0.
-The agent2_rating30 is 1.04.
-The agent2_acs30 is 200.3.
-The agent2_kd30 is 0.99.
-The agent2_adr30 is 132.7.
-The agent2_kast30 is 72%.
-The agent2_kpr30 is 0.68.
-The agent2_apr30 is 0.29.
-The agent2_fkpr30 is 0.1.
-The agent2_fdpr30 is 0.11.
-The agent2_kills30 is 295.0.
-The agent2_deaths30 is 298.0.
-The agent2_assists30 is 123.0.
-The agent2_fk30 is 41.0.
-The agent2_fd30 is 49.0.
-The agent330 is killjoy.
-The agent3_use_pct30 is (14) 9%.
-The agent3_rounds30 is 302.0.
-The agent3_rating30 is 0.95.
-The agent3_acs30 is 201.6.
-The agent3_kd30 is 1.02.
-The agent3_adr30 is 137.7.
-The agent3_kast30 is 68%.
-The agent3_kpr30 is 0.72.
-The agent3_apr30 is 0.13.
-The agent3_fkpr30 is 0.09.
-The agent3_fdpr30 is 0.1.
-The agent3_kills30 is 217.0.
-The agent3_deaths30 is 213.0.
-The agent3_assists30 is 40.0.
-The agent3_fk30 is 26.0.
-The agent3_fd30 is 30.0.
+Vixtur is a member of Dexterity Gaming (DXG). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 567 rounds 
+with an average rating of 0.85, an average average combat score (ACS) of 175.0, an average kills death ratio 
+of 0.73, an average average damage per round (ADR) of 115.3, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 24%, and an average clutch success percentage 
+of 6%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 953 rounds they have played breach, 
+they have an average rating of 1.0, an average average combat score (ACS) of 182.3, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 120.0, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.5, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.05. Using breach this player has a total of 615 kills, 677 deaths, 
+481 assists, 54 first bloods, and 48 first deaths. Over their entire career, viper is their second most played agent. Over the 431.0 rounds they have played viper, 
+they have an average rating of 1.04, an average average combat score (ACS) of 200.3, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 132.7, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.11. Using viper this player has a total of 295.0 kills, 298.0 deaths, 
+123.0 assists, 41.0 first bloods, and 49.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 302.0 rounds they have played killjoy, 
+they have an average rating of 0.95, an average average combat score (ACS) of 201.6, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 137.7, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.1. Using killjoy this player has a total of 217.0 kills, 213.0 deaths, 
+40.0 assists, 26.0 first bloods, and 30.0 first deaths. Over the past thirty days, Vixtur has played 274.0 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 180.1, an average kills death ratio 
+of 0.76, an average average damage per round (ADR) of 120.7, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.03, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 24%, and an average clutch success percentage 
+of 10%. Over the past thirty days, breach is their most played agent. Over the 953.0 rounds they have played breach, 
+they have an average rating of 1.0, an average average combat score (ACS) of 182.3, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 120.0, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.5, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.05. Using breach this player has a total of 615.0 kills, 677.0 deaths, 
+481.0 assists, 54.0 first bloods, and 48.0 first deaths. Over the past thirty days, viper is their second most played agent. Over the 431.0 rounds they have played viper, 
+they have an average rating of 1.04, an average average combat score (ACS) of 200.3, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 132.7, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.11. Using viper this player has a total of 295.0 kills, 298.0 deaths, 
+123.0 assists, 41.0 first bloods, and 49.0 first deaths. Over the past thirty days, killjoy is their third most played agent. Over the 302.0 rounds they have played killjoy, 
+they have an average rating of 0.95, an average average combat score (ACS) of 201.6, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 137.7, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.1. Using killjoy this player has a total of 217.0 kills, 213.0 deaths, 
+40.0 assists, 26.0 first bloods, and 30.0 first deaths. 

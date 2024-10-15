@@ -1,71 +1,26 @@
-The player is bucher.
-The org is FKS.
-The agents is ['raze', 'jett', 'sage'].
-The rounds_played is 2247.
-The rating is 1.01.
-The average_combat_score is 189.7.
-The kill_deaths is 1.02.
-The kill_assists_survived_traded is 71%.
-The average_damage_per_round is 126.3.
-The kills_per_round is 0.68.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 33%.
-The clutch_success_percentage is 13%.
-The team_id is 6882.0.
-The team_name is FOKUS.
-The agent1 is killjoy.
-The agent1_use_pct is (55) 24%.
-The agent1_rounds is 1172.
-The agent1_rating is 1.13.
-The agent1_acs is 220.9.
-The agent1_kd is 1.2.
-The agent1_adr is 151.3.
-The agent1_kast is 72%.
-The agent1_kpr is 0.8.
-The agent1_apr is 0.13.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.05.
-The agent1_kills is 932.
-The agent1_deaths is 778.
-The agent1_assists is 158.
-The agent1_fk is 78.
-The agent1_fd is 61.
-The agent2 is cypher.
-The agent2_use_pct is (46) 20%.
-The agent2_rounds is 970.0.
-The agent2_rating is 1.04.
-The agent2_acs is 188.3.
-The agent2_kd is 1.12.
-The agent2_adr is 126.2.
-The agent2_kast is 71%.
-The agent2_kpr is 0.71.
-The agent2_apr is 0.17.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.05.
-The agent2_kills is 689.0.
-The agent2_deaths is 616.0.
-The agent2_assists is 167.0.
-The agent2_fk is 64.0.
-The agent2_fd is 48.0.
-The agent3 is viper.
-The agent3_use_pct is (42) 18%.
-The agent3_rounds is 902.0.
-The agent3_rating is 1.05.
-The agent3_acs is 199.6.
-The agent3_kd is 1.08.
-The agent3_adr is 135.6.
-The agent3_kast is 71%.
-The agent3_kpr is 0.72.
-The agent3_apr is 0.24.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.06.
-The agent3_kills is 652.0.
-The agent3_deaths is 605.0.
-The agent3_assists is 220.0.
-The agent3_fk is 69.0.
-The agent3_fd is 55.0.
-The igl is False.
-The region is eu.
-The level is challenger.
+bucher is a member of FOKUS (FKS). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 2247 rounds 
+with an average rating of 1.01, an average average combat score (ACS) of 189.7, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 126.3, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 33%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 1172 rounds they have played killjoy, 
+they have an average rating of 1.13, an average average combat score (ACS) of 220.9, an average kills death ratio 
+of 1.2, an average average damage per round (ADR) of 151.3, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.05. Using killjoy this player has a total of 932 kills, 778 deaths, 
+158 assists, 78 first bloods, and 61 first deaths. Over their entire career, cypher is their second most played agent. Over the 970.0 rounds they have played cypher, 
+they have an average rating of 1.04, an average average combat score (ACS) of 188.3, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 126.2, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.05. Using cypher this player has a total of 689.0 kills, 616.0 deaths, 
+167.0 assists, 64.0 first bloods, and 48.0 first deaths. Over their entire career, viper is their third most played agent. Over the 902.0 rounds they have played viper, 
+they have an average rating of 1.05, an average average combat score (ACS) of 199.6, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 135.6, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.06. Using viper this player has a total of 652.0 kills, 605.0 deaths, 
+220.0 assists, 69.0 first bloods, and 55.0 first deaths. 

@@ -1,138 +1,50 @@
-The player is Exeos.
-The org is MRC.
-The agents is ['kayo', 'skye', 'jett'].
-The rounds_played is 279.
-The rating is 0.63.
-The average_combat_score is 151.1.
-The kill_deaths is 0.6.
-The kill_assists_survived_traded is 54%.
-The average_damage_per_round is 106.2.
-The kills_per_round is 0.51.
-The assists_per_round is 0.18.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 26%.
-The clutch_success_percentage is 5%.
-The team_id is 16116.0.
-The team_name is zZz.
-The agent1 is cypher.
-The agent1_use_pct is (27) 33%.
-The agent1_rounds is 552.
-The agent1_rating is 0.86.
-The agent1_acs is 178.9.
-The agent1_kd is 0.84.
-The agent1_adr is 119.3.
-The agent1_kast is 64%.
-The agent1_kpr is 0.62.
-The agent1_apr is 0.21.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.08.
-The agent1_kills is 342.
-The agent1_deaths is 408.
-The agent1_assists is 114.
-The agent1_fk is 38.
-The agent1_fd is 44.
-The agent2 is killjoy.
-The agent2_use_pct is (15) 18%.
-The agent2_rounds is 362.0.
-The agent2_rating is 0.81.
-The agent2_acs is 174.3.
-The agent2_kd is 0.81.
-The agent2_adr is 120.7.
-The agent2_kast is 60%.
-The agent2_kpr is 0.61.
-The agent2_apr is 0.14.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.13.
-The agent2_kills is 222.0.
-The agent2_deaths is 275.0.
-The agent2_assists is 51.0.
-The agent2_fk is 31.0.
-The agent2_fd is 47.0.
-The agent3 is omen.
-The agent3_use_pct is (12) 14%.
-The agent3_rounds is 239.0.
-The agent3_rating is 0.85.
-The agent3_acs is 180.8.
-The agent3_kd is 0.78.
-The agent3_adr is 121.0.
-The agent3_kast is 66%.
-The agent3_kpr is 0.64.
-The agent3_apr is 0.38.
-The agent3_fkpr is 0.04.
-The agent3_fdpr is 0.07.
-The agent3_kills is 152.0.
-The agent3_deaths is 195.0.
-The agent3_assists is 92.0.
-The agent3_fk is 10.0.
-The agent3_fd is 17.0.
-The igl is False.
-The region is na.
-The level is international.
-The org30 is MRC.
-The agents30 is ['killjoy', 'cypher'].
-The rounds_played30 is 217.0.
-The rating30 is 0.71.
-The average_combat_score30 is 163.5.
-The kill_deaths30 is 0.68.
-The kill_assists_survived_traded30 is 58%.
-The average_damage_per_round30 is 113.5.
-The kills_per_round30 is 0.55.
-The assists_per_round30 is 0.18.
-The first_kills_per_round30 is 0.05.
-The first_deaths_per_round30 is 0.1.
-The headshot_percentage30 is 25%.
-The clutch_success_percentage30 is 5%.
-The team_id30 is 16116.0.
-The team_name30 is zZz.
-The agent130 is cypher.
-The agent1_use_pct30 is (27) 33%.
-The agent1_rounds30 is 552.0.
-The agent1_rating30 is 0.86.
-The agent1_acs30 is 178.9.
-The agent1_kd30 is 0.84.
-The agent1_adr30 is 119.3.
-The agent1_kast30 is 64%.
-The agent1_kpr30 is 0.62.
-The agent1_apr30 is 0.21.
-The agent1_fkpr30 is 0.07.
-The agent1_fdpr30 is 0.08.
-The agent1_kills30 is 342.0.
-The agent1_deaths30 is 408.0.
-The agent1_assists30 is 114.0.
-The agent1_fk30 is 38.0.
-The agent1_fd30 is 44.0.
-The agent230 is killjoy.
-The agent2_use_pct30 is (15) 18%.
-The agent2_rounds30 is 362.0.
-The agent2_rating30 is 0.81.
-The agent2_acs30 is 174.3.
-The agent2_kd30 is 0.81.
-The agent2_adr30 is 120.7.
-The agent2_kast30 is 60%.
-The agent2_kpr30 is 0.61.
-The agent2_apr30 is 0.14.
-The agent2_fkpr30 is 0.09.
-The agent2_fdpr30 is 0.13.
-The agent2_kills30 is 222.0.
-The agent2_deaths30 is 275.0.
-The agent2_assists30 is 51.0.
-The agent2_fk30 is 31.0.
-The agent2_fd30 is 47.0.
-The agent330 is omen.
-The agent3_use_pct30 is (12) 14%.
-The agent3_rounds30 is 239.0.
-The agent3_rating30 is 0.85.
-The agent3_acs30 is 180.8.
-The agent3_kd30 is 0.78.
-The agent3_adr30 is 121.0.
-The agent3_kast30 is 66%.
-The agent3_kpr30 is 0.64.
-The agent3_apr30 is 0.38.
-The agent3_fkpr30 is 0.04.
-The agent3_fdpr30 is 0.07.
-The agent3_kills30 is 152.0.
-The agent3_deaths30 is 195.0.
-The agent3_assists30 is 92.0.
-The agent3_fk30 is 10.0.
-The agent3_fd30 is 17.0.
+Exeos is a member of zZz (MRC). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 279 rounds 
+with an average rating of 0.63, an average average combat score (ACS) of 151.1, an average kills death ratio 
+of 0.6, an average average damage per round (ADR) of 106.2, an average kill, assist, survive, trade percent (KAST) 
+of 54%, an average kills per round (KPR) of 0.51, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 26%, and an average clutch success percentage 
+of 5%. This player is not an in game leader. Over their entire career, cypher is their most played agent. Over the 552 rounds they have played cypher, 
+they have an average rating of 0.86, an average average combat score (ACS) of 178.9, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 119.3, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using cypher this player has a total of 342 kills, 408 deaths, 
+114 assists, 38 first bloods, and 44 first deaths. Over their entire career, killjoy is their second most played agent. Over the 362.0 rounds they have played killjoy, 
+they have an average rating of 0.81, an average average combat score (ACS) of 174.3, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 120.7, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.13. Using killjoy this player has a total of 222.0 kills, 275.0 deaths, 
+51.0 assists, 31.0 first bloods, and 47.0 first deaths. Over their entire career, omen is their third most played agent. Over the 239.0 rounds they have played omen, 
+they have an average rating of 0.85, an average average combat score (ACS) of 180.8, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 121.0, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.07. Using omen this player has a total of 152.0 kills, 195.0 deaths, 
+92.0 assists, 10.0 first bloods, and 17.0 first deaths. Over the past thirty days, Exeos has played 217.0 rounds 
+with an average rating of 0.71, an average average combat score (ACS) of 163.5, an average kills death ratio 
+of 0.68, an average average damage per round (ADR) of 113.5, an average kill, assist, survive, trade percent (KAST) 
+of 58%, an average kills per round (KPR) of 0.55, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 25%, and an average clutch success percentage 
+of 5%. Over the past thirty days, cypher is their most played agent. Over the 552.0 rounds they have played cypher, 
+they have an average rating of 0.86, an average average combat score (ACS) of 178.9, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 119.3, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using cypher this player has a total of 342.0 kills, 408.0 deaths, 
+114.0 assists, 38.0 first bloods, and 44.0 first deaths. Over the past thirty days, killjoy is their second most played agent. Over the 362.0 rounds they have played killjoy, 
+they have an average rating of 0.81, an average average combat score (ACS) of 174.3, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 120.7, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.13. Using killjoy this player has a total of 222.0 kills, 275.0 deaths, 
+51.0 assists, 31.0 first bloods, and 47.0 first deaths. Over the past thirty days, omen is their third most played agent. Over the 239.0 rounds they have played omen, 
+they have an average rating of 0.85, an average average combat score (ACS) of 180.8, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 121.0, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.07. Using omen this player has a total of 152.0 kills, 195.0 deaths, 
+92.0 assists, 10.0 first bloods, and 17.0 first deaths. 

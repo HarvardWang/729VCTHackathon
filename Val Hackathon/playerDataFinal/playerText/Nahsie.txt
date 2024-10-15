@@ -1,71 +1,26 @@
-The player is Nahsie.
-The org is WU.
-The agents is ['raze', 'jett', 'sova'].
-The rounds_played is 6858.
-The rating is 0.95.
-The average_combat_score is 195.5.
-The kill_deaths is 0.91.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 127.3.
-The kills_per_round is 0.68.
-The assists_per_round is 0.36.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 17%.
-The team_id is 10448.0.
-The team_name is Winthrop University.
-The agent1 is breach.
-The agent1_use_pct is (125) 22%.
-The agent1_rounds is 2619.
-The agent1_rating is 1.03.
-The agent1_acs is 194.8.
-The agent1_kd is 0.97.
-The agent1_adr is 124.4.
-The agent1_kast is 76%.
-The agent1_kpr is 0.68.
-The agent1_apr is 0.54.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.07.
-The agent1_kills is 1781.
-The agent1_deaths is 1832.
-The agent1_assists is 1419.
-The agent1_fk is 172.
-The agent1_fd is 183.
-The agent2 is omen.
-The agent2_use_pct is (95) 17%.
-The agent2_rounds is 2028.0.
-The agent2_rating is 1.05.
-The agent2_acs is 209.3.
-The agent2_kd is 1.05.
-The agent2_adr is 134.3.
-The agent2_kast is 74%.
-The agent2_kpr is 0.75.
-The agent2_apr is 0.39.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.1.
-The agent2_kills is 1514.0.
-The agent2_deaths is 1439.0.
-The agent2_assists is 801.0.
-The agent2_fk is 176.0.
-The agent2_fd is 204.0.
-The agent3 is sova.
-The agent3_use_pct is (79) 14%.
-The agent3_rounds is 1651.0.
-The agent3_rating is 1.01.
-The agent3_acs is 205.8.
-The agent3_kd is 1.01.
-The agent3_adr is 138.4.
-The agent3_kast is 70%.
-The agent3_kpr is 0.72.
-The agent3_apr is 0.27.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.08.
-The agent3_kills is 1188.0.
-The agent3_deaths is 1173.0.
-The agent3_assists is 445.0.
-The agent3_fk is 122.0.
-The agent3_fd is 139.0.
-The igl is True.
-The region is na.
-The level is challenger.
+Nahsie is a member of Winthrop University (WU). They play in the North America region and the VCT 
+challenger circuit. Over their entire career, they have played 6858 rounds 
+with an average rating of 0.95, an average average combat score (ACS) of 195.5, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 127.3, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 25%, and an average clutch success percentage 
+of 17%. This player plays the role of an in game leader (IGL). Over their entire career, breach is their most played agent. Over the 2619 rounds they have played breach, 
+they have an average rating of 1.03, an average average combat score (ACS) of 194.8, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 124.4, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.54, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.07. Using breach this player has a total of 1781 kills, 1832 deaths, 
+1419 assists, 172 first bloods, and 183 first deaths. Over their entire career, omen is their second most played agent. Over the 2028.0 rounds they have played omen, 
+they have an average rating of 1.05, an average average combat score (ACS) of 209.3, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 134.3, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.39, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.1. Using omen this player has a total of 1514.0 kills, 1439.0 deaths, 
+801.0 assists, 176.0 first bloods, and 204.0 first deaths. Over their entire career, sova is their third most played agent. Over the 1651.0 rounds they have played sova, 
+they have an average rating of 1.01, an average average combat score (ACS) of 205.8, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 138.4, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using sova this player has a total of 1188.0 kills, 1173.0 deaths, 
+445.0 assists, 122.0 first bloods, and 139.0 first deaths. 

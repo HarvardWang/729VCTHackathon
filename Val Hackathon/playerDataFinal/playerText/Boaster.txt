@@ -1,71 +1,26 @@
-The player is Boaster.
-The org is FNC.
-The agents is ['sage', 'jett', 'sova'].
-The rounds_played is 8025.
-The rating is 0.93.
-The average_combat_score is 177.8.
-The kill_deaths is 0.9.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 113.8.
-The kills_per_round is 0.6.
-The assists_per_round is 0.38.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 17%.
-The team_id is 2593.0.
-The team_name is FNATIC.
-The agent1 is astra.
-The agent1_use_pct is (90) 19%.
-The agent1_rounds is 1906.
-The agent1_rating is 0.95.
-The agent1_acs is 179.6.
-The agent1_kd is 0.96.
-The agent1_adr is 113.9.
-The agent1_kast is 72%.
-The agent1_kpr is 0.62.
-The agent1_apr is 0.34.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.09.
-The agent1_kills is 1189.
-The agent1_deaths is 1238.
-The agent1_assists is 640.
-The agent1_fk is 165.
-The agent1_fd is 177.
-The agent2 is omen.
-The agent2_use_pct is (85) 18%.
-The agent2_rounds is 1826.0.
-The agent2_rating is 0.91.
-The agent2_acs is 162.8.
-The agent2_kd is 0.86.
-The agent2_adr is 104.5.
-The agent2_kast is 73%.
-The agent2_kpr is 0.56.
-The agent2_apr is 0.44.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.11.
-The agent2_kills is 1023.0.
-The agent2_deaths is 1191.0.
-The agent2_assists is 797.0.
-The agent2_fk is 132.0.
-The agent2_fd is 196.0.
-The agent3 is breach.
-The agent3_use_pct is (73) 16%.
-The agent3_rounds is 1487.0.
-The agent3_rating is 0.82.
-The agent3_acs is 182.8.
-The agent3_kd is 0.98.
-The agent3_adr is 112.8.
-The agent3_kast is 67%.
-The agent3_kpr is 0.64.
-The agent3_apr is 0.45.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.09.
-The agent3_kills is 957.0.
-The agent3_deaths is 977.0.
-The agent3_assists is 668.0.
-The agent3_fk is 115.0.
-The agent3_fd is 139.0.
-The igl is True.
-The region is eu.
-The level is international.
+Boaster is a member of FNATIC (FNC). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 8025 rounds 
+with an average rating of 0.93, an average average combat score (ACS) of 177.8, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 113.8, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 21%, and an average clutch success percentage 
+of 17%. This player plays the role of an in game leader (IGL). Over their entire career, astra is their most played agent. Over the 1906 rounds they have played astra, 
+they have an average rating of 0.95, an average average combat score (ACS) of 179.6, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 113.9, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.09. Using astra this player has a total of 1189 kills, 1238 deaths, 
+640 assists, 165 first bloods, and 177 first deaths. Over their entire career, omen is their second most played agent. Over the 1826.0 rounds they have played omen, 
+they have an average rating of 0.91, an average average combat score (ACS) of 162.8, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 104.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.44, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.11. Using omen this player has a total of 1023.0 kills, 1191.0 deaths, 
+797.0 assists, 132.0 first bloods, and 196.0 first deaths. Over their entire career, breach is their third most played agent. Over the 1487.0 rounds they have played breach, 
+they have an average rating of 0.82, an average average combat score (ACS) of 182.8, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 112.8, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.45, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.09. Using breach this player has a total of 957.0 kills, 977.0 deaths, 
+668.0 assists, 115.0 first bloods, and 139.0 first deaths. 

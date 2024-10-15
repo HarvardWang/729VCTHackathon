@@ -1,69 +1,26 @@
-The player is 10X.
-The org is E36.
-The agents is ['raze', 'sova', 'sage'].
-The rounds_played is 234.
-The average_combat_score is 178.4.
-The kill_deaths is 0.81.
-The average_damage_per_round is 122.4.
-The kills_per_round is 0.62.
-The assists_per_round is 0.29.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.11.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 30%.
-The team_id is 8860.0.
-The team_name is ENTER FORCE.36.
-The agent1 is sova.
-The agent1_use_pct is (67) 38%.
-The agent1_rounds is 1384.
-The agent1_rating is 1.02.
-The agent1_acs is 196.3.
-The agent1_kd is 1.03.
-The agent1_adr is 124.6.
-The agent1_kast is 71%.
-The agent1_kpr is 0.68.
-The agent1_apr is 0.33.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.09.
-The agent1_kills is 938.
-The agent1_deaths is 912.
-The agent1_assists is 455.
-The agent1_fk is 98.
-The agent1_fd is 123.
-The agent2 is sage.
-The agent2_use_pct is (25) 14%.
-The agent2_rounds is 514.0.
-The agent2_rating is 1.08.
-The agent2_acs is 198.6.
-The agent2_kd is 1.04.
-The agent2_adr is 127.1.
-The agent2_kast is 77%.
-The agent2_kpr is 0.7.
-The agent2_apr is 0.29.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.11.
-The agent2_kills is 359.0.
-The agent2_deaths is 345.0.
-The agent2_assists is 150.0.
-The agent2_fk is 44.0.
-The agent2_fd is 52.0.
-The agent3 is raze.
-The agent3_use_pct is (19) 11%.
-The agent3_rounds is 364.0.
-The agent3_rating is 1.02.
-The agent3_acs is 234.5.
-The agent3_kd is 1.05.
-The agent3_adr is 153.4.
-The agent3_kast is 73%.
-The agent3_kpr is 0.79.
-The agent3_apr is 0.21.
-The agent3_fkpr is 0.14.
-The agent3_fdpr is 0.14.
-The agent3_kills is 287.0.
-The agent3_deaths is 273.0.
-The agent3_assists is 78.0.
-The agent3_fk is 51.0.
-The agent3_fd is 52.0.
-The igl is False.
-The region is ap.
-The level is international.
+10X is a member of ENTER FORCE.36 (E36). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 234 rounds 
+with an average rating of Unknown, an average average combat score (ACS) of 178.4, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 122.4, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.11, an average headshot percentage of 21%, and an average clutch success percentage 
+of 30%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 1384 rounds they have played sova, 
+they have an average rating of 1.02, an average average combat score (ACS) of 196.3, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 124.6, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.09. Using sova this player has a total of 938 kills, 912 deaths, 
+455 assists, 98 first bloods, and 123 first deaths. Over their entire career, sage is their second most played agent. Over the 514.0 rounds they have played sage, 
+they have an average rating of 1.08, an average average combat score (ACS) of 198.6, an average kills death ratio 
+of 1.04, an average average damage per round (ADR) of 127.1, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.11. Using sage this player has a total of 359.0 kills, 345.0 deaths, 
+150.0 assists, 44.0 first bloods, and 52.0 first deaths. Over their entire career, raze is their third most played agent. Over the 364.0 rounds they have played raze, 
+they have an average rating of 1.02, an average average combat score (ACS) of 234.5, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 153.4, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.79, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 287.0 kills, 273.0 deaths, 
+78.0 assists, 51.0 first bloods, and 52.0 first deaths. 

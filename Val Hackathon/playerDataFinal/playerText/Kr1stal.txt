@@ -1,71 +1,26 @@
-The player is Kr1stal.
-The org is XLG.
-The agents is ['kayo', 'sage', 'breach'].
-The rounds_played is 2081.
-The rating is 1.12.
-The average_combat_score is 217.7.
-The kill_deaths is 1.12.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 141.3.
-The kills_per_round is 0.76.
-The assists_per_round is 0.29.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 23%.
-The clutch_success_percentage is 16%.
-The team_id is 13581.0.
-The team_name is Xi Lai Gaming.
-The agent1 is sova.
-The agent1_use_pct is (58) 27%.
-The agent1_rounds is 1247.
-The agent1_rating is 1.17.
-The agent1_acs is 233.3.
-The agent1_kd is 1.27.
-The agent1_adr is 145.7.
-The agent1_kast is 76%.
-The agent1_kpr is 0.8.
-The agent1_apr is 0.29.
-The agent1_fkpr is 0.11.
-The agent1_fdpr is 0.09.
-The agent1_kills is 998.
-The agent1_deaths is 787.
-The agent1_assists is 356.
-The agent1_fk is 129.
-The agent1_fd is 92.
-The agent2 is jett.
-The agent2_use_pct is (37) 17%.
-The agent2_rounds is 750.0.
-The agent2_rating is 1.05.
-The agent2_acs is 229.7.
-The agent2_kd is 1.14.
-The agent2_adr is 140.2.
-The agent2_kast is 70%.
-The agent2_kpr is 0.82.
-The agent2_apr is 0.14.
-The agent2_fkpr is 0.18.
-The agent2_fdpr is 0.15.
-The agent2_kills is 612.0.
-The agent2_deaths is 535.0.
-The agent2_assists is 103.0.
-The agent2_fk is 138.0.
-The agent2_fd is 114.0.
-The agent3 is sage.
-The agent3_use_pct is (23) 11%.
-The agent3_rounds is 477.0.
-The agent3_rating is 1.06.
-The agent3_acs is 205.8.
-The agent3_kd is 1.07.
-The agent3_adr is 125.4.
-The agent3_kast is 74%.
-The agent3_kpr is 0.71.
-The agent3_apr is 0.33.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.1.
-The agent3_kills is 338.0.
-The agent3_deaths is 315.0.
-The agent3_assists is 156.0.
-The agent3_fk is 43.0.
-The agent3_fd is 47.0.
-The igl is True.
-The region is jp.
-The level is international.
+Kr1stal is a member of Xi Lai Gaming (XLG). They play in the Japan region and the VCT 
+international circuit. Over their entire career, they have played 2081 rounds 
+with an average rating of 1.12, an average average combat score (ACS) of 217.7, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 141.3, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 23%, and an average clutch success percentage 
+of 16%. This player plays the role of an in game leader (IGL). Over their entire career, sova is their most played agent. Over the 1247 rounds they have played sova, 
+they have an average rating of 1.17, an average average combat score (ACS) of 233.3, an average kills death ratio 
+of 1.27, an average average damage per round (ADR) of 145.7, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.09. Using sova this player has a total of 998 kills, 787 deaths, 
+356 assists, 129 first bloods, and 92 first deaths. Over their entire career, jett is their second most played agent. Over the 750.0 rounds they have played jett, 
+they have an average rating of 1.05, an average average combat score (ACS) of 229.7, an average kills death ratio 
+of 1.14, an average average damage per round (ADR) of 140.2, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.18, and an average first deaths per round (FDPR) 
+of 0.15. Using jett this player has a total of 612.0 kills, 535.0 deaths, 
+103.0 assists, 138.0 first bloods, and 114.0 first deaths. Over their entire career, sage is their third most played agent. Over the 477.0 rounds they have played sage, 
+they have an average rating of 1.06, an average average combat score (ACS) of 205.8, an average kills death ratio 
+of 1.07, an average average damage per round (ADR) of 125.4, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.1. Using sage this player has a total of 338.0 kills, 315.0 deaths, 
+156.0 assists, 43.0 first bloods, and 47.0 first deaths. 

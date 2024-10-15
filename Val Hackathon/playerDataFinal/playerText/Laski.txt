@@ -1,69 +1,26 @@
-The player is Laski.
-The org is What.
-The agents is ['raze', 'omen', 'phoenix'].
-The rounds_played is 250.
-The rating is 0.6.
-The average_combat_score is 161.9.
-The kill_deaths is 0.71.
-The kill_assists_survived_traded is 78%.
-The average_damage_per_round is 126.7.
-The kills_per_round is 0.54.
-The assists_per_round is 0.19.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.13.
-The headshot_percentage is 24%.
-The clutch_success_percentage is 21%.
-The team_id is 5811.0.
-The team_name is What's going on.
-The agent1 is raze.
-The agent1_use_pct is (10) 43%.
-The agent1_rounds is 205.
-The agent1_rating is 1.56.
-The agent1_acs is 223.0.
-The agent1_kd is 1.08.
-The agent1_adr is 175.4.
-The agent1_kast is 82%.
-The agent1_kpr is 0.74.
-The agent1_apr is 0.24.
-The agent1_fkpr is 0.12.
-The agent1_fdpr is 0.14.
-The agent1_kills is 151.
-The agent1_deaths is 140.
-The agent1_assists is 50.
-The agent1_fk is 25.
-The agent1_fd is 5.
-The agent2 is omen.
-The agent2_use_pct is (5) 22%.
-The agent2_rounds is 92.0.
-The agent2_rating is 1.24.
-The agent2_acs is 140.6.
-The agent2_kd is 0.73.
-The agent2_adr is 118.0.
-The agent2_kast is 79%.
-The agent2_kpr is 0.48.
-The agent2_apr is 0.23.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.05.
-The agent2_kills is 44.0.
-The agent2_deaths is 60.0.
-The agent2_assists is 21.0.
-The agent2_fk is 9.0.
-The agent2_fd is 1.0.
-The agent3 is phoenix.
-The agent3_use_pct is (4) 17%.
-The agent3_rounds is 93.0.
-The agent3_acs is 193.0.
-The agent3_kd is 0.9.
-The agent3_adr is 136.4.
-The agent3_kpr is 0.65.
-The agent3_apr is 0.3.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.1.
-The agent3_kills is 60.0.
-The agent3_deaths is 67.0.
-The agent3_assists is 28.0.
-The agent3_fk is 7.0.
-The agent3_fd is 9.0.
-The igl is False.
-The region is na.
-The level is international.
+Laski is a member of What's going on (What). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 250 rounds 
+with an average rating of 0.6, an average average combat score (ACS) of 161.9, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 126.7, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 24%, and an average clutch success percentage 
+of 21%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 205 rounds they have played raze, 
+they have an average rating of 1.56, an average average combat score (ACS) of 223.0, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 175.4, an average kill, assist, survive, trade percent (KAST) 
+of 82%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 151 kills, 140 deaths, 
+50 assists, 25 first bloods, and 5 first deaths. Over their entire career, omen is their second most played agent. Over the 92.0 rounds they have played omen, 
+they have an average rating of 1.24, an average average combat score (ACS) of 140.6, an average kills death ratio 
+of 0.73, an average average damage per round (ADR) of 118.0, an average kill, assist, survive, trade percent (KAST) 
+of 79%, an average kills per round (KPR) of 0.48, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.05. Using omen this player has a total of 44.0 kills, 60.0 deaths, 
+21.0 assists, 9.0 first bloods, and 1.0 first deaths. Over their entire career, phoenix is their third most played agent. Over the 93.0 rounds they have played phoenix, 
+they have an average rating of Unknown, an average average combat score (ACS) of 193.0, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 136.4, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.1. Using phoenix this player has a total of 60.0 kills, 67.0 deaths, 
+28.0 assists, 7.0 first bloods, and 9.0 first deaths. 

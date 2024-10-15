@@ -1,70 +1,26 @@
-The player is TiKeX.
-The org is DOES.
-The agents is ['jett', 'neon'].
-The rounds_played is 231.
-The rating is 0.7.
-The average_combat_score is 186.8.
-The kill_deaths is 0.72.
-The kill_assists_survived_traded is 54%.
-The average_damage_per_round is 121.1.
-The kills_per_round is 0.62.
-The assists_per_round is 0.13.
-The first_kills_per_round is 0.16.
-The first_deaths_per_round is 0.19.
-The headshot_percentage is 15%.
-The team_id is 6341.0.
-The team_name is Monkey Momentum.
-The agent1 is jett.
-The agent1_use_pct is (72) 78%.
-The agent1_rounds is 1462.
-The agent1_rating is 1.03.
-The agent1_acs is 235.7.
-The agent1_kd is 1.08.
-The agent1_adr is 145.8.
-The agent1_kast is 67%.
-The agent1_kpr is 0.81.
-The agent1_apr is 0.18.
-The agent1_fkpr is 0.19.
-The agent1_fdpr is 0.16.
-The agent1_kills is 1179.
-The agent1_deaths is 1090.
-The agent1_assists is 267.
-The agent1_fk is 277.
-The agent1_fd is 234.
-The agent2 is raze.
-The agent2_use_pct is (13) 14%.
-The agent2_rounds is 297.0.
-The agent2_rating is 0.88.
-The agent2_acs is 210.2.
-The agent2_kd is 0.91.
-The agent2_adr is 130.5.
-The agent2_kast is 66%.
-The agent2_kpr is 0.68.
-The agent2_apr is 0.2.
-The agent2_fkpr is 0.15.
-The agent2_fdpr is 0.23.
-The agent2_kills is 201.0.
-The agent2_deaths is 222.0.
-The agent2_assists is 60.0.
-The agent2_fk is 44.0.
-The agent2_fd is 67.0.
-The agent3 is neon.
-The agent3_use_pct is (6) 7%.
-The agent3_rounds is 117.0.
-The agent3_rating is 0.92.
-The agent3_acs is 225.8.
-The agent3_kd is 1.01.
-The agent3_adr is 139.7.
-The agent3_kast is 56%.
-The agent3_kpr is 0.77.
-The agent3_apr is 0.14.
-The agent3_fkpr is 0.21.
-The agent3_fdpr is 0.21.
-The agent3_kills is 90.0.
-The agent3_deaths is 89.0.
-The agent3_assists is 16.0.
-The agent3_fk is 25.0.
-The agent3_fd is 24.0.
-The igl is False.
-The region is eu.
-The level is international.
+TiKeX is a member of Monkey Momentum (DOES). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 231 rounds 
+with an average rating of 0.7, an average average combat score (ACS) of 186.8, an average kills death ratio 
+of 0.72, an average average damage per round (ADR) of 121.1, an average kill, assist, survive, trade percent (KAST) 
+of 54%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.16, an average first deaths per round (FDPR) 
+of 0.19, an average headshot percentage of 15%, and an average clutch success percentage 
+of Unknown. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 1462 rounds they have played jett, 
+they have an average rating of 1.03, an average average combat score (ACS) of 235.7, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 145.8, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.81, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.16. Using jett this player has a total of 1179 kills, 1090 deaths, 
+267 assists, 277 first bloods, and 234 first deaths. Over their entire career, raze is their second most played agent. Over the 297.0 rounds they have played raze, 
+they have an average rating of 0.88, an average average combat score (ACS) of 210.2, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 130.5, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.23. Using raze this player has a total of 201.0 kills, 222.0 deaths, 
+60.0 assists, 44.0 first bloods, and 67.0 first deaths. Over their entire career, neon is their third most played agent. Over the 117.0 rounds they have played neon, 
+they have an average rating of 0.92, an average average combat score (ACS) of 225.8, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 139.7, an average kill, assist, survive, trade percent (KAST) 
+of 56%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.21, and an average first deaths per round (FDPR) 
+of 0.21. Using neon this player has a total of 90.0 kills, 89.0 deaths, 
+16.0 assists, 25.0 first bloods, and 24.0 first deaths. 

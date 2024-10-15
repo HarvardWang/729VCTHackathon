@@ -1,71 +1,26 @@
-The player is EMENK.
-The org is 19.
-The agents is ['killjoy', 'jett', 'reyna'].
-The rounds_played is 804.
-The rating is 0.99.
-The average_combat_score is 194.8.
-The kill_deaths is 1.0.
-The kill_assists_survived_traded is 68%.
-The average_damage_per_round is 127.4.
-The kills_per_round is 0.7.
-The assists_per_round is 0.2.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 33%.
-The clutch_success_percentage is 18%.
-The team_id is 6139.0.
-The team_name is 19esports.
-The agent1 is killjoy.
-The agent1_use_pct is (27) 33%.
-The agent1_rounds is 562.
-The agent1_rating is 1.08.
-The agent1_acs is 206.0.
-The agent1_kd is 1.16.
-The agent1_adr is 137.8.
-The agent1_kast is 70%.
-The agent1_kpr is 0.75.
-The agent1_apr is 0.11.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.07.
-The agent1_kills is 420.
-The agent1_deaths is 361.
-The agent1_assists is 64.
-The agent1_fk is 32.
-The agent1_fd is 37.
-The agent2 is chamber.
-The agent2_use_pct is (19) 23%.
-The agent2_rounds is 383.0.
-The agent2_rating is 1.02.
-The agent2_acs is 192.5.
-The agent2_kd is 1.11.
-The agent2_adr is 124.1.
-The agent2_kast is 72%.
-The agent2_kpr is 0.7.
-The agent2_apr is 0.16.
-The agent2_fkpr is 0.12.
-The agent2_fdpr is 0.1.
-The agent2_kills is 269.0.
-The agent2_deaths is 243.0.
-The agent2_assists is 62.0.
-The agent2_fk is 47.0.
-The agent2_fd is 40.0.
-The agent3 is sage.
-The agent3_use_pct is (15) 19%.
-The agent3_rounds is 315.0.
-The agent3_rating is 1.13.
-The agent3_acs is 201.4.
-The agent3_kd is 1.12.
-The agent3_adr is 130.2.
-The agent3_kast is 72%.
-The agent3_kpr is 0.72.
-The agent3_apr is 0.32.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.07.
-The agent3_kills is 227.0.
-The agent3_deaths is 203.0.
-The agent3_assists is 102.0.
-The agent3_fk is 29.0.
-The agent3_fd is 23.0.
-The igl is False.
-The region is eu.
-The level is international.
+EMENK is a member of 19esports (19). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 804 rounds 
+with an average rating of 0.99, an average average combat score (ACS) of 194.8, an average kills death ratio 
+of 1.0, an average average damage per round (ADR) of 127.4, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 33%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 562 rounds they have played killjoy, 
+they have an average rating of 1.08, an average average combat score (ACS) of 206.0, an average kills death ratio 
+of 1.16, an average average damage per round (ADR) of 137.8, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.11, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using killjoy this player has a total of 420 kills, 361 deaths, 
+64 assists, 32 first bloods, and 37 first deaths. Over their entire career, chamber is their second most played agent. Over the 383.0 rounds they have played chamber, 
+they have an average rating of 1.02, an average average combat score (ACS) of 192.5, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 124.1, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.1. Using chamber this player has a total of 269.0 kills, 243.0 deaths, 
+62.0 assists, 47.0 first bloods, and 40.0 first deaths. Over their entire career, sage is their third most played agent. Over the 315.0 rounds they have played sage, 
+they have an average rating of 1.13, an average average combat score (ACS) of 201.4, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 130.2, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using sage this player has a total of 227.0 kills, 203.0 deaths, 
+102.0 assists, 29.0 first bloods, and 23.0 first deaths. 

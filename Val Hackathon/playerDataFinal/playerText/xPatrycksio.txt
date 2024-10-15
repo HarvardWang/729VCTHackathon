@@ -1,71 +1,26 @@
-The player is xPatrycksio.
-The org is Dimo.
-The agents is ['chamber', 'jett', 'raze'].
-The rounds_played is 312.
-The rating is 0.79.
-The average_combat_score is 187.0.
-The kill_deaths is 0.79.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 127.3.
-The kills_per_round is 0.63.
-The assists_per_round is 0.21.
-The first_kills_per_round is 0.11.
-The first_deaths_per_round is 0.17.
-The headshot_percentage is 23%.
-The clutch_success_percentage is 14%.
-The team_id is 16466.0.
-The team_name is Dimonis Crew.
-The agent1 is viper.
-The agent1_use_pct is (11) 18%.
-The agent1_rounds is 236.
-The agent1_rating is 0.91.
-The agent1_acs is 184.8.
-The agent1_kd is 0.9.
-The agent1_adr is 124.3.
-The agent1_kast is 72%.
-The agent1_kpr is 0.64.
-The agent1_apr is 0.33.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.11.
-The agent1_kills is 150.
-The agent1_deaths is 167.
-The agent1_assists is 77.
-The agent1_fk is 21.
-The agent1_fd is 25.
-The agent2 is jett.
-The agent2_use_pct is (8) 13%.
-The agent2_rounds is 174.0.
-The agent2_rating is 1.08.
-The agent2_acs is 245.8.
-The agent2_kd is 1.1.
-The agent2_adr is 158.6.
-The agent2_kast is 71%.
-The agent2_kpr is 0.84.
-The agent2_apr is 0.19.
-The agent2_fkpr is 0.19.
-The agent2_fdpr is 0.18.
-The agent2_kills is 147.0.
-The agent2_deaths is 134.0.
-The agent2_assists is 33.0.
-The agent2_fk is 33.0.
-The agent2_fd is 32.0.
-The agent3 is kayo.
-The agent3_use_pct is (8) 13%.
-The agent3_rounds is 173.0.
-The agent3_rating is 0.87.
-The agent3_acs is 182.3.
-The agent3_kd is 0.76.
-The agent3_adr is 120.4.
-The agent3_kast is 73%.
-The agent3_kpr is 0.61.
-The agent3_apr is 0.52.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.1.
-The agent3_kills is 105.0.
-The agent3_deaths is 138.0.
-The agent3_assists is 90.0.
-The agent3_fk is 14.0.
-The agent3_fd is 17.0.
-The igl is False.
-The region is eu.
-The level is international.
+xPatrycksio is a member of Dimonis Crew (Dimo). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 312 rounds 
+with an average rating of 0.79, an average average combat score (ACS) of 187.0, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 127.3, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.11, an average first deaths per round (FDPR) 
+of 0.17, an average headshot percentage of 23%, and an average clutch success percentage 
+of 14%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 236 rounds they have played viper, 
+they have an average rating of 0.91, an average average combat score (ACS) of 184.8, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 124.3, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.11. Using viper this player has a total of 150 kills, 167 deaths, 
+77 assists, 21 first bloods, and 25 first deaths. Over their entire career, jett is their second most played agent. Over the 174.0 rounds they have played jett, 
+they have an average rating of 1.08, an average average combat score (ACS) of 245.8, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 158.6, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.18. Using jett this player has a total of 147.0 kills, 134.0 deaths, 
+33.0 assists, 33.0 first bloods, and 32.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 173.0 rounds they have played kayo, 
+they have an average rating of 0.87, an average average combat score (ACS) of 182.3, an average kills death ratio 
+of 0.76, an average average damage per round (ADR) of 120.4, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.52, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.1. Using kayo this player has a total of 105.0 kills, 138.0 deaths, 
+90.0 assists, 14.0 first bloods, and 17.0 first deaths. 

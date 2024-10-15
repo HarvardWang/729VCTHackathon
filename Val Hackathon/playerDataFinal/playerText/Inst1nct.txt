@@ -1,71 +1,26 @@
-The player is Inst1nct.
-The org is SVGE.
-The agents is ['brimstone', 'sova', 'sage'].
-The rounds_played is 203.
-The rating is 0.85.
-The average_combat_score is 166.2.
-The kill_deaths is 0.75.
-The kill_assists_survived_traded is 64%.
-The average_damage_per_round is 106.6.
-The kills_per_round is 0.54.
-The assists_per_round is 0.29.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 13%.
-The clutch_success_percentage is 5%.
-The team_id is 12479.0.
-The team_name is BIG MAC BANDITS.
-The agent1 is sova.
-The agent1_use_pct is (18) 39%.
-The agent1_rounds is 381.
-The agent1_rating is 1.1.
-The agent1_acs is 190.7.
-The agent1_kd is 1.04.
-The agent1_adr is 127.0.
-The agent1_kast is 73%.
-The agent1_kpr is 0.62.
-The agent1_apr is 0.38.
-The agent1_fkpr is 0.04.
-The agent1_fdpr is 0.04.
-The agent1_kills is 237.
-The agent1_deaths is 227.
-The agent1_assists is 144.
-The agent1_fk is 15.
-The agent1_fd is 16.
-The agent2 is viper.
-The agent2_use_pct is (5) 11%.
-The agent2_rounds is 101.0.
-The agent2_rating is 1.1.
-The agent2_acs is 210.4.
-The agent2_kd is 1.01.
-The agent2_adr is 143.6.
-The agent2_kast is 78%.
-The agent2_kpr is 0.7.
-The agent2_apr is 0.47.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.05.
-The agent2_kills is 71.0.
-The agent2_deaths is 70.0.
-The agent2_assists is 47.0.
-The agent2_fk is 10.0.
-The agent2_fd is 5.0.
-The agent3 is gekko.
-The agent3_use_pct is (4) 9%.
-The agent3_rounds is 92.0.
-The agent3_rating is 0.82.
-The agent3_acs is 149.0.
-The agent3_kd is 0.78.
-The agent3_adr is 102.5.
-The agent3_kast is 68%.
-The agent3_kpr is 0.5.
-The agent3_apr is 0.27.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.05.
-The agent3_kills is 46.0.
-The agent3_deaths is 59.0.
-The agent3_assists is 25.0.
-The agent3_fk is 5.0.
-The agent3_fd is 5.0.
-The igl is False.
-The region is eu.
-The level is international.
+Inst1nct is a member of BIG MAC BANDITS (SVGE). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 203 rounds 
+with an average rating of 0.85, an average average combat score (ACS) of 166.2, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 106.6, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 13%, and an average clutch success percentage 
+of 5%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 381 rounds they have played sova, 
+they have an average rating of 1.1, an average average combat score (ACS) of 190.7, an average kills death ratio 
+of 1.04, an average average damage per round (ADR) of 127.0, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.04. Using sova this player has a total of 237 kills, 227 deaths, 
+144 assists, 15 first bloods, and 16 first deaths. Over their entire career, viper is their second most played agent. Over the 101.0 rounds they have played viper, 
+they have an average rating of 1.1, an average average combat score (ACS) of 210.4, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 143.6, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.47, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.05. Using viper this player has a total of 71.0 kills, 70.0 deaths, 
+47.0 assists, 10.0 first bloods, and 5.0 first deaths. Over their entire career, gekko is their third most played agent. Over the 92.0 rounds they have played gekko, 
+they have an average rating of 0.82, an average average combat score (ACS) of 149.0, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 102.5, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.5, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.05. Using gekko this player has a total of 46.0 kills, 59.0 deaths, 
+25.0 assists, 5.0 first bloods, and 5.0 first deaths. 

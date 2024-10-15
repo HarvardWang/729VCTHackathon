@@ -1,71 +1,26 @@
-The player is Lights.
-The org is HZN.
-The agents is ['cypher', 'killjoy', 'jett'].
-The rounds_played is 353.
-The rating is 0.86.
-The average_combat_score is 181.1.
-The kill_deaths is 0.75.
-The kill_assists_survived_traded is 61%.
-The average_damage_per_round is 118.5.
-The kills_per_round is 0.6.
-The assists_per_round is 0.25.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 23%.
-The clutch_success_percentage is 12%.
-The team_id is 11923.0.
-The team_name is SDSU Black.
-The agent1 is killjoy.
-The agent1_use_pct is (19) 26%.
-The agent1_rounds is 362.
-The agent1_rating is 1.06.
-The agent1_acs is 213.1.
-The agent1_kd is 1.06.
-The agent1_adr is 143.7.
-The agent1_kast is 71%.
-The agent1_kpr is 0.73.
-The agent1_apr is 0.18.
-The agent1_fkpr is 0.1.
-The agent1_fdpr is 0.09.
-The agent1_kills is 266.
-The agent1_deaths is 252.
-The agent1_assists is 65.
-The agent1_fk is 36.
-The agent1_fd is 33.
-The agent2 is omen.
-The agent2_use_pct is (18) 25%.
-The agent2_rounds is 369.0.
-The agent2_rating is 1.13.
-The agent2_acs is 210.1.
-The agent2_kd is 1.08.
-The agent2_adr is 132.2.
-The agent2_kast is 75%.
-The agent2_kpr is 0.73.
-The agent2_apr is 0.51.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.09.
-The agent2_kills is 271.0.
-The agent2_deaths is 252.0.
-The agent2_assists is 188.0.
-The agent2_fk is 33.0.
-The agent2_fd is 32.0.
-The agent3 is viper.
-The agent3_use_pct is (12) 16%.
-The agent3_rounds is 257.0.
-The agent3_rating is 0.99.
-The agent3_acs is 202.3.
-The agent3_kd is 0.95.
-The agent3_adr is 135.5.
-The agent3_kast is 65%.
-The agent3_kpr is 0.68.
-The agent3_apr is 0.3.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.12.
-The agent3_kills is 176.0.
-The agent3_deaths is 185.0.
-The agent3_assists is 77.0.
-The agent3_fk is 21.0.
-The agent3_fd is 31.0.
-The igl is False.
-The region is na.
-The level is international.
+Lights is a member of SDSU Black (HZN). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 353 rounds 
+with an average rating of 0.86, an average average combat score (ACS) of 181.1, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 118.5, an average kill, assist, survive, trade percent (KAST) 
+of 61%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 23%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 362 rounds they have played killjoy, 
+they have an average rating of 1.06, an average average combat score (ACS) of 213.1, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 143.7, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.09. Using killjoy this player has a total of 266 kills, 252 deaths, 
+65 assists, 36 first bloods, and 33 first deaths. Over their entire career, omen is their second most played agent. Over the 369.0 rounds they have played omen, 
+they have an average rating of 1.13, an average average combat score (ACS) of 210.1, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 132.2, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.51, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.09. Using omen this player has a total of 271.0 kills, 252.0 deaths, 
+188.0 assists, 33.0 first bloods, and 32.0 first deaths. Over their entire career, viper is their third most played agent. Over the 257.0 rounds they have played viper, 
+they have an average rating of 0.99, an average average combat score (ACS) of 202.3, an average kills death ratio 
+of 0.95, an average average damage per round (ADR) of 135.5, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.12. Using viper this player has a total of 176.0 kills, 185.0 deaths, 
+77.0 assists, 21.0 first bloods, and 31.0 first deaths. 

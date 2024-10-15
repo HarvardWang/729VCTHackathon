@@ -1,71 +1,26 @@
-The player is Akime.
-The org is Mama.
-The agents is ['viper', 'omen', 'kayo'].
-The rounds_played is 223.
-The rating is 0.93.
-The average_combat_score is 168.5.
-The kill_deaths is 0.83.
-The kill_assists_survived_traded is 70%.
-The average_damage_per_round is 106.7.
-The kills_per_round is 0.59.
-The assists_per_round is 0.45.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.03.
-The headshot_percentage is 30%.
-The clutch_success_percentage is 16%.
-The team_id is 14114.0.
-The team_name is XXL.
-The agent1 is omen.
-The agent1_use_pct is (8) 30%.
-The agent1_rounds is 179.
-The agent1_rating is 0.85.
-The agent1_acs is 150.1.
-The agent1_kd is 0.74.
-The agent1_adr is 98.7.
-The agent1_kast is 69%.
-The agent1_kpr is 0.53.
-The agent1_apr is 0.42.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.05.
-The agent1_kills is 94.
-The agent1_deaths is 127.
-The agent1_assists is 76.
-The agent1_fk is 13.
-The agent1_fd is 9.
-The agent2 is viper.
-The agent2_use_pct is (5) 19%.
-The agent2_rounds is 107.0.
-The agent2_rating is 0.94.
-The agent2_acs is 200.0.
-The agent2_kd is 0.87.
-The agent2_adr is 134.2.
-The agent2_kast is 66%.
-The agent2_kpr is 0.69.
-The agent2_apr is 0.24.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.01.
-The agent2_kills is 74.0.
-The agent2_deaths is 85.0.
-The agent2_assists is 26.0.
-The agent2_fk is 6.0.
-The agent2_fd is 1.0.
-The agent3 is breach.
-The agent3_use_pct is (4) 15%.
-The agent3_rounds is 75.0.
-The agent3_rating is 0.96.
-The agent3_acs is 199.3.
-The agent3_kd is 0.9.
-The agent3_adr is 119.0.
-The agent3_kast is 73%.
-The agent3_kpr is 0.71.
-The agent3_apr is 0.48.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.12.
-The agent3_kills is 53.0.
-The agent3_deaths is 59.0.
-The agent3_assists is 36.0.
-The agent3_fk is 4.0.
-The agent3_fd is 9.0.
-The igl is False.
-The region is eu.
-The level is international.
+Akime is a member of XXL (Mama). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 223 rounds 
+with an average rating of 0.93, an average average combat score (ACS) of 168.5, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 106.7, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.45, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.03, an average headshot percentage of 30%, and an average clutch success percentage 
+of 16%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 179 rounds they have played omen, 
+they have an average rating of 0.85, an average average combat score (ACS) of 150.1, an average kills death ratio 
+of 0.74, an average average damage per round (ADR) of 98.7, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.53, an average assists per round (APR) 
+of 0.42, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.05. Using omen this player has a total of 94 kills, 127 deaths, 
+76 assists, 13 first bloods, and 9 first deaths. Over their entire career, viper is their second most played agent. Over the 107.0 rounds they have played viper, 
+they have an average rating of 0.94, an average average combat score (ACS) of 200.0, an average kills death ratio 
+of 0.87, an average average damage per round (ADR) of 134.2, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.01. Using viper this player has a total of 74.0 kills, 85.0 deaths, 
+26.0 assists, 6.0 first bloods, and 1.0 first deaths. Over their entire career, breach is their third most played agent. Over the 75.0 rounds they have played breach, 
+they have an average rating of 0.96, an average average combat score (ACS) of 199.3, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 119.0, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.48, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.12. Using breach this player has a total of 53.0 kills, 59.0 deaths, 
+36.0 assists, 4.0 first bloods, and 9.0 first deaths. 

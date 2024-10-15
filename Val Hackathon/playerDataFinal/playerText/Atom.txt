@@ -1,71 +1,26 @@
-The player is Atom.
-The org is 5HEA.
-The agents is ['viper', 'astra', 'omen'].
-The rounds_played is 835.
-The rating is 0.87.
-The average_combat_score is 167.3.
-The kill_deaths is 0.8.
-The kill_assists_survived_traded is 71%.
-The average_damage_per_round is 108.7.
-The kills_per_round is 0.58.
-The assists_per_round is 0.4.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 17%.
-The clutch_success_percentage is 14%.
-The team_id is 16542.0.
-The team_name is 5HEAD.
-The agent1 is astra.
-The agent1_use_pct is (27) 27%.
-The agent1_rounds is 580.
-The agent1_rating is 0.89.
-The agent1_acs is 169.1.
-The agent1_kd is 0.84.
-The agent1_adr is 105.4.
-The agent1_kast is 71%.
-The agent1_kpr is 0.59.
-The agent1_apr is 0.37.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.07.
-The agent1_kills is 343.
-The agent1_deaths is 409.
-The agent1_assists is 213.
-The agent1_fk is 40.
-The agent1_fd is 41.
-The agent2 is viper.
-The agent2_use_pct is (22) 22%.
-The agent2_rounds is 454.0.
-The agent2_rating is 0.79.
-The agent2_acs is 164.8.
-The agent2_kd is 0.75.
-The agent2_adr is 110.1.
-The agent2_kast is 67%.
-The agent2_kpr is 0.56.
-The agent2_apr is 0.32.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.1.
-The agent2_kills is 254.0.
-The agent2_deaths is 338.0.
-The agent2_assists is 147.0.
-The agent2_fk is 26.0.
-The agent2_fd is 45.0.
-The agent3 is omen.
-The agent3_use_pct is (17) 17%.
-The agent3_rounds is 333.0.
-The agent3_rating is 0.75.
-The agent3_acs is 181.6.
-The agent3_kd is 0.74.
-The agent3_adr is 112.8.
-The agent3_kast is 70%.
-The agent3_kpr is 0.59.
-The agent3_apr is 0.38.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.12.
-The agent3_kills is 195.0.
-The agent3_deaths is 263.0.
-The agent3_assists is 127.0.
-The agent3_fk is 18.0.
-The agent3_fd is 41.0.
-The igl is False.
-The region is eu.
-The level is international.
+Atom is a member of 5HEAD (5HEA). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 835 rounds 
+with an average rating of 0.87, an average average combat score (ACS) of 167.3, an average kills death ratio 
+of 0.8, an average average damage per round (ADR) of 108.7, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 17%, and an average clutch success percentage 
+of 14%. This player is not an in game leader. Over their entire career, astra is their most played agent. Over the 580 rounds they have played astra, 
+they have an average rating of 0.89, an average average combat score (ACS) of 169.1, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 105.4, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.07. Using astra this player has a total of 343 kills, 409 deaths, 
+213 assists, 40 first bloods, and 41 first deaths. Over their entire career, viper is their second most played agent. Over the 454.0 rounds they have played viper, 
+they have an average rating of 0.79, an average average combat score (ACS) of 164.8, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 110.1, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.1. Using viper this player has a total of 254.0 kills, 338.0 deaths, 
+147.0 assists, 26.0 first bloods, and 45.0 first deaths. Over their entire career, omen is their third most played agent. Over the 333.0 rounds they have played omen, 
+they have an average rating of 0.75, an average average combat score (ACS) of 181.6, an average kills death ratio 
+of 0.74, an average average damage per round (ADR) of 112.8, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.12. Using omen this player has a total of 195.0 kills, 263.0 deaths, 
+127.0 assists, 18.0 first bloods, and 41.0 first deaths. 

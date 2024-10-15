@@ -1,71 +1,26 @@
-The player is Mandu.
-The org is (+3).
-The agents is ['killjoy', 'phoenix', 'reyna'].
-The rounds_played is 201.
-The rating is 0.87.
-The average_combat_score is 191.1.
-The kill_deaths is 0.83.
-The kill_assists_survived_traded is 64%.
-The average_damage_per_round is 117.2.
-The kills_per_round is 0.66.
-The assists_per_round is 0.2.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.15.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 14%.
-The team_id is 3311.0.
-The team_name is I need Girlfriend.
-The agent1 is phoenix.
-The agent1_use_pct is (5) 25%.
-The agent1_rounds is 84.
-The agent1_rating is 1.12.
-The agent1_acs is 219.0.
-The agent1_kd is 0.94.
-The agent1_adr is 131.6.
-The agent1_kast is 72%.
-The agent1_kpr is 0.75.
-The agent1_apr is 0.24.
-The agent1_fkpr is 0.11.
-The agent1_fdpr is 0.08.
-The agent1_kills is 63.
-The agent1_deaths is 67.
-The agent1_assists is 20.
-The agent1_fk is 9.
-The agent1_fd is 7.
-The agent2 is skye.
-The agent2_use_pct is (4) 20%.
-The agent2_rounds is 88.0.
-The agent2_rating is 0.79.
-The agent2_acs is 152.3.
-The agent2_kd is 0.75.
-The agent2_adr is 91.0.
-The agent2_kast is 61%.
-The agent2_kpr is 0.57.
-The agent2_apr is 0.22.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.18.
-The agent2_kills is 50.0.
-The agent2_deaths is 67.0.
-The agent2_assists is 19.0.
-The agent2_fk is 5.0.
-The agent2_fd is 16.0.
-The agent3 is reyna.
-The agent3_use_pct is (4) 20%.
-The agent3_rounds is 76.0.
-The agent3_rating is 0.96.
-The agent3_acs is 214.3.
-The agent3_kd is 0.98.
-The agent3_adr is 131.0.
-The agent3_kast is 70%.
-The agent3_kpr is 0.74.
-The agent3_apr is 0.17.
-The agent3_fkpr is 0.11.
-The agent3_fdpr is 0.08.
-The agent3_kills is 56.0.
-The agent3_deaths is 57.0.
-The agent3_assists is 13.0.
-The agent3_fk is 8.0.
-The agent3_fd is 6.0.
-The igl is False.
-The region is ap.
-The level is international.
+Mandu is a member of I need Girlfriend ((+3)). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 201 rounds 
+with an average rating of 0.87, an average average combat score (ACS) of 191.1, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 117.2, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.15, an average headshot percentage of 20%, and an average clutch success percentage 
+of 14%. This player is not an in game leader. Over their entire career, phoenix is their most played agent. Over the 84 rounds they have played phoenix, 
+they have an average rating of 1.12, an average average combat score (ACS) of 219.0, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 131.6, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.08. Using phoenix this player has a total of 63 kills, 67 deaths, 
+20 assists, 9 first bloods, and 7 first deaths. Over their entire career, skye is their second most played agent. Over the 88.0 rounds they have played skye, 
+they have an average rating of 0.79, an average average combat score (ACS) of 152.3, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 91.0, an average kill, assist, survive, trade percent (KAST) 
+of 61%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.18. Using skye this player has a total of 50.0 kills, 67.0 deaths, 
+19.0 assists, 5.0 first bloods, and 16.0 first deaths. Over their entire career, reyna is their third most played agent. Over the 76.0 rounds they have played reyna, 
+they have an average rating of 0.96, an average average combat score (ACS) of 214.3, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 131.0, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.08. Using reyna this player has a total of 56.0 kills, 57.0 deaths, 
+13.0 assists, 8.0 first bloods, and 6.0 first deaths. 

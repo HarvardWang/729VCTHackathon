@@ -1,67 +1,26 @@
-The player is WARDELL.
-The org is TSM.
-The agents is ['sova', 'jett', 'brimstone'].
-The rounds_played is 4670.
-The rating is 1.2.
-The average_combat_score is 241.8.
-The kill_deaths is 1.37.
-The kill_assists_survived_traded is 74%.
-The average_damage_per_round is 149.0.
-The kills_per_round is 0.88.
-The assists_per_round is 0.15.
-The first_kills_per_round is 0.17.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 15%.
-The team_id is 11476.0.
-The team_name is The Nation.
-The agent1 is jett.
-The agent1_use_pct is (250) 65%.
-The agent1_rounds is 4984.
-The agent1_rating is 1.26.
-The agent1_acs is 257.1.
-The agent1_kd is 1.5.
-The agent1_adr is 153.4.
-The agent1_kast is 76%.
-The agent1_kpr is 0.93.
-The agent1_apr is 0.14.
-The agent1_fkpr is 0.19.
-The agent1_fdpr is 0.09.
-The agent1_kills is 4639.
-The agent1_deaths is 3101.
-The agent1_assists is 699.
-The agent1_fk is 927.
-The agent1_fd is 366.
-The agent2 is chamber.
-The agent2_use_pct is (76) 20%.
-The agent2_rounds is 1579.0.
-The agent2_rating is 1.27.
-The agent2_acs is 240.7.
-The agent2_kd is 1.5.
-The agent2_adr is 150.8.
-The agent2_kast is 74%.
-The agent2_kpr is 0.89.
-The agent2_apr is 0.12.
-The agent2_fkpr is 0.15.
-The agent2_fdpr is 0.09.
-The agent2_kills is 1406.0.
-The agent2_deaths is 939.0.
-The agent2_assists is 189.0.
-The agent2_fk is 233.0.
-The agent2_fd is 146.0.
-The agent3 is sova.
-The agent3_use_pct is (22) 6%.
-The agent3_rounds is 434.0.
-The agent3_acs is 235.2.
-The agent3_kd is 1.58.
-The agent3_kpr is 0.89.
-The agent3_apr is 0.26.
-The agent3_fkpr is 0.13.
-The agent3_kills is 385.0.
-The agent3_deaths is 243.0.
-The agent3_assists is 111.0.
-The agent3_fk is 56.0.
-The agent3_fd is 0.0.
-The igl is False.
-The region is na.
-The level is international.
+WARDELL is a member of The Nation (TSM). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 4670 rounds 
+with an average rating of 1.2, an average average combat score (ACS) of 241.8, an average kills death ratio 
+of 1.37, an average average damage per round (ADR) of 149.0, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.88, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.17, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 21%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 4984 rounds they have played jett, 
+they have an average rating of 1.26, an average average combat score (ACS) of 257.1, an average kills death ratio 
+of 1.5, an average average damage per round (ADR) of 153.4, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.93, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.09. Using jett this player has a total of 4639 kills, 3101 deaths, 
+699 assists, 927 first bloods, and 366 first deaths. Over their entire career, chamber is their second most played agent. Over the 1579.0 rounds they have played chamber, 
+they have an average rating of 1.27, an average average combat score (ACS) of 240.7, an average kills death ratio 
+of 1.5, an average average damage per round (ADR) of 150.8, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.89, an average assists per round (APR) 
+of 0.12, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.09. Using chamber this player has a total of 1406.0 kills, 939.0 deaths, 
+189.0 assists, 233.0 first bloods, and 146.0 first deaths. Over their entire career, sova is their third most played agent. Over the 434.0 rounds they have played sova, 
+they have an average rating of Unknown, an average average combat score (ACS) of 235.2, an average kills death ratio 
+of 1.58, an average average damage per round (ADR) of Unknown, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.89, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of Unknown. Using sova this player has a total of 385.0 kills, 243.0 deaths, 
+111.0 assists, 56.0 first bloods, and 0.0 first deaths. 

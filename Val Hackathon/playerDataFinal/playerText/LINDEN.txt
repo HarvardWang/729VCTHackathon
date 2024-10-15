@@ -1,69 +1,26 @@
-The player is LINDEN.
-The org is (+7).
-The agents is ['raze', 'breach', 'kayo'].
-The rounds_played is 434.
-The rating is 0.86.
-The average_combat_score is 175.7.
-The kill_deaths is 0.74.
-The kill_assists_survived_traded is 66%.
-The average_damage_per_round is 116.1.
-The kills_per_round is 0.59.
-The assists_per_round is 0.38.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.07.
-The headshot_percentage is 31%.
-The clutch_success_percentage is 2%.
-The agent1 is breach.
-The agent1_use_pct is (28) 42%.
-The agent1_rounds is 582.
-The agent1_rating is 0.99.
-The agent1_acs is 190.5.
-The agent1_kd is 0.9.
-The agent1_adr is 127.5.
-The agent1_kast is 73%.
-The agent1_kpr is 0.65.
-The agent1_apr is 0.46.
-The agent1_fkpr is 0.05.
-The agent1_fdpr is 0.06.
-The agent1_kills is 377.
-The agent1_deaths is 419.
-The agent1_assists is 267.
-The agent1_fk is 31.
-The agent1_fd is 34.
-The agent2 is kayo.
-The agent2_use_pct is (8) 12%.
-The agent2_rounds is 165.0.
-The agent2_rating is 0.9.
-The agent2_acs is 195.4.
-The agent2_kd is 0.79.
-The agent2_adr is 128.3.
-The agent2_kast is 72%.
-The agent2_kpr is 0.59.
-The agent2_apr is 0.59.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.08.
-The agent2_kills is 97.0.
-The agent2_deaths is 123.0.
-The agent2_assists is 97.0.
-The agent2_fk is 14.0.
-The agent2_fd is 13.0.
-The agent3 is omen.
-The agent3_use_pct is (7) 11%.
-The agent3_rounds is 153.0.
-The agent3_rating is 1.18.
-The agent3_acs is 214.1.
-The agent3_kd is 1.18.
-The agent3_adr is 145.4.
-The agent3_kast is 77%.
-The agent3_kpr is 0.8.
-The agent3_apr is 0.42.
-The agent3_fkpr is 0.04.
-The agent3_fdpr is 0.04.
-The agent3_kills is 122.0.
-The agent3_deaths is 103.0.
-The agent3_assists is 64.0.
-The agent3_fk is 6.0.
-The agent3_fd is 6.0.
-The igl is False.
-The region is na.
-The level is international.
+LINDEN is a member of Unknown ((+7)). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 434 rounds 
+with an average rating of 0.86, an average average combat score (ACS) of 175.7, an average kills death ratio 
+of 0.74, an average average damage per round (ADR) of 116.1, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 31%, and an average clutch success percentage 
+of 2%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 582 rounds they have played breach, 
+they have an average rating of 0.99, an average average combat score (ACS) of 190.5, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 127.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.46, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.06. Using breach this player has a total of 377 kills, 419 deaths, 
+267 assists, 31 first bloods, and 34 first deaths. Over their entire career, kayo is their second most played agent. Over the 165.0 rounds they have played kayo, 
+they have an average rating of 0.9, an average average combat score (ACS) of 195.4, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 128.3, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.59, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.08. Using kayo this player has a total of 97.0 kills, 123.0 deaths, 
+97.0 assists, 14.0 first bloods, and 13.0 first deaths. Over their entire career, omen is their third most played agent. Over the 153.0 rounds they have played omen, 
+they have an average rating of 1.18, an average average combat score (ACS) of 214.1, an average kills death ratio 
+of 1.18, an average average damage per round (ADR) of 145.4, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.42, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.04. Using omen this player has a total of 122.0 kills, 103.0 deaths, 
+64.0 assists, 6.0 first bloods, and 6.0 first deaths. 

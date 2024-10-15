@@ -1,71 +1,26 @@
-The player is VenTT.
-The org is SUP.
-The agents is ['viper', 'omen', 'astra'].
-The rounds_played is 1554.
-The rating is 1.01.
-The average_combat_score is 199.0.
-The kill_deaths is 0.99.
-The kill_assists_survived_traded is 75%.
-The average_damage_per_round is 130.0.
-The kills_per_round is 0.71.
-The assists_per_round is 0.39.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 32%.
-The clutch_success_percentage is 13%.
-The team_id is 4567.0.
-The team_name is Papara SuperMassive.
-The agent1 is omen.
-The agent1_use_pct is (100) 53%.
-The agent1_rounds is 2133.
-The agent1_rating is 1.07.
-The agent1_acs is 203.4.
-The agent1_kd is 1.06.
-The agent1_adr is 132.1.
-The agent1_kast is 76%.
-The agent1_kpr is 0.73.
-The agent1_apr is 0.46.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.09.
-The agent1_kills is 1553.
-The agent1_deaths is 1470.
-The agent1_assists is 973.
-The agent1_fk is 197.
-The agent1_fd is 195.
-The agent2 is brimstone.
-The agent2_use_pct is (33) 17%.
-The agent2_rounds is 705.0.
-The agent2_rating is 1.09.
-The agent2_acs is 215.8.
-The agent2_kd is 1.1.
-The agent2_adr is 138.2.
-The agent2_kast is 79%.
-The agent2_kpr is 0.75.
-The agent2_apr is 0.44.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.09.
-The agent2_kills is 529.0.
-The agent2_deaths is 482.0.
-The agent2_assists is 308.0.
-The agent2_fk is 57.0.
-The agent2_fd is 61.0.
-The agent3 is astra.
-The agent3_use_pct is (20) 11%.
-The agent3_rounds is 423.0.
-The agent3_rating is 1.13.
-The agent3_acs is 210.8.
-The agent3_kd is 1.16.
-The agent3_adr is 137.1.
-The agent3_kast is 77%.
-The agent3_kpr is 0.76.
-The agent3_apr is 0.43.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.06.
-The agent3_kills is 320.0.
-The agent3_deaths is 276.0.
-The agent3_assists is 183.0.
-The agent3_fk is 36.0.
-The agent3_fd is 25.0.
-The igl is False.
-The region is eu.
-The level is challenger.
+VenTT is a member of Papara SuperMassive (SUP). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 1554 rounds 
+with an average rating of 1.01, an average average combat score (ACS) of 199.0, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 130.0, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.39, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 32%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 2133 rounds they have played omen, 
+they have an average rating of 1.07, an average average combat score (ACS) of 203.4, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 132.1, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.46, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.09. Using omen this player has a total of 1553 kills, 1470 deaths, 
+973 assists, 197 first bloods, and 195 first deaths. Over their entire career, brimstone is their second most played agent. Over the 705.0 rounds they have played brimstone, 
+they have an average rating of 1.09, an average average combat score (ACS) of 215.8, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 138.2, an average kill, assist, survive, trade percent (KAST) 
+of 79%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.44, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.09. Using brimstone this player has a total of 529.0 kills, 482.0 deaths, 
+308.0 assists, 57.0 first bloods, and 61.0 first deaths. Over their entire career, astra is their third most played agent. Over the 423.0 rounds they have played astra, 
+they have an average rating of 1.13, an average average combat score (ACS) of 210.8, an average kills death ratio 
+of 1.16, an average average damage per round (ADR) of 137.1, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.43, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.06. Using astra this player has a total of 320.0 kills, 276.0 deaths, 
+183.0 assists, 36.0 first bloods, and 25.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Pocket.
-The org is CD.
-The agents is ['jett', 'phoenix', 'skye'].
-The rounds_played is 1005.
-The rating is 1.03.
-The average_combat_score is 214.0.
-The kill_deaths is 0.99.
-The kill_assists_survived_traded is 72%.
-The average_damage_per_round is 142.1.
-The kills_per_round is 0.74.
-The assists_per_round is 0.27.
-The first_kills_per_round is 0.11.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 9%.
-The team_id is 6726.0.
-The team_name is Crima's Disciples.
-The agent1 is phoenix.
-The agent1_use_pct is (45) 29%.
-The agent1_rounds is 917.
-The agent1_rating is 1.18.
-The agent1_acs is 243.4.
-The agent1_kd is 1.25.
-The agent1_adr is 154.7.
-The agent1_kast is 75%.
-The agent1_kpr is 0.86.
-The agent1_apr is 0.24.
-The agent1_fkpr is 0.15.
-The agent1_fdpr is 0.1.
-The agent1_kills is 785.
-The agent1_deaths is 630.
-The agent1_assists is 220.
-The agent1_fk is 142.
-The agent1_fd is 96.
-The agent2 is raze.
-The agent2_use_pct is (34) 22%.
-The agent2_rounds is 688.0.
-The agent2_rating is 1.09.
-The agent2_acs is 231.3.
-The agent2_kd is 1.1.
-The agent2_adr is 153.4.
-The agent2_kast is 73%.
-The agent2_kpr is 0.79.
-The agent2_apr is 0.24.
-The agent2_fkpr is 0.12.
-The agent2_fdpr is 0.15.
-The agent2_kills is 542.0.
-The agent2_deaths is 494.0.
-The agent2_assists is 167.0.
-The agent2_fk is 83.0.
-The agent2_fd is 104.0.
-The agent3 is skye.
-The agent3_use_pct is (26) 17%.
-The agent3_rounds is 524.0.
-The agent3_rating is 1.11.
-The agent3_acs is 212.3.
-The agent3_kd is 1.22.
-The agent3_adr is 136.1.
-The agent3_kast is 75%.
-The agent3_kpr is 0.8.
-The agent3_apr is 0.25.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.06.
-The agent3_kills is 417.0.
-The agent3_deaths is 343.0.
-The agent3_assists is 133.0.
-The agent3_fk is 42.0.
-The agent3_fd is 30.0.
-The igl is False.
-The region is oce.
-The level is international.
+Pocket is a member of Crima's Disciples (CD). They play in the Oceania region and the VCT 
+international circuit. Over their entire career, they have played 1005 rounds 
+with an average rating of 1.03, an average average combat score (ACS) of 214.0, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 142.1, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.11, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 20%, and an average clutch success percentage 
+of 9%. This player is not an in game leader. Over their entire career, phoenix is their most played agent. Over the 917 rounds they have played phoenix, 
+they have an average rating of 1.18, an average average combat score (ACS) of 243.4, an average kills death ratio 
+of 1.25, an average average damage per round (ADR) of 154.7, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.86, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.1. Using phoenix this player has a total of 785 kills, 630 deaths, 
+220 assists, 142 first bloods, and 96 first deaths. Over their entire career, raze is their second most played agent. Over the 688.0 rounds they have played raze, 
+they have an average rating of 1.09, an average average combat score (ACS) of 231.3, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 153.4, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.79, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.15. Using raze this player has a total of 542.0 kills, 494.0 deaths, 
+167.0 assists, 83.0 first bloods, and 104.0 first deaths. Over their entire career, skye is their third most played agent. Over the 524.0 rounds they have played skye, 
+they have an average rating of 1.11, an average average combat score (ACS) of 212.3, an average kills death ratio 
+of 1.22, an average average damage per round (ADR) of 136.1, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.06. Using skye this player has a total of 417.0 kills, 343.0 deaths, 
+133.0 assists, 42.0 first bloods, and 30.0 first deaths. 

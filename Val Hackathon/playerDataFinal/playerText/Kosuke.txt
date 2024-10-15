@@ -1,71 +1,26 @@
-The player is Kosuke.
-The org is VL.
-The agents is ['fade', 'sova', 'jett'].
-The rounds_played is 572.
-The rating is 0.81.
-The average_combat_score is 169.8.
-The kill_deaths is 0.77.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 116.3.
-The kills_per_round is 0.58.
-The assists_per_round is 0.24.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 19%.
-The clutch_success_percentage is 8%.
-The team_id is 14671.0.
-The team_name is NTPOJA.
-The agent1 is fade.
-The agent1_use_pct is (22) 23%.
-The agent1_rounds is 444.
-The agent1_rating is 0.96.
-The agent1_acs is 178.9.
-The agent1_kd is 0.98.
-The agent1_adr is 120.0.
-The agent1_kast is 71%.
-The agent1_kpr is 0.65.
-The agent1_apr is 0.3.
-The agent1_fkpr is 0.04.
-The agent1_fdpr is 0.06.
-The agent1_kills is 288.
-The agent1_deaths is 295.
-The agent1_assists is 131.
-The agent1_fk is 18.
-The agent1_fd is 28.
-The agent2 is jett.
-The agent2_use_pct is (13) 14%.
-The agent2_rounds is 273.0.
-The agent2_rating is 1.05.
-The agent2_acs is 229.9.
-The agent2_kd is 1.11.
-The agent2_adr is 145.6.
-The agent2_kast is 70%.
-The agent2_kpr is 0.8.
-The agent2_apr is 0.21.
-The agent2_fkpr is 0.19.
-The agent2_fdpr is 0.18.
-The agent2_kills is 218.0.
-The agent2_deaths is 196.0.
-The agent2_assists is 57.0.
-The agent2_fk is 52.0.
-The agent2_fd is 49.0.
-The agent3 is killjoy.
-The agent3_use_pct is (11) 12%.
-The agent3_rounds is 223.0.
-The agent3_rating is 1.0.
-The agent3_acs is 239.8.
-The agent3_kd is 1.03.
-The agent3_adr is 156.4.
-The agent3_kast is 75%.
-The agent3_kpr is 0.76.
-The agent3_apr is 0.29.
-The agent3_fkpr is 0.12.
-The agent3_fdpr is 0.09.
-The agent3_kills is 170.0.
-The agent3_deaths is 165.0.
-The agent3_assists is 65.0.
-The agent3_fk is 27.0.
-The agent3_fd is 18.0.
-The igl is False.
-The region is jp.
-The level is international.
+Kosuke is a member of NTPOJA (VL). They play in the Japan region and the VCT 
+international circuit. Over their entire career, they have played 572 rounds 
+with an average rating of 0.81, an average average combat score (ACS) of 169.8, an average kills death ratio 
+of 0.77, an average average damage per round (ADR) of 116.3, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 19%, and an average clutch success percentage 
+of 8%. This player is not an in game leader. Over their entire career, fade is their most played agent. Over the 444 rounds they have played fade, 
+they have an average rating of 0.96, an average average combat score (ACS) of 178.9, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 120.0, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.06. Using fade this player has a total of 288 kills, 295 deaths, 
+131 assists, 18 first bloods, and 28 first deaths. Over their entire career, jett is their second most played agent. Over the 273.0 rounds they have played jett, 
+they have an average rating of 1.05, an average average combat score (ACS) of 229.9, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 145.6, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.18. Using jett this player has a total of 218.0 kills, 196.0 deaths, 
+57.0 assists, 52.0 first bloods, and 49.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 223.0 rounds they have played killjoy, 
+they have an average rating of 1.0, an average average combat score (ACS) of 239.8, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 156.4, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.09. Using killjoy this player has a total of 170.0 kills, 165.0 deaths, 
+65.0 assists, 27.0 first bloods, and 18.0 first deaths. 

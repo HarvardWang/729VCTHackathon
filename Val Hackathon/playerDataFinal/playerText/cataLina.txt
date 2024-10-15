@@ -1,71 +1,26 @@
-The player is cataLina.
-The org is ZER.M.
-The agents is ['sova', 'omen', 'sage'].
-The rounds_played is 1307.
-The rating is 0.88.
-The average_combat_score is 179.5.
-The kill_deaths is 0.82.
-The kill_assists_survived_traded is 68%.
-The average_damage_per_round is 117.4.
-The kills_per_round is 0.62.
-The assists_per_round is 0.31.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.11.
-The headshot_percentage is 30%.
-The clutch_success_percentage is 10%.
-The team_id is 14613.0.
-The team_name is Zerance Mint.
-The agent1 is omen.
-The agent1_use_pct is (65) 48%.
-The agent1_rounds is 1322.
-The agent1_rating is 1.05.
-The agent1_acs is 204.0.
-The agent1_kd is 1.05.
-The agent1_adr is 131.1.
-The agent1_kast is 75%.
-The agent1_kpr is 0.72.
-The agent1_apr is 0.36.
-The agent1_fkpr is 0.11.
-The agent1_fdpr is 0.1.
-The agent1_kills is 951.
-The agent1_deaths is 908.
-The agent1_assists is 475.
-The agent1_fk is 146.
-The agent1_fd is 131.
-The agent2 is breach.
-The agent2_use_pct is (24) 18%.
-The agent2_rounds is 470.0.
-The agent2_rating is 0.93.
-The agent2_acs is 166.5.
-The agent2_kd is 0.87.
-The agent2_adr is 99.9.
-The agent2_kast is 75%.
-The agent2_kpr is 0.6.
-The agent2_apr is 0.54.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.07.
-The agent2_kills is 282.0.
-The agent2_deaths is 323.0.
-The agent2_assists is 255.0.
-The agent2_fk is 26.0.
-The agent2_fd is 31.0.
-The agent3 is viper.
-The agent3_use_pct is (10) 7%.
-The agent3_rounds is 218.0.
-The agent3_rating is 1.2.
-The agent3_acs is 233.7.
-The agent3_kd is 1.25.
-The agent3_adr is 152.3.
-The agent3_kast is 72%.
-The agent3_kpr is 0.8.
-The agent3_apr is 0.31.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.12.
-The agent3_kills is 175.0.
-The agent3_deaths is 140.0.
-The agent3_assists is 67.0.
-The agent3_fk is 17.0.
-The agent3_fd is 27.0.
-The igl is False.
-The region is eu.
-The level is game-changer.
+cataLina is a member of Zerance Mint (ZER.M). They play in the Europe region and the VCT 
+game-changer circuit. Over their entire career, they have played 1307 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 179.5, an average kills death ratio 
+of 0.82, an average average damage per round (ADR) of 117.4, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.11, an average headshot percentage of 30%, and an average clutch success percentage 
+of 10%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 1322 rounds they have played omen, 
+they have an average rating of 1.05, an average average combat score (ACS) of 204.0, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 131.1, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.1. Using omen this player has a total of 951 kills, 908 deaths, 
+475 assists, 146 first bloods, and 131 first deaths. Over their entire career, breach is their second most played agent. Over the 470.0 rounds they have played breach, 
+they have an average rating of 0.93, an average average combat score (ACS) of 166.5, an average kills death ratio 
+of 0.87, an average average damage per round (ADR) of 99.9, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.54, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using breach this player has a total of 282.0 kills, 323.0 deaths, 
+255.0 assists, 26.0 first bloods, and 31.0 first deaths. Over their entire career, viper is their third most played agent. Over the 218.0 rounds they have played viper, 
+they have an average rating of 1.2, an average average combat score (ACS) of 233.7, an average kills death ratio 
+of 1.25, an average average damage per round (ADR) of 152.3, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.12. Using viper this player has a total of 175.0 kills, 140.0 deaths, 
+67.0 assists, 17.0 first bloods, and 27.0 first deaths. 

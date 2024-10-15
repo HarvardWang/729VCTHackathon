@@ -1,71 +1,26 @@
-The player is allurin.
-The org is Oxuj.
-The agents is ['sage', 'killjoy', 'cypher'].
-The rounds_played is 456.
-The rating is 0.92.
-The average_combat_score is 185.2.
-The kill_deaths is 0.89.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 122.2.
-The kills_per_round is 0.66.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.07.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 12%.
-The team_id is 12570.0.
-The team_name is Oxuji Lazure.
-The agent1 is cypher.
-The agent1_use_pct is (21) 38%.
-The agent1_rounds is 440.
-The agent1_rating is 0.94.
-The agent1_acs is 179.8.
-The agent1_kd is 0.98.
-The agent1_adr is 116.9.
-The agent1_kast is 68%.
-The agent1_kpr is 0.67.
-The agent1_apr is 0.17.
-The agent1_fkpr is 0.05.
-The agent1_fdpr is 0.07.
-The agent1_kills is 295.
-The agent1_deaths is 300.
-The agent1_assists is 76.
-The agent1_fk is 22.
-The agent1_fd is 29.
-The agent2 is sage.
-The agent2_use_pct is (12) 22%.
-The agent2_rounds is 258.0.
-The agent2_rating is 1.16.
-The agent2_acs is 205.1.
-The agent2_kd is 1.24.
-The agent2_adr is 138.6.
-The agent2_kast is 79%.
-The agent2_kpr is 0.75.
-The agent2_apr is 0.4.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.07.
-The agent2_kills is 193.0.
-The agent2_deaths is 156.0.
-The agent2_assists is 103.0.
-The agent2_fk is 21.0.
-The agent2_fd is 18.0.
-The agent3 is killjoy.
-The agent3_use_pct is (10) 18%.
-The agent3_rounds is 202.0.
-The agent3_rating is 1.1.
-The agent3_acs is 201.7.
-The agent3_kd is 1.17.
-The agent3_adr is 138.8.
-The agent3_kast is 77%.
-The agent3_kpr is 0.73.
-The agent3_apr is 0.22.
-The agent3_fkpr is 0.12.
-The agent3_fdpr is 0.07.
-The agent3_kills is 147.0.
-The agent3_deaths is 126.0.
-The agent3_assists is 44.0.
-The agent3_fk is 24.0.
-The agent3_fd is 14.0.
-The igl is False.
-The region is eu.
-The level is game-changer.
+allurin is a member of Oxuji Lazure (Oxuj). They play in the Europe region and the VCT 
+game-changer circuit. Over their entire career, they have played 456 rounds 
+with an average rating of 0.92, an average average combat score (ACS) of 185.2, an average kills death ratio 
+of 0.89, an average average damage per round (ADR) of 122.2, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 21%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, cypher is their most played agent. Over the 440 rounds they have played cypher, 
+they have an average rating of 0.94, an average average combat score (ACS) of 179.8, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 116.9, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.07. Using cypher this player has a total of 295 kills, 300 deaths, 
+76 assists, 22 first bloods, and 29 first deaths. Over their entire career, sage is their second most played agent. Over the 258.0 rounds they have played sage, 
+they have an average rating of 1.16, an average average combat score (ACS) of 205.1, an average kills death ratio 
+of 1.24, an average average damage per round (ADR) of 138.6, an average kill, assist, survive, trade percent (KAST) 
+of 79%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.07. Using sage this player has a total of 193.0 kills, 156.0 deaths, 
+103.0 assists, 21.0 first bloods, and 18.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 202.0 rounds they have played killjoy, 
+they have an average rating of 1.1, an average average combat score (ACS) of 201.7, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 138.8, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.07. Using killjoy this player has a total of 147.0 kills, 126.0 deaths, 
+44.0 assists, 24.0 first bloods, and 14.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Ilyes2k.
-The org is Fake.
-The agents is ['raze', 'phoenix', 'breach'].
-The rounds_played is 272.
-The rating is 0.71.
-The average_combat_score is 158.0.
-The kill_deaths is 0.69.
-The kill_assists_survived_traded is 57%.
-The average_damage_per_round is 107.9.
-The kills_per_round is 0.56.
-The assists_per_round is 0.19.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.17.
-The headshot_percentage is 31%.
-The clutch_success_percentage is 10%.
-The team_id is 9236.0.
-The team_name is Fake Esport.
-The agent1 is breach.
-The agent1_use_pct is (14) 29%.
-The agent1_rounds is 285.
-The agent1_rating is 0.79.
-The agent1_acs is 148.4.
-The agent1_kd is 0.77.
-The agent1_adr is 98.9.
-The agent1_kast is 66%.
-The agent1_kpr is 0.54.
-The agent1_apr is 0.36.
-The agent1_fkpr is 0.02.
-The agent1_fdpr is 0.11.
-The agent1_kills is 153.
-The agent1_deaths is 200.
-The agent1_assists is 104.
-The agent1_fk is 7.
-The agent1_fd is 31.
-The agent2 is sage.
-The agent2_use_pct is (11) 22%.
-The agent2_rounds is 212.0.
-The agent2_rating is 0.79.
-The agent2_acs is 183.5.
-The agent2_kd is 0.81.
-The agent2_adr is 115.3.
-The agent2_kast is 62%.
-The agent2_kpr is 0.61.
-The agent2_apr is 0.25.
-The agent2_fkpr is 0.14.
-The agent2_fdpr is 0.2.
-The agent2_kills is 130.0.
-The agent2_deaths is 161.0.
-The agent2_assists is 53.0.
-The agent2_fk is 29.0.
-The agent2_fd is 43.0.
-The agent3 is killjoy.
-The agent3_use_pct is (7) 14%.
-The agent3_rounds is 133.0.
-The agent3_rating is 0.87.
-The agent3_acs is 180.7.
-The agent3_kd is 0.83.
-The agent3_adr is 125.4.
-The agent3_kast is 64%.
-The agent3_kpr is 0.65.
-The agent3_apr is 0.09.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.1.
-The agent3_kills is 86.0.
-The agent3_deaths is 104.0.
-The agent3_assists is 12.0.
-The agent3_fk is 9.0.
-The agent3_fd is 13.0.
-The igl is False.
-The region is eu.
-The level is international.
+Ilyes2k is a member of Fake Esport (Fake). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 272 rounds 
+with an average rating of 0.71, an average average combat score (ACS) of 158.0, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 107.9, an average kill, assist, survive, trade percent (KAST) 
+of 57%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.17, an average headshot percentage of 31%, and an average clutch success percentage 
+of 10%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 285 rounds they have played breach, 
+they have an average rating of 0.79, an average average combat score (ACS) of 148.4, an average kills death ratio 
+of 0.77, an average average damage per round (ADR) of 98.9, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.02, and an average first deaths per round (FDPR) 
+of 0.11. Using breach this player has a total of 153 kills, 200 deaths, 
+104 assists, 7 first bloods, and 31 first deaths. Over their entire career, sage is their second most played agent. Over the 212.0 rounds they have played sage, 
+they have an average rating of 0.79, an average average combat score (ACS) of 183.5, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 115.3, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.2. Using sage this player has a total of 130.0 kills, 161.0 deaths, 
+53.0 assists, 29.0 first bloods, and 43.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 133.0 rounds they have played killjoy, 
+they have an average rating of 0.87, an average average combat score (ACS) of 180.7, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 125.4, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.09, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.1. Using killjoy this player has a total of 86.0 kills, 104.0 deaths, 
+12.0 assists, 9.0 first bloods, and 13.0 first deaths. 

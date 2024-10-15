@@ -1,71 +1,26 @@
-The player is Meltings.
-The org is NGZ.
-The agents is ['jett', 'chamber', 'killjoy'].
-The rounds_played is 439.
-The rating is 0.9.
-The average_combat_score is 182.9.
-The kill_deaths is 0.81.
-The kill_assists_survived_traded is 66%.
-The average_damage_per_round is 122.7.
-The kills_per_round is 0.63.
-The assists_per_round is 0.27.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 10%.
-The team_id is 15603.0.
-The team_name is negativegirlrizz.
-The agent1 is jett.
-The agent1_use_pct is (23) 43%.
-The agent1_rounds is 449.
-The agent1_rating is 1.14.
-The agent1_acs is 230.6.
-The agent1_kd is 1.09.
-The agent1_adr is 146.8.
-The agent1_kast is 68%.
-The agent1_kpr is 0.82.
-The agent1_apr is 0.16.
-The agent1_fkpr is 0.12.
-The agent1_fdpr is 0.14.
-The agent1_kills is 366.
-The agent1_deaths is 336.
-The agent1_assists is 74.
-The agent1_fk is 54.
-The agent1_fd is 63.
-The agent2 is chamber.
-The agent2_use_pct is (9) 17%.
-The agent2_rounds is 191.0.
-The agent2_rating is 1.22.
-The agent2_acs is 237.6.
-The agent2_kd is 1.32.
-The agent2_adr is 151.8.
-The agent2_kast is 74%.
-The agent2_kpr is 0.86.
-The agent2_apr is 0.14.
-The agent2_fkpr is 0.13.
-The agent2_fdpr is 0.06.
-The agent2_kills is 165.0.
-The agent2_deaths is 125.0.
-The agent2_assists is 27.0.
-The agent2_fk is 25.0.
-The agent2_fd is 12.0.
-The agent3 is breach.
-The agent3_use_pct is (6) 11%.
-The agent3_rounds is 121.0.
-The agent3_rating is 0.98.
-The agent3_acs is 177.5.
-The agent3_kd is 0.89.
-The agent3_adr is 115.6.
-The agent3_kast is 79%.
-The agent3_kpr is 0.64.
-The agent3_apr is 0.45.
-The agent3_fkpr is 0.04.
-The agent3_fdpr is 0.02.
-The agent3_kills is 77.0.
-The agent3_deaths is 87.0.
-The agent3_assists is 54.0.
-The agent3_fk is 5.0.
-The agent3_fd is 2.0.
-The igl is False.
-The region is ap.
-The level is international.
+Meltings is a member of negativegirlrizz (NGZ). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 439 rounds 
+with an average rating of 0.9, an average average combat score (ACS) of 182.9, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 122.7, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 25%, and an average clutch success percentage 
+of 10%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 449 rounds they have played jett, 
+they have an average rating of 1.14, an average average combat score (ACS) of 230.6, an average kills death ratio 
+of 1.09, an average average damage per round (ADR) of 146.8, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.14. Using jett this player has a total of 366 kills, 336 deaths, 
+74 assists, 54 first bloods, and 63 first deaths. Over their entire career, chamber is their second most played agent. Over the 191.0 rounds they have played chamber, 
+they have an average rating of 1.22, an average average combat score (ACS) of 237.6, an average kills death ratio 
+of 1.32, an average average damage per round (ADR) of 151.8, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.86, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.06. Using chamber this player has a total of 165.0 kills, 125.0 deaths, 
+27.0 assists, 25.0 first bloods, and 12.0 first deaths. Over their entire career, breach is their third most played agent. Over the 121.0 rounds they have played breach, 
+they have an average rating of 0.98, an average average combat score (ACS) of 177.5, an average kills death ratio 
+of 0.89, an average average damage per round (ADR) of 115.6, an average kill, assist, survive, trade percent (KAST) 
+of 79%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.45, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.02. Using breach this player has a total of 77.0 kills, 87.0 deaths, 
+54.0 assists, 5.0 first bloods, and 2.0 first deaths. 

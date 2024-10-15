@@ -1,71 +1,26 @@
-The player is Tkaz.
-The org is TPG.
-The agents is ['reyna', 'raze', 'phoenix'].
-The rounds_played is 5383.
-The rating is 0.97.
-The average_combat_score is 207.3.
-The kill_deaths is 0.96.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 136.0.
-The kills_per_round is 0.73.
-The assists_per_round is 0.24.
-The first_kills_per_round is 0.11.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 24%.
-The clutch_success_percentage is 12%.
-The team_id is 8451.0.
-The team_name is Tempest Gaming.
-The agent1 is raze.
-The agent1_use_pct is (148) 25%.
-The agent1_rounds is 3040.
-The agent1_rating is 1.08.
-The agent1_acs is 242.7.
-The agent1_kd is 1.12.
-The agent1_adr is 157.9.
-The agent1_kast is 73%.
-The agent1_kpr is 0.82.
-The agent1_apr is 0.23.
-The agent1_fkpr is 0.13.
-The agent1_fdpr is 0.14.
-The agent1_kills is 2494.
-The agent1_deaths is 2218.
-The agent1_assists is 711.
-The agent1_fk is 405.
-The agent1_fd is 422.
-The agent2 is skye.
-The agent2_use_pct is (112) 19%.
-The agent2_rounds is 2349.0.
-The agent2_rating is 1.08.
-The agent2_acs is 212.1.
-The agent2_kd is 1.12.
-The agent2_adr is 140.1.
-The agent2_kast is 74%.
-The agent2_kpr is 0.77.
-The agent2_apr is 0.32.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.09.
-The agent2_kills is 1820.0.
-The agent2_deaths is 1621.0.
-The agent2_assists is 747.0.
-The agent2_fk is 197.0.
-The agent2_fd is 201.0.
-The agent3 is jett.
-The agent3_use_pct is (95) 16%.
-The agent3_rounds is 1969.0.
-The agent3_rating is 1.01.
-The agent3_acs is 222.4.
-The agent3_kd is 1.08.
-The agent3_adr is 144.0.
-The agent3_kast is 70%.
-The agent3_kpr is 0.8.
-The agent3_apr is 0.15.
-The agent3_fkpr is 0.16.
-The agent3_fdpr is 0.15.
-The agent3_kills is 1578.0.
-The agent3_deaths is 1455.0.
-The agent3_assists is 300.0.
-The agent3_fk is 321.0.
-The agent3_fd is 293.0.
-The igl is False.
-The region is na.
-The level is international.
+Tkaz is a member of Tempest Gaming (TPG). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 5383 rounds 
+with an average rating of 0.97, an average average combat score (ACS) of 207.3, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 136.0, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.11, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 24%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 3040 rounds they have played raze, 
+they have an average rating of 1.08, an average average combat score (ACS) of 242.7, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 157.9, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 2494 kills, 2218 deaths, 
+711 assists, 405 first bloods, and 422 first deaths. Over their entire career, skye is their second most played agent. Over the 2349.0 rounds they have played skye, 
+they have an average rating of 1.08, an average average combat score (ACS) of 212.1, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 140.1, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.09. Using skye this player has a total of 1820.0 kills, 1621.0 deaths, 
+747.0 assists, 197.0 first bloods, and 201.0 first deaths. Over their entire career, jett is their third most played agent. Over the 1969.0 rounds they have played jett, 
+they have an average rating of 1.01, an average average combat score (ACS) of 222.4, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 144.0, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.15. Using jett this player has a total of 1578.0 kills, 1455.0 deaths, 
+300.0 assists, 321.0 first bloods, and 293.0 first deaths. 

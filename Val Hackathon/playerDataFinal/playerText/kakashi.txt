@@ -1,71 +1,26 @@
-The player is kakashi.
-The org is INS.
-The agents is ['jett', 'viper', 'cypher'].
-The rounds_played is 264.
-The rating is 0.53.
-The average_combat_score is 124.2.
-The kill_deaths is 0.53.
-The kill_assists_survived_traded is 58%.
-The average_damage_per_round is 80.2.
-The kills_per_round is 0.44.
-The assists_per_round is 0.15.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.13.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 6%.
-The team_id is 5148.0.
-The team_name is Insomnia.
-The agent1 is cypher.
-The agent1_use_pct is (11) 32%.
-The agent1_rounds is 233.
-The agent1_rating is 0.77.
-The agent1_acs is 169.1.
-The agent1_kd is 0.83.
-The agent1_adr is 101.3.
-The agent1_kast is 68%.
-The agent1_kpr is 0.61.
-The agent1_apr is 0.16.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.07.
-The agent1_kills is 142.
-The agent1_deaths is 171.
-The agent1_assists is 37.
-The agent1_fk is 22.
-The agent1_fd is 17.
-The agent2 is jett.
-The agent2_use_pct is (10) 29%.
-The agent2_rounds is 189.0.
-The agent2_rating is 0.69.
-The agent2_acs is 182.7.
-The agent2_kd is 0.69.
-The agent2_adr is 118.4.
-The agent2_kast is 58%.
-The agent2_kpr is 0.62.
-The agent2_apr is 0.14.
-The agent2_fkpr is 0.14.
-The agent2_fdpr is 0.21.
-The agent2_kills is 118.0.
-The agent2_deaths is 170.0.
-The agent2_assists is 26.0.
-The agent2_fk is 27.0.
-The agent2_fd is 40.0.
-The agent3 is sage.
-The agent3_use_pct is (8) 24%.
-The agent3_rounds is 175.0.
-The agent3_rating is 0.62.
-The agent3_acs is 138.5.
-The agent3_kd is 0.62.
-The agent3_adr is 90.3.
-The agent3_kast is 62%.
-The agent3_kpr is 0.49.
-The agent3_apr is 0.13.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.14.
-The agent3_kills is 85.0.
-The agent3_deaths is 137.0.
-The agent3_assists is 23.0.
-The agent3_fk is 9.0.
-The agent3_fd is 24.0.
-The igl is False.
-The region is jp.
-The level is international.
+kakashi is a member of Insomnia (INS). They play in the Japan region and the VCT 
+international circuit. Over their entire career, they have played 264 rounds 
+with an average rating of 0.53, an average average combat score (ACS) of 124.2, an average kills death ratio 
+of 0.53, an average average damage per round (ADR) of 80.2, an average kill, assist, survive, trade percent (KAST) 
+of 58%, an average kills per round (KPR) of 0.44, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 20%, and an average clutch success percentage 
+of 6%. This player is not an in game leader. Over their entire career, cypher is their most played agent. Over the 233 rounds they have played cypher, 
+they have an average rating of 0.77, an average average combat score (ACS) of 169.1, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 101.3, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using cypher this player has a total of 142 kills, 171 deaths, 
+37 assists, 22 first bloods, and 17 first deaths. Over their entire career, jett is their second most played agent. Over the 189.0 rounds they have played jett, 
+they have an average rating of 0.69, an average average combat score (ACS) of 182.7, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 118.4, an average kill, assist, survive, trade percent (KAST) 
+of 58%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.21. Using jett this player has a total of 118.0 kills, 170.0 deaths, 
+26.0 assists, 27.0 first bloods, and 40.0 first deaths. Over their entire career, sage is their third most played agent. Over the 175.0 rounds they have played sage, 
+they have an average rating of 0.62, an average average combat score (ACS) of 138.5, an average kills death ratio 
+of 0.62, an average average damage per round (ADR) of 90.3, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.49, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.14. Using sage this player has a total of 85.0 kills, 137.0 deaths, 
+23.0 assists, 9.0 first bloods, and 24.0 first deaths. 

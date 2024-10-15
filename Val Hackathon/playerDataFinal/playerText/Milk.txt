@@ -1,63 +1,26 @@
-The player is Milk.
-The org is CBT.
-The agents is ['raze', 'phoenix', 'breach'].
-The rounds_played is 703.
-The average_combat_score is 224.5.
-The kill_deaths is 0.92.
-The average_damage_per_round is 144.4.
-The kills_per_round is 0.73.
-The assists_per_round is 0.24.
-The first_kills_per_round is 0.14.
-The first_deaths_per_round is 0.18.
-The headshot_percentage is 17%.
-The clutch_success_percentage is 4%.
-The team_id is 904.0.
-The team_name is CBT Gaming.
-The agent1 is jett.
-The agent1_use_pct is (51) 54%.
-The agent1_rounds is 1015.
-The agent1_acs is 265.4.
-The agent1_kd is 1.26.
-The agent1_adr is 156.1.
-The agent1_kpr is 0.91.
-The agent1_apr is 0.23.
-The agent1_fkpr is 0.19.
-The agent1_fdpr is 0.16.
-The agent1_kills is 923.
-The agent1_deaths is 730.
-The agent1_assists is 230.
-The agent1_fk is 197.
-The agent1_fd is 160.
-The agent2 is raze.
-The agent2_use_pct is (37) 39%.
-The agent2_rounds is 746.0.
-The agent2_acs is 253.7.
-The agent2_kd is 1.03.
-The agent2_adr is 161.1.
-The agent2_kpr is 0.79.
-The agent2_apr is 0.32.
-The agent2_fkpr is 0.14.
-The agent2_fdpr is 0.15.
-The agent2_kills is 588.0.
-The agent2_deaths is 570.0.
-The agent2_assists is 235.0.
-The agent2_fk is 106.0.
-The agent2_fd is 93.0.
-The agent3 is breach.
-The agent3_use_pct is (4) 4%.
-The agent3_rounds is 83.0.
-The agent3_acs is 224.0.
-The agent3_kd is 1.08.
-The agent3_adr is 138.7.
-The agent3_kpr is 0.82.
-The agent3_apr is 0.25.
-The agent3_fkpr is 0.13.
-The agent3_fdpr is 0.1.
-The agent3_kills is 68.0.
-The agent3_deaths is 63.0.
-The agent3_assists is 21.0.
-The agent3_fk is 11.0.
-The agent3_fd is 6.0.
-The igl is False.
-The region is ap.
-The level is international.
+Milk is a member of CBT Gaming (CBT). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 703 rounds 
+with an average rating of Unknown, an average average combat score (ACS) of 224.5, an average kills death ratio 
+of 0.92, an average average damage per round (ADR) of 144.4, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.14, an average first deaths per round (FDPR) 
+of 0.18, an average headshot percentage of 17%, and an average clutch success percentage 
+of 4%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 1015 rounds they have played jett, 
+they have an average rating of Unknown, an average average combat score (ACS) of 265.4, an average kills death ratio 
+of 1.26, an average average damage per round (ADR) of 156.1, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.91, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.16. Using jett this player has a total of 923 kills, 730 deaths, 
+230 assists, 197 first bloods, and 160 first deaths. Over their entire career, raze is their second most played agent. Over the 746.0 rounds they have played raze, 
+they have an average rating of Unknown, an average average combat score (ACS) of 253.7, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 161.1, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.79, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.15. Using raze this player has a total of 588.0 kills, 570.0 deaths, 
+235.0 assists, 106.0 first bloods, and 93.0 first deaths. Over their entire career, breach is their third most played agent. Over the 83.0 rounds they have played breach, 
+they have an average rating of Unknown, an average average combat score (ACS) of 224.0, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 138.7, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.1. Using breach this player has a total of 68.0 kills, 63.0 deaths, 
+21.0 assists, 11.0 first bloods, and 6.0 first deaths. 

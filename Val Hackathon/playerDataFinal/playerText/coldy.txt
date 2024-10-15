@@ -1,71 +1,26 @@
-The player is coldy.
-The org is (+3).
-The agents is ['viper', 'astra', 'sage'].
-The rounds_played is 500.
-The rating is 0.73.
-The average_combat_score is 155.0.
-The kill_deaths is 0.68.
-The kill_assists_survived_traded is 62%.
-The average_damage_per_round is 104.0.
-The kills_per_round is 0.55.
-The assists_per_round is 0.31.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.14.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 11%.
-The team_id is 2228.0.
-The team_name is Dallas Vendetta.
-The agent1 is astra.
-The agent1_use_pct is (21) 23%.
-The agent1_rounds is 402.
-The agent1_rating is 0.92.
-The agent1_acs is 187.8.
-The agent1_kd is 0.91.
-The agent1_adr is 125.2.
-The agent1_kast is 69%.
-The agent1_kpr is 0.68.
-The agent1_apr is 0.34.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.07.
-The agent1_kills is 273.
-The agent1_deaths is 300.
-The agent1_assists is 135.
-The agent1_fk is 24.
-The agent1_fd is 28.
-The agent2 is kayo.
-The agent2_use_pct is (19) 21%.
-The agent2_rounds is 385.0.
-The agent2_rating is 0.84.
-The agent2_acs is 182.2.
-The agent2_kd is 0.78.
-The agent2_adr is 121.9.
-The agent2_kast is 64%.
-The agent2_kpr is 0.62.
-The agent2_apr is 0.31.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.12.
-The agent2_kills is 240.0.
-The agent2_deaths is 306.0.
-The agent2_assists is 119.0.
-The agent2_fk is 30.0.
-The agent2_fd is 47.0.
-The agent3 is omen.
-The agent3_use_pct is (18) 20%.
-The agent3_rounds is 390.0.
-The agent3_rating is 0.89.
-The agent3_acs is 190.4.
-The agent3_kd is 0.82.
-The agent3_adr is 122.1.
-The agent3_kast is 69%.
-The agent3_kpr is 0.65.
-The agent3_apr is 0.42.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.13.
-The agent3_kills is 254.0.
-The agent3_deaths is 310.0.
-The agent3_assists is 163.0.
-The agent3_fk is 34.0.
-The agent3_fd is 50.0.
-The igl is False.
-The region is na.
-The level is international.
+coldy is a member of Dallas Vendetta ((+3)). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 500 rounds 
+with an average rating of 0.73, an average average combat score (ACS) of 155.0, an average kills death ratio 
+of 0.68, an average average damage per round (ADR) of 104.0, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.55, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 22%, and an average clutch success percentage 
+of 11%. This player is not an in game leader. Over their entire career, astra is their most played agent. Over the 402 rounds they have played astra, 
+they have an average rating of 0.92, an average average combat score (ACS) of 187.8, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 125.2, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using astra this player has a total of 273 kills, 300 deaths, 
+135 assists, 24 first bloods, and 28 first deaths. Over their entire career, kayo is their second most played agent. Over the 385.0 rounds they have played kayo, 
+they have an average rating of 0.84, an average average combat score (ACS) of 182.2, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 121.9, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.12. Using kayo this player has a total of 240.0 kills, 306.0 deaths, 
+119.0 assists, 30.0 first bloods, and 47.0 first deaths. Over their entire career, omen is their third most played agent. Over the 390.0 rounds they have played omen, 
+they have an average rating of 0.89, an average average combat score (ACS) of 190.4, an average kills death ratio 
+of 0.82, an average average damage per round (ADR) of 122.1, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.42, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.13. Using omen this player has a total of 254.0 kills, 310.0 deaths, 
+163.0 assists, 34.0 first bloods, and 50.0 first deaths. 

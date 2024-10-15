@@ -1,71 +1,26 @@
-The player is DWX.
-The org is RV.
-The agents is ['viper', 'cypher', 'omen'].
-The rounds_played is 324.
-The rating is 0.96.
-The average_combat_score is 195.4.
-The kill_deaths is 0.91.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 130.4.
-The kills_per_round is 0.68.
-The assists_per_round is 0.36.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.07.
-The headshot_percentage is 35%.
-The clutch_success_percentage is 11%.
-The team_id is 11780.0.
-The team_name is Reveal Multigaming.
-The agent1 is viper.
-The agent1_use_pct is (22) 35%.
-The agent1_rounds is 488.
-The agent1_rating is 1.0.
-The agent1_acs is 213.7.
-The agent1_kd is 1.03.
-The agent1_adr is 140.8.
-The agent1_kast is 70%.
-The agent1_kpr is 0.75.
-The agent1_apr is 0.28.
-The agent1_fkpr is 0.13.
-The agent1_fdpr is 0.11.
-The agent1_kills is 364.
-The agent1_deaths is 354.
-The agent1_assists is 139.
-The agent1_fk is 64.
-The agent1_fd is 56.
-The agent2 is omen.
-The agent2_use_pct is (16) 26%.
-The agent2_rounds is 333.0.
-The agent2_rating is 0.98.
-The agent2_acs is 201.6.
-The agent2_kd is 0.95.
-The agent2_adr is 132.8.
-The agent2_kast is 74%.
-The agent2_kpr is 0.68.
-The agent2_apr is 0.42.
-The agent2_fkpr is 0.11.
-The agent2_fdpr is 0.08.
-The agent2_kills is 227.0.
-The agent2_deaths is 238.0.
-The agent2_assists is 141.0.
-The agent2_fk is 38.0.
-The agent2_fd is 27.0.
-The agent3 is cypher.
-The agent3_use_pct is (13) 21%.
-The agent3_rounds is 287.0.
-The agent3_rating is 1.14.
-The agent3_acs is 219.5.
-The agent3_kd is 1.18.
-The agent3_adr is 147.0.
-The agent3_kast is 70%.
-The agent3_kpr is 0.76.
-The agent3_apr is 0.24.
-The agent3_fkpr is 0.13.
-The agent3_fdpr is 0.09.
-The agent3_kills is 219.0.
-The agent3_deaths is 186.0.
-The agent3_assists is 70.0.
-The agent3_fk is 36.0.
-The agent3_fd is 27.0.
-The igl is False.
-The region is eu.
-The level is international.
+DWX is a member of Reveal Multigaming (RV). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 324 rounds 
+with an average rating of 0.96, an average average combat score (ACS) of 195.4, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 130.4, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 35%, and an average clutch success percentage 
+of 11%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 488 rounds they have played viper, 
+they have an average rating of 1.0, an average average combat score (ACS) of 213.7, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 140.8, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.11. Using viper this player has a total of 364 kills, 354 deaths, 
+139 assists, 64 first bloods, and 56 first deaths. Over their entire career, omen is their second most played agent. Over the 333.0 rounds they have played omen, 
+they have an average rating of 0.98, an average average combat score (ACS) of 201.6, an average kills death ratio 
+of 0.95, an average average damage per round (ADR) of 132.8, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.42, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.08. Using omen this player has a total of 227.0 kills, 238.0 deaths, 
+141.0 assists, 38.0 first bloods, and 27.0 first deaths. Over their entire career, cypher is their third most played agent. Over the 287.0 rounds they have played cypher, 
+they have an average rating of 1.14, an average average combat score (ACS) of 219.5, an average kills death ratio 
+of 1.18, an average average damage per round (ADR) of 147.0, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.09. Using cypher this player has a total of 219.0 kills, 186.0 deaths, 
+70.0 assists, 36.0 first bloods, and 27.0 first deaths. 

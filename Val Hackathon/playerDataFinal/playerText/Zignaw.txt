@@ -1,71 +1,26 @@
-The player is Zignaw.
-The org is TAMU.
-The agents is ['breach', 'viper', 'kayo'].
-The rounds_played is 209.
-The rating is 0.83.
-The average_combat_score is 169.8.
-The kill_deaths is 0.69.
-The kill_assists_survived_traded is 68%.
-The average_damage_per_round is 110.5.
-The kills_per_round is 0.57.
-The assists_per_round is 0.39.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.07.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 4%.
-The team_id is 14173.0.
-The team_name is TAMU Black.
-The agent1 is kayo.
-The agent1_use_pct is (12) 28%.
-The agent1_rounds is 230.
-The agent1_rating is 1.0.
-The agent1_acs is 178.2.
-The agent1_kd is 0.93.
-The agent1_adr is 121.4.
-The agent1_kast is 71%.
-The agent1_kpr is 0.63.
-The agent1_apr is 0.49.
-The agent1_fkpr is 0.04.
-The agent1_fdpr is 0.08.
-The agent1_kills is 146.
-The agent1_deaths is 157.
-The agent1_assists is 112.
-The agent1_fk is 9.
-The agent1_fd is 19.
-The agent2 is omen.
-The agent2_use_pct is (9) 21%.
-The agent2_rounds is 174.0.
-The agent2_rating is 0.99.
-The agent2_acs is 180.6.
-The agent2_kd is 0.99.
-The agent2_adr is 116.9.
-The agent2_kast is 69%.
-The agent2_kpr is 0.67.
-The agent2_apr is 0.33.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.09.
-The agent2_kills is 117.0.
-The agent2_deaths is 118.0.
-The agent2_assists is 57.0.
-The agent2_fk is 11.0.
-The agent2_fd is 16.0.
-The agent3 is raze.
-The agent3_use_pct is (7) 16%.
-The agent3_rounds is 149.0.
-The agent3_rating is 0.96.
-The agent3_acs is 200.1.
-The agent3_kd is 0.92.
-The agent3_adr is 142.3.
-The agent3_kast is 68%.
-The agent3_kpr is 0.68.
-The agent3_apr is 0.23.
-The agent3_fkpr is 0.13.
-The agent3_fdpr is 0.19.
-The agent3_kills is 102.0.
-The agent3_deaths is 111.0.
-The agent3_assists is 34.0.
-The agent3_fk is 20.0.
-The agent3_fd is 28.0.
-The igl is False.
-The region is na.
-The level is international.
+Zignaw is a member of TAMU Black (TAMU). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 209 rounds 
+with an average rating of 0.83, an average average combat score (ACS) of 169.8, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 110.5, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.39, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 22%, and an average clutch success percentage 
+of 4%. This player is not an in game leader. Over their entire career, kayo is their most played agent. Over the 230 rounds they have played kayo, 
+they have an average rating of 1.0, an average average combat score (ACS) of 178.2, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 121.4, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.49, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.08. Using kayo this player has a total of 146 kills, 157 deaths, 
+112 assists, 9 first bloods, and 19 first deaths. Over their entire career, omen is their second most played agent. Over the 174.0 rounds they have played omen, 
+they have an average rating of 0.99, an average average combat score (ACS) of 180.6, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 116.9, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.09. Using omen this player has a total of 117.0 kills, 118.0 deaths, 
+57.0 assists, 11.0 first bloods, and 16.0 first deaths. Over their entire career, raze is their third most played agent. Over the 149.0 rounds they have played raze, 
+they have an average rating of 0.96, an average average combat score (ACS) of 200.1, an average kills death ratio 
+of 0.92, an average average damage per round (ADR) of 142.3, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.19. Using raze this player has a total of 102.0 kills, 111.0 deaths, 
+34.0 assists, 20.0 first bloods, and 28.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Ryuya.
-The org is EVA.
-The agents is ['sova', 'breach', 'viper'].
-The rounds_played is 383.
-The rating is 0.97.
-The average_combat_score is 185.1.
-The kill_deaths is 0.9.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 121.5.
-The kills_per_round is 0.64.
-The assists_per_round is 0.44.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 15%.
-The team_id is 14671.0.
-The team_name is NTPOJA.
-The agent1 is sova.
-The agent1_use_pct is (22) 32%.
-The agent1_rounds is 429.
-The agent1_rating is 1.12.
-The agent1_acs is 223.2.
-The agent1_kd is 1.1.
-The agent1_adr is 145.1.
-The agent1_kast is 72%.
-The agent1_kpr is 0.78.
-The agent1_apr is 0.28.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.05.
-The agent1_kills is 334.
-The agent1_deaths is 303.
-The agent1_assists is 119.
-The agent1_fk is 31.
-The agent1_fd is 22.
-The agent2 is kayo.
-The agent2_use_pct is (17) 25%.
-The agent2_rounds is 364.0.
-The agent2_rating is 0.98.
-The agent2_acs is 188.5.
-The agent2_kd is 0.93.
-The agent2_adr is 122.4.
-The agent2_kast is 75%.
-The agent2_kpr is 0.65.
-The agent2_apr is 0.57.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.09.
-The agent2_kills is 237.0.
-The agent2_deaths is 254.0.
-The agent2_assists is 206.0.
-The agent2_fk is 25.0.
-The agent2_fd is 31.0.
-The agent3 is breach.
-The agent3_use_pct is (8) 12%.
-The agent3_rounds is 186.0.
-The agent3_rating is 0.97.
-The agent3_acs is 173.3.
-The agent3_kd is 0.93.
-The agent3_adr is 112.9.
-The agent3_kast is 76%.
-The agent3_kpr is 0.61.
-The agent3_apr is 0.41.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.09.
-The agent3_kills is 113.0.
-The agent3_deaths is 122.0.
-The agent3_assists is 76.0.
-The agent3_fk is 10.0.
-The agent3_fd is 16.0.
-The igl is False.
-The region is jp.
-The level is international.
+Ryuya is a member of NTPOJA (EVA). They play in the Japan region and the VCT 
+international circuit. Over their entire career, they have played 383 rounds 
+with an average rating of 0.97, an average average combat score (ACS) of 185.1, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 121.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.44, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 27%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 429 rounds they have played sova, 
+they have an average rating of 1.12, an average average combat score (ACS) of 223.2, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 145.1, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.05. Using sova this player has a total of 334 kills, 303 deaths, 
+119 assists, 31 first bloods, and 22 first deaths. Over their entire career, kayo is their second most played agent. Over the 364.0 rounds they have played kayo, 
+they have an average rating of 0.98, an average average combat score (ACS) of 188.5, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 122.4, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.57, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.09. Using kayo this player has a total of 237.0 kills, 254.0 deaths, 
+206.0 assists, 25.0 first bloods, and 31.0 first deaths. Over their entire career, breach is their third most played agent. Over the 186.0 rounds they have played breach, 
+they have an average rating of 0.97, an average average combat score (ACS) of 173.3, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 112.9, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.41, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.09. Using breach this player has a total of 113.0 kills, 122.0 deaths, 
+76.0 assists, 10.0 first bloods, and 16.0 first deaths. 

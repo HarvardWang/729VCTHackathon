@@ -1,71 +1,26 @@
-The player is ShimmyXD.
-The org is Torc.
-The agents is ['kayo', 'jett', 'sage'].
-The rounds_played is 1476.
-The rating is 0.93.
-The average_combat_score is 184.0.
-The kill_deaths is 0.86.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 122.7.
-The kills_per_round is 0.63.
-The assists_per_round is 0.34.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 19%.
-The clutch_success_percentage is 15%.
-The team_id is 7812.0.
-The team_name is UAESA Green.
-The agent1 is fade.
-The agent1_use_pct is (59) 39%.
-The agent1_rounds is 1162.
-The agent1_rating is 1.06.
-The agent1_acs is 199.0.
-The agent1_kd is 1.05.
-The agent1_adr is 129.7.
-The agent1_kast is 75%.
-The agent1_kpr is 0.69.
-The agent1_apr is 0.37.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.11.
-The agent1_kills is 806.
-The agent1_deaths is 766.
-The agent1_assists is 434.
-The agent1_fk is 92.
-The agent1_fd is 129.
-The agent2 is viper.
-The agent2_use_pct is (33) 22%.
-The agent2_rounds is 666.0.
-The agent2_rating is 1.14.
-The agent2_acs is 227.8.
-The agent2_kd is 1.21.
-The agent2_adr is 149.0.
-The agent2_kast is 73%.
-The agent2_kpr is 0.78.
-The agent2_apr is 0.34.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.09.
-The agent2_kills is 521.0.
-The agent2_deaths is 431.0.
-The agent2_assists is 229.0.
-The agent2_fk is 64.0.
-The agent2_fd is 60.0.
-The agent3 is sage.
-The agent3_use_pct is (25) 16%.
-The agent3_rounds is 515.0.
-The agent3_rating is 1.16.
-The agent3_acs is 209.9.
-The agent3_kd is 1.17.
-The agent3_adr is 134.2.
-The agent3_kast is 77%.
-The agent3_kpr is 0.75.
-The agent3_apr is 0.37.
-The agent3_fkpr is 0.11.
-The agent3_fdpr is 0.08.
-The agent3_kills is 386.0.
-The agent3_deaths is 329.0.
-The agent3_assists is 191.0.
-The agent3_fk is 56.0.
-The agent3_fd is 41.0.
-The igl is False.
-The region is na.
-The level is international.
+ShimmyXD is a member of UAESA Green (Torc). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 1476 rounds 
+with an average rating of 0.93, an average average combat score (ACS) of 184.0, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 122.7, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 19%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, fade is their most played agent. Over the 1162 rounds they have played fade, 
+they have an average rating of 1.06, an average average combat score (ACS) of 199.0, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 129.7, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.11. Using fade this player has a total of 806 kills, 766 deaths, 
+434 assists, 92 first bloods, and 129 first deaths. Over their entire career, viper is their second most played agent. Over the 666.0 rounds they have played viper, 
+they have an average rating of 1.14, an average average combat score (ACS) of 227.8, an average kills death ratio 
+of 1.21, an average average damage per round (ADR) of 149.0, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.09. Using viper this player has a total of 521.0 kills, 431.0 deaths, 
+229.0 assists, 64.0 first bloods, and 60.0 first deaths. Over their entire career, sage is their third most played agent. Over the 515.0 rounds they have played sage, 
+they have an average rating of 1.16, an average average combat score (ACS) of 209.9, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 134.2, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.08. Using sage this player has a total of 386.0 kills, 329.0 deaths, 
+191.0 assists, 56.0 first bloods, and 41.0 first deaths. 

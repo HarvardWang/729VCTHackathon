@@ -1,71 +1,26 @@
-The player is tomaszy.
-The org is KC.
-The agents is ['reyna', 'raze', 'cypher'].
-The rounds_played is 2823.
-The rating is 1.03.
-The average_combat_score is 229.4.
-The kill_deaths is 1.08.
-The kill_assists_survived_traded is 72%.
-The average_damage_per_round is 150.4.
-The kills_per_round is 0.8.
-The assists_per_round is 0.24.
-The first_kills_per_round is 0.15.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 33%.
-The clutch_success_percentage is 14%.
-The team_id is 8877.0.
-The team_name is Karmine Corp.
-The agent1 is neon.
-The agent1_use_pct is (38) 17%.
-The agent1_rounds is 745.
-The agent1_rating is 1.2.
-The agent1_acs is 290.8.
-The agent1_kd is 1.38.
-The agent1_adr is 180.7.
-The agent1_kast is 74%.
-The agent1_kpr is 1.01.
-The agent1_apr is 0.2.
-The agent1_fkpr is 0.22.
-The agent1_fdpr is 0.16.
-The agent1_kills is 756.
-The agent1_deaths is 548.
-The agent1_assists is 147.
-The agent1_fk is 162.
-The agent1_fd is 122.
-The agent2 is jett.
-The agent2_use_pct is (36) 16%.
-The agent2_rounds is 693.0.
-The agent2_rating is 1.25.
-The agent2_acs is 289.5.
-The agent2_kd is 1.42.
-The agent2_adr is 183.6.
-The agent2_kast is 76%.
-The agent2_kpr is 1.04.
-The agent2_apr is 0.17.
-The agent2_fkpr is 0.28.
-The agent2_fdpr is 0.14.
-The agent2_kills is 719.0.
-The agent2_deaths is 508.0.
-The agent2_assists is 117.0.
-The agent2_fk is 191.0.
-The agent2_fd is 95.0.
-The agent3 is viper.
-The agent3_use_pct is (35) 16%.
-The agent3_rounds is 742.0.
-The agent3_rating is 1.01.
-The agent3_acs is 192.2.
-The agent3_kd is 1.01.
-The agent3_adr is 132.5.
-The agent3_kast is 74%.
-The agent3_kpr is 0.67.
-The agent3_apr is 0.32.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.07.
-The agent3_kills is 499.0.
-The agent3_deaths is 495.0.
-The agent3_assists is 239.0.
-The agent3_fk is 65.0.
-The agent3_fd is 54.0.
-The igl is False.
-The region is eu.
-The level is international.
+tomaszy is a member of Karmine Corp (KC). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 2823 rounds 
+with an average rating of 1.03, an average average combat score (ACS) of 229.4, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 150.4, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.15, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 33%, and an average clutch success percentage 
+of 14%. This player is not an in game leader. Over their entire career, neon is their most played agent. Over the 745 rounds they have played neon, 
+they have an average rating of 1.2, an average average combat score (ACS) of 290.8, an average kills death ratio 
+of 1.38, an average average damage per round (ADR) of 180.7, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 1.01, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.22, and an average first deaths per round (FDPR) 
+of 0.16. Using neon this player has a total of 756 kills, 548 deaths, 
+147 assists, 162 first bloods, and 122 first deaths. Over their entire career, jett is their second most played agent. Over the 693.0 rounds they have played jett, 
+they have an average rating of 1.25, an average average combat score (ACS) of 289.5, an average kills death ratio 
+of 1.42, an average average damage per round (ADR) of 183.6, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 1.04, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.28, and an average first deaths per round (FDPR) 
+of 0.14. Using jett this player has a total of 719.0 kills, 508.0 deaths, 
+117.0 assists, 191.0 first bloods, and 95.0 first deaths. Over their entire career, viper is their third most played agent. Over the 742.0 rounds they have played viper, 
+they have an average rating of 1.01, an average average combat score (ACS) of 192.2, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 132.5, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using viper this player has a total of 499.0 kills, 495.0 deaths, 
+239.0 assists, 65.0 first bloods, and 54.0 first deaths. 

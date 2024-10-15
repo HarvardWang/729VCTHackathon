@@ -1,71 +1,26 @@
-The player is KaKU.
-The org is FG.
-The agents is ['sova', 'breach', 'sage'].
-The rounds_played is 518.
-The rating is 0.79.
-The average_combat_score is 180.6.
-The kill_deaths is 0.84.
-The kill_assists_survived_traded is 62%.
-The average_damage_per_round is 120.1.
-The kills_per_round is 0.63.
-The assists_per_round is 0.29.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 29%.
-The clutch_success_percentage is 13%.
-The team_id is 4853.0.
-The team_name is Updraft.
-The agent1 is sova.
-The agent1_use_pct is (38) 51%.
-The agent1_rounds is 787.
-The agent1_rating is 1.07.
-The agent1_acs is 196.9.
-The agent1_kd is 0.99.
-The agent1_adr is 130.5.
-The agent1_kast is 73%.
-The agent1_kpr is 0.69.
-The agent1_apr is 0.27.
-The agent1_fkpr is 0.09.
-The agent1_fdpr is 0.07.
-The agent1_kills is 544.
-The agent1_deaths is 550.
-The agent1_assists is 212.
-The agent1_fk is 67.
-The agent1_fd is 56.
-The agent2 is breach.
-The agent2_use_pct is (25) 34%.
-The agent2_rounds is 476.0.
-The agent2_rating is 0.97.
-The agent2_acs is 177.4.
-The agent2_kd is 0.9.
-The agent2_adr is 110.4.
-The agent2_kast is 72%.
-The agent2_kpr is 0.62.
-The agent2_apr is 0.39.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.07.
-The agent2_kills is 293.0.
-The agent2_deaths is 327.0.
-The agent2_assists is 184.0.
-The agent2_fk is 28.0.
-The agent2_fd is 35.0.
-The agent3 is skye.
-The agent3_use_pct is (4) 5%.
-The agent3_rounds is 91.0.
-The agent3_rating is 1.16.
-The agent3_acs is 220.5.
-The agent3_kd is 1.22.
-The agent3_adr is 139.4.
-The agent3_kast is 75%.
-The agent3_kpr is 0.79.
-The agent3_apr is 0.37.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.11.
-The agent3_kills is 72.0.
-The agent3_deaths is 59.0.
-The agent3_assists is 34.0.
-The agent3_fk is 6.0.
-The agent3_fd is 10.0.
-The igl is False.
-The region is jp.
-The level is international.
+KaKU is a member of Updraft (FG). They play in the Japan region and the VCT 
+international circuit. Over their entire career, they have played 518 rounds 
+with an average rating of 0.79, an average average combat score (ACS) of 180.6, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 120.1, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 29%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 787 rounds they have played sova, 
+they have an average rating of 1.07, an average average combat score (ACS) of 196.9, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 130.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using sova this player has a total of 544 kills, 550 deaths, 
+212 assists, 67 first bloods, and 56 first deaths. Over their entire career, breach is their second most played agent. Over the 476.0 rounds they have played breach, 
+they have an average rating of 0.97, an average average combat score (ACS) of 177.4, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 110.4, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.39, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using breach this player has a total of 293.0 kills, 327.0 deaths, 
+184.0 assists, 28.0 first bloods, and 35.0 first deaths. Over their entire career, skye is their third most played agent. Over the 91.0 rounds they have played skye, 
+they have an average rating of 1.16, an average average combat score (ACS) of 220.5, an average kills death ratio 
+of 1.22, an average average damage per round (ADR) of 139.4, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.79, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.11. Using skye this player has a total of 72.0 kills, 59.0 deaths, 
+34.0 assists, 6.0 first bloods, and 10.0 first deaths. 

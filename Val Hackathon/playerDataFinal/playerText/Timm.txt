@@ -1,71 +1,26 @@
-The player is Timm.
-The org is (+3).
-The agents is ['sage', 'omen', 'brimstone'].
-The rounds_played is 304.
-The rating is 0.65.
-The average_combat_score is 146.9.
-The kill_deaths is 0.69.
-The kill_assists_survived_traded is 64%.
-The average_damage_per_round is 87.1.
-The kills_per_round is 0.52.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.14.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 9%.
-The team_id is 1926.0.
-The team_name is SE ATLAS.
-The agent1 is sage.
-The agent1_use_pct is (18) 44%.
-The agent1_rounds is 400.
-The agent1_rating is 0.88.
-The agent1_acs is 178.4.
-The agent1_kd is 0.83.
-The agent1_adr is 99.2.
-The agent1_kast is 75%.
-The agent1_kpr is 0.59.
-The agent1_apr is 0.3.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.12.
-The agent1_kills is 237.
-The agent1_deaths is 285.
-The agent1_assists is 120.
-The agent1_fk is 31.
-The agent1_fd is 47.
-The agent2 is brimstone.
-The agent2_use_pct is (8) 20%.
-The agent2_rounds is 162.0.
-The agent2_rating is 1.01.
-The agent2_acs is 199.3.
-The agent2_kd is 1.13.
-The agent2_adr is 108.9.
-The agent2_kast is 76%.
-The agent2_kpr is 0.73.
-The agent2_apr is 0.24.
-The agent2_fkpr is 0.14.
-The agent2_fdpr is 0.07.
-The agent2_kills is 119.0.
-The agent2_deaths is 105.0.
-The agent2_assists is 39.0.
-The agent2_fk is 22.0.
-The agent2_fd is 12.0.
-The agent3 is cypher.
-The agent3_use_pct is (8) 20%.
-The agent3_rounds is 161.0.
-The agent3_rating is 0.73.
-The agent3_acs is 150.4.
-The agent3_kd is 0.78.
-The agent3_adr is 91.1.
-The agent3_kast is 64%.
-The agent3_kpr is 0.57.
-The agent3_apr is 0.16.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.09.
-The agent3_kills is 92.0.
-The agent3_deaths is 118.0.
-The agent3_assists is 25.0.
-The agent3_fk is 9.0.
-The agent3_fd is 15.0.
-The igl is False.
-The region is ap.
-The level is international.
+Timm is a member of SE ATLAS ((+3)). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 304 rounds 
+with an average rating of 0.65, an average average combat score (ACS) of 146.9, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 87.1, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.52, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 21%, and an average clutch success percentage 
+of 9%. This player is not an in game leader. Over their entire career, sage is their most played agent. Over the 400 rounds they have played sage, 
+they have an average rating of 0.88, an average average combat score (ACS) of 178.4, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 99.2, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.12. Using sage this player has a total of 237 kills, 285 deaths, 
+120 assists, 31 first bloods, and 47 first deaths. Over their entire career, brimstone is their second most played agent. Over the 162.0 rounds they have played brimstone, 
+they have an average rating of 1.01, an average average combat score (ACS) of 199.3, an average kills death ratio 
+of 1.13, an average average damage per round (ADR) of 108.9, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.07. Using brimstone this player has a total of 119.0 kills, 105.0 deaths, 
+39.0 assists, 22.0 first bloods, and 12.0 first deaths. Over their entire career, cypher is their third most played agent. Over the 161.0 rounds they have played cypher, 
+they have an average rating of 0.73, an average average combat score (ACS) of 150.4, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 91.1, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.09. Using cypher this player has a total of 92.0 kills, 118.0 deaths, 
+25.0 assists, 9.0 first bloods, and 15.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Gwangboong.
-The org is SG.
-The agents is ['jett', 'raze', 'yoru'].
-The rounds_played is 885.
-The rating is 1.13.
-The average_combat_score is 240.2.
-The kill_deaths is 1.14.
-The kill_assists_survived_traded is 74%.
-The average_damage_per_round is 159.9.
-The kills_per_round is 0.84.
-The assists_per_round is 0.2.
-The first_kills_per_round is 0.2.
-The first_deaths_per_round is 0.15.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 20%.
-The team_id is 283.0.
-The team_name is Sengoku Gaming.
-The agent1 is raze.
-The agent1_use_pct is (37) 49%.
-The agent1_rounds is 768.
-The agent1_rating is 1.15.
-The agent1_acs is 245.5.
-The agent1_kd is 1.19.
-The agent1_adr is 162.0.
-The agent1_kast is 74%.
-The agent1_kpr is 0.84.
-The agent1_apr is 0.21.
-The agent1_fkpr is 0.18.
-The agent1_fdpr is 0.14.
-The agent1_kills is 645.
-The agent1_deaths is 544.
-The agent1_assists is 160.
-The agent1_fk is 140.
-The agent1_fd is 111.
-The agent2 is jett.
-The agent2_use_pct is (31) 41%.
-The agent2_rounds is 637.0.
-The agent2_rating is 1.16.
-The agent2_acs is 232.3.
-The agent2_kd is 1.28.
-The agent2_adr is 151.2.
-The agent2_kast is 75%.
-The agent2_kpr is 0.84.
-The agent2_apr is 0.16.
-The agent2_fkpr is 0.2.
-The agent2_fdpr is 0.14.
-The agent2_kills is 536.0.
-The agent2_deaths is 419.0.
-The agent2_assists is 100.0.
-The agent2_fk is 129.0.
-The agent2_fd is 92.0.
-The agent3 is yoru.
-The agent3_use_pct is (3) 4%.
-The agent3_rounds is 69.0.
-The agent3_rating is 1.07.
-The agent3_acs is 236.3.
-The agent3_kd is 1.05.
-The agent3_adr is 157.3.
-The agent3_kast is 75%.
-The agent3_kpr is 0.86.
-The agent3_apr is 0.16.
-The agent3_fkpr is 0.19.
-The agent3_fdpr is 0.09.
-The agent3_kills is 59.0.
-The agent3_deaths is 56.0.
-The agent3_assists is 11.0.
-The agent3_fk is 13.0.
-The agent3_fd is 6.0.
-The igl is False.
-The region is jp.
-The level is challenger.
+Gwangboong is a member of Sengoku Gaming (SG). They play in the Japan region and the VCT 
+challenger circuit. Over their entire career, they have played 885 rounds 
+with an average rating of 1.13, an average average combat score (ACS) of 240.2, an average kills death ratio 
+of 1.14, an average average damage per round (ADR) of 159.9, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.2, an average first deaths per round (FDPR) 
+of 0.15, an average headshot percentage of 25%, and an average clutch success percentage 
+of 20%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 768 rounds they have played raze, 
+they have an average rating of 1.15, an average average combat score (ACS) of 245.5, an average kills death ratio 
+of 1.19, an average average damage per round (ADR) of 162.0, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.18, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 645 kills, 544 deaths, 
+160 assists, 140 first bloods, and 111 first deaths. Over their entire career, jett is their second most played agent. Over the 637.0 rounds they have played jett, 
+they have an average rating of 1.16, an average average combat score (ACS) of 232.3, an average kills death ratio 
+of 1.28, an average average damage per round (ADR) of 151.2, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.2, and an average first deaths per round (FDPR) 
+of 0.14. Using jett this player has a total of 536.0 kills, 419.0 deaths, 
+100.0 assists, 129.0 first bloods, and 92.0 first deaths. Over their entire career, yoru is their third most played agent. Over the 69.0 rounds they have played yoru, 
+they have an average rating of 1.07, an average average combat score (ACS) of 236.3, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 157.3, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.86, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.09. Using yoru this player has a total of 59.0 kills, 56.0 deaths, 
+11.0 assists, 13.0 first bloods, and 6.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Xivi.
-The org is EnRo.
-The agents is ['omen', 'raze', 'phoenix'].
-The rounds_played is 688.
-The rating is 0.83.
-The average_combat_score is 170.1.
-The kill_deaths is 0.79.
-The kill_assists_survived_traded is 64%.
-The average_damage_per_round is 110.6.
-The kills_per_round is 0.6.
-The assists_per_round is 0.28.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.13.
-The headshot_percentage is 26%.
-The clutch_success_percentage is 13%.
-The team_id is 9769.0.
-The team_name is EnRo Griffins.
-The agent1 is sage.
-The agent1_use_pct is (29) 34%.
-The agent1_rounds is 590.
-The agent1_rating is 0.91.
-The agent1_acs is 156.7.
-The agent1_kd is 0.87.
-The agent1_adr is 104.3.
-The agent1_kast is 69%.
-The agent1_kpr is 0.6.
-The agent1_apr is 0.34.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.1.
-The agent1_kills is 356.
-The agent1_deaths is 407.
-The agent1_assists is 199.
-The agent1_fk is 34.
-The agent1_fd is 58.
-The agent2 is raze.
-The agent2_use_pct is (26) 30%.
-The agent2_rounds is 500.0.
-The agent2_rating is 0.95.
-The agent2_acs is 219.6.
-The agent2_kd is 0.98.
-The agent2_adr is 138.1.
-The agent2_kast is 69%.
-The agent2_kpr is 0.75.
-The agent2_apr is 0.17.
-The agent2_fkpr is 0.12.
-The agent2_fdpr is 0.14.
-The agent2_kills is 377.0.
-The agent2_deaths is 383.0.
-The agent2_assists is 87.0.
-The agent2_fk is 62.0.
-The agent2_fd is 68.0.
-The agent3 is kayo.
-The agent3_use_pct is (10) 12%.
-The agent3_rounds is 249.0.
-The agent3_rating is 1.02.
-The agent3_acs is 183.4.
-The agent3_kd is 0.93.
-The agent3_adr is 119.8.
-The agent3_kast is 76%.
-The agent3_kpr is 0.65.
-The agent3_apr is 0.54.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.1.
-The agent3_kills is 161.0.
-The agent3_deaths is 173.0.
-The agent3_assists is 134.0.
-The agent3_fk is 18.0.
-The agent3_fd is 24.0.
-The igl is False.
-The region is eu.
-The level is international.
+Xivi is a member of EnRo Griffins (EnRo). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 688 rounds 
+with an average rating of 0.83, an average average combat score (ACS) of 170.1, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 110.6, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 26%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, sage is their most played agent. Over the 590 rounds they have played sage, 
+they have an average rating of 0.91, an average average combat score (ACS) of 156.7, an average kills death ratio 
+of 0.87, an average average damage per round (ADR) of 104.3, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.1. Using sage this player has a total of 356 kills, 407 deaths, 
+199 assists, 34 first bloods, and 58 first deaths. Over their entire career, raze is their second most played agent. Over the 500.0 rounds they have played raze, 
+they have an average rating of 0.95, an average average combat score (ACS) of 219.6, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 138.1, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 377.0 kills, 383.0 deaths, 
+87.0 assists, 62.0 first bloods, and 68.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 249.0 rounds they have played kayo, 
+they have an average rating of 1.02, an average average combat score (ACS) of 183.4, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 119.8, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.54, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.1. Using kayo this player has a total of 161.0 kills, 173.0 deaths, 
+134.0 assists, 18.0 first bloods, and 24.0 first deaths. 

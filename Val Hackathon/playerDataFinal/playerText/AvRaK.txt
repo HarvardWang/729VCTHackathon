@@ -1,71 +1,26 @@
-The player is AvRaK.
-The org is BJE.
-The agents is ['cypher', 'astra', 'omen'].
-The rounds_played is 469.
-The rating is 0.7.
-The average_combat_score is 141.3.
-The kill_deaths is 0.64.
-The kill_assists_survived_traded is 57%.
-The average_damage_per_round is 95.4.
-The kills_per_round is 0.5.
-The assists_per_round is 0.2.
-The first_kills_per_round is 0.04.
-The first_deaths_per_round is 0.11.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 14%.
-The team_id is 8930.0.
-The team_name is BlackJack Esports.
-The agent1 is astra.
-The agent1_use_pct is (23) 33%.
-The agent1_rounds is 455.
-The agent1_rating is 0.88.
-The agent1_acs is 157.8.
-The agent1_kd is 0.84.
-The agent1_adr is 103.7.
-The agent1_kast is 64%.
-The agent1_kpr is 0.57.
-The agent1_apr is 0.25.
-The agent1_fkpr is 0.04.
-The agent1_fdpr is 0.07.
-The agent1_kills is 259.
-The agent1_deaths is 310.
-The agent1_assists is 115.
-The agent1_fk is 20.
-The agent1_fd is 32.
-The agent2 is brimstone.
-The agent2_use_pct is (16) 23%.
-The agent2_rounds is 297.0.
-The agent2_rating is 0.67.
-The agent2_acs is 136.6.
-The agent2_kd is 0.56.
-The agent2_adr is 93.9.
-The agent2_kast is 59%.
-The agent2_kpr is 0.44.
-The agent2_apr is 0.3.
-The agent2_fkpr is 0.04.
-The agent2_fdpr is 0.11.
-The agent2_kills is 132.0.
-The agent2_deaths is 234.0.
-The agent2_assists is 89.0.
-The agent2_fk is 11.0.
-The agent2_fd is 32.0.
-The agent3 is omen.
-The agent3_use_pct is (10) 14%.
-The agent3_rounds is 212.0.
-The agent3_rating is 0.69.
-The agent3_acs is 135.3.
-The agent3_kd is 0.68.
-The agent3_adr is 87.5.
-The agent3_kast is 60%.
-The agent3_kpr is 0.49.
-The agent3_apr is 0.21.
-The agent3_fkpr is 0.04.
-The agent3_fdpr is 0.06.
-The agent3_kills is 104.0.
-The agent3_deaths is 154.0.
-The agent3_assists is 44.0.
-The agent3_fk is 9.0.
-The agent3_fd is 13.0.
-The igl is False.
-The region is mn.
-The level is international.
+AvRaK is a member of BlackJack Esports (BJE). They play in the Middle East and North Africa region and the VCT 
+international circuit. Over their entire career, they have played 469 rounds 
+with an average rating of 0.7, an average average combat score (ACS) of 141.3, an average kills death ratio 
+of 0.64, an average average damage per round (ADR) of 95.4, an average kill, assist, survive, trade percent (KAST) 
+of 57%, an average kills per round (KPR) of 0.5, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.11, an average headshot percentage of 27%, and an average clutch success percentage 
+of 14%. This player is not an in game leader. Over their entire career, astra is their most played agent. Over the 455 rounds they have played astra, 
+they have an average rating of 0.88, an average average combat score (ACS) of 157.8, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 103.7, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.07. Using astra this player has a total of 259 kills, 310 deaths, 
+115 assists, 20 first bloods, and 32 first deaths. Over their entire career, brimstone is their second most played agent. Over the 297.0 rounds they have played brimstone, 
+they have an average rating of 0.67, an average average combat score (ACS) of 136.6, an average kills death ratio 
+of 0.56, an average average damage per round (ADR) of 93.9, an average kill, assist, survive, trade percent (KAST) 
+of 59%, an average kills per round (KPR) of 0.44, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.11. Using brimstone this player has a total of 132.0 kills, 234.0 deaths, 
+89.0 assists, 11.0 first bloods, and 32.0 first deaths. Over their entire career, omen is their third most played agent. Over the 212.0 rounds they have played omen, 
+they have an average rating of 0.69, an average average combat score (ACS) of 135.3, an average kills death ratio 
+of 0.68, an average average damage per round (ADR) of 87.5, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.49, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.06. Using omen this player has a total of 104.0 kills, 154.0 deaths, 
+44.0 assists, 9.0 first bloods, and 13.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is yaz.
-The org is TORN.
-The agents is ['sova', 'chamber', 'skye'].
-The rounds_played is 231.
-The rating is 0.88.
-The average_combat_score is 190.7.
-The kill_deaths is 0.81.
-The kill_assists_survived_traded is 68%.
-The average_damage_per_round is 130.8.
-The kills_per_round is 0.63.
-The assists_per_round is 0.28.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 26%.
-The clutch_success_percentage is 15%.
-The team_id is 13008.0.
-The team_name is Torch North.
-The agent1 is sova.
-The agent1_use_pct is (21) 57%.
-The agent1_rounds is 440.
-The agent1_rating is 1.09.
-The agent1_acs is 217.5.
-The agent1_kd is 0.98.
-The agent1_adr is 153.4.
-The agent1_kast is 72%.
-The agent1_kpr is 0.71.
-The agent1_apr is 0.39.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.07.
-The agent1_kills is 312.
-The agent1_deaths is 317.
-The agent1_assists is 170.
-The agent1_fk is 37.
-The agent1_fd is 29.
-The agent2 is chamber.
-The agent2_use_pct is (6) 16%.
-The agent2_rounds is 134.0.
-The agent2_rating is 1.03.
-The agent2_acs is 212.7.
-The agent2_kd is 1.12.
-The agent2_adr is 143.3.
-The agent2_kast is 67%.
-The agent2_kpr is 0.78.
-The agent2_apr is 0.1.
-The agent2_fkpr is 0.16.
-The agent2_fdpr is 0.15.
-The agent2_kills is 104.0.
-The agent2_deaths is 93.0.
-The agent2_assists is 14.0.
-The agent2_fk is 22.0.
-The agent2_fd is 20.0.
-The agent3 is skye.
-The agent3_use_pct is (4) 11%.
-The agent3_rounds is 92.0.
-The agent3_rating is 1.05.
-The agent3_acs is 207.8.
-The agent3_kd is 1.0.
-The agent3_adr is 133.5.
-The agent3_kast is 80%.
-The agent3_kpr is 0.73.
-The agent3_apr is 0.38.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.13.
-The agent3_kills is 67.0.
-The agent3_deaths is 67.0.
-The agent3_assists is 35.0.
-The agent3_fk is 7.0.
-The agent3_fd is 12.0.
-The igl is False.
-The region is na.
-The level is international.
+yaz is a member of Torch North (TORN). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 231 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 190.7, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 130.8, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 26%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 440 rounds they have played sova, 
+they have an average rating of 1.09, an average average combat score (ACS) of 217.5, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 153.4, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.39, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.07. Using sova this player has a total of 312 kills, 317 deaths, 
+170 assists, 37 first bloods, and 29 first deaths. Over their entire career, chamber is their second most played agent. Over the 134.0 rounds they have played chamber, 
+they have an average rating of 1.03, an average average combat score (ACS) of 212.7, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 143.3, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.1, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.15. Using chamber this player has a total of 104.0 kills, 93.0 deaths, 
+14.0 assists, 22.0 first bloods, and 20.0 first deaths. Over their entire career, skye is their third most played agent. Over the 92.0 rounds they have played skye, 
+they have an average rating of 1.05, an average average combat score (ACS) of 207.8, an average kills death ratio 
+of 1.0, an average average damage per round (ADR) of 133.5, an average kill, assist, survive, trade percent (KAST) 
+of 80%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.13. Using skye this player has a total of 67.0 kills, 67.0 deaths, 
+35.0 assists, 7.0 first bloods, and 12.0 first deaths. 

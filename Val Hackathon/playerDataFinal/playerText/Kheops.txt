@@ -1,71 +1,26 @@
-The player is Kheops.
-The org is OXR.
-The agents is ['jett', 'phoenix', 'reyna'].
-The rounds_played is 4386.
-The rating is 1.02.
-The average_combat_score is 199.1.
-The kill_deaths is 1.01.
-The kill_assists_survived_traded is 71%.
-The average_damage_per_round is 128.2.
-The kills_per_round is 0.71.
-The assists_per_round is 0.3.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 29%.
-The clutch_success_percentage is 18%.
-The team_id is 6159.0.
-The team_name is Onyx Ravens.
-The agent1 is omen.
-The agent1_use_pct is (143) 36%.
-The agent1_rounds is 2994.
-The agent1_rating is 1.03.
-The agent1_acs is 188.6.
-The agent1_kd is 1.01.
-The agent1_adr is 121.2.
-The agent1_kast is 74%.
-The agent1_kpr is 0.67.
-The agent1_apr is 0.41.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.08.
-The agent1_kills is 2008.
-The agent1_deaths is 1997.
-The agent1_assists is 1242.
-The agent1_fk is 193.
-The agent1_fd is 237.
-The agent2 is reyna.
-The agent2_use_pct is (50) 13%.
-The agent2_rounds is 1062.0.
-The agent2_rating is 1.21.
-The agent2_acs is 273.2.
-The agent2_kd is 1.34.
-The agent2_adr is 174.4.
-The agent2_kast is 72%.
-The agent2_kpr is 0.95.
-The agent2_apr is 0.19.
-The agent2_fkpr is 0.17.
-The agent2_fdpr is 0.15.
-The agent2_kills is 1014.0.
-The agent2_deaths is 754.0.
-The agent2_assists is 201.0.
-The agent2_fk is 181.0.
-The agent2_fd is 158.0.
-The agent3 is brimstone.
-The agent3_use_pct is (43) 11%.
-The agent3_rounds is 871.0.
-The agent3_rating is 1.13.
-The agent3_acs is 208.5.
-The agent3_kd is 1.16.
-The agent3_adr is 132.5.
-The agent3_kast is 74%.
-The agent3_kpr is 0.74.
-The agent3_apr is 0.36.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.06.
-The agent3_kills is 642.0.
-The agent3_deaths is 553.0.
-The agent3_assists is 315.0.
-The agent3_fk is 63.0.
-The agent3_fd is 54.0.
-The igl is False.
-The region is mn.
-The level is challenger.
+Kheops is a member of Onyx Ravens (OXR). They play in the Middle East and North Africa region and the VCT 
+challenger circuit. Over their entire career, they have played 4386 rounds 
+with an average rating of 1.02, an average average combat score (ACS) of 199.1, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 128.2, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 29%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 2994 rounds they have played omen, 
+they have an average rating of 1.03, an average average combat score (ACS) of 188.6, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 121.2, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.41, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.08. Using omen this player has a total of 2008 kills, 1997 deaths, 
+1242 assists, 193 first bloods, and 237 first deaths. Over their entire career, reyna is their second most played agent. Over the 1062.0 rounds they have played reyna, 
+they have an average rating of 1.21, an average average combat score (ACS) of 273.2, an average kills death ratio 
+of 1.34, an average average damage per round (ADR) of 174.4, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.95, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.15. Using reyna this player has a total of 1014.0 kills, 754.0 deaths, 
+201.0 assists, 181.0 first bloods, and 158.0 first deaths. Over their entire career, brimstone is their third most played agent. Over the 871.0 rounds they have played brimstone, 
+they have an average rating of 1.13, an average average combat score (ACS) of 208.5, an average kills death ratio 
+of 1.16, an average average damage per round (ADR) of 132.5, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using brimstone this player has a total of 642.0 kills, 553.0 deaths, 
+315.0 assists, 63.0 first bloods, and 54.0 first deaths. 

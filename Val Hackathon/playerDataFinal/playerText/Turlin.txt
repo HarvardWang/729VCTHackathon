@@ -1,71 +1,26 @@
-The player is Turlin.
-The org is Nole.
-The agents is ['cypher', 'killjoy', 'sova'].
-The rounds_played is 438.
-The rating is 0.95.
-The average_combat_score is 190.9.
-The kill_deaths is 0.89.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 129.2.
-The kills_per_round is 0.66.
-The assists_per_round is 0.18.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.07.
-The headshot_percentage is 24%.
-The clutch_success_percentage is 9%.
-The team_id is 5000.0.
-The team_name is ORO Esports.
-The agent1 is killjoy.
-The agent1_use_pct is (47) 62%.
-The agent1_rounds is 943.
-The agent1_rating is 1.05.
-The agent1_acs is 213.0.
-The agent1_kd is 1.1.
-The agent1_adr is 138.9.
-The agent1_kast is 75%.
-The agent1_kpr is 0.72.
-The agent1_apr is 0.19.
-The agent1_fkpr is 0.1.
-The agent1_fdpr is 0.08.
-The agent1_kills is 682.
-The agent1_deaths is 620.
-The agent1_assists is 182.
-The agent1_fk is 94.
-The agent1_fd is 74.
-The agent2 is cypher.
-The agent2_use_pct is (11) 14%.
-The agent2_rounds is 239.0.
-The agent2_rating is 0.74.
-The agent2_acs is 166.3.
-The agent2_kd is 0.77.
-The agent2_adr is 113.5.
-The agent2_kast is 56%.
-The agent2_kpr is 0.59.
-The agent2_apr is 0.22.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.11.
-The agent2_kills is 141.0.
-The agent2_deaths is 183.0.
-The agent2_assists is 52.0.
-The agent2_fk is 23.0.
-The agent2_fd is 26.0.
-The agent3 is reyna.
-The agent3_use_pct is (9) 12%.
-The agent3_rounds is 156.0.
-The agent3_rating is 1.14.
-The agent3_acs is 252.2.
-The agent3_kd is 1.43.
-The agent3_adr is 151.9.
-The agent3_kast is 74%.
-The agent3_kpr is 0.88.
-The agent3_apr is 0.27.
-The agent3_fkpr is 0.1.
-The agent3_fdpr is 0.08.
-The agent3_kills is 137.0.
-The agent3_deaths is 96.0.
-The agent3_assists is 42.0.
-The agent3_fk is 15.0.
-The agent3_fd is 12.0.
-The igl is False.
-The region is eu.
-The level is international.
+Turlin is a member of ORO Esports (Nole). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 438 rounds 
+with an average rating of 0.95, an average average combat score (ACS) of 190.9, an average kills death ratio 
+of 0.89, an average average damage per round (ADR) of 129.2, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 24%, and an average clutch success percentage 
+of 9%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 943 rounds they have played killjoy, 
+they have an average rating of 1.05, an average average combat score (ACS) of 213.0, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 138.9, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.08. Using killjoy this player has a total of 682 kills, 620 deaths, 
+182 assists, 94 first bloods, and 74 first deaths. Over their entire career, cypher is their second most played agent. Over the 239.0 rounds they have played cypher, 
+they have an average rating of 0.74, an average average combat score (ACS) of 166.3, an average kills death ratio 
+of 0.77, an average average damage per round (ADR) of 113.5, an average kill, assist, survive, trade percent (KAST) 
+of 56%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.11. Using cypher this player has a total of 141.0 kills, 183.0 deaths, 
+52.0 assists, 23.0 first bloods, and 26.0 first deaths. Over their entire career, reyna is their third most played agent. Over the 156.0 rounds they have played reyna, 
+they have an average rating of 1.14, an average average combat score (ACS) of 252.2, an average kills death ratio 
+of 1.43, an average average damage per round (ADR) of 151.9, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.88, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.08. Using reyna this player has a total of 137.0 kills, 96.0 deaths, 
+42.0 assists, 15.0 first bloods, and 12.0 first deaths. 

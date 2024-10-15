@@ -1,71 +1,26 @@
-The player is hyun.
-The org is Fore.
-The agents is ['raze', 'reyna', 'breach'].
-The rounds_played is 1308.
-The rating is 0.86.
-The average_combat_score is 182.5.
-The kill_deaths is 0.81.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 120.5.
-The kills_per_round is 0.62.
-The assists_per_round is 0.24.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.11.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 8%.
-The team_id is 8973.0.
-The team_name is Foreigners.
-The agent1 is breach.
-The agent1_use_pct is (57) 29%.
-The agent1_rounds is 1184.
-The agent1_rating is 0.97.
-The agent1_acs is 180.9.
-The agent1_kd is 0.91.
-The agent1_adr is 116.7.
-The agent1_kast is 73%.
-The agent1_kpr is 0.63.
-The agent1_apr is 0.43.
-The agent1_fkpr is 0.05.
-The agent1_fdpr is 0.05.
-The agent1_kills is 749.
-The agent1_deaths is 819.
-The agent1_assists is 506.
-The agent1_fk is 64.
-The agent1_fd is 56.
-The agent2 is raze.
-The agent2_use_pct is (41) 21%.
-The agent2_rounds is 857.0.
-The agent2_rating is 0.97.
-The agent2_acs is 230.0.
-The agent2_kd is 1.06.
-The agent2_adr is 148.5.
-The agent2_kast is 70%.
-The agent2_kpr is 0.75.
-The agent2_apr is 0.25.
-The agent2_fkpr is 0.12.
-The agent2_fdpr is 0.13.
-The agent2_kills is 642.0.
-The agent2_deaths is 605.0.
-The agent2_assists is 210.0.
-The agent2_fk is 103.0.
-The agent2_fd is 109.0.
-The agent3 is kayo.
-The agent3_use_pct is (27) 14%.
-The agent3_rounds is 546.0.
-The agent3_rating is 0.96.
-The agent3_acs is 194.0.
-The agent3_kd is 0.93.
-The agent3_adr is 123.2.
-The agent3_kast is 72%.
-The agent3_kpr is 0.66.
-The agent3_apr is 0.41.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.11.
-The agent3_kills is 358.0.
-The agent3_deaths is 383.0.
-The agent3_assists is 226.0.
-The agent3_fk is 48.0.
-The agent3_fd is 59.0.
-The igl is False.
-The region is na.
-The level is international.
+hyun is a member of Foreigners (Fore). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 1308 rounds 
+with an average rating of 0.86, an average average combat score (ACS) of 182.5, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 120.5, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.11, an average headshot percentage of 22%, and an average clutch success percentage 
+of 8%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 1184 rounds they have played breach, 
+they have an average rating of 0.97, an average average combat score (ACS) of 180.9, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 116.7, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.43, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.05. Using breach this player has a total of 749 kills, 819 deaths, 
+506 assists, 64 first bloods, and 56 first deaths. Over their entire career, raze is their second most played agent. Over the 857.0 rounds they have played raze, 
+they have an average rating of 0.97, an average average combat score (ACS) of 230.0, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 148.5, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.13. Using raze this player has a total of 642.0 kills, 605.0 deaths, 
+210.0 assists, 103.0 first bloods, and 109.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 546.0 rounds they have played kayo, 
+they have an average rating of 0.96, an average average combat score (ACS) of 194.0, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 123.2, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.41, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.11. Using kayo this player has a total of 358.0 kills, 383.0 deaths, 
+226.0 assists, 48.0 first bloods, and 59.0 first deaths. 

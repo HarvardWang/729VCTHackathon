@@ -1,71 +1,26 @@
-The player is susbake.
-The org is O1O.
-The agents is ['gekko', 'yoru', 'sage'].
-The rounds_played is 391.
-The rating is 1.03.
-The average_combat_score is 220.6.
-The kill_deaths is 1.02.
-The kill_assists_survived_traded is 71%.
-The average_damage_per_round is 145.7.
-The kills_per_round is 0.76.
-The assists_per_round is 0.25.
-The first_kills_per_round is 0.11.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 33%.
-The clutch_success_percentage is 22%.
-The team_id is 13226.0.
-The team_name is Odd 1 OUT.
-The agent1 is sova.
-The agent1_use_pct is (14) 25%.
-The agent1_rounds is 265.
-The agent1_rating is 1.35.
-The agent1_acs is 280.7.
-The agent1_kd is 1.41.
-The agent1_adr is 191.4.
-The agent1_kast is 78%.
-The agent1_kpr is 0.97.
-The agent1_apr is 0.31.
-The agent1_fkpr is 0.15.
-The agent1_fdpr is 0.07.
-The agent1_kills is 256.
-The agent1_deaths is 181.
-The agent1_assists is 83.
-The agent1_fk is 41.
-The agent1_fd is 18.
-The agent2 is deadlock.
-The agent2_use_pct is (12) 22%.
-The agent2_rounds is 232.0.
-The agent2_rating is 1.31.
-The agent2_acs is 260.5.
-The agent2_kd is 1.54.
-The agent2_adr is 166.8.
-The agent2_kast is 77%.
-The agent2_kpr is 0.97.
-The agent2_apr is 0.22.
-The agent2_fkpr is 0.16.
-The agent2_fdpr is 0.07.
-The agent2_kills is 225.0.
-The agent2_deaths is 146.0.
-The agent2_assists is 51.0.
-The agent2_fk is 37.0.
-The agent2_fd is 17.0.
-The agent3 is killjoy.
-The agent3_use_pct is (4) 7%.
-The agent3_rounds is 87.0.
-The agent3_rating is 1.12.
-The agent3_acs is 217.3.
-The agent3_kd is 1.15.
-The agent3_adr is 151.8.
-The agent3_kast is 78%.
-The agent3_kpr is 0.78.
-The agent3_apr is 0.15.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.07.
-The agent3_kills is 68.0.
-The agent3_deaths is 59.0.
-The agent3_assists is 13.0.
-The agent3_fk is 8.0.
-The agent3_fd is 6.0.
-The igl is False.
-The region is eu.
-The level is game-changer.
+susbake is a member of Odd 1 OUT (O1O). They play in the Europe region and the VCT 
+game-changer circuit. Over their entire career, they have played 391 rounds 
+with an average rating of 1.03, an average average combat score (ACS) of 220.6, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 145.7, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.11, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 33%, and an average clutch success percentage 
+of 22%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 265 rounds they have played sova, 
+they have an average rating of 1.35, an average average combat score (ACS) of 280.7, an average kills death ratio 
+of 1.41, an average average damage per round (ADR) of 191.4, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.97, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.07. Using sova this player has a total of 256 kills, 181 deaths, 
+83 assists, 41 first bloods, and 18 first deaths. Over their entire career, deadlock is their second most played agent. Over the 232.0 rounds they have played deadlock, 
+they have an average rating of 1.31, an average average combat score (ACS) of 260.5, an average kills death ratio 
+of 1.54, an average average damage per round (ADR) of 166.8, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.97, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.07. Using deadlock this player has a total of 225.0 kills, 146.0 deaths, 
+51.0 assists, 37.0 first bloods, and 17.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 87.0 rounds they have played killjoy, 
+they have an average rating of 1.12, an average average combat score (ACS) of 217.3, an average kills death ratio 
+of 1.15, an average average damage per round (ADR) of 151.8, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.07. Using killjoy this player has a total of 68.0 kills, 59.0 deaths, 
+13.0 assists, 8.0 first bloods, and 6.0 first deaths. 

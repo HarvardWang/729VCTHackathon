@@ -1,71 +1,26 @@
-The player is Elysium.
-The org is NOM.
-The agents is ['omen', 'viper', 'brimstone'].
-The rounds_played is 2059.
-The rating is 0.94.
-The average_combat_score is 183.2.
-The kill_deaths is 0.9.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 118.6.
-The kills_per_round is 0.65.
-The assists_per_round is 0.31.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 14%.
-The team_id is 6191.0.
-The team_name is NOM Esports.
-The agent1 is viper.
-The agent1_use_pct is (74) 32%.
-The agent1_rounds is 1489.
-The agent1_rating is 1.01.
-The agent1_acs is 187.3.
-The agent1_kd is 1.01.
-The agent1_adr is 121.4.
-The agent1_kast is 71%.
-The agent1_kpr is 0.66.
-The agent1_apr is 0.31.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.07.
-The agent1_kills is 977.
-The agent1_deaths is 968.
-The agent1_assists is 462.
-The agent1_fk is 120.
-The agent1_fd is 104.
-The agent2 is omen.
-The agent2_use_pct is (67) 29%.
-The agent2_rounds is 1394.0.
-The agent2_rating is 0.96.
-The agent2_acs is 183.2.
-The agent2_kd is 0.95.
-The agent2_adr is 118.0.
-The agent2_kast is 71%.
-The agent2_kpr is 0.66.
-The agent2_apr is 0.37.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.08.
-The agent2_kills is 917.0.
-The agent2_deaths is 964.0.
-The agent2_assists is 510.0.
-The agent2_fk is 102.0.
-The agent2_fd is 115.0.
-The agent3 is astra.
-The agent3_use_pct is (49) 21%.
-The agent3_rounds is 1043.0.
-The agent3_rating is 1.1.
-The agent3_acs is 201.3.
-The agent3_kd is 1.11.
-The agent3_adr is 128.6.
-The agent3_kast is 74%.
-The agent3_kpr is 0.74.
-The agent3_apr is 0.38.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.07.
-The agent3_kills is 770.0.
-The agent3_deaths is 693.0.
-The agent3_assists is 392.0.
-The agent3_fk is 84.0.
-The agent3_fd is 76.0.
-The igl is False.
-The region is eu.
-The level is international.
+Elysium is a member of NOM Esports (NOM). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 2059 rounds 
+with an average rating of 0.94, an average average combat score (ACS) of 183.2, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 118.6, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 27%, and an average clutch success percentage 
+of 14%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 1489 rounds they have played viper, 
+they have an average rating of 1.01, an average average combat score (ACS) of 187.3, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 121.4, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.07. Using viper this player has a total of 977 kills, 968 deaths, 
+462 assists, 120 first bloods, and 104 first deaths. Over their entire career, omen is their second most played agent. Over the 1394.0 rounds they have played omen, 
+they have an average rating of 0.96, an average average combat score (ACS) of 183.2, an average kills death ratio 
+of 0.95, an average average damage per round (ADR) of 118.0, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using omen this player has a total of 917.0 kills, 964.0 deaths, 
+510.0 assists, 102.0 first bloods, and 115.0 first deaths. Over their entire career, astra is their third most played agent. Over the 1043.0 rounds they have played astra, 
+they have an average rating of 1.1, an average average combat score (ACS) of 201.3, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 128.6, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.07. Using astra this player has a total of 770.0 kills, 693.0 deaths, 
+392.0 assists, 84.0 first bloods, and 76.0 first deaths. 

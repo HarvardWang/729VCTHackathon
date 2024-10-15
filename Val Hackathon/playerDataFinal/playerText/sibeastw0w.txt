@@ -1,71 +1,26 @@
-The player is sibeastw0w.
-The org is NASR.
-The agents is ['chamber', 'raze', 'jett'].
-The rounds_played is 3746.
-The rating is 1.13.
-The average_combat_score is 241.3.
-The kill_deaths is 1.16.
-The kill_assists_survived_traded is 71%.
-The average_damage_per_round is 156.6.
-The kills_per_round is 0.84.
-The assists_per_round is 0.22.
-The first_kills_per_round is 0.2.
-The first_deaths_per_round is 0.16.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 15%.
-The team_id is 1470.0.
-The team_name is NASR Esports.
-The agent1 is jett.
-The agent1_use_pct is (155) 43%.
-The agent1_rounds is 3231.
-The agent1_rating is 1.16.
-The agent1_acs is 250.3.
-The agent1_kd is 1.25.
-The agent1_adr is 156.2.
-The agent1_kast is 73%.
-The agent1_kpr is 0.89.
-The agent1_apr is 0.16.
-The agent1_fkpr is 0.21.
-The agent1_fdpr is 0.16.
-The agent1_kills is 2860.
-The agent1_deaths is 2293.
-The agent1_assists is 525.
-The agent1_fk is 686.
-The agent1_fd is 502.
-The agent2 is raze.
-The agent2_use_pct is (123) 34%.
-The agent2_rounds is 2535.0.
-The agent2_rating is 1.21.
-The agent2_acs is 274.1.
-The agent2_kd is 1.32.
-The agent2_adr is 175.9.
-The agent2_kast is 75%.
-The agent2_kpr is 0.93.
-The agent2_apr is 0.23.
-The agent2_fkpr is 0.22.
-The agent2_fdpr is 0.17.
-The agent2_kills is 2360.0.
-The agent2_deaths is 1793.0.
-The agent2_assists is 576.0.
-The agent2_fk is 554.0.
-The agent2_fd is 429.0.
-The agent3 is chamber.
-The agent3_use_pct is (35) 10%.
-The agent3_rounds is 732.0.
-The agent3_rating is 1.27.
-The agent3_acs is 256.0.
-The agent3_kd is 1.4.
-The agent3_adr is 162.7.
-The agent3_kast is 71%.
-The agent3_kpr is 0.92.
-The agent3_apr is 0.12.
-The agent3_fkpr is 0.2.
-The agent3_fdpr is 0.13.
-The agent3_kills is 676.0.
-The agent3_deaths is 482.0.
-The agent3_assists is 85.0.
-The agent3_fk is 150.0.
-The agent3_fd is 96.0.
-The igl is False.
-The region is mn.
-The level is challenger.
+sibeastw0w is a member of NASR Esports (NASR). They play in the Middle East and North Africa region and the VCT 
+challenger circuit. Over their entire career, they have played 3746 rounds 
+with an average rating of 1.13, an average average combat score (ACS) of 241.3, an average kills death ratio 
+of 1.16, an average average damage per round (ADR) of 156.6, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.84, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.2, an average first deaths per round (FDPR) 
+of 0.16, an average headshot percentage of 25%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 3231 rounds they have played jett, 
+they have an average rating of 1.16, an average average combat score (ACS) of 250.3, an average kills death ratio 
+of 1.25, an average average damage per round (ADR) of 156.2, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.89, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.21, and an average first deaths per round (FDPR) 
+of 0.16. Using jett this player has a total of 2860 kills, 2293 deaths, 
+525 assists, 686 first bloods, and 502 first deaths. Over their entire career, raze is their second most played agent. Over the 2535.0 rounds they have played raze, 
+they have an average rating of 1.21, an average average combat score (ACS) of 274.1, an average kills death ratio 
+of 1.32, an average average damage per round (ADR) of 175.9, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.93, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.22, and an average first deaths per round (FDPR) 
+of 0.17. Using raze this player has a total of 2360.0 kills, 1793.0 deaths, 
+576.0 assists, 554.0 first bloods, and 429.0 first deaths. Over their entire career, chamber is their third most played agent. Over the 732.0 rounds they have played chamber, 
+they have an average rating of 1.27, an average average combat score (ACS) of 256.0, an average kills death ratio 
+of 1.4, an average average damage per round (ADR) of 162.7, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.92, an average assists per round (APR) 
+of 0.12, an average first kills per round (FKPR) of 0.2, and an average first deaths per round (FDPR) 
+of 0.13. Using chamber this player has a total of 676.0 kills, 482.0 deaths, 
+85.0 assists, 150.0 first bloods, and 96.0 first deaths. 

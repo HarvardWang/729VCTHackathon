@@ -1,71 +1,26 @@
-The player is tiff.
-The org is PIP.
-The agents is ['skye', 'breach', 'viper'].
-The rounds_played is 404.
-The rating is 1.05.
-The average_combat_score is 206.5.
-The kill_deaths is 1.01.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 137.9.
-The kills_per_round is 0.71.
-The assists_per_round is 0.34.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 29%.
-The clutch_success_percentage is 4%.
-The team_id is 16045.0.
-The team_name is Penguin Party.
-The agent1 is sova.
-The agent1_use_pct is (15) 28%.
-The agent1_rounds is 293.
-The agent1_rating is 1.23.
-The agent1_acs is 244.4.
-The agent1_kd is 1.25.
-The agent1_adr is 161.3.
-The agent1_kast is 77%.
-The agent1_kpr is 0.83.
-The agent1_apr is 0.31.
-The agent1_fkpr is 0.11.
-The agent1_fdpr is 0.09.
-The agent1_kills is 242.
-The agent1_deaths is 193.
-The agent1_assists is 91.
-The agent1_fk is 31.
-The agent1_fd is 26.
-The agent2 is gekko.
-The agent2_use_pct is (12) 23%.
-The agent2_rounds is 240.0.
-The agent2_rating is 1.1.
-The agent2_acs is 198.7.
-The agent2_kd is 1.14.
-The agent2_adr is 137.3.
-The agent2_kast is 80%.
-The agent2_kpr is 0.69.
-The agent2_apr is 0.4.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.08.
-The agent2_kills is 166.0.
-The agent2_deaths is 146.0.
-The agent2_assists is 97.0.
-The agent2_fk is 15.0.
-The agent2_fd is 20.0.
-The agent3 is skye.
-The agent3_use_pct is (9) 17%.
-The agent3_rounds is 189.0.
-The agent3_rating is 1.14.
-The agent3_acs is 188.0.
-The agent3_kd is 1.11.
-The agent3_adr is 125.0.
-The agent3_kast is 76%.
-The agent3_kpr is 0.69.
-The agent3_apr is 0.44.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.07.
-The agent3_kills is 131.0.
-The agent3_deaths is 118.0.
-The agent3_assists is 83.0.
-The agent3_fk is 11.0.
-The agent3_fd is 13.0.
-The igl is False.
-The region is oce.
-The level is international.
+tiff is a member of Penguin Party (PIP). They play in the Oceania region and the VCT 
+international circuit. Over their entire career, they have played 404 rounds 
+with an average rating of 1.05, an average average combat score (ACS) of 206.5, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 137.9, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 29%, and an average clutch success percentage 
+of 4%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 293 rounds they have played sova, 
+they have an average rating of 1.23, an average average combat score (ACS) of 244.4, an average kills death ratio 
+of 1.25, an average average damage per round (ADR) of 161.3, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.83, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.09. Using sova this player has a total of 242 kills, 193 deaths, 
+91 assists, 31 first bloods, and 26 first deaths. Over their entire career, gekko is their second most played agent. Over the 240.0 rounds they have played gekko, 
+they have an average rating of 1.1, an average average combat score (ACS) of 198.7, an average kills death ratio 
+of 1.14, an average average damage per round (ADR) of 137.3, an average kill, assist, survive, trade percent (KAST) 
+of 80%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.08. Using gekko this player has a total of 166.0 kills, 146.0 deaths, 
+97.0 assists, 15.0 first bloods, and 20.0 first deaths. Over their entire career, skye is their third most played agent. Over the 189.0 rounds they have played skye, 
+they have an average rating of 1.14, an average average combat score (ACS) of 188.0, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 125.0, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.44, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using skye this player has a total of 131.0 kills, 118.0 deaths, 
+83.0 assists, 11.0 first bloods, and 13.0 first deaths. 

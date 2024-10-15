@@ -1,71 +1,26 @@
-The player is BEAST.
-The org is 19.
-The agents is ['sova', 'sage', 'breach'].
-The rounds_played is 559.
-The rating is 1.2.
-The average_combat_score is 206.1.
-The kill_deaths is 1.02.
-The kill_assists_survived_traded is 86%.
-The average_damage_per_round is 132.1.
-The kills_per_round is 0.7.
-The assists_per_round is 0.4.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 17%.
-The clutch_success_percentage is 16%.
-The team_id is 11896.0.
-The team_name is 19esports.
-The agent1 is sova.
-The agent1_use_pct is (167) 77%.
-The agent1_rounds is 3376.
-The agent1_rating is 1.12.
-The agent1_acs is 215.5.
-The agent1_kd is 1.17.
-The agent1_adr is 137.2.
-The agent1_kast is 75%.
-The agent1_kpr is 0.74.
-The agent1_apr is 0.34.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.06.
-The agent1_kills is 2501.
-The agent1_deaths is 2134.
-The agent1_assists is 1155.
-The agent1_fk is 276.
-The agent1_fd is 186.
-The agent2 is breach.
-The agent2_use_pct is (24) 11%.
-The agent2_rounds is 507.0.
-The agent2_rating is 0.93.
-The agent2_acs is 178.5.
-The agent2_kd is 0.88.
-The agent2_adr is 113.0.
-The agent2_kast is 73%.
-The agent2_kpr is 0.61.
-The agent2_apr is 0.4.
-The agent2_fkpr is 0.05.
-The agent2_fdpr is 0.06.
-The agent2_kills is 308.0.
-The agent2_deaths is 351.0.
-The agent2_assists is 201.0.
-The agent2_fk is 24.0.
-The agent2_fd is 32.0.
-The agent3 is sage.
-The agent3_use_pct is (13) 6%.
-The agent3_rounds is 271.0.
-The agent3_rating is 0.79.
-The agent3_acs is 178.5.
-The agent3_kd is 0.96.
-The agent3_adr is 110.8.
-The agent3_kast is 70%.
-The agent3_kpr is 0.64.
-The agent3_apr is 0.3.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.1.
-The agent3_kills is 174.0.
-The agent3_deaths is 181.0.
-The agent3_assists is 82.0.
-The agent3_fk is 17.0.
-The agent3_fd is 26.0.
-The igl is True.
-The region is sa.
-The level is international.
+BEAST is a member of 19esports (19). They play in the Latin America region and the VCT 
+international circuit. Over their entire career, they have played 559 rounds 
+with an average rating of 1.2, an average average combat score (ACS) of 206.1, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 132.1, an average kill, assist, survive, trade percent (KAST) 
+of 86%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 17%, and an average clutch success percentage 
+of 16%. This player plays the role of an in game leader (IGL). Over their entire career, sova is their most played agent. Over the 3376 rounds they have played sova, 
+they have an average rating of 1.12, an average average combat score (ACS) of 215.5, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 137.2, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.06. Using sova this player has a total of 2501 kills, 2134 deaths, 
+1155 assists, 276 first bloods, and 186 first deaths. Over their entire career, breach is their second most played agent. Over the 507.0 rounds they have played breach, 
+they have an average rating of 0.93, an average average combat score (ACS) of 178.5, an average kills death ratio 
+of 0.88, an average average damage per round (ADR) of 113.0, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.06. Using breach this player has a total of 308.0 kills, 351.0 deaths, 
+201.0 assists, 24.0 first bloods, and 32.0 first deaths. Over their entire career, sage is their third most played agent. Over the 271.0 rounds they have played sage, 
+they have an average rating of 0.79, an average average combat score (ACS) of 178.5, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 110.8, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.1. Using sage this player has a total of 174.0 kills, 181.0 deaths, 
+82.0 assists, 17.0 first bloods, and 26.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Mark3.
-The org is (+6).
-The agents is ['sova', 'sage', 'jett'].
-The rounds_played is 441.
-The rating is 0.69.
-The average_combat_score is 161.6.
-The kill_deaths is 0.62.
-The kill_assists_survived_traded is 56%.
-The average_damage_per_round is 111.7.
-The kills_per_round is 0.54.
-The assists_per_round is 0.15.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.14.
-The headshot_percentage is 29%.
-The clutch_success_percentage is 5%.
-The team_id is 10635.0.
-The team_name is NOBLES.
-The agent1 is sova.
-The agent1_use_pct is (12) 27%.
-The agent1_rounds is 207.
-The agent1_rating is 0.85.
-The agent1_acs is 181.1.
-The agent1_kd is 0.71.
-The agent1_adr is 125.9.
-The agent1_kast is 59%.
-The agent1_kpr is 0.57.
-The agent1_apr is 0.28.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.09.
-The agent1_kills is 119.
-The agent1_deaths is 167.
-The agent1_assists is 57.
-The agent1_fk is 14.
-The agent1_fd is 18.
-The agent2 is cypher.
-The agent2_use_pct is (9) 20%.
-The agent2_rounds is 165.0.
-The agent2_rating is 1.1.
-The agent2_acs is 221.8.
-The agent2_kd is 1.05.
-The agent2_adr is 151.6.
-The agent2_kast is 68%.
-The agent2_kpr is 0.83.
-The agent2_apr is 0.23.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.12.
-The agent2_kills is 137.0.
-The agent2_deaths is 131.0.
-The agent2_assists is 38.0.
-The agent2_fk is 12.0.
-The agent2_fd is 19.0.
-The agent3 is killjoy.
-The agent3_use_pct is (6) 14%.
-The agent3_rounds is 109.0.
-The agent3_rating is 0.65.
-The agent3_acs is 179.0.
-The agent3_kd is 0.62.
-The agent3_adr is 114.2.
-The agent3_kast is 54%.
-The agent3_kpr is 0.56.
-The agent3_apr is 0.1.
-The agent3_fkpr is 0.11.
-The agent3_fdpr is 0.12.
-The agent3_kills is 61.0.
-The agent3_deaths is 98.0.
-The agent3_assists is 11.0.
-The agent3_fk is 12.0.
-The agent3_fd is 13.0.
-The igl is False.
-The region is mn.
-The level is international.
+Mark3 is a member of NOBLES ((+6)). They play in the Middle East and North Africa region and the VCT 
+international circuit. Over their entire career, they have played 441 rounds 
+with an average rating of 0.69, an average average combat score (ACS) of 161.6, an average kills death ratio 
+of 0.62, an average average damage per round (ADR) of 111.7, an average kill, assist, survive, trade percent (KAST) 
+of 56%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 29%, and an average clutch success percentage 
+of 5%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 207 rounds they have played sova, 
+they have an average rating of 0.85, an average average combat score (ACS) of 181.1, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 125.9, an average kill, assist, survive, trade percent (KAST) 
+of 59%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.09. Using sova this player has a total of 119 kills, 167 deaths, 
+57 assists, 14 first bloods, and 18 first deaths. Over their entire career, cypher is their second most played agent. Over the 165.0 rounds they have played cypher, 
+they have an average rating of 1.1, an average average combat score (ACS) of 221.8, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 151.6, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.83, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.12. Using cypher this player has a total of 137.0 kills, 131.0 deaths, 
+38.0 assists, 12.0 first bloods, and 19.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 109.0 rounds they have played killjoy, 
+they have an average rating of 0.65, an average average combat score (ACS) of 179.0, an average kills death ratio 
+of 0.62, an average average damage per round (ADR) of 114.2, an average kill, assist, survive, trade percent (KAST) 
+of 54%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.1, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.12. Using killjoy this player has a total of 61.0 kills, 98.0 deaths, 
+11.0 assists, 12.0 first bloods, and 13.0 first deaths. 

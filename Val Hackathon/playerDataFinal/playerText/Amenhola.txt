@@ -1,71 +1,26 @@
-The player is Amenhola.
-The org is INM.
-The agents is ['omen', 'breach', 'reyna'].
-The rounds_played is 598.
-The rating is 0.8.
-The average_combat_score is 176.0.
-The kill_deaths is 0.74.
-The kill_assists_survived_traded is 60%.
-The average_damage_per_round is 112.9.
-The kills_per_round is 0.58.
-The assists_per_round is 0.28.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 15%.
-The clutch_success_percentage is 8%.
-The team_id is 7916.0.
-The team_name is I Need Money.
-The agent1 is astra.
-The agent1_use_pct is (22) 24%.
-The agent1_rounds is 422.
-The agent1_rating is 0.92.
-The agent1_acs is 190.3.
-The agent1_kd is 0.92.
-The agent1_adr is 122.2.
-The agent1_kast is 72%.
-The agent1_kpr is 0.67.
-The agent1_apr is 0.27.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.08.
-The agent1_kills is 282.
-The agent1_deaths is 308.
-The agent1_assists is 115.
-The agent1_fk is 27.
-The agent1_fd is 34.
-The agent2 is sova.
-The agent2_use_pct is (17) 18%.
-The agent2_rounds is 348.0.
-The agent2_rating is 0.93.
-The agent2_acs is 174.8.
-The agent2_kd is 0.81.
-The agent2_adr is 116.4.
-The agent2_kast is 75%.
-The agent2_kpr is 0.56.
-The agent2_apr is 0.36.
-The agent2_fkpr is 0.05.
-The agent2_fdpr is 0.04.
-The agent2_kills is 196.0.
-The agent2_deaths is 243.0.
-The agent2_assists is 127.0.
-The agent2_fk is 17.0.
-The agent2_fd is 14.0.
-The agent3 is omen.
-The agent3_use_pct is (10) 11%.
-The agent3_rounds is 202.0.
-The agent3_rating is 0.62.
-The agent3_acs is 173.0.
-The agent3_kd is 0.88.
-The agent3_adr is 110.3.
-The agent3_kast is 50%.
-The agent3_kpr is 0.63.
-The agent3_apr is 0.16.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.06.
-The agent3_kills is 128.0.
-The agent3_deaths is 146.0.
-The agent3_assists is 32.0.
-The agent3_fk is 15.0.
-The agent3_fd is 12.0.
-The igl is False.
-The region is ap.
-The level is international.
+Amenhola is a member of I Need Money (INM). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 598 rounds 
+with an average rating of 0.8, an average average combat score (ACS) of 176.0, an average kills death ratio 
+of 0.74, an average average damage per round (ADR) of 112.9, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 15%, and an average clutch success percentage 
+of 8%. This player is not an in game leader. Over their entire career, astra is their most played agent. Over the 422 rounds they have played astra, 
+they have an average rating of 0.92, an average average combat score (ACS) of 190.3, an average kills death ratio 
+of 0.92, an average average damage per round (ADR) of 122.2, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.08. Using astra this player has a total of 282 kills, 308 deaths, 
+115 assists, 27 first bloods, and 34 first deaths. Over their entire career, sova is their second most played agent. Over the 348.0 rounds they have played sova, 
+they have an average rating of 0.93, an average average combat score (ACS) of 174.8, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 116.4, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.56, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.04. Using sova this player has a total of 196.0 kills, 243.0 deaths, 
+127.0 assists, 17.0 first bloods, and 14.0 first deaths. Over their entire career, omen is their third most played agent. Over the 202.0 rounds they have played omen, 
+they have an average rating of 0.62, an average average combat score (ACS) of 173.0, an average kills death ratio 
+of 0.88, an average average damage per round (ADR) of 110.3, an average kill, assist, survive, trade percent (KAST) 
+of 50%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using omen this player has a total of 128.0 kills, 146.0 deaths, 
+32.0 assists, 15.0 first bloods, and 12.0 first deaths. 

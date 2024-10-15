@@ -1,69 +1,26 @@
-The player is Brando.
-The org is GG.
-The agents is ['reyna', 'sova', 'sage'].
-The rounds_played is 1273.
-The rating is 0.94.
-The average_combat_score is 179.1.
-The kill_deaths is 0.83.
-The kill_assists_survived_traded is 74%.
-The average_damage_per_round is 118.9.
-The kills_per_round is 0.58.
-The assists_per_round is 0.37.
-The first_kills_per_round is 0.05.
-The first_deaths_per_round is 0.04.
-The headshot_percentage is 16%.
-The clutch_success_percentage is 16%.
-The team_id is 4525.0.
-The team_name is Goofy Goobers.
-The agent1 is sova.
-The agent1_use_pct is (163) 93%.
-The agent1_rounds is 3371.
-The agent1_rating is 1.05.
-The agent1_acs is 187.7.
-The agent1_kd is 0.96.
-The agent1_adr is 120.5.
-The agent1_kast is 76%.
-The agent1_kpr is 0.61.
-The agent1_apr is 0.42.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.05.
-The agent1_kills is 2055.
-The agent1_deaths is 2142.
-The agent1_assists is 1406.
-The agent1_fk is 188.
-The agent1_fd is 136.
-The agent2 is sage.
-The agent2_use_pct is (5) 3%.
-The agent2_rounds is 99.0.
-The agent2_rating is 1.16.
-The agent2_acs is 172.8.
-The agent2_kd is 0.82.
-The agent2_adr is 153.7.
-The agent2_kast is 73%.
-The agent2_kpr is 0.62.
-The agent2_apr is 0.4.
-The agent2_fkpr is 0.05.
-The agent2_fdpr is 0.02.
-The agent2_kills is 61.0.
-The agent2_deaths is 74.0.
-The agent2_assists is 40.0.
-The agent2_fk is 5.0.
-The agent2_fd is 1.0.
-The agent3 is brimstone.
-The agent3_use_pct is (3) 2%.
-The agent3_rounds is 61.0.
-The agent3_acs is 157.7.
-The agent3_kd is 0.69.
-The agent3_adr is 101.0.
-The agent3_kpr is 0.51.
-The agent3_apr is 0.28.
-The agent3_fkpr is 0.03.
-The agent3_fdpr is 0.1.
-The agent3_kills is 31.0.
-The agent3_deaths is 45.0.
-The agent3_assists is 17.0.
-The agent3_fk is 2.0.
-The agent3_fd is 6.0.
-The igl is False.
-The region is na.
-The level is international.
+Brando is a member of Goofy Goobers (GG). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 1273 rounds 
+with an average rating of 0.94, an average average combat score (ACS) of 179.1, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 118.9, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.04, an average headshot percentage of 16%, and an average clutch success percentage 
+of 16%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 3371 rounds they have played sova, 
+they have an average rating of 1.05, an average average combat score (ACS) of 187.7, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 120.5, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.42, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.05. Using sova this player has a total of 2055 kills, 2142 deaths, 
+1406 assists, 188 first bloods, and 136 first deaths. Over their entire career, sage is their second most played agent. Over the 99.0 rounds they have played sage, 
+they have an average rating of 1.16, an average average combat score (ACS) of 172.8, an average kills death ratio 
+of 0.82, an average average damage per round (ADR) of 153.7, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.02. Using sage this player has a total of 61.0 kills, 74.0 deaths, 
+40.0 assists, 5.0 first bloods, and 1.0 first deaths. Over their entire career, brimstone is their third most played agent. Over the 61.0 rounds they have played brimstone, 
+they have an average rating of Unknown, an average average combat score (ACS) of 157.7, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 101.0, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.51, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.03, and an average first deaths per round (FDPR) 
+of 0.1. Using brimstone this player has a total of 31.0 kills, 45.0 deaths, 
+17.0 assists, 2.0 first bloods, and 6.0 first deaths. 

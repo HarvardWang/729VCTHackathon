@@ -1,71 +1,26 @@
-The player is kronicx.
-The org is VRTX.
-The agents is ['cypher', 'jett', 'skye'].
-The rounds_played is 625.
-The rating is 0.95.
-The average_combat_score is 189.5.
-The kill_deaths is 0.86.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 124.0.
-The kills_per_round is 0.67.
-The assists_per_round is 0.18.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 23%.
-The clutch_success_percentage is 18%.
-The team_id is 8535.0.
-The team_name is Salt n Pepper.
-The agent1 is cypher.
-The agent1_use_pct is (101) 74%.
-The agent1_rounds is 2080.
-The agent1_rating is 1.01.
-The agent1_acs is 201.1.
-The agent1_kd is 1.02.
-The agent1_adr is 128.4.
-The agent1_kast is 69%.
-The agent1_kpr is 0.72.
-The agent1_apr is 0.23.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.09.
-The agent1_kills is 1491.
-The agent1_deaths is 1468.
-The agent1_assists is 487.
-The agent1_fk is 171.
-The agent1_fd is 185.
-The agent2 is jett.
-The agent2_use_pct is (13) 10%.
-The agent2_rounds is 254.0.
-The agent2_rating is 0.93.
-The agent2_acs is 206.6.
-The agent2_kd is 0.81.
-The agent2_adr is 131.5.
-The agent2_kast is 66%.
-The agent2_kpr is 0.67.
-The agent2_apr is 0.2.
-The agent2_fkpr is 0.17.
-The agent2_fdpr is 0.17.
-The agent2_kills is 170.0.
-The agent2_deaths is 210.0.
-The agent2_assists is 52.0.
-The agent2_fk is 42.0.
-The agent2_fd is 42.0.
-The agent3 is killjoy.
-The agent3_use_pct is (12) 9%.
-The agent3_rounds is 251.0.
-The agent3_rating is 1.12.
-The agent3_acs is 228.3.
-The agent3_kd is 1.14.
-The agent3_adr is 148.3.
-The agent3_kast is 72%.
-The agent3_kpr is 0.8.
-The agent3_apr is 0.16.
-The agent3_fkpr is 0.12.
-The agent3_fdpr is 0.04.
-The agent3_kills is 200.0.
-The agent3_deaths is 175.0.
-The agent3_assists is 39.0.
-The agent3_fk is 30.0.
-The agent3_fd is 11.0.
-The igl is False.
-The region is oce.
-The level is international.
+kronicx is a member of Salt n Pepper (VRTX). They play in the Oceania region and the VCT 
+international circuit. Over their entire career, they have played 625 rounds 
+with an average rating of 0.95, an average average combat score (ACS) of 189.5, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 124.0, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 23%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, cypher is their most played agent. Over the 2080 rounds they have played cypher, 
+they have an average rating of 1.01, an average average combat score (ACS) of 201.1, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 128.4, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.09. Using cypher this player has a total of 1491 kills, 1468 deaths, 
+487 assists, 171 first bloods, and 185 first deaths. Over their entire career, jett is their second most played agent. Over the 254.0 rounds they have played jett, 
+they have an average rating of 0.93, an average average combat score (ACS) of 206.6, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 131.5, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.17. Using jett this player has a total of 170.0 kills, 210.0 deaths, 
+52.0 assists, 42.0 first bloods, and 42.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 251.0 rounds they have played killjoy, 
+they have an average rating of 1.12, an average average combat score (ACS) of 228.3, an average kills death ratio 
+of 1.14, an average average damage per round (ADR) of 148.3, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.04. Using killjoy this player has a total of 200.0 kills, 175.0 deaths, 
+39.0 assists, 30.0 first bloods, and 11.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is chloe.
-The org is MSF.
-The agents is ['sage', 'jett', 'cypher'].
-The rounds_played is 848.
-The rating is 0.85.
-The average_combat_score is 189.9.
-The kill_deaths is 0.83.
-The kill_assists_survived_traded is 64%.
-The average_damage_per_round is 124.7.
-The kills_per_round is 0.67.
-The assists_per_round is 0.17.
-The first_kills_per_round is 0.13.
-The first_deaths_per_round is 0.15.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 8%.
-The team_id is 13127.0.
-The team_name is 7o Seven O.
-The agent1 is jett.
-The agent1_use_pct is (63) 57%.
-The agent1_rounds is 1229.
-The agent1_rating is 0.96.
-The agent1_acs is 209.0.
-The agent1_kd is 0.96.
-The agent1_adr is 133.9.
-The agent1_kast is 68%.
-The agent1_kpr is 0.72.
-The agent1_apr is 0.17.
-The agent1_fkpr is 0.15.
-The agent1_fdpr is 0.15.
-The agent1_kills is 890.
-The agent1_deaths is 925.
-The agent1_assists is 209.
-The agent1_fk is 186.
-The agent1_fd is 179.
-The agent2 is raze.
-The agent2_use_pct is (11) 10%.
-The agent2_rounds is 223.0.
-The agent2_rating is 0.81.
-The agent2_acs is 203.8.
-The agent2_kd is 0.79.
-The agent2_adr is 129.7.
-The agent2_kast is 68%.
-The agent2_kpr is 0.63.
-The agent2_apr is 0.22.
-The agent2_fkpr is 0.12.
-The agent2_fdpr is 0.14.
-The agent2_kills is 140.0.
-The agent2_deaths is 177.0.
-The agent2_assists is 50.0.
-The agent2_fk is 26.0.
-The agent2_fd is 31.0.
-The agent3 is killjoy.
-The agent3_use_pct is (8) 7%.
-The agent3_rounds is 135.0.
-The agent3_rating is 1.06.
-The agent3_acs is 213.5.
-The agent3_kd is 1.13.
-The agent3_adr is 141.0.
-The agent3_kast is 66%.
-The agent3_kpr is 0.75.
-The agent3_apr is 0.12.
-The agent3_fkpr is 0.12.
-The agent3_fdpr is 0.09.
-The agent3_kills is 101.0.
-The agent3_deaths is 89.0.
-The agent3_assists is 16.0.
-The agent3_fk is 16.0.
-The agent3_fd is 12.0.
-The igl is False.
-The region is na.
-The level is game-changer.
+chloe is a member of 7o Seven O (MSF). They play in the North America region and the VCT 
+game-changer circuit. Over their entire career, they have played 848 rounds 
+with an average rating of 0.85, an average average combat score (ACS) of 189.9, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 124.7, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.13, an average first deaths per round (FDPR) 
+of 0.15, an average headshot percentage of 22%, and an average clutch success percentage 
+of 8%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 1229 rounds they have played jett, 
+they have an average rating of 0.96, an average average combat score (ACS) of 209.0, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 133.9, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.15. Using jett this player has a total of 890 kills, 925 deaths, 
+209 assists, 186 first bloods, and 179 first deaths. Over their entire career, raze is their second most played agent. Over the 223.0 rounds they have played raze, 
+they have an average rating of 0.81, an average average combat score (ACS) of 203.8, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 129.7, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.63, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 140.0 kills, 177.0 deaths, 
+50.0 assists, 26.0 first bloods, and 31.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 135.0 rounds they have played killjoy, 
+they have an average rating of 1.06, an average average combat score (ACS) of 213.5, an average kills death ratio 
+of 1.13, an average average damage per round (ADR) of 141.0, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.12, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.09. Using killjoy this player has a total of 101.0 kills, 89.0 deaths, 
+16.0 assists, 16.0 first bloods, and 12.0 first deaths. 

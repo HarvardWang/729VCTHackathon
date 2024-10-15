@@ -1,71 +1,26 @@
-The player is Happy.
-The org is M80.
-The agents is ['sage', 'raze', 'breach'].
-The rounds_played is 1589.
-The rating is 0.96.
-The average_combat_score is 219.8.
-The kill_deaths is 1.0.
-The kill_assists_survived_traded is 67%.
-The average_damage_per_round is 140.1.
-The kills_per_round is 0.75.
-The assists_per_round is 0.3.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 16%.
-The clutch_success_percentage is 8%.
-The team_id is 11001.0.
-The team_name is M80.
-The agent1 is raze.
-The agent1_use_pct is (66) 40%.
-The agent1_rounds is 1330.
-The agent1_rating is 0.91.
-The agent1_acs is 256.5.
-The agent1_kd is 1.24.
-The agent1_adr is 167.0.
-The agent1_kast is 65%.
-The agent1_kpr is 0.87.
-The agent1_apr is 0.25.
-The agent1_fkpr is 0.12.
-The agent1_fdpr is 0.1.
-The agent1_kills is 1162.
-The agent1_deaths is 939.
-The agent1_assists is 330.
-The agent1_fk is 155.
-The agent1_fd is 122.
-The agent2 is sage.
-The agent2_use_pct is (56) 34%.
-The agent2_rounds is 1150.0.
-The agent2_rating is 1.04.
-The agent2_acs is 234.5.
-The agent2_kd is 1.17.
-The agent2_adr is 129.0.
-The agent2_kast is 74%.
-The agent2_kpr is 0.82.
-The agent2_apr is 0.33.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.07.
-The agent2_kills is 945.0.
-The agent2_deaths is 807.0.
-The agent2_assists is 384.0.
-The agent2_fk is 90.0.
-The agent2_fd is 39.0.
-The agent3 is phoenix.
-The agent3_use_pct is (16) 10%.
-The agent3_rounds is 325.0.
-The agent3_rating is 1.03.
-The agent3_acs is 250.3.
-The agent3_kd is 1.23.
-The agent3_adr is 145.4.
-The agent3_kast is 70%.
-The agent3_kpr is 0.87.
-The agent3_apr is 0.28.
-The agent3_fkpr is 0.14.
-The agent3_fdpr is 0.12.
-The agent3_kills is 283.0.
-The agent3_deaths is 230.0.
-The agent3_assists is 90.0.
-The agent3_fk is 44.0.
-The agent3_fd is 39.0.
-The igl is False.
-The region is eu.
-The level is international.
+Happy is a member of M80 (M80). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 1589 rounds 
+with an average rating of 0.96, an average average combat score (ACS) of 219.8, an average kills death ratio 
+of 1.0, an average average damage per round (ADR) of 140.1, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 16%, and an average clutch success percentage 
+of 8%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 1330 rounds they have played raze, 
+they have an average rating of 0.91, an average average combat score (ACS) of 256.5, an average kills death ratio 
+of 1.24, an average average damage per round (ADR) of 167.0, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.87, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.1. Using raze this player has a total of 1162 kills, 939 deaths, 
+330 assists, 155 first bloods, and 122 first deaths. Over their entire career, sage is their second most played agent. Over the 1150.0 rounds they have played sage, 
+they have an average rating of 1.04, an average average combat score (ACS) of 234.5, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 129.0, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.07. Using sage this player has a total of 945.0 kills, 807.0 deaths, 
+384.0 assists, 90.0 first bloods, and 39.0 first deaths. Over their entire career, phoenix is their third most played agent. Over the 325.0 rounds they have played phoenix, 
+they have an average rating of 1.03, an average average combat score (ACS) of 250.3, an average kills death ratio 
+of 1.23, an average average damage per round (ADR) of 145.4, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.87, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.12. Using phoenix this player has a total of 283.0 kills, 230.0 deaths, 
+90.0 assists, 44.0 first bloods, and 39.0 first deaths. 

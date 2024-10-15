@@ -1,71 +1,26 @@
-The player is silenx.
-The org is WU.
-The agents is ['omen', 'reyna', 'raze'].
-The rounds_played is 6974.
-The rating is 0.97.
-The average_combat_score is 198.3.
-The kill_deaths is 0.97.
-The kill_assists_survived_traded is 70%.
-The average_damage_per_round is 131.1.
-The kills_per_round is 0.7.
-The assists_per_round is 0.25.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 30%.
-The clutch_success_percentage is 17%.
-The team_id is 10448.0.
-The team_name is Winthrop University.
-The agent1 is killjoy.
-The agent1_use_pct is (222) 32%.
-The agent1_rounds is 4611.
-The agent1_rating is 1.07.
-The agent1_acs is 218.6.
-The agent1_kd is 1.16.
-The agent1_adr is 146.7.
-The agent1_kast is 72%.
-The agent1_kpr is 0.77.
-The agent1_apr is 0.18.
-The agent1_fkpr is 0.12.
-The agent1_fdpr is 0.1.
-The agent1_kills is 3558.
-The agent1_deaths is 3060.
-The agent1_assists is 812.
-The agent1_fk is 553.
-The agent1_fd is 478.
-The agent2 is viper.
-The agent2_use_pct is (131) 19%.
-The agent2_rounds is 2773.0.
-The agent2_rating is 1.02.
-The agent2_acs is 205.6.
-The agent2_kd is 1.05.
-The agent2_adr is 135.6.
-The agent2_kast is 72%.
-The agent2_kpr is 0.72.
-The agent2_apr is 0.26.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.09.
-The agent2_kills is 2005.0.
-The agent2_deaths is 1902.0.
-The agent2_assists is 729.0.
-The agent2_fk is 261.0.
-The agent2_fd is 260.0.
-The agent3 is omen.
-The agent3_use_pct is (118) 17%.
-The agent3_rounds is 2332.0.
-The agent3_rating is 0.98.
-The agent3_acs is 188.4.
-The agent3_kd is 0.99.
-The agent3_adr is 120.1.
-The agent3_kast is 73%.
-The agent3_kpr is 0.68.
-The agent3_apr is 0.36.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.08.
-The agent3_kills is 1594.0.
-The agent3_deaths is 1615.0.
-The agent3_assists is 850.0.
-The agent3_fk is 163.0.
-The agent3_fd is 189.0.
-The igl is False.
-The region is na.
-The level is international.
+silenx is a member of Winthrop University (WU). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 6974 rounds 
+with an average rating of 0.97, an average average combat score (ACS) of 198.3, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 131.1, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 30%, and an average clutch success percentage 
+of 17%. This player is not an in game leader. Over their entire career, killjoy is their most played agent. Over the 4611 rounds they have played killjoy, 
+they have an average rating of 1.07, an average average combat score (ACS) of 218.6, an average kills death ratio 
+of 1.16, an average average damage per round (ADR) of 146.7, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.1. Using killjoy this player has a total of 3558 kills, 3060 deaths, 
+812 assists, 553 first bloods, and 478 first deaths. Over their entire career, viper is their second most played agent. Over the 2773.0 rounds they have played viper, 
+they have an average rating of 1.02, an average average combat score (ACS) of 205.6, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 135.6, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.09. Using viper this player has a total of 2005.0 kills, 1902.0 deaths, 
+729.0 assists, 261.0 first bloods, and 260.0 first deaths. Over their entire career, omen is their third most played agent. Over the 2332.0 rounds they have played omen, 
+they have an average rating of 0.98, an average average combat score (ACS) of 188.4, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 120.1, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using omen this player has a total of 1594.0 kills, 1615.0 deaths, 
+850.0 assists, 163.0 first bloods, and 189.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is Cla.
-The org is NSR.I.
-The agents is ['reyna', 'raze', 'cypher'].
-The rounds_played is 3368.
-The rating is 1.09.
-The average_combat_score is 231.3.
-The kill_deaths is 1.12.
-The kill_assists_survived_traded is 73%.
-The average_damage_per_round is 150.7.
-The kills_per_round is 0.81.
-The assists_per_round is 0.22.
-The first_kills_per_round is 0.15.
-The first_deaths_per_round is 0.13.
-The headshot_percentage is 21%.
-The clutch_success_percentage is 18%.
-The team_id is 12566.0.
-The team_name is NASR Ignite.
-The agent1 is raze.
-The agent1_use_pct is (201) 77%.
-The agent1_rounds is 4049.
-The agent1_rating is 1.22.
-The agent1_acs is 258.3.
-The agent1_kd is 1.31.
-The agent1_adr is 166.8.
-The agent1_kast is 78%.
-The agent1_kpr is 0.89.
-The agent1_apr is 0.25.
-The agent1_fkpr is 0.17.
-The agent1_fdpr is 0.13.
-The agent1_kills is 3597.
-The agent1_deaths is 2755.
-The agent1_assists is 1002.
-The agent1_fk is 701.
-The agent1_fd is 514.
-The agent2 is jett.
-The agent2_use_pct is (18) 7%.
-The agent2_rounds is 390.0.
-The agent2_rating is 0.95.
-The agent2_acs is 199.2.
-The agent2_kd is 1.01.
-The agent2_adr is 129.1.
-The agent2_kast is 68%.
-The agent2_kpr is 0.72.
-The agent2_apr is 0.17.
-The agent2_fkpr is 0.14.
-The agent2_fdpr is 0.18.
-The agent2_kills is 279.0.
-The agent2_deaths is 276.0.
-The agent2_assists is 66.0.
-The agent2_fk is 56.0.
-The agent2_fd is 69.0.
-The agent3 is neon.
-The agent3_use_pct is (11) 4%.
-The agent3_rounds is 230.0.
-The agent3_rating is 1.09.
-The agent3_acs is 239.5.
-The agent3_kd is 1.06.
-The agent3_adr is 149.8.
-The agent3_kast is 69%.
-The agent3_kpr is 0.81.
-The agent3_apr is 0.22.
-The agent3_fkpr is 0.21.
-The agent3_fdpr is 0.13.
-The agent3_kills is 187.0.
-The agent3_deaths is 176.0.
-The agent3_assists is 50.0.
-The agent3_fk is 49.0.
-The agent3_fd is 29.0.
-The igl is False.
-The region is eu.
-The level is game-changer.
+Cla is a member of NASR Ignite (NSR.I). They play in the Europe region and the VCT 
+game-changer circuit. Over their entire career, they have played 3368 rounds 
+with an average rating of 1.09, an average average combat score (ACS) of 231.3, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 150.7, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.81, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.15, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 21%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 4049 rounds they have played raze, 
+they have an average rating of 1.22, an average average combat score (ACS) of 258.3, an average kills death ratio 
+of 1.31, an average average damage per round (ADR) of 166.8, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.89, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.13. Using raze this player has a total of 3597 kills, 2755 deaths, 
+1002 assists, 701 first bloods, and 514 first deaths. Over their entire career, jett is their second most played agent. Over the 390.0 rounds they have played jett, 
+they have an average rating of 0.95, an average average combat score (ACS) of 199.2, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 129.1, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.18. Using jett this player has a total of 279.0 kills, 276.0 deaths, 
+66.0 assists, 56.0 first bloods, and 69.0 first deaths. Over their entire career, neon is their third most played agent. Over the 230.0 rounds they have played neon, 
+they have an average rating of 1.09, an average average combat score (ACS) of 239.5, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 149.8, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.81, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.21, and an average first deaths per round (FDPR) 
+of 0.13. Using neon this player has a total of 187.0 kills, 176.0 deaths, 
+50.0 assists, 49.0 first bloods, and 29.0 first deaths. 

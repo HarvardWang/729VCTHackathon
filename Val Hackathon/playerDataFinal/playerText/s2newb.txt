@@ -1,71 +1,26 @@
-The player is s2newb.
-The org is IGW.
-The agents is ['jett', 'raze', 'neon'].
-The rounds_played is 324.
-The rating is 0.7.
-The average_combat_score is 175.4.
-The kill_deaths is 0.71.
-The kill_assists_survived_traded is 60%.
-The average_damage_per_round is 118.0.
-The kills_per_round is 0.59.
-The assists_per_round is 0.2.
-The first_kills_per_round is 0.17.
-The first_deaths_per_round is 0.26.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 11%.
-The team_id is 9011.0.
-The team_name is Impulse GW.
-The agent1 is jett.
-The agent1_use_pct is (40) 58%.
-The agent1_rounds is 810.
-The agent1_rating is 0.88.
-The agent1_acs is 227.8.
-The agent1_kd is 0.95.
-The agent1_adr is 145.5.
-The agent1_kast is 64%.
-The agent1_kpr is 0.77.
-The agent1_apr is 0.19.
-The agent1_fkpr is 0.19.
-The agent1_fdpr is 0.26.
-The agent1_kills is 620.
-The agent1_deaths is 655.
-The agent1_assists is 152.
-The agent1_fk is 157.
-The agent1_fd is 210.
-The agent2 is neon.
-The agent2_use_pct is (15) 22%.
-The agent2_rounds is 358.0.
-The agent2_rating is 0.96.
-The agent2_acs is 246.3.
-The agent2_kd is 1.03.
-The agent2_adr is 156.0.
-The agent2_kast is 67%.
-The agent2_kpr is 0.81.
-The agent2_apr is 0.22.
-The agent2_fkpr is 0.22.
-The agent2_fdpr is 0.25.
-The agent2_kills is 290.0.
-The agent2_deaths is 282.0.
-The agent2_assists is 79.0.
-The agent2_fk is 80.0.
-The agent2_fd is 88.0.
-The agent3 is raze.
-The agent3_use_pct is (8) 12%.
-The agent3_rounds is 163.0.
-The agent3_rating is 0.97.
-The agent3_acs is 231.9.
-The agent3_kd is 0.98.
-The agent3_adr is 160.5.
-The agent3_kast is 66%.
-The agent3_kpr is 0.78.
-The agent3_apr is 0.19.
-The agent3_fkpr is 0.14.
-The agent3_fdpr is 0.21.
-The agent3_kills is 127.0.
-The agent3_deaths is 129.0.
-The agent3_assists is 31.0.
-The agent3_fk is 23.0.
-The agent3_fd is 35.0.
-The igl is False.
-The region is eu.
-The level is international.
+s2newb is a member of Impulse GW (IGW). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 324 rounds 
+with an average rating of 0.7, an average average combat score (ACS) of 175.4, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 118.0, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.17, an average first deaths per round (FDPR) 
+of 0.26, an average headshot percentage of 25%, and an average clutch success percentage 
+of 11%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 810 rounds they have played jett, 
+they have an average rating of 0.88, an average average combat score (ACS) of 227.8, an average kills death ratio 
+of 0.95, an average average damage per round (ADR) of 145.5, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.26. Using jett this player has a total of 620 kills, 655 deaths, 
+152 assists, 157 first bloods, and 210 first deaths. Over their entire career, neon is their second most played agent. Over the 358.0 rounds they have played neon, 
+they have an average rating of 0.96, an average average combat score (ACS) of 246.3, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 156.0, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.81, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.22, and an average first deaths per round (FDPR) 
+of 0.25. Using neon this player has a total of 290.0 kills, 282.0 deaths, 
+79.0 assists, 80.0 first bloods, and 88.0 first deaths. Over their entire career, raze is their third most played agent. Over the 163.0 rounds they have played raze, 
+they have an average rating of 0.97, an average average combat score (ACS) of 231.9, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 160.5, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.21. Using raze this player has a total of 127.0 kills, 129.0 deaths, 
+31.0 assists, 23.0 first bloods, and 35.0 first deaths. 

@@ -1,61 +1,26 @@
-The player is anger.
-The org is Rise.
-The agents is ['brimstone', 'omen', 'cypher'].
-The rounds_played is 576.
-The average_combat_score is 177.9.
-The kill_deaths is 0.82.
-The average_damage_per_round is 112.6.
-The kills_per_round is 0.6.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 24%.
-The clutch_success_percentage is 11%.
-The team_id is 637.0.
-The team_name is Rise.
-The agent1 is omen.
-The agent1_use_pct is (60) 50%.
-The agent1_rounds is 1235.
-The agent1_acs is 181.6.
-The agent1_kd is 1.01.
-The agent1_adr is 116.5.
-The agent1_kpr is 0.64.
-The agent1_apr is 0.27.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.06.
-The agent1_kills is 793.
-The agent1_deaths is 788.
-The agent1_assists is 333.
-The agent1_fk is 68.
-The agent1_fd is 74.
-The agent2 is cypher.
-The agent2_use_pct is (24) 20%.
-The agent2_rounds is 464.0.
-The agent2_acs is 188.0.
-The agent2_kd is 1.06.
-The agent2_adr is 124.4.
-The agent2_kpr is 0.67.
-The agent2_apr is 0.25.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.06.
-The agent2_kills is 309.0.
-The agent2_deaths is 292.0.
-The agent2_assists is 114.0.
-The agent2_fk is 29.0.
-The agent2_fd is 30.0.
-The agent3 is brimstone.
-The agent3_use_pct is (19) 16%.
-The agent3_rounds is 390.0.
-The agent3_acs is 204.9.
-The agent3_kd is 0.96.
-The agent3_kpr is 0.7.
-The agent3_apr is 0.25.
-The agent3_fkpr is 0.09.
-The agent3_kills is 272.0.
-The agent3_deaths is 283.0.
-The agent3_assists is 96.0.
-The agent3_fk is 37.0.
-The agent3_fd is 0.0.
-The igl is False.
-The region is na.
-The level is international.
+anger is a member of Rise (Rise). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 576 rounds 
+with an average rating of Unknown, an average average combat score (ACS) of 177.9, an average kills death ratio 
+of 0.82, an average average damage per round (ADR) of 112.6, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 24%, and an average clutch success percentage 
+of 11%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 1235 rounds they have played omen, 
+they have an average rating of Unknown, an average average combat score (ACS) of 181.6, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 116.5, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.06. Using omen this player has a total of 793 kills, 788 deaths, 
+333 assists, 68 first bloods, and 74 first deaths. Over their entire career, cypher is their second most played agent. Over the 464.0 rounds they have played cypher, 
+they have an average rating of Unknown, an average average combat score (ACS) of 188.0, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 124.4, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.06. Using cypher this player has a total of 309.0 kills, 292.0 deaths, 
+114.0 assists, 29.0 first bloods, and 30.0 first deaths. Over their entire career, brimstone is their third most played agent. Over the 390.0 rounds they have played brimstone, 
+they have an average rating of Unknown, an average average combat score (ACS) of 204.9, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of Unknown, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of Unknown. Using brimstone this player has a total of 272.0 kills, 283.0 deaths, 
+96.0 assists, 37.0 first bloods, and 0.0 first deaths. 

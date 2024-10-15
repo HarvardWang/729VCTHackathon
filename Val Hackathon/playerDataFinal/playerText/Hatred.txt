@@ -1,71 +1,26 @@
-The player is Hatred.
-The org is Hash.
-The agents is ['jett', 'sage'].
-The rounds_played is 273.
-The rating is 0.99.
-The average_combat_score is 228.6.
-The kill_deaths is 0.96.
-The kill_assists_survived_traded is 64%.
-The average_damage_per_round is 137.8.
-The kills_per_round is 0.77.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.19.
-The first_deaths_per_round is 0.2.
-The headshot_percentage is 24%.
-The clutch_success_percentage is 18%.
-The team_id is 5362.0.
-The team_name is Adroit.
-The agent1 is sage.
-The agent1_use_pct is (20) 47%.
-The agent1_rounds is 404.
-The agent1_rating is 1.02.
-The agent1_acs is 200.4.
-The agent1_kd is 1.04.
-The agent1_adr is 126.9.
-The agent1_kast is 72%.
-The agent1_kpr is 0.71.
-The agent1_apr is 0.35.
-The agent1_fkpr is 0.11.
-The agent1_fdpr is 0.14.
-The agent1_kills is 286.
-The agent1_deaths is 275.
-The agent1_assists is 141.
-The agent1_fk is 45.
-The agent1_fd is 58.
-The agent2 is jett.
-The agent2_use_pct is (19) 44%.
-The agent2_rounds is 398.0.
-The agent2_rating is 1.12.
-The agent2_acs is 253.5.
-The agent2_kd is 1.08.
-The agent2_adr is 148.1.
-The agent2_kast is 67%.
-The agent2_kpr is 0.86.
-The agent2_apr is 0.16.
-The agent2_fkpr is 0.22.
-The agent2_fdpr is 0.19.
-The agent2_kills is 341.0.
-The agent2_deaths is 316.0.
-The agent2_assists is 62.0.
-The agent2_fk is 89.0.
-The agent2_fd is 76.0.
-The agent3 is reyna.
-The agent3_use_pct is (3) 7%.
-The agent3_rounds is 72.0.
-The agent3_rating is 0.82.
-The agent3_acs is 210.3.
-The agent3_kd is 0.84.
-The agent3_adr is 131.0.
-The agent3_kast is 75%.
-The agent3_kpr is 0.67.
-The agent3_apr is 0.32.
-The agent3_fkpr is 0.17.
-The agent3_fdpr is 0.18.
-The agent3_kills is 48.0.
-The agent3_deaths is 57.0.
-The agent3_assists is 23.0.
-The agent3_fk is 12.0.
-The agent3_fd is 13.0.
-The igl is False.
-The region is ap.
-The level is international.
+Hatred is a member of Adroit (Hash). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 273 rounds 
+with an average rating of 0.99, an average average combat score (ACS) of 228.6, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 137.8, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.19, an average first deaths per round (FDPR) 
+of 0.2, an average headshot percentage of 24%, and an average clutch success percentage 
+of 18%. This player is not an in game leader. Over their entire career, sage is their most played agent. Over the 404 rounds they have played sage, 
+they have an average rating of 1.02, an average average combat score (ACS) of 200.4, an average kills death ratio 
+of 1.04, an average average damage per round (ADR) of 126.9, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.35, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.14. Using sage this player has a total of 286 kills, 275 deaths, 
+141 assists, 45 first bloods, and 58 first deaths. Over their entire career, jett is their second most played agent. Over the 398.0 rounds they have played jett, 
+they have an average rating of 1.12, an average average combat score (ACS) of 253.5, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 148.1, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.86, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.22, and an average first deaths per round (FDPR) 
+of 0.19. Using jett this player has a total of 341.0 kills, 316.0 deaths, 
+62.0 assists, 89.0 first bloods, and 76.0 first deaths. Over their entire career, reyna is their third most played agent. Over the 72.0 rounds they have played reyna, 
+they have an average rating of 0.82, an average average combat score (ACS) of 210.3, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 131.0, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.18. Using reyna this player has a total of 48.0 kills, 57.0 deaths, 
+23.0 assists, 12.0 first bloods, and 13.0 first deaths. 

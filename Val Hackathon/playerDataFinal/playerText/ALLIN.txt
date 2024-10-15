@@ -1,71 +1,26 @@
-The player is ALLIN.
-The org is Team.
-The agents is ['cypher', 'sage', 'astra'].
-The rounds_played is 2556.
-The rating is 0.78.
-The average_combat_score is 173.4.
-The kill_deaths is 0.78.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 113.2.
-The kills_per_round is 0.59.
-The assists_per_round is 0.27.
-The first_kills_per_round is 0.09.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 9%.
-The team_id is 2049.0.
-The team_name is Team Divinity.
-The agent1 is cypher.
-The agent1_use_pct is (115) 41%.
-The agent1_rounds is 2411.
-The agent1_rating is 0.85.
-The agent1_acs is 199.4.
-The agent1_kd is 0.93.
-The agent1_adr is 126.9.
-The agent1_kast is 65%.
-The agent1_kpr is 0.7.
-The agent1_apr is 0.2.
-The agent1_fkpr is 0.12.
-The agent1_fdpr is 0.14.
-The agent1_kills is 1680.
-The agent1_deaths is 1816.
-The agent1_assists is 473.
-The agent1_fk is 295.
-The agent1_fd is 326.
-The agent2 is astra.
-The agent2_use_pct is (57) 20%.
-The agent2_rounds is 1214.0.
-The agent2_rating is 0.87.
-The agent2_acs is 171.6.
-The agent2_kd is 0.87.
-The agent2_adr is 111.9.
-The agent2_kast is 71%.
-The agent2_kpr is 0.6.
-The agent2_apr is 0.37.
-The agent2_fkpr is 0.06.
-The agent2_fdpr is 0.09.
-The agent2_kills is 732.0.
-The agent2_deaths is 843.0.
-The agent2_assists is 449.0.
-The agent2_fk is 72.0.
-The agent2_fd is 109.0.
-The agent3 is omen.
-The agent3_use_pct is (26) 9%.
-The agent3_rounds is 552.0.
-The agent3_rating is 0.81.
-The agent3_acs is 172.4.
-The agent3_kd is 0.75.
-The agent3_adr is 110.6.
-The agent3_kast is 67%.
-The agent3_kpr is 0.57.
-The agent3_apr is 0.38.
-The agent3_fkpr is 0.09.
-The agent3_fdpr is 0.12.
-The agent3_kills is 313.0.
-The agent3_deaths is 419.0.
-The agent3_assists is 208.0.
-The agent3_fk is 49.0.
-The agent3_fd is 67.0.
-The igl is False.
-The region is eu.
-The level is international.
+ALLIN is a member of Team Divinity (Team). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 2556 rounds 
+with an average rating of 0.78, an average average combat score (ACS) of 173.4, an average kills death ratio 
+of 0.78, an average average damage per round (ADR) of 113.2, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 22%, and an average clutch success percentage 
+of 9%. This player is not an in game leader. Over their entire career, cypher is their most played agent. Over the 2411 rounds they have played cypher, 
+they have an average rating of 0.85, an average average combat score (ACS) of 199.4, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 126.9, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.12, and an average first deaths per round (FDPR) 
+of 0.14. Using cypher this player has a total of 1680 kills, 1816 deaths, 
+473 assists, 295 first bloods, and 326 first deaths. Over their entire career, astra is their second most played agent. Over the 1214.0 rounds they have played astra, 
+they have an average rating of 0.87, an average average combat score (ACS) of 171.6, an average kills death ratio 
+of 0.87, an average average damage per round (ADR) of 111.9, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.09. Using astra this player has a total of 732.0 kills, 843.0 deaths, 
+449.0 assists, 72.0 first bloods, and 109.0 first deaths. Over their entire career, omen is their third most played agent. Over the 552.0 rounds they have played omen, 
+they have an average rating of 0.81, an average average combat score (ACS) of 172.4, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 110.6, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.12. Using omen this player has a total of 313.0 kills, 419.0 deaths, 
+208.0 assists, 49.0 first bloods, and 67.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is HEMMORJAY.
-The org is SKUL.
-The agents is ['jett', 'reyna', 'raze'].
-The rounds_played is 2459.
-The rating is 0.88.
-The average_combat_score is 206.5.
-The kill_deaths is 0.89.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 136.1.
-The kills_per_round is 0.72.
-The assists_per_round is 0.17.
-The first_kills_per_round is 0.17.
-The first_deaths_per_round is 0.18.
-The headshot_percentage is 22%.
-The clutch_success_percentage is 8%.
-The team_id is 11863.0.
-The team_name is Skulls Esports.
-The agent1 is jett.
-The agent1_use_pct is (277) 75%.
-The agent1_rounds is 5682.
-The agent1_rating is 1.0.
-The agent1_acs is 226.7.
-The agent1_kd is 1.09.
-The agent1_adr is 141.5.
-The agent1_kast is 68%.
-The agent1_kpr is 0.8.
-The agent1_apr is 0.16.
-The agent1_fkpr is 0.2.
-The agent1_fdpr is 0.17.
-The agent1_kills is 4572.
-The agent1_deaths is 4191.
-The agent1_assists is 900.
-The agent1_fk is 1123.
-The agent1_fd is 954.
-The agent2 is raze.
-The agent2_use_pct is (67) 18%.
-The agent2_rounds is 1388.0.
-The agent2_rating is 0.92.
-The agent2_acs is 221.7.
-The agent2_kd is 0.93.
-The agent2_adr is 146.1.
-The agent2_kast is 69%.
-The agent2_kpr is 0.73.
-The agent2_apr is 0.23.
-The agent2_fkpr is 0.13.
-The agent2_fdpr is 0.15.
-The agent2_kills is 1011.0.
-The agent2_deaths is 1088.0.
-The agent2_assists is 319.0.
-The agent2_fk is 177.0.
-The agent2_fd is 208.0.
-The agent3 is reyna.
-The agent3_use_pct is (12) 3%.
-The agent3_rounds is 244.0.
-The agent3_rating is 0.97.
-The agent3_acs is 211.1.
-The agent3_kd is 1.01.
-The agent3_adr is 141.8.
-The agent3_kast is 61%.
-The agent3_kpr is 0.77.
-The agent3_apr is 0.14.
-The agent3_fkpr is 0.11.
-The agent3_fdpr is 0.15.
-The agent3_kills is 187.0.
-The agent3_deaths is 186.0.
-The agent3_assists is 34.0.
-The agent3_fk is 26.0.
-The agent3_fd is 37.0.
-The igl is False.
-The region is mn.
-The level is international.
+HEMMORJAY is a member of Skulls Esports (SKUL). They play in the Middle East and North Africa region and the VCT 
+international circuit. Over their entire career, they have played 2459 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 206.5, an average kills death ratio 
+of 0.89, an average average damage per round (ADR) of 136.1, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.17, an average first deaths per round (FDPR) 
+of 0.18, an average headshot percentage of 22%, and an average clutch success percentage 
+of 8%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 5682 rounds they have played jett, 
+they have an average rating of 1.0, an average average combat score (ACS) of 226.7, an average kills death ratio 
+of 1.09, an average average damage per round (ADR) of 141.5, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.2, and an average first deaths per round (FDPR) 
+of 0.17. Using jett this player has a total of 4572 kills, 4191 deaths, 
+900 assists, 1123 first bloods, and 954 first deaths. Over their entire career, raze is their second most played agent. Over the 1388.0 rounds they have played raze, 
+they have an average rating of 0.92, an average average combat score (ACS) of 221.7, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 146.1, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.15. Using raze this player has a total of 1011.0 kills, 1088.0 deaths, 
+319.0 assists, 177.0 first bloods, and 208.0 first deaths. Over their entire career, reyna is their third most played agent. Over the 244.0 rounds they have played reyna, 
+they have an average rating of 0.97, an average average combat score (ACS) of 211.1, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 141.8, an average kill, assist, survive, trade percent (KAST) 
+of 61%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.15. Using reyna this player has a total of 187.0 kills, 186.0 deaths, 
+34.0 assists, 26.0 first bloods, and 37.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is alvin.
-The org is Kowa.
-The agents is ['jett', 'reyna', 'raze'].
-The rounds_played is 900.
-The rating is 0.87.
-The average_combat_score is 200.0.
-The kill_deaths is 0.83.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 129.0.
-The kills_per_round is 0.68.
-The assists_per_round is 0.17.
-The first_kills_per_round is 0.18.
-The first_deaths_per_round is 0.17.
-The headshot_percentage is 17%.
-The clutch_success_percentage is 10%.
-The team_id is 5482.0.
-The team_name is Kowareta.
-The agent1 is jett.
-The agent1_use_pct is (83) 67%.
-The agent1_rounds is 1755.
-The agent1_rating is 1.0.
-The agent1_acs is 211.3.
-The agent1_kd is 1.04.
-The agent1_adr is 131.9.
-The agent1_kast is 69%.
-The agent1_kpr is 0.75.
-The agent1_apr is 0.16.
-The agent1_fkpr is 0.19.
-The agent1_fdpr is 0.15.
-The agent1_kills is 1317.
-The agent1_deaths is 1272.
-The agent1_assists is 279.
-The agent1_fk is 339.
-The agent1_fd is 268.
-The agent2 is raze.
-The agent2_use_pct is (21) 17%.
-The agent2_rounds is 427.0.
-The agent2_rating is 0.91.
-The agent2_acs is 216.8.
-The agent2_kd is 0.87.
-The agent2_adr is 138.9.
-The agent2_kast is 66%.
-The agent2_kpr is 0.7.
-The agent2_apr is 0.23.
-The agent2_fkpr is 0.15.
-The agent2_fdpr is 0.15.
-The agent2_kills is 299.0.
-The agent2_deaths is 342.0.
-The agent2_assists is 98.0.
-The agent2_fk is 66.0.
-The agent2_fd is 63.0.
-The agent3 is reyna.
-The agent3_use_pct is (15) 12%.
-The agent3_rounds is 299.0.
-The agent3_rating is 1.16.
-The agent3_acs is 262.9.
-The agent3_kd is 1.17.
-The agent3_adr is 168.5.
-The agent3_kast is 75%.
-The agent3_kpr is 0.89.
-The agent3_apr is 0.23.
-The agent3_fkpr is 0.16.
-The agent3_fdpr is 0.16.
-The agent3_kills is 265.0.
-The agent3_deaths is 227.0.
-The agent3_assists is 70.0.
-The agent3_fk is 47.0.
-The agent3_fd is 47.0.
-The igl is False.
-The region is na.
-The level is international.
+alvin is a member of Kowareta (Kowa). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 900 rounds 
+with an average rating of 0.87, an average average combat score (ACS) of 200.0, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 129.0, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.18, an average first deaths per round (FDPR) 
+of 0.17, an average headshot percentage of 17%, and an average clutch success percentage 
+of 10%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 1755 rounds they have played jett, 
+they have an average rating of 1.0, an average average combat score (ACS) of 211.3, an average kills death ratio 
+of 1.04, an average average damage per round (ADR) of 131.9, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.15. Using jett this player has a total of 1317 kills, 1272 deaths, 
+279 assists, 339 first bloods, and 268 first deaths. Over their entire career, raze is their second most played agent. Over the 427.0 rounds they have played raze, 
+they have an average rating of 0.91, an average average combat score (ACS) of 216.8, an average kills death ratio 
+of 0.87, an average average damage per round (ADR) of 138.9, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.15. Using raze this player has a total of 299.0 kills, 342.0 deaths, 
+98.0 assists, 66.0 first bloods, and 63.0 first deaths. Over their entire career, reyna is their third most played agent. Over the 299.0 rounds they have played reyna, 
+they have an average rating of 1.16, an average average combat score (ACS) of 262.9, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 168.5, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.89, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.16, and an average first deaths per round (FDPR) 
+of 0.16. Using reyna this player has a total of 265.0 kills, 227.0 deaths, 
+70.0 assists, 47.0 first bloods, and 47.0 first deaths. 

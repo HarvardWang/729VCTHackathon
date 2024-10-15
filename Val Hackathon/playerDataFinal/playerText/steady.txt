@@ -1,71 +1,26 @@
-The player is steady.
-The org is R8.
-The agents is ['cypher', 'killjoy', 'breach'].
-The rounds_played is 1254.
-The rating is 0.96.
-The average_combat_score is 187.4.
-The kill_deaths is 0.9.
-The kill_assists_survived_traded is 71%.
-The average_damage_per_round is 124.5.
-The kills_per_round is 0.66.
-The assists_per_round is 0.22.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.08.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 13%.
-The team_id is 15120.0.
-The team_name is R8 Esports.
-The agent1 is cypher.
-The agent1_use_pct is (77) 45%.
-The agent1_rounds is 1618.
-The agent1_rating is 0.8.
-The agent1_acs is 178.0.
-The agent1_kd is 0.96.
-The agent1_adr is 118.3.
-The agent1_kast is 71%.
-The agent1_kpr is 0.64.
-The agent1_apr is 0.2.
-The agent1_fkpr is 0.06.
-The agent1_fdpr is 0.08.
-The agent1_kills is 1038.
-The agent1_deaths is 1082.
-The agent1_assists is 321.
-The agent1_fk is 100.
-The agent1_fd is 114.
-The agent2 is killjoy.
-The agent2_use_pct is (32) 19%.
-The agent2_rounds is 638.0.
-The agent2_rating is 1.04.
-The agent2_acs is 205.8.
-The agent2_kd is 1.06.
-The agent2_adr is 130.5.
-The agent2_kast is 76%.
-The agent2_kpr is 0.71.
-The agent2_apr is 0.18.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.08.
-The agent2_kills is 454.0.
-The agent2_deaths is 430.0.
-The agent2_assists is 118.0.
-The agent2_fk is 60.0.
-The agent2_fd is 49.0.
-The agent3 is astra.
-The agent3_use_pct is (30) 18%.
-The agent3_rounds is 620.0.
-The agent3_rating is 1.05.
-The agent3_acs is 207.4.
-The agent3_kd is 1.09.
-The agent3_adr is 131.4.
-The agent3_kast is 73%.
-The agent3_kpr is 0.75.
-The agent3_apr is 0.27.
-The agent3_fkpr is 0.08.
-The agent3_fdpr is 0.08.
-The agent3_kills is 468.0.
-The agent3_deaths is 428.0.
-The agent3_assists is 165.0.
-The agent3_fk is 49.0.
-The agent3_fd is 47.0.
-The igl is False.
-The region is eu.
-The level is international.
+steady is a member of R8 Esports (R8). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 1254 rounds 
+with an average rating of 0.96, an average average combat score (ACS) of 187.4, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 124.5, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 25%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, cypher is their most played agent. Over the 1618 rounds they have played cypher, 
+they have an average rating of 0.8, an average average combat score (ACS) of 178.0, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 118.3, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.08. Using cypher this player has a total of 1038 kills, 1082 deaths, 
+321 assists, 100 first bloods, and 114 first deaths. Over their entire career, killjoy is their second most played agent. Over the 638.0 rounds they have played killjoy, 
+they have an average rating of 1.04, an average average combat score (ACS) of 205.8, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 130.5, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.08. Using killjoy this player has a total of 454.0 kills, 430.0 deaths, 
+118.0 assists, 60.0 first bloods, and 49.0 first deaths. Over their entire career, astra is their third most played agent. Over the 620.0 rounds they have played astra, 
+they have an average rating of 1.05, an average average combat score (ACS) of 207.4, an average kills death ratio 
+of 1.09, an average average damage per round (ADR) of 131.4, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.08. Using astra this player has a total of 468.0 kills, 428.0 deaths, 
+165.0 assists, 49.0 first bloods, and 47.0 first deaths. 

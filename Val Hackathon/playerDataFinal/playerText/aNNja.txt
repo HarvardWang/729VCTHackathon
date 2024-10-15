@@ -1,71 +1,26 @@
-The player is aNNja.
-The org is NSR.I.
-The agents is ['iso', 'jett'].
-The rounds_played is 265.
-The rating is 1.3.
-The average_combat_score is 284.5.
-The kill_deaths is 1.33.
-The kill_assists_survived_traded is 75%.
-The average_damage_per_round is 186.2.
-The kills_per_round is 1.0.
-The assists_per_round is 0.21.
-The first_kills_per_round is 0.21.
-The first_deaths_per_round is 0.16.
-The headshot_percentage is 37%.
-The clutch_success_percentage is 4%.
-The team_id is 12566.0.
-The team_name is NASR Ignite.
-The agent1 is jett.
-The agent1_use_pct is (105) 41%.
-The agent1_rounds is 2152.
-The agent1_rating is 1.29.
-The agent1_acs is 279.4.
-The agent1_kd is 1.43.
-The agent1_adr is 176.1.
-The agent1_kast is 73%.
-The agent1_kpr is 1.0.
-The agent1_apr is 0.16.
-The agent1_fkpr is 0.2.
-The agent1_fdpr is 0.13.
-The agent1_kills is 2148.
-The agent1_deaths is 1504.
-The agent1_assists is 350.
-The agent1_fk is 432.
-The agent1_fd is 287.
-The agent2 is sage.
-The agent2_use_pct is (37) 15%.
-The agent2_rounds is 764.0.
-The agent2_rating is 1.24.
-The agent2_acs is 228.1.
-The agent2_kd is 1.31.
-The agent2_adr is 146.0.
-The agent2_kast is 77%.
-The agent2_kpr is 0.85.
-The agent2_apr is 0.28.
-The agent2_fkpr is 0.07.
-The agent2_fdpr is 0.07.
-The agent2_kills is 650.0.
-The agent2_deaths is 495.0.
-The agent2_assists is 213.0.
-The agent2_fk is 53.0.
-The agent2_fd is 55.0.
-The agent3 is raze.
-The agent3_use_pct is (27) 11%.
-The agent3_rounds is 524.0.
-The agent3_rating is 1.2.
-The agent3_acs is 253.9.
-The agent3_kd is 1.22.
-The agent3_adr is 172.3.
-The agent3_kast is 73%.
-The agent3_kpr is 0.86.
-The agent3_apr is 0.2.
-The agent3_fkpr is 0.15.
-The agent3_fdpr is 0.14.
-The agent3_kills is 452.0.
-The agent3_deaths is 371.0.
-The agent3_assists is 105.0.
-The agent3_fk is 78.0.
-The agent3_fd is 74.0.
-The igl is False.
-The region is mn.
-The level is game-changer.
+aNNja is a member of NASR Ignite (NSR.I). They play in the Middle East and North Africa region and the VCT 
+game-changer circuit. Over their entire career, they have played 265 rounds 
+with an average rating of 1.3, an average average combat score (ACS) of 284.5, an average kills death ratio 
+of 1.33, an average average damage per round (ADR) of 186.2, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 1.0, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.21, an average first deaths per round (FDPR) 
+of 0.16, an average headshot percentage of 37%, and an average clutch success percentage 
+of 4%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 2152 rounds they have played jett, 
+they have an average rating of 1.29, an average average combat score (ACS) of 279.4, an average kills death ratio 
+of 1.43, an average average damage per round (ADR) of 176.1, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 1.0, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.2, and an average first deaths per round (FDPR) 
+of 0.13. Using jett this player has a total of 2148 kills, 1504 deaths, 
+350 assists, 432 first bloods, and 287 first deaths. Over their entire career, sage is their second most played agent. Over the 764.0 rounds they have played sage, 
+they have an average rating of 1.24, an average average combat score (ACS) of 228.1, an average kills death ratio 
+of 1.31, an average average damage per round (ADR) of 146.0, an average kill, assist, survive, trade percent (KAST) 
+of 77%, an average kills per round (KPR) of 0.85, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.07. Using sage this player has a total of 650.0 kills, 495.0 deaths, 
+213.0 assists, 53.0 first bloods, and 55.0 first deaths. Over their entire career, raze is their third most played agent. Over the 524.0 rounds they have played raze, 
+they have an average rating of 1.2, an average average combat score (ACS) of 253.9, an average kills death ratio 
+of 1.22, an average average damage per round (ADR) of 172.3, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.86, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 452.0 kills, 371.0 deaths, 
+105.0 assists, 78.0 first bloods, and 74.0 first deaths. 

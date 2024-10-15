@@ -1,71 +1,26 @@
-The player is R1x.
-The org is HDE.
-The agents is ['sova', 'omen', 'astra'].
-The rounds_played is 471.
-The rating is 0.95.
-The average_combat_score is 187.0.
-The kill_deaths is 0.89.
-The kill_assists_survived_traded is 68%.
-The average_damage_per_round is 117.8.
-The kills_per_round is 0.64.
-The assists_per_round is 0.3.
-The first_kills_per_round is 0.08.
-The first_deaths_per_round is 0.06.
-The headshot_percentage is 28%.
-The clutch_success_percentage is 7%.
-The team_id is 8422.0.
-The team_name is Hike Digital Esports.
-The agent1 is sova.
-The agent1_use_pct is (21) 31%.
-The agent1_rounds is 436.
-The agent1_rating is 0.97.
-The agent1_acs is 199.5.
-The agent1_kd is 1.0.
-The agent1_adr is 131.6.
-The agent1_kast is 67%.
-The agent1_kpr is 0.69.
-The agent1_apr is 0.33.
-The agent1_fkpr is 0.07.
-The agent1_fdpr is 0.09.
-The agent1_kills is 301.
-The agent1_deaths is 302.
-The agent1_assists is 145.
-The agent1_fk is 31.
-The agent1_fd is 41.
-The agent2 is astra.
-The agent2_use_pct is (18) 27%.
-The agent2_rounds is 381.0.
-The agent2_rating is 1.1.
-The agent2_acs is 211.0.
-The agent2_kd is 1.22.
-The agent2_adr is 133.0.
-The agent2_kast is 74%.
-The agent2_kpr is 0.77.
-The agent2_apr is 0.3.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.07.
-The agent2_kills is 292.0.
-The agent2_deaths is 240.0.
-The agent2_assists is 114.0.
-The agent2_fk is 32.0.
-The agent2_fd is 28.0.
-The agent3 is viper.
-The agent3_use_pct is (10) 15%.
-The agent3_rounds is 199.0.
-The agent3_rating is 0.94.
-The agent3_acs is 199.4.
-The agent3_kd is 0.95.
-The agent3_adr is 131.0.
-The agent3_kast is 71%.
-The agent3_kpr is 0.68.
-The agent3_apr is 0.25.
-The agent3_fkpr is 0.06.
-The agent3_fdpr is 0.07.
-The agent3_kills is 136.0.
-The agent3_deaths is 143.0.
-The agent3_assists is 50.0.
-The agent3_fk is 11.0.
-The agent3_fd is 13.0.
-The igl is False.
-The region is ap.
-The level is international.
+R1x is a member of Hike Digital Esports (HDE). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 471 rounds 
+with an average rating of 0.95, an average average combat score (ACS) of 187.0, an average kills death ratio 
+of 0.89, an average average damage per round (ADR) of 117.8, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 28%, and an average clutch success percentage 
+of 7%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 436 rounds they have played sova, 
+they have an average rating of 0.97, an average average combat score (ACS) of 199.5, an average kills death ratio 
+of 1.0, an average average damage per round (ADR) of 131.6, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.09. Using sova this player has a total of 301 kills, 302 deaths, 
+145 assists, 31 first bloods, and 41 first deaths. Over their entire career, astra is their second most played agent. Over the 381.0 rounds they have played astra, 
+they have an average rating of 1.1, an average average combat score (ACS) of 211.0, an average kills death ratio 
+of 1.22, an average average damage per round (ADR) of 133.0, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.07. Using astra this player has a total of 292.0 kills, 240.0 deaths, 
+114.0 assists, 32.0 first bloods, and 28.0 first deaths. Over their entire career, viper is their third most played agent. Over the 199.0 rounds they have played viper, 
+they have an average rating of 0.94, an average average combat score (ACS) of 199.4, an average kills death ratio 
+of 0.95, an average average damage per round (ADR) of 131.0, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using viper this player has a total of 136.0 kills, 143.0 deaths, 
+50.0 assists, 11.0 first bloods, and 13.0 first deaths. 

@@ -1,71 +1,26 @@
-The player is pryxi.
-The org is TOG.
-The agents is ['sage', 'jett', 'omen'].
-The rounds_played is 2139.
-The rating is 0.91.
-The average_combat_score is 193.8.
-The kill_deaths is 0.91.
-The kill_assists_survived_traded is 65%.
-The average_damage_per_round is 126.0.
-The kills_per_round is 0.7.
-The assists_per_round is 0.23.
-The first_kills_per_round is 0.1.
-The first_deaths_per_round is 0.12.
-The headshot_percentage is 26%.
-The clutch_success_percentage is 17%.
-The team_id is 9042.0.
-The team_name is TeamOrangeGaming.
-The agent1 is yoru.
-The agent1_use_pct is (49) 22%.
-The agent1_rounds is 1066.
-The agent1_rating is 1.04.
-The agent1_acs is 220.8.
-The agent1_kd is 1.08.
-The agent1_adr is 142.1.
-The agent1_kast is 69%.
-The agent1_kpr is 0.8.
-The agent1_apr is 0.24.
-The agent1_fkpr is 0.14.
-The agent1_fdpr is 0.14.
-The agent1_kills is 852.
-The agent1_deaths is 792.
-The agent1_assists is 257.
-The agent1_fk is 153.
-The agent1_fd is 145.
-The agent2 is omen.
-The agent2_use_pct is (29) 13%.
-The agent2_rounds is 607.0.
-The agent2_rating is 0.97.
-The agent2_acs is 196.1.
-The agent2_kd is 0.94.
-The agent2_adr is 119.7.
-The agent2_kast is 72%.
-The agent2_kpr is 0.7.
-The agent2_apr is 0.41.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.09.
-The agent2_kills is 426.0.
-The agent2_deaths is 452.0.
-The agent2_assists is 246.0.
-The agent2_fk is 48.0.
-The agent2_fd is 55.0.
-The agent3 is raze.
-The agent3_use_pct is (19) 8%.
-The agent3_rounds is 407.0.
-The agent3_rating is 1.04.
-The agent3_acs is 234.9.
-The agent3_kd is 1.06.
-The agent3_adr is 159.1.
-The agent3_kast is 70%.
-The agent3_kpr is 0.82.
-The agent3_apr is 0.18.
-The agent3_fkpr is 0.14.
-The agent3_fdpr is 0.16.
-The agent3_kills is 334.0.
-The agent3_deaths is 316.0.
-The agent3_assists is 75.0.
-The agent3_fk is 55.0.
-The agent3_fd is 66.0.
-The igl is False.
-The region is eu.
-The level is international.
+pryxi is a member of TeamOrangeGaming (TOG). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 2139 rounds 
+with an average rating of 0.91, an average average combat score (ACS) of 193.8, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 126.0, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 26%, and an average clutch success percentage 
+of 17%. This player is not an in game leader. Over their entire career, yoru is their most played agent. Over the 1066 rounds they have played yoru, 
+they have an average rating of 1.04, an average average combat score (ACS) of 220.8, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 142.1, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.14. Using yoru this player has a total of 852 kills, 792 deaths, 
+257 assists, 153 first bloods, and 145 first deaths. Over their entire career, omen is their second most played agent. Over the 607.0 rounds they have played omen, 
+they have an average rating of 0.97, an average average combat score (ACS) of 196.1, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 119.7, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.41, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.09. Using omen this player has a total of 426.0 kills, 452.0 deaths, 
+246.0 assists, 48.0 first bloods, and 55.0 first deaths. Over their entire career, raze is their third most played agent. Over the 407.0 rounds they have played raze, 
+they have an average rating of 1.04, an average average combat score (ACS) of 234.9, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 159.1, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.16. Using raze this player has a total of 334.0 kills, 316.0 deaths, 
+75.0 assists, 55.0 first bloods, and 66.0 first deaths. 

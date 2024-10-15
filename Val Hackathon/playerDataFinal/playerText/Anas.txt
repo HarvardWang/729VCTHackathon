@@ -1,52 +1,20 @@
-The player is Anas.
-The org is 207.
-The agents is ['jett', 'raze'].
-The rounds_played is 207.
-The rating is 0.84.
-The average_combat_score is 185.5.
-The kill_deaths is 0.81.
-The kill_assists_survived_traded is 59%.
-The average_damage_per_round is 123.1.
-The kills_per_round is 0.65.
-The assists_per_round is 0.15.
-The first_kills_per_round is 0.11.
-The first_deaths_per_round is 0.18.
-The headshot_percentage is 25%.
-The clutch_success_percentage is 12%.
-The agent1 is jett.
-The agent1_use_pct is (12) 92%.
-The agent1_rounds is 247.
-The agent1_rating is 0.84.
-The agent1_acs is 187.2.
-The agent1_kd is 0.83.
-The agent1_adr is 123.1.
-The agent1_kast is 62%.
-The agent1_kpr is 0.66.
-The agent1_apr is 0.14.
-The agent1_fkpr is 0.11.
-The agent1_fdpr is 0.17.
-The agent1_kills is 162.
-The agent1_deaths is 196.
-The agent1_assists is 35.
-The agent1_fk is 28.
-The agent1_fd is 43.
-The agent2 is raze.
-The agent2_use_pct is (1) 8%.
-The agent2_rounds is 22.0.
-The agent2_rating is 1.21.
-The agent2_acs is 247.0.
-The agent2_kd is 1.12.
-The agent2_adr is 166.5.
-The agent2_kast is 73%.
-The agent2_kpr is 0.86.
-The agent2_apr is 0.23.
-The agent2_fkpr is 0.09.
-The agent2_fdpr is 0.05.
-The agent2_kills is 19.0.
-The agent2_deaths is 17.0.
-The agent2_assists is 5.0.
-The agent2_fk is 2.0.
-The agent2_fd is 1.0.
-The igl is False.
-The region is eu.
-The level is international.
+Anas is a member of Unknown (207). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 207 rounds 
+with an average rating of 0.84, an average average combat score (ACS) of 185.5, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 123.1, an average kill, assist, survive, trade percent (KAST) 
+of 59%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.11, an average first deaths per round (FDPR) 
+of 0.18, an average headshot percentage of 25%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 247 rounds they have played jett, 
+they have an average rating of 0.84, an average average combat score (ACS) of 187.2, an average kills death ratio 
+of 0.83, an average average damage per round (ADR) of 123.1, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.17. Using jett this player has a total of 162 kills, 196 deaths, 
+35 assists, 28 first bloods, and 43 first deaths. Over their entire career, raze is their second most played agent. Over the 22.0 rounds they have played raze, 
+they have an average rating of 1.21, an average average combat score (ACS) of 247.0, an average kills death ratio 
+of 1.12, an average average damage per round (ADR) of 166.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.86, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.05. Using raze this player has a total of 19.0 kills, 17.0 deaths, 
+5.0 assists, 2.0 first bloods, and 1.0 first deaths. 

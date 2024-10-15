@@ -1,71 +1,26 @@
-The player is Catpeeman.
-The org is Swa.
-The agents is ['breach', 'kayo', 'astra'].
-The rounds_played is 289.
-The rating is 0.55.
-The average_combat_score is 130.9.
-The kill_deaths is 0.5.
-The kill_assists_survived_traded is 60%.
-The average_damage_per_round is 89.2.
-The kills_per_round is 0.44.
-The assists_per_round is 0.29.
-The first_kills_per_round is 0.06.
-The first_deaths_per_round is 0.1.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 5%.
-The team_id is 11687.0.
-The team_name is Sway eSports.
-The agent1 is skye.
-The agent1_use_pct is (9) 28%.
-The agent1_rounds is 181.
-The agent1_rating is 0.66.
-The agent1_acs is 134.7.
-The agent1_kd is 0.61.
-The agent1_adr is 89.6.
-The agent1_kast is 67%.
-The agent1_kpr is 0.47.
-The agent1_apr is 0.31.
-The agent1_fkpr is 0.04.
-The agent1_fdpr is 0.13.
-The agent1_kills is 85.
-The agent1_deaths is 140.
-The agent1_assists is 57.
-The agent1_fk is 7.
-The agent1_fd is 23.
-The agent2 is astra.
-The agent2_use_pct is (7) 22%.
-The agent2_rounds is 136.0.
-The agent2_rating is 0.72.
-The agent2_acs is 141.6.
-The agent2_kd is 0.63.
-The agent2_adr is 92.3.
-The agent2_kast is 66%.
-The agent2_kpr is 0.49.
-The agent2_apr is 0.29.
-The agent2_fkpr is 0.04.
-The agent2_fdpr is 0.07.
-The agent2_kills is 66.0.
-The agent2_deaths is 104.0.
-The agent2_assists is 39.0.
-The agent2_fk is 5.0.
-The agent2_fd is 9.0.
-The agent3 is kayo.
-The agent3_use_pct is (5) 16%.
-The agent3_rounds is 106.0.
-The agent3_rating is 0.75.
-The agent3_acs is 173.4.
-The agent3_kd is 0.71.
-The agent3_adr is 111.0.
-The agent3_kast is 66%.
-The agent3_kpr is 0.59.
-The agent3_apr is 0.47.
-The agent3_fkpr is 0.1.
-The agent3_fdpr is 0.09.
-The agent3_kills is 63.0.
-The agent3_deaths is 89.0.
-The agent3_assists is 50.0.
-The agent3_fk is 11.0.
-The agent3_fd is 10.0.
-The igl is False.
-The region is na.
-The level is international.
+Catpeeman is a member of Sway eSports (Swa). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 289 rounds 
+with an average rating of 0.55, an average average combat score (ACS) of 130.9, an average kills death ratio 
+of 0.5, an average average damage per round (ADR) of 89.2, an average kill, assist, survive, trade percent (KAST) 
+of 60%, an average kills per round (KPR) of 0.44, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 27%, and an average clutch success percentage 
+of 5%. This player is not an in game leader. Over their entire career, skye is their most played agent. Over the 181 rounds they have played skye, 
+they have an average rating of 0.66, an average average combat score (ACS) of 134.7, an average kills death ratio 
+of 0.61, an average average damage per round (ADR) of 89.6, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.47, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.13. Using skye this player has a total of 85 kills, 140 deaths, 
+57 assists, 7 first bloods, and 23 first deaths. Over their entire career, astra is their second most played agent. Over the 136.0 rounds they have played astra, 
+they have an average rating of 0.72, an average average combat score (ACS) of 141.6, an average kills death ratio 
+of 0.63, an average average damage per round (ADR) of 92.3, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.49, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.07. Using astra this player has a total of 66.0 kills, 104.0 deaths, 
+39.0 assists, 5.0 first bloods, and 9.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 106.0 rounds they have played kayo, 
+they have an average rating of 0.75, an average average combat score (ACS) of 173.4, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 111.0, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.47, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.09. Using kayo this player has a total of 63.0 kills, 89.0 deaths, 
+50.0 assists, 11.0 first bloods, and 10.0 first deaths. 

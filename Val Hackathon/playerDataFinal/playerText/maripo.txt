@@ -1,71 +1,26 @@
-The player is maripo.
-The org is RIG.L.
-The agents is ['sova', 'skye', 'fade'].
-The rounds_played is 655.
-The rating is 1.0.
-The average_combat_score is 191.9.
-The kill_deaths is 0.98.
-The kill_assists_survived_traded is 72%.
-The average_damage_per_round is 127.4.
-The kills_per_round is 0.7.
-The assists_per_round is 0.3.
-The first_kills_per_round is 0.07.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 20%.
-The clutch_success_percentage is 16%.
-The team_id is 9523.0.
-The team_name is REIGNITE Lily.
-The agent1 is sova.
-The agent1_use_pct is (36) 62%.
-The agent1_rounds is 730.
-The agent1_rating is 1.2.
-The agent1_acs is 213.7.
-The agent1_kd is 1.31.
-The agent1_adr is 140.9.
-The agent1_kast is 76%.
-The agent1_kpr is 0.78.
-The agent1_apr is 0.29.
-The agent1_fkpr is 0.08.
-The agent1_fdpr is 0.07.
-The agent1_kills is 572.
-The agent1_deaths is 435.
-The agent1_assists is 214.
-The agent1_fk is 59.
-The agent1_fd is 52.
-The agent2 is fade.
-The agent2_use_pct is (11) 19%.
-The agent2_rounds is 220.0.
-The agent2_rating is 0.88.
-The agent2_acs is 152.0.
-The agent2_kd is 0.82.
-The agent2_adr is 98.2.
-The agent2_kast is 69%.
-The agent2_kpr is 0.53.
-The agent2_apr is 0.34.
-The agent2_fkpr is 0.04.
-The agent2_fdpr is 0.09.
-The agent2_kills is 116.0.
-The agent2_deaths is 141.0.
-The agent2_assists is 74.0.
-The agent2_fk is 9.0.
-The agent2_fd is 20.0.
-The agent3 is skye.
-The agent3_use_pct is (9) 16%.
-The agent3_rounds is 168.0.
-The agent3_rating is 0.8.
-The agent3_acs is 170.3.
-The agent3_kd is 0.76.
-The agent3_adr is 110.0.
-The agent3_kast is 70%.
-The agent3_kpr is 0.6.
-The agent3_apr is 0.36.
-The agent3_fkpr is 0.07.
-The agent3_fdpr is 0.09.
-The agent3_kills is 100.0.
-The agent3_deaths is 132.0.
-The agent3_assists is 60.0.
-The agent3_fk is 11.0.
-The agent3_fd is 15.0.
-The igl is False.
-The region is jp.
-The level is game-changer.
+maripo is a member of REIGNITE Lily (RIG.L). They play in the Japan region and the VCT 
+game-changer circuit. Over their entire career, they have played 655 rounds 
+with an average rating of 1.0, an average average combat score (ACS) of 191.9, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 127.4, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 20%, and an average clutch success percentage 
+of 16%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 730 rounds they have played sova, 
+they have an average rating of 1.2, an average average combat score (ACS) of 213.7, an average kills death ratio 
+of 1.31, an average average damage per round (ADR) of 140.9, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.07. Using sova this player has a total of 572 kills, 435 deaths, 
+214 assists, 59 first bloods, and 52 first deaths. Over their entire career, fade is their second most played agent. Over the 220.0 rounds they have played fade, 
+they have an average rating of 0.88, an average average combat score (ACS) of 152.0, an average kills death ratio 
+of 0.82, an average average damage per round (ADR) of 98.2, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.53, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.09. Using fade this player has a total of 116.0 kills, 141.0 deaths, 
+74.0 assists, 9.0 first bloods, and 20.0 first deaths. Over their entire career, skye is their third most played agent. Over the 168.0 rounds they have played skye, 
+they have an average rating of 0.8, an average average combat score (ACS) of 170.3, an average kills death ratio 
+of 0.76, an average average damage per round (ADR) of 110.0, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.09. Using skye this player has a total of 100.0 kills, 132.0 deaths, 
+60.0 assists, 11.0 first bloods, and 15.0 first deaths. 

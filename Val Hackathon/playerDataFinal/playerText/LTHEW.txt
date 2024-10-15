@@ -1,69 +1,26 @@
-The player is LTHEW.
-The org is (+4).
-The agents is ['astra', 'fade', 'sova'].
-The rounds_played is 430.
-The rating is 0.87.
-The average_combat_score is 169.2.
-The kill_deaths is 0.79.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 113.5.
-The kills_per_round is 0.6.
-The assists_per_round is 0.26.
-The first_kills_per_round is 0.04.
-The first_deaths_per_round is 0.09.
-The headshot_percentage is 41%.
-The clutch_success_percentage is 13%.
-The agent1 is sova.
-The agent1_use_pct is (25) 35%.
-The agent1_rounds is 521.
-The agent1_rating is 0.89.
-The agent1_acs is 177.5.
-The agent1_kd is 0.84.
-The agent1_adr is 122.3.
-The agent1_kast is 70%.
-The agent1_kpr is 0.61.
-The agent1_apr is 0.25.
-The agent1_fkpr is 0.05.
-The agent1_fdpr is 0.07.
-The agent1_kills is 319.
-The agent1_deaths is 379.
-The agent1_assists is 129.
-The agent1_fk is 27.
-The agent1_fd is 36.
-The agent2 is gekko.
-The agent2_use_pct is (19) 27%.
-The agent2_rounds is 431.0.
-The agent2_rating is 0.92.
-The agent2_acs is 184.6.
-The agent2_kd is 0.9.
-The agent2_adr is 120.5.
-The agent2_kast is 68%.
-The agent2_kpr is 0.66.
-The agent2_apr is 0.27.
-The agent2_fkpr is 0.08.
-The agent2_fdpr is 0.11.
-The agent2_kills is 284.0.
-The agent2_deaths is 314.0.
-The agent2_assists is 118.0.
-The agent2_fk is 34.0.
-The agent2_fd is 48.0.
-The agent3 is fade.
-The agent3_use_pct is (9) 13%.
-The agent3_rounds is 195.0.
-The agent3_rating is 0.77.
-The agent3_acs is 157.9.
-The agent3_kd is 0.71.
-The agent3_adr is 106.6.
-The agent3_kast is 66%.
-The agent3_kpr is 0.54.
-The agent3_apr is 0.31.
-The agent3_fkpr is 0.05.
-The agent3_fdpr is 0.09.
-The agent3_kills is 106.0.
-The agent3_deaths is 150.0.
-The agent3_assists is 60.0.
-The agent3_fk is 9.0.
-The agent3_fd is 17.0.
-The igl is False.
-The region is na.
-The level is international.
+LTHEW is a member of Unknown ((+4)). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 430 rounds 
+with an average rating of 0.87, an average average combat score (ACS) of 169.2, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 113.5, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 41%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 521 rounds they have played sova, 
+they have an average rating of 0.89, an average average combat score (ACS) of 177.5, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 122.3, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.07. Using sova this player has a total of 319 kills, 379 deaths, 
+129 assists, 27 first bloods, and 36 first deaths. Over their entire career, gekko is their second most played agent. Over the 431.0 rounds they have played gekko, 
+they have an average rating of 0.92, an average average combat score (ACS) of 184.6, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 120.5, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.11. Using gekko this player has a total of 284.0 kills, 314.0 deaths, 
+118.0 assists, 34.0 first bloods, and 48.0 first deaths. Over their entire career, fade is their third most played agent. Over the 195.0 rounds they have played fade, 
+they have an average rating of 0.77, an average average combat score (ACS) of 157.9, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 106.6, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.09. Using fade this player has a total of 106.0 kills, 150.0 deaths, 
+60.0 assists, 9.0 first bloods, and 17.0 first deaths. 

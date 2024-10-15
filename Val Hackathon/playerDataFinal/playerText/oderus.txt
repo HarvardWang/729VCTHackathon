@@ -1,71 +1,26 @@
-The player is oderus.
-The org is MxS.
-The agents is ['jett', 'raze', 'brimstone'].
-The rounds_played is 7243.
-The rating is 0.97.
-The average_combat_score is 198.6.
-The kill_deaths is 0.97.
-The kill_assists_survived_traded is 69%.
-The average_damage_per_round is 129.9.
-The kills_per_round is 0.69.
-The assists_per_round is 0.22.
-The first_kills_per_round is 0.11.
-The first_deaths_per_round is 0.13.
-The headshot_percentage is 27%.
-The clutch_success_percentage is 17%.
-The team_id is 13188.0.
-The team_name is Moist x Shopify.
-The agent1 is viper.
-The agent1_use_pct is (153) 26%.
-The agent1_rounds is 3164.
-The agent1_rating is 1.03.
-The agent1_acs is 212.3.
-The agent1_kd is 1.08.
-The agent1_adr is 137.2.
-The agent1_kast is 71%.
-The agent1_kpr is 0.73.
-The agent1_apr is 0.26.
-The agent1_fkpr is 0.13.
-The agent1_fdpr is 0.13.
-The agent1_kills is 2312.
-The agent1_deaths is 2140.
-The agent1_assists is 836.
-The agent1_fk is 418.
-The agent1_fd is 402.
-The agent2 is killjoy.
-The agent2_use_pct is (129) 22%.
-The agent2_rounds is 2617.0.
-The agent2_rating is 1.05.
-The agent2_acs is 214.1.
-The agent2_kd is 1.11.
-The agent2_adr is 141.5.
-The agent2_kast is 73%.
-The agent2_kpr is 0.74.
-The agent2_apr is 0.2.
-The agent2_fkpr is 0.1.
-The agent2_fdpr is 0.11.
-The agent2_kills is 1925.0.
-The agent2_deaths is 1727.0.
-The agent2_assists is 528.0.
-The agent2_fk is 274.0.
-The agent2_fd is 287.0.
-The agent3 is jett.
-The agent3_use_pct is (82) 14%.
-The agent3_rounds is 1722.0.
-The agent3_rating is 0.71.
-The agent3_acs is 219.8.
-The agent3_kd is 1.09.
-The agent3_adr is 132.0.
-The agent3_kast is 61%.
-The agent3_kpr is 0.78.
-The agent3_apr is 0.13.
-The agent3_fkpr is 0.19.
-The agent3_fdpr is 0.15.
-The agent3_kills is 1350.0.
-The agent3_deaths is 1243.0.
-The agent3_assists is 221.0.
-The agent3_fk is 321.0.
-The agent3_fd is 257.0.
-The igl is False.
-The region is na.
-The level is international.
+oderus is a member of Moist x Shopify (MxS). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 7243 rounds 
+with an average rating of 0.97, an average average combat score (ACS) of 198.6, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 129.9, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.22, an average first kills per round (FKPR) of 0.11, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 27%, and an average clutch success percentage 
+of 17%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 3164 rounds they have played viper, 
+they have an average rating of 1.03, an average average combat score (ACS) of 212.3, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 137.2, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.13. Using viper this player has a total of 2312 kills, 2140 deaths, 
+836 assists, 418 first bloods, and 402 first deaths. Over their entire career, killjoy is their second most played agent. Over the 2617.0 rounds they have played killjoy, 
+they have an average rating of 1.05, an average average combat score (ACS) of 214.1, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 141.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.11. Using killjoy this player has a total of 1925.0 kills, 1727.0 deaths, 
+528.0 assists, 274.0 first bloods, and 287.0 first deaths. Over their entire career, jett is their third most played agent. Over the 1722.0 rounds they have played jett, 
+they have an average rating of 0.71, an average average combat score (ACS) of 219.8, an average kills death ratio 
+of 1.09, an average average damage per round (ADR) of 132.0, an average kill, assist, survive, trade percent (KAST) 
+of 61%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.15. Using jett this player has a total of 1350.0 kills, 1243.0 deaths, 
+221.0 assists, 321.0 first bloods, and 257.0 first deaths. 

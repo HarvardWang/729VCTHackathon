@@ -28,7 +28,7 @@ def name(url):
     return player_names_string
 
 # Change this part for each link
-url = 'https://liquipedia.net/valorant/VCL/2024/Japan/Split_2'
+url = 'https://liquipedia.net/valorant/VCL/2024/Hong_Kong_and_Taiwan/Split_2/Statistics'
 player_names_string = name(url)
 
 if player_names_string:

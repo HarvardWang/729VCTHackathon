@@ -86,12 +86,12 @@ for _, row in df.iterrows():
 
     text_dict = row.to_dict()
 
-    json_filename = f'./Val Hackathon/playerDataFinal/playerMetadata/{filename_base}.metadata.json'
+    json_filename = f'./Val Hackathon/playerDataFinal/playerMetadata/{filename_base}.txt.metadata.json'
     with open(json_filename, 'w', encoding='utf-8') as json_file:
         json.dump(json_content, json_file, indent=4)
 
-    text_filename = f'./Val Hackathon/playerDataFinal/playerText/{filename_base}.txt'
-    with open(text_filename, 'w', encoding='utf-8') as text_file:
-        text_file.write(write_text(text_dict))
+   # text_filename = f'./Val Hackathon/playerDataFinal/playerText/{filename_base}.txt'
+   # with open(text_filename, 'w', encoding='utf-8') as text_file:
+    #    text_file.write(write_text(text_dict))
         
 

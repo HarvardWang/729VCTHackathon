@@ -1,0 +1,26 @@
+Dory is a member of Fisher Falcons (Fish). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 3772 rounds 
+with an average rating of 0.94, an average average combat score (ACS) of 170.7, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 110.0, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.42, an average first kills per round (FKPR) of 0.04, an average first deaths per round (FDPR) 
+of 0.06, an average headshot percentage of 26%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 2081 rounds they have played breach, 
+they have an average rating of 1.03, an average average combat score (ACS) of 180.0, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 114.6, an average kill, assist, survive, trade percent (KAST) 
+of 78%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.52, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.06. Using breach this player has a total of 1335 kills, 1325 deaths, 
+1084 assists, 98 first bloods, and 115 first deaths. Over their entire career, omen is their second most played agent. Over the 1914.0 rounds they have played omen, 
+they have an average rating of 1.08, an average average combat score (ACS) of 194.1, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 123.4, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.47, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.05. Using omen this player has a total of 1328.0 kills, 1248.0 deaths, 
+898.0 assists, 105.0 first bloods, and 99.0 first deaths. Over their entire career, fade is their third most played agent. Over the 673.0 rounds they have played fade, 
+they have an average rating of 0.96, an average average combat score (ACS) of 175.8, an average kills death ratio 
+of 1.02, an average average damage per round (ADR) of 112.0, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.06. Using fade this player has a total of 437.0 kills, 428.0 deaths, 
+220.0 assists, 43.0 first bloods, and 40.0 first deaths. 

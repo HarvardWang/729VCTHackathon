@@ -1,0 +1,26 @@
+Rest is a member of Rochester University Esports (Roch). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 2354 rounds 
+with an average rating of 0.78, an average average combat score (ACS) of 174.0, an average kills death ratio 
+of 0.74, an average average damage per round (ADR) of 115.6, an average kill, assist, survive, trade percent (KAST) 
+of 63%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.13, an average headshot percentage of 21%, and an average clutch success percentage 
+of 8%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 2135 rounds they have played omen, 
+they have an average rating of 0.89, an average average combat score (ACS) of 189.6, an average kills death ratio 
+of 0.87, an average average damage per round (ADR) of 120.3, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.67, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.11. Using omen this player has a total of 1431 kills, 1636 deaths, 
+736 assists, 191 first bloods, and 238 first deaths. Over their entire career, viper is their second most played agent. Over the 2030.0 rounds they have played viper, 
+they have an average rating of 0.92, an average average combat score (ACS) of 206.3, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 132.9, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.12. Using viper this player has a total of 1422.0 kills, 1565.0 deaths, 
+610.0 assists, 182.0 first bloods, and 234.0 first deaths. Over their entire career, astra is their third most played agent. Over the 1023.0 rounds they have played astra, 
+they have an average rating of 0.87, an average average combat score (ACS) of 182.2, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 121.1, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.1. Using astra this player has a total of 670.0 kills, 783.0 deaths, 
+266.0 assists, 67.0 first bloods, and 99.0 first deaths. 

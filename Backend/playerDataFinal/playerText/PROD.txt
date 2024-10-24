@@ -1,0 +1,26 @@
+PROD is a member of Team PROD (Team). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 525 rounds 
+with an average rating of 0.77, an average average combat score (ACS) of 178.7, an average kills death ratio 
+of 0.75, an average average damage per round (ADR) of 120.3, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 21%, and an average clutch success percentage 
+of 4%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 470 rounds they have played jett, 
+they have an average rating of 0.95, an average average combat score (ACS) of 221.6, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 145.2, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.16. Using jett this player has a total of 359 kills, 371 deaths, 
+115 assists, 90 first bloods, and 77 first deaths. Over their entire career, sova is their second most played agent. Over the 247.0 rounds they have played sova, 
+they have an average rating of 0.71, an average average combat score (ACS) of 171.5, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 109.0, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.55, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.11. Using sova this player has a total of 135.0 kills, 191.0 deaths, 
+72.0 assists, 13.0 first bloods, and 26.0 first deaths. Over their entire career, astra is their third most played agent. Over the 237.0 rounds they have played astra, 
+they have an average rating of 0.82, an average average combat score (ACS) of 192.8, an average kills death ratio 
+of 0.89, an average average damage per round (ADR) of 115.9, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.68, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.11. Using astra this player has a total of 162.0 kills, 183.0 deaths, 
+47.0 assists, 21.0 first bloods, and 25.0 first deaths. 

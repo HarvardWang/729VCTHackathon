@@ -1,0 +1,26 @@
+DEPZ is a member of EGN Esports (EGN). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 298 rounds 
+with an average rating of 0.57, an average average combat score (ACS) of 132.9, an average kills death ratio 
+of 0.5, an average average damage per round (ADR) of 90.4, an average kill, assist, survive, trade percent (KAST) 
+of 59%, an average kills per round (KPR) of 0.44, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 22%, and an average clutch success percentage 
+of 14%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 431 rounds they have played omen, 
+they have an average rating of 0.74, an average average combat score (ACS) of 163.0, an average kills death ratio 
+of 0.71, an average average damage per round (ADR) of 104.5, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.09. Using omen this player has a total of 246 kills, 345 deaths, 
+123 assists, 34 first bloods, and 40 first deaths. Over their entire career, viper is their second most played agent. Over the 255.0 rounds they have played viper, 
+they have an average rating of 0.67, an average average combat score (ACS) of 132.2, an average kills death ratio 
+of 0.53, an average average damage per round (ADR) of 92.4, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.41, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.09. Using viper this player has a total of 105.0 kills, 200.0 deaths, 
+102.0 assists, 12.0 first bloods, and 24.0 first deaths. Over their entire career, sova is their third most played agent. Over the 233.0 rounds they have played sova, 
+they have an average rating of 0.98, an average average combat score (ACS) of 187.8, an average kills death ratio 
+of 0.89, an average average damage per round (ADR) of 131.7, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.06. Using sova this player has a total of 141.0 kills, 158.0 deaths, 
+87.0 assists, 12.0 first bloods, and 13.0 first deaths. 

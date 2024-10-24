@@ -1,0 +1,26 @@
+BRYAN is a member of Esports at UCD Gold (UCD). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 279 rounds 
+with an average rating of 0.98, an average average combat score (ACS) of 186.0, an average kills death ratio 
+of 0.89, an average average damage per round (ADR) of 126.7, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.65, an average assists per round (APR) 
+of 0.38, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 30%, and an average clutch success percentage 
+of 7%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 106 rounds they have played raze, 
+they have an average rating of 0.95, an average average combat score (ACS) of 209.0, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 144.2, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.18, and an average first deaths per round (FDPR) 
+of 0.09. Using raze this player has a total of 75 kills, 80 deaths, 
+14 assists, 19 first bloods, and 10 first deaths. Over their entire career, kayo is their second most played agent. Over the 94.0 rounds they have played kayo, 
+they have an average rating of 0.84, an average average combat score (ACS) of 172.0, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 110.2, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.48, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.06. Using kayo this player has a total of 55.0 kills, 70.0 deaths, 
+45.0 assists, 5.0 first bloods, and 6.0 first deaths. Over their entire career, jett is their third most played agent. Over the 92.0 rounds they have played jett, 
+they have an average rating of 0.91, an average average combat score (ACS) of 215.8, an average kills death ratio 
+of 0.95, an average average damage per round (ADR) of 137.7, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.75, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.22. Using jett this player has a total of 69.0 kills, 73.0 deaths, 
+15.0 assists, 16.0 first bloods, and 20.0 first deaths. 

@@ -1,0 +1,26 @@
+Nahashi is a member of LUA Gaming (LUA). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 570 rounds 
+with an average rating of 0.92, an average average combat score (ACS) of 199.2, an average kills death ratio 
+of 0.9, an average average damage per round (ADR) of 135.5, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.14, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 25%, and an average clutch success percentage 
+of 22%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 624 rounds they have played jett, 
+they have an average rating of 1.09, an average average combat score (ACS) of 230.8, an average kills death ratio 
+of 1.14, an average average damage per round (ADR) of 151.6, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.83, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.12. Using jett this player has a total of 521 kills, 459 deaths, 
+86 assists, 116 first bloods, and 77 first deaths. Over their entire career, raze is their second most played agent. Over the 274.0 rounds they have played raze, 
+they have an average rating of 1.09, an average average combat score (ACS) of 238.2, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 160.4, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.18, and an average first deaths per round (FDPR) 
+of 0.13. Using raze this player has a total of 226.0 kills, 205.0 deaths, 
+52.0 assists, 48.0 first bloods, and 36.0 first deaths. Over their entire career, omen is their third most played agent. Over the 230.0 rounds they have played omen, 
+they have an average rating of 1.09, an average average combat score (ACS) of 186.7, an average kills death ratio 
+of 1.1, an average average damage per round (ADR) of 131.6, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using omen this player has a total of 159.0 kills, 144.0 deaths, 
+86.0 assists, 15.0 first bloods, and 18.0 first deaths. 

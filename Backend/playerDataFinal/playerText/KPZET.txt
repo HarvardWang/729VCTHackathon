@@ -1,0 +1,26 @@
+KPZET is a member of Barça eSports (BAR). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 2873 rounds 
+with an average rating of 0.98, an average average combat score (ACS) of 195.9, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 128.9, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 33%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, omen is their most played agent. Over the 1414 rounds they have played omen, 
+they have an average rating of 1.03, an average average combat score (ACS) of 198.4, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 128.0, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.39, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.09. Using omen this player has a total of 993 kills, 983 deaths, 
+557 assists, 134 first bloods, and 126 first deaths. Over their entire career, viper is their second most played agent. Over the 830.0 rounds they have played viper, 
+they have an average rating of 1.05, an average average combat score (ACS) of 210.4, an average kills death ratio 
+of 1.05, an average average damage per round (ADR) of 137.7, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.08. Using viper this player has a total of 599.0 kills, 572.0 deaths, 
+226.0 assists, 86.0 first bloods, and 69.0 first deaths. Over their entire career, astra is their third most played agent. Over the 789.0 rounds they have played astra, 
+they have an average rating of 1.03, an average average combat score (ACS) of 205.6, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 134.3, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.09. Using astra this player has a total of 571.0 kills, 529.0 deaths, 
+218.0 assists, 73.0 first bloods, and 68.0 first deaths. 

@@ -1,0 +1,26 @@
+Campion is a member of Project A (PK). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 1921 rounds 
+with an average rating of 0.92, an average average combat score (ACS) of 221.7, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 140.5, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.17, an average first deaths per round (FDPR) 
+of 0.18, an average headshot percentage of 20%, and an average clutch success percentage 
+of 10%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 4175 rounds they have played jett, 
+they have an average rating of 1.0, an average average combat score (ACS) of 242.6, an average kills death ratio 
+of 1.13, an average average damage per round (ADR) of 149.1, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.85, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.16. Using jett this player has a total of 3555 kills, 3159 deaths, 
+695 assists, 790 first bloods, and 666 first deaths. Over their entire career, phoenix is their second most played agent. Over the 298.0 rounds they have played phoenix, 
+they have an average rating of 1.08, an average average combat score (ACS) of 249.1, an average kills death ratio 
+of 1.18, an average average damage per round (ADR) of 149.8, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.87, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.13, and an average first deaths per round (FDPR) 
+of 0.12. Using phoenix this player has a total of 260.0 kills, 221.0 deaths, 
+72.0 assists, 39.0 first bloods, and 35.0 first deaths. Over their entire career, reyna is their third most played agent. Over the 189.0 rounds they have played reyna, 
+they have an average rating of 0.68, an average average combat score (ACS) of 221.4, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 142.3, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.12. Using reyna this player has a total of 140.0 kills, 142.0 deaths, 
+56.0 assists, 18.0 first bloods, and 23.0 first deaths. 

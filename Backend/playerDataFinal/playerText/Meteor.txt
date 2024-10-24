@@ -1,0 +1,26 @@
+Meteor is a member of T1 (T1). They play in the Japan region and the VCT 
+international circuit. Over their entire career, they have played 1043 rounds 
+with an average rating of 1.15, an average average combat score (ACS) of 258.7, an average kills death ratio 
+of 1.23, an average average damage per round (ADR) of 162.2, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.91, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.23, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 25%, and an average clutch success percentage 
+of 17%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 2625 rounds they have played jett, 
+they have an average rating of 1.1, an average average combat score (ACS) of 249.1, an average kills death ratio 
+of 1.18, an average average damage per round (ADR) of 155.2, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.86, an average assists per round (APR) 
+of 0.18, an average first kills per round (FKPR) of 0.21, and an average first deaths per round (FDPR) 
+of 0.16. Using jett this player has a total of 2270 kills, 1924 deaths, 
+465 assists, 564 first bloods, and 425 first deaths. Over their entire career, killjoy is their second most played agent. Over the 1459.0 rounds they have played killjoy, 
+they have an average rating of 1.07, an average average combat score (ACS) of 221.1, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 148.1, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.79, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.08. Using killjoy this player has a total of 1150.0 kills, 986.0 deaths, 
+208.0 assists, 151.0 first bloods, and 124.0 first deaths. Over their entire career, cypher is their third most played agent. Over the 648.0 rounds they have played cypher, 
+they have an average rating of 0.99, an average average combat score (ACS) of 209.8, an average kills death ratio 
+of 1.06, an average average damage per round (ADR) of 135.6, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.21, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.08. Using cypher this player has a total of 493.0 kills, 465.0 deaths, 
+135.0 assists, 70.0 first bloods, and 54.0 first deaths. 

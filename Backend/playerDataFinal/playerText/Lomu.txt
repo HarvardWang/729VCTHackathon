@@ -1,0 +1,26 @@
+Lomu is a member of Koopa Troopas (KTS). They play in the Oceania region and the VCT 
+international circuit. Over their entire career, they have played 396 rounds 
+with an average rating of 0.77, an average average combat score (ACS) of 159.1, an average kills death ratio 
+of 0.66, an average average damage per round (ADR) of 106.3, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.53, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.03, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 21%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 545 rounds they have played sova, 
+they have an average rating of 0.85, an average average combat score (ACS) of 159.9, an average kills death ratio 
+of 0.74, an average average damage per round (ADR) of 110.0, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.52, an average assists per round (APR) 
+of 0.34, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.07. Using sova this player has a total of 281 kills, 381 deaths, 
+184 assists, 23 first bloods, and 38 first deaths. Over their entire career, breach is their second most played agent. Over the 504.0 rounds they have played breach, 
+they have an average rating of 0.89, an average average combat score (ACS) of 157.8, an average kills death ratio 
+of 0.77, an average average damage per round (ADR) of 105.3, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.48, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.07. Using breach this player has a total of 273.0 kills, 355.0 deaths, 
+242.0 assists, 18.0 first bloods, and 33.0 first deaths. Over their entire career, fade is their third most played agent. Over the 448.0 rounds they have played fade, 
+they have an average rating of 0.87, an average average combat score (ACS) of 168.8, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 111.1, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.08. Using fade this player has a total of 260.0 kills, 320.0 deaths, 
+167.0 assists, 21.0 first bloods, and 35.0 first deaths. 

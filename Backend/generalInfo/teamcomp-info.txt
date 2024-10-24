@@ -1,0 +1,29 @@
+VALORANT Agents
+Understanding the role of the agents is essential for VALORANT team composition. In VALORANT, the 23 agents fall under:
+
+The Duelist role is the Primary attacker who makes the kills and breaks enemy defenses to create opportunities for their team. 
+
+The Sentinel role is The defender who reinforces held territory by locking down critical areas of the map, providing healing support, and gathering vital intel for their team. 
+
+The Initiator role is the one who Initiates pushes for their team by providing information and employing blinding, concussing, and damaging abilities to set up easy kills for their team. 
+
+The Controller is the Strategists who shape the battlefield to protect their teammates and cut off opponents with abilities like smoke screens. 
+
+Each team needs three things: an agent who can use smokes, typically but not always a controller; an agent who can use flashes, typically but not always a duelist or initiator; and an agent with a scouting ability like a drone, which are typically but not always initiators.
+The remaining two spots are for flex roles. This means it is more dependent on map or the current meta. The more flexible players will succeed in these positions.
+
+Valorant is a game that heavily relies on strategy and teamwork. Each agent in the game has unique abilities that can be used to gain an advantage over the enemy team. The agents are divided into four categories: Duelists, Initiators, Controllers, and Sentinels. Each of these categories has a specific role to play in the game:
+
+Duelists: As the primary attackers or “fraggers” in the team, Duelists thrive in the heat of battle. They secure kills and spearhead the charge into enemy territory. Often the first to enter sites or areas, they excel in winning gunfights and engaging enemies head-on. 
+
+Sentinels: The guardians of the team, Sentinels focus on defense. They lock down key areas of the map, provide healing, and gather crucial intel. Their specialty lies in securing sites and covering the flanks for their teammates. On Attack, they’re capable of holding down flanks or enemies coming from the opposite side of the map through your teams spawn.
+
+Controllers: Masters of strategy, Controllers manipulate the battlefield to their team’s advantage. They carve up dangerous territory to protect their team or cut-off opponents. With abilities like smoke screens, they can obscure areas for a short period, shielding their team or thwarting enemy tracking. 
+
+Initiators: Game disruptors, Initiators excel at providing information and creating opportunities. They employ tactics to blind, concuss, and damage hiding enemies, setting up easy kills for their team. 
+
+Duelists like Phoenix and Jett are the entry fraggers of the team. They are designed to get kills and lead the charge even at the risk of sacrificing themselves. Initiators like Breach and Sova are there to disrupt the enemy lines with their abilities. Controllers like Brimstone and Omen provide utility for the team by blocking vision and controlling the map. Sentinels like Sage and Cypher are the defensive backbone of the team, providing healing, intel, and securing areas of the map
+
+The best team composition in Valorant usually consists of one agent from each category and an additional agent that complements the team’s strategy – usually double controller, or double initiator. This ensures that the team has a good balance of attack, defense, and utility to get the win.
+
+For example, a good team composition could be Phoenix (Duelist), Breach (Initiator), Brimstone (Controller), Killjoy (Sentinel), and Cypher (Sentinel). This team has a good balance of attack, defense, and utility. Phoenix and Breach can lead the charge and get kills, Brimstone can control the map with his smokes, Killjoy can secure areas, and Cypher can provide valuable intel with his cameras and traps keeping eye on the flank.

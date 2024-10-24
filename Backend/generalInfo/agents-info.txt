@@ -1,0 +1,183 @@
+Agent abilities breakdown
+There are four major roles: duelists, sentinels, initiators, and controllers.
+Duelists
+Duelists are self-sufficient fraggers on the offense. They break through enemy team defenses to take down opponents.
+Jett: abilities and usage tips
+Jett is quick on her feet, so players never let their enemies know their next move. Stay agile, mobile, and hard to catch — though make sure the team is aware of the plan. Jett can even set off smokes on the fly.
+Cloudburst. Whirl a projectile that blocks others’ vision.
+Updraft. Propel Jett up into the air, which is great for scouting and surprises.
+Tailwind. Cast a gust of wind to dash to either side or forward.
+Blade Storm. It’s a whirlwind of knives. Throw just one or the whole lot.
+Phoenix: abilities and usage tips
+Phoenix is a powerful duelist. By using his abilities in non-straightforward ways, he can set up the rest of the team for success. For example, use his fiery wall to forge into an enemy site.
+Blaze. That wall of fire also blocks vision and burns anyone trying to get through.
+Curveball. This flare orb takes the corner and detonates in hidden enemy’s faces.
+Hot Hands. Scorch the ground by throwing a fireball.
+Run it Back. If Phoenix is in a hot situation, transport back to a location that’s been marked with full health.
+Reyna: abilities and usage tips
+This Mexican queen thrives on kills. Aside from stealing souls, Reyna can also get herself out of bad situations — making her a one-woman show. A small tip for her Leer ability: switch up where flashes are placed. If they’re high enough, it messes with enemies’ aim by having to readjust the crosshairs.
+Leer. This ethereal eye can be cast forward and render enemies nearsighted.
+Empress. Her highness is raging. Instantly enter a state of frenzy with increased firepower.
+Devour. Souls are life-giving for Reyna. When she kills someone and takes their soul orb, she rapidly heals.
+Dismiss. Reyna can instantly consume a nearby soul orb. When she does with this ability, she turns intangible — even invisible, if Empress is on.
+Raze: abilities and usage tips
+The woman has the strongest grenades in the universe. Playing this Agent well requires mastery of gun skills and mechanics.
+Boom Bot. Much like an autonomous vacuum, Boom Bot will bounce off walls, locking onto enemies and chasing them down with an explosion.
+Showstopper. Equip and fire a rocket launcher for maximum area damage.
+Paint Shells. These cluster grenades burst into smaller ones that continue to explode.
+Blast Pack. Stick a mine to something to blow it up.
+Yoru: abilities and usage tips
+Quick, interdimensional, and difficult to master, Yoru rips through reality and emerges on the other side with the upper hand. When playing Yoru, keep in mind that Yoru’s abilities can be used at the same time as his ultimate.
+Dimensional Rift. In Yoru’s dimensions, enemies can’t touch him. Plus, he can equip a mask that sees between dimensions.
+Fakeout. Throw opponents off with a mirror image Yoru clone.
+Blindside. This flash bomb can blindside an unlucky foe.
+Gatecrash. Go far, and go quickly. Fire out a teether that teleports Yoru to that location.
+Sentinels
+They’re defensive giants who slow down or even take out enemies, and can also resurrect a teammate. This maneuver goes a long way in both defensive and offensive modes.
+
+
+Sage: abilities and usage tips
+The matriarch of Agents, Sage, is one of the most recognized VALORANT Agents and an easy sentinel to play. She can heal herself and others, and while resurrecting an ally, she can set herself up for a kill.
+Resurrection. Her ultimate should be used often, but it’s also a great way to bait an opponent. Baiting the Rez takes a moment, which some opposing Agents find advantageous: the teammate might perish again, but that’s where Sage can land the enemy kill.
+Barrier Orb. Sage has orbs for days. The barrier version builds a solid wall.
+Slow Orb. If a wall isn’t enough to impede an Agent, fire one that slows them down by making the ground difficult to traverse.
+Healing Orb. This one lets Sage heal herself for 30hp. Allies receive a 100hp.
+Cypher: abilities and usage tips
+One of the most popular Agents, opposing Agents have Cypher’s number locked down. But who doesn’t love a challenge? That just means Cypher has to keep surprising his opponents. One tip is to not place his cameras right from the start. Instead, use them in one-on-ones or other critical situations.
+Spy Cam. Fire to place the camera and take control of it to shoot its dart. This ability is key for scouting.
+Trapwire. Enemies who trigger the placed trapwire are tethered and dazed.
+Cyber Cage: Fire a cage that blocks others’ vision. If someone walks through it, it gives an audio clue.
+Neural Theft. Cypher’s ultimately takes advantage of a fallen opposing Agent to reveal every Agent who’s still in the game.
+Killjoy: abilities and usage tips
+The German mechanic brings turrets, bots, and grenades to the game. Some maps are more advantageous to this, where her flanking protections can excel. While she’s a powerful Agent, knowing the territories that lay ahead is key to success.
+Turret. Excellent blueprints for flanking protection, these guys fire at enemies as soon as they come into sight.
+Nanoswarm. As the name implies, this is a swarm of grenades that’s in hiding until an enemy comes close to it. Activate it again, and get a whirlwind of damage.
+Alarmbot. This one hunts down opposing Agents and explodes near its prey.
+Lockdown. While this ultimate has a lengthy load time, this device has large coverage to detain enemies caught within its orbit.
+Chamber: abilities and usage tips
+This dazzling Frenchman has scouting abilities, upgraded weapons, and can play both aggressively and defensively.
+Headhunter. Equip an advanced Sheriff and take down enemies faster and more accurately.
+Trademark. This trap explodes when a visible enemy comes close to slow them down.
+Rendezvous. Set two anchors to teleport between them.
+Tour De Force. Chamber’s ultimate is an upgraded Operator. This weapon kills an enemy with a direct shot and leaves behind a field that slows down others.
+
+Initiators
+As the name suggests, these Agents are excellent at initiating fights and setting strategies in motion. They typically have information scouting abilities and can disrupt defenders. These Agents always make a good — and at times devastating — first impression.
+Sova: abilities and usage tips
+This hunter is all about scouting. His bow shoots off information-gathering projectiles, and his owl drone partner reveals enemy locations. While he may only have one eye, getting comfortable with Sova’s kit will pay off greatly.
+Recon Bolt. This bolt reveals the location of an enemy Agent if they are caught in its sight.
+Shock Bolt. An explosive one damages nearby players when shot in their direction.
+Owl Drone. Take control to fly high and shoot marking darts.
+Hunter’s Fury. These three energy blasts go through walls for some serious damage and for revealing enemy locations.
+Breach: abilities and usage tips
+Breach brings chaos — good or bad, depending on the player’s skill level. Take extra care to avoid friendly fire with his flashes.
+Flash Point. Fire a powerful charge that goes through walls, blinding everyone who dares to look.
+Aftershock. This fusion charge also breaks through walls and does heavy damage, but can be slow.
+Fault Line. This earthquake goes through walls and dazes all caught within.
+Rolling Thunder. An even larger seismic charge, this ultimate is a big terrain quake that can daze even more players.
+Skye: abilities and usage tips
+Skye is an amazing Aussie who can heal more teammates, scout for information, and flash enemies with more strength and range. She might not be right for beginners, but she’ll up any advanced player’s gaming style.
+Trailblazer. Who wouldn’t want to become a Tasmanian tiger? Control this beast and explode nearby enemies.
+Guiding Light. Fly up high like a hawk that discovers any foe with a flash.
+Regrowth. Skye can’t heal herself, but she can heal all nearby teammates.
+Seeker. Fire three seekers that hunt down three enemies and render them nearsighted.
+KAY/O: abilities and usage tips
+This quick-shooting war machine leaves no place to hide. Use his ZERO/POINT ability early on to make the most out of it — it will recharge over a round. He also has, arguably, the best set of ability names.
+ZERO/POINT. Throw this blade to suppress anyone caught in its area.
+FRAG/MENT. Fire an explosive fragment that explodes multiple times — enough to almost kill.
+FLASH/DRIVE. Shoot a flash grenade that blinds everyone around.
+NULL/CMD. It’s a radianite overload for KAY/O that emits suppressing pulses and can even disable gadgets.
+Fade: abilities and usage tips
+Fade is not for those picking up the controller for the first time. She’s a nightmare for enemies, but can be a dream to work with on a team. For example, her Prowler ability can be set ahead with another ally, night sight an opponent, so the ally can go for the kill.
+Prowler. This creature moves in straight lines, locking onto an enemy. If it finds an opponent, their vision becomes nearsighted.
+Haunt. This orb not only reveals an enemy location, but adds a dark trail that follows them afterward.
+Seize. On impact, this orb creates an inky zone. The ink latches onto an Agent, keeps it tied to the zone, and deals decaying damage.
+Fear. No one wants to meet this ultimate in the dark. Fear shoots nightmare energy through walls that deafens, decays, and ties a triel to the unlucky.
+
+Controllers
+These Agents take care of the map. Agents in this role are experts in taking out territories and setting up teammates for the kill. For example, controllers can block off specific areas with things like smokes, making it nearly impossible for the opposing team to see.
+Brimstone: abilities and usage tips
+Brimstone is a great choice for someone new to VALORANT. But that doesn’t mean he’s weak. He has tons of firepower and smokes out enemies. Place his smokes “deep” so allies have a better line of sight of the opposition.
+Stim Beacon. Shoot to place a charge-up field that gives players faster firing power and movement.
+Incendiary. This grenade launcher creates a lingering fire zone.
+Sky Smoke. Get a bird’s-eye view through a map and precisely set where Brimstone’s smokes should go off.
+Orbital Strike. His ultimate pulls up that same tactical map to set off an orbital strike laser in a specific spot.
+Viper: abilities and usage tips
+Viper is toxic, which is to her allies’ advantage. Her chemicals, poisons, and gas are just lethal. Viper can also combine her abilities – Poison Cloud and Snake Bite specifically – to stop enemies from defusing a spike. She also excels with large maps due to her long-rage abilities.
+Snake Bite. Shoot a canister that creates a persistent chemical zone that deals damage and makes enemies vulnerable.
+Toxic Stream. Fire a line of gas emitters that can also act as a wall.
+Poison Cloud. This is another gas emitter, but this one surrounds enemies like a cloud.
+Viper’s Pit. Spray an oversized cloud that decays enemies and reduces their vision.
+Omen: abilities and usage tips
+Omen isn’t an easy master, but he’s full of tricks and can run circles around enemies. Omen is also probably the only Agent where it’s somewhat accepted to lurk.
+Shrouded Step. Teleport to a marked location to surprise enemies.
+Dark Cover. See through walls and shoot a long-lasting shadow sphere.
+Paranoia. Another breakthrough projectile, Paranoia can pass through walls and blur vision for every player in the vicinity.
+Astra: abilities and usage tips
+Don’t wish upon this shooting star. Astra can split maps, has smokes, adapts the stars that act as catalysts for abilities, and can enter an otherworldly form. There’s a big learning curve for Astra, but her strength is undeniable.
+Astral Form and Cosmic Divide. Transform into Astral Form with her Ultimate and use Cosmic Divide to split the map in half with an impenetrable wall.
+Gravity Well. After placing Stars, activate them to form a well that pulls enemies into itself and then explodes.
+Nebula. Transform a placed Star into a cloud of galactic smoke.
+Nova Pulse. Leverage a placed Star to explode into a concussing pulse.
+Harbor: abilities and usage tips
+As his name implies, he’s mastered water and ancient technologies. On certain maps, his orbs can block entire pathways.
+Cove. A large sphere of water that shields Harbor from bullets. It has an astounding 500hp.
+Cascade. Enemies who are hit by this wave of water, which can travel through walls, are slowed down.
+High Tide. This is a slowing water version of a wall. Players can also guide this wall with their crosshair.
+Reckoning. His ultimate ability activates the full force of his artifact. It then spawns geyser strikes that concuss enemies who are caught in their radius.
+Agent counters guide
+One of the best counter strategies is to assemble a team of Agents who can specifically take out one of the four roles.
+
+Best counters and strategies for Duelists
+Duelists are known for their damage-dealing and mobility. Plus, players can turn their abilities against themselves.
+Jett
+Use Jett’s Dash against her. Whether baiting her to Dash or if she’s already planning an attack, it takes her a moment before she can use a weapon post-Dash. That very small window is the perfect opportunity to strike.
+Another tip is that there’s an audio clue when Jett uses Updraft, so if a player hears it, they should look up and aim high. KAY/O’s ultimate can suppress Jett from using her knives.
+Phoenix
+Phoenix doesn’t do anything quietly. When playing against him, make sure to listen closely. For example, his Curveball comes out quickly, so players should turn away ASAP when they hear that attack audio.
+Similarly, whenever Phoenix tries to heal himself with Blaze or Hot Hands, it’s anything but incognito. So when nearby flames are visible, blind-fire into the direction to limit his healing. Use mobile Agents like Jett or Raze to catch him whenever he uses Run It Back.
+Reyna
+When Reyna uses Devour, it triggers a connecting tether. This tether is visible to everyone, so it’s an easy way to keep tabs on her. It’s also easy to tell when Empress, her ultimate, is active by the green indicator by her avatar icon. Hiding for two seconds after she makes a kill (which makes her invisible in Empress) is a good idea.
+Raze
+While Raze is known to move erratically and unpredictably, the audio effect cues players to keep their head on a swivel. Expect unusual angles, but her aim will also not be super accurate. Similarly, listen for her Showstopper and hide to avoid powerful damage. Like Jett, KAY/O can use his pulses to nullify Showstopper.
+Yoru
+Always destroy Yoru’s Gatecrash. Yoru is unpredictable with his teleportation trickery, so don’t give him any chances for deception. Speaking of trickery: don’t trust Yoru’s footsteps. Experienced players don’t stomp around the map, but if a player hears his steps where it doesn’t make sense, it’s likely his Fakeout.
+
+Best counters and strategies for Sentinels
+Don’t underestimate sentinels in competitive play. Split those defenders from their team, disrupt them in any way possible, and go for the kill.
+Sage
+Destroy Sage’s walls as soon as possible because once this strong move is gone, she will have to play even more defensively, leaving her team open. Good weapons, like an Ares or Odin, are key for taking it down. Raze’s Blastpack and Paint Shells also get the job done. Keep track of where her allies fall, since Sage will try to Resurrect them.
+Cypher
+Cypher’s invisible Trapwires are a nuisance, so try to anticipate where an experienced player might place them. Walk carefully in suspicious areas. When a player is close, the wire will reveal itself visually and audibly. Additionally, his Spycam isn’t indestructible. It can also be blinded like an Agent; Reyna’s Leer is perfect for this.
+Killjoy
+It’s no secret that Killjoy runs on machines, so KAY/O is the best counter for all her abilities. If she manages to plant a Turret, players can deduce she’s close because of the radius. Smokes are also a great equalizer for her Turret and Alarmbot since they rely on sight.
+Chamber
+He’s a master with his weapons, so do whatever is possible to disrupt him. Move him out of position aggressively, but there are also specific utilities to combat him. Sage’s and Astra’s walls deny him vision, and so do smokes. Breach can be used to stun him. And some VALORANT players counter this sniper with another sniper: Jett can sniff him out with her mobile movement.
+
+Best counters and strategies for Initiators
+When it comes to initiators, a good defense is the answer. Neutralize the go-getters and information gatherers with these tips.
+Sova
+Hide from his drone so Sova can’t gather location intel. Shoot the Recon Bolt, then change location to keep him guessing. Also, dodge Hunter’s Fury. Evade his ultimate by switching to a knife, which increases movement speed. If a player is quick enough, they may even be able to run past him for a kill. There’s a delay when Sova puts his bow away, leaving him vulnerable.
+Breach
+Take cover. Breach’s moves are long-rage and go through walls, so it’s vital to track him. It’s also a good idea to avoid narrow passages and areas because of this. As far as building an anti-Breach team, pressure him with Raze’s Paint Shells or KAY/O’s FRAG/MENT.
+Skye
+Often Skye’s teammates follow her when she’s using Trailblazer and Seekers. Look for enemies following behind. Skye can also send multiple flashes, so if a player sees one, more are to follow. Jett also makes a great flanker against Skye.
+KAY/O
+A lot of VALORANT players are annoyed with KAY/O because when he’s in experienced hands, he’s just so powerful. But when up against KAY/O, remember a few very important things. First, his knives can be destroyed. When he’s in a downed state, he’s got 850hp (so don’t waste ammo). And for the love of everything, stay out of his radius.
+Fade
+Stay out of corners to avoid Fade’s Prowler. Because it bounces in straight lines, players will find themselves on the losing end of a pinball match if they’re not careful. Fade is all about close range.
+
+Best counters and strategies for Controllers
+A lot of players choose controllers for their powerful abilities. Here are the blindspots for all of them.
+Brimstone
+This Agent’s abilities do not regenerate, so it’s easy to bait him into wasting them — and then take him down. His smokes also have a short range. If one goes off, Brim is near. It’s also fairly easy to outrun his Orbital Strike because of its delay. Simply switch to the knife and pick up speed.
+Viper
+A lot of Viper players use her wall defensively for her teammates. Players have a good chance of reading their location by where she places it. It’s too strong of a move to waste as a decoy trick.
+New Viper players tend to stay inside the cloud to try to take enemies down. Experienced Viper fans, though, may leave the pit. Depending on play style, it’s possible to force her out of the pit with Raze, Brimstone, or Breach. Important note: Empress lets Reyna see Viper through the gas.
+Omen
+Omen can move upward with Shrouded Step. Luckily this move has an audio cue, and it’s important to look up when it’s heard. From the Shadows lets Omen teleport to anywhere, but it also has a massive sound effect when he lands. So instead of shooting in his direction right away, let the enemy Omen think it’s safe for him since he can cancel the teleport. Hide nearby and go for the kill once he’s fully there.
+Lastly, players should always look behind them. If there’s an Omen on the other team, experienced players may try to teleport and strike from the back.
+Astra
+Duelist Jett can be her kryptonite because of Updraft. Sending someone up high when she’s in Astral Form can really break an Astra gamer. Another tip is to not overreact to her Stars; she can easily recall them. If a player pushes through Astra’s Cosmic Divide, catch her team off-guard since they won’t be able to hear the audio cues.
+Harbor
+Good news: Harbor’s Cove can be destroyed. Get a Vandal or Operator gun, meaning a heavy-duty rifle or submachine gun (SMG). Another trick can be Raze’s grenades if a player only has cheaper pistols on hand. And the final trick on the Cove? Slice through it with knives.

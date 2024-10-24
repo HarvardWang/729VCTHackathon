@@ -1,0 +1,26 @@
+CurryASD is a member of UAESA Green (UAESA.G). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 302 rounds 
+with an average rating of 0.6, an average average combat score (ACS) of 124.9, an average kills death ratio 
+of 0.52, an average average damage per round (ADR) of 82.7, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.41, an average assists per round (APR) 
+of 0.36, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.1, an average headshot percentage of 19%, and an average clutch success percentage 
+of 8%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 249 rounds they have played breach, 
+they have an average rating of 0.73, an average average combat score (ACS) of 144.3, an average kills death ratio 
+of 0.65, an average average damage per round (ADR) of 93.0, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.49, an average assists per round (APR) 
+of 0.44, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.06. Using breach this player has a total of 122 kills, 187 deaths, 
+110 assists, 11 first bloods, and 14 first deaths. Over their entire career, viper is their second most played agent. Over the 168.0 rounds they have played viper, 
+they have an average rating of 0.64, an average average combat score (ACS) of 133.4, an average kills death ratio 
+of 0.57, an average average damage per round (ADR) of 90.6, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.43, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.07. Using viper this player has a total of 73.0 kills, 127.0 deaths, 
+54.0 assists, 8.0 first bloods, and 12.0 first deaths. Over their entire career, sage is their third most played agent. Over the 119.0 rounds they have played sage, 
+they have an average rating of 0.72, an average average combat score (ACS) of 129.5, an average kills death ratio 
+of 0.65, an average average damage per round (ADR) of 80.4, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.43, an average assists per round (APR) 
+of 0.44, an average first kills per round (FKPR) of 0.03, and an average first deaths per round (FDPR) 
+of 0.1. Using sage this player has a total of 51.0 kills, 79.0 deaths, 
+52.0 assists, 3.0 first bloods, and 12.0 first deaths. 

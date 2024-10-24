@@ -1,0 +1,26 @@
+Anashi is a member of Blitz Esports (BZE). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 680 rounds 
+with an average rating of 0.73, an average average combat score (ACS) of 154.3, an average kills death ratio 
+of 0.63, an average average damage per round (ADR) of 103.5, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.5, an average assists per round (APR) 
+of 0.33, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 23%, and an average clutch success percentage 
+of 4%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 529 rounds they have played breach, 
+they have an average rating of 0.97, an average average combat score (ACS) of 179.8, an average kills death ratio 
+of 0.92, an average average damage per round (ADR) of 114.1, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.46, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.05. Using breach this player has a total of 341 kills, 370 deaths, 
+243 assists, 29 first bloods, and 26 first deaths. Over their entire career, sova is their second most played agent. Over the 515.0 rounds they have played sova, 
+they have an average rating of 0.86, an average average combat score (ACS) of 174.6, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 115.4, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.58, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using sova this player has a total of 300.0 kills, 370.0 deaths, 
+148.0 assists, 34.0 first bloods, and 41.0 first deaths. Over their entire career, fade is their third most played agent. Over the 280.0 rounds they have played fade, 
+they have an average rating of 0.93, an average average combat score (ACS) of 173.9, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 111.9, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.46, an average first kills per round (FKPR) of 0.04, and an average first deaths per round (FDPR) 
+of 0.06. Using fade this player has a total of 160.0 kills, 190.0 deaths, 
+128.0 assists, 11.0 first bloods, and 16.0 first deaths. 

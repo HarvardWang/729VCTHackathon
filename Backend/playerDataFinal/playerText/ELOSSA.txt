@@ -1,0 +1,26 @@
+ELOSSA is a member of Galatasaray Esports (GS). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 554 rounds 
+with an average rating of 0.61, an average average combat score (ACS) of 153.7, an average kills death ratio 
+of 0.65, an average average damage per round (ADR) of 97.3, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.52, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.08, an average first deaths per round (FDPR) 
+of 0.14, an average headshot percentage of 30%, and an average clutch success percentage 
+of 6%. This player is not an in game leader. Over their entire career, cypher is their most played agent. Over the 530 rounds they have played cypher, 
+they have an average rating of 0.85, an average average combat score (ACS) of 186.0, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 107.4, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.14. Using cypher this player has a total of 369 kills, 371 deaths, 
+76 assists, 57 first bloods, and 35 first deaths. Over their entire career, viper is their second most played agent. Over the 209.0 rounds they have played viper, 
+they have an average rating of 0.67, an average average combat score (ACS) of 157.4, an average kills death ratio 
+of 0.65, an average average damage per round (ADR) of 109.0, an average kill, assist, survive, trade percent (KAST) 
+of 59%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.32, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.18. Using viper this player has a total of 112.0 kills, 173.0 deaths, 
+66.0 assists, 16.0 first bloods, and 38.0 first deaths. Over their entire career, kayo is their third most played agent. Over the 155.0 rounds they have played kayo, 
+they have an average rating of 0.81, an average average combat score (ACS) of 172.3, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 108.6, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.57, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.08. Using kayo this player has a total of 88.0 kills, 112.0 deaths, 
+62.0 assists, 13.0 first bloods, and 13.0 first deaths. 

@@ -1,0 +1,26 @@
+VuexLex is a member of HGE Esport (HGE). They play in the Europe region and the VCT 
+challenger circuit. Over their entire career, they have played 482 rounds 
+with an average rating of 0.95, an average average combat score (ACS) of 214.8, an average kills death ratio 
+of 0.93, an average average damage per round (ADR) of 145.0, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.74, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.13, an average first deaths per round (FDPR) 
+of 0.17, an average headshot percentage of 28%, and an average clutch success percentage 
+of 11%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 623 rounds they have played jett, 
+they have an average rating of 0.95, an average average combat score (ACS) of 218.4, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 142.9, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.78, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.19, and an average first deaths per round (FDPR) 
+of 0.2. Using jett this player has a total of 484 kills, 480 deaths, 
+91 assists, 117 first bloods, and 123 first deaths. Over their entire career, raze is their second most played agent. Over the 294.0 rounds they have played raze, 
+they have an average rating of 0.98, an average average combat score (ACS) of 220.5, an average kills death ratio 
+of 1.04, an average average damage per round (ADR) of 146.9, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.14. Using raze this player has a total of 224.0 kills, 216.0 deaths, 
+49.0 assists, 41.0 first bloods, and 42.0 first deaths. Over their entire career, yoru is their third most played agent. Over the 123.0 rounds they have played yoru, 
+they have an average rating of 1.03, an average average combat score (ACS) of 222.0, an average kills death ratio 
+of 0.95, an average average damage per round (ADR) of 142.7, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.76, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.2, and an average first deaths per round (FDPR) 
+of 0.2. Using yoru this player has a total of 93.0 kills, 98.0 deaths, 
+25.0 assists, 25.0 first bloods, and 24.0 first deaths. 

@@ -1,0 +1,26 @@
+Ryu is a member of Please Don't Fire (PDF). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 426 rounds 
+with an average rating of 0.88, an average average combat score (ACS) of 175.7, an average kills death ratio 
+of 0.86, an average average damage per round (ADR) of 119.4, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.62, an average assists per round (APR) 
+of 0.24, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 32%, and an average clutch success percentage 
+of 23%. This player is not an in game leader. Over their entire career, breach is their most played agent. Over the 411 rounds they have played breach, 
+they have an average rating of 1.08, an average average combat score (ACS) of 200.4, an average kills death ratio 
+of 1.11, an average average damage per round (ADR) of 127.4, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.39, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.08. Using breach this player has a total of 301 kills, 271 deaths, 
+162 assists, 27 first bloods, and 32 first deaths. Over their entire career, skye is their second most played agent. Over the 400.0 rounds they have played skye, 
+they have an average rating of 0.86, an average average combat score (ACS) of 172.4, an average kills death ratio 
+of 0.81, an average average damage per round (ADR) of 112.6, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.6, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.1. Using skye this player has a total of 241.0 kills, 299.0 deaths, 
+103.0 assists, 24.0 first bloods, and 41.0 first deaths. Over their entire career, sova is their third most played agent. Over the 241.0 rounds they have played sova, 
+they have an average rating of 0.96, an average average combat score (ACS) of 183.8, an average kills death ratio 
+of 0.96, an average average damage per round (ADR) of 127.6, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.07. Using sova this player has a total of 160.0 kills, 167.0 deaths, 
+46.0 assists, 15.0 first bloods, and 16.0 first deaths. 

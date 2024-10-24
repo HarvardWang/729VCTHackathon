@@ -1,0 +1,26 @@
+diver is a member of ABC (ABC). They play in the Asia Pacific region and the VCT 
+international circuit. Over their entire career, they have played 310 rounds 
+with an average rating of 0.72, an average average combat score (ACS) of 152.9, an average kills death ratio 
+of 0.62, an average average damage per round (ADR) of 101.8, an average kill, assist, survive, trade percent (KAST) 
+of 63%, an average kills per round (KPR) of 0.49, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.15, an average headshot percentage of 13%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 225 rounds they have played viper, 
+they have an average rating of 0.75, an average average combat score (ACS) of 151.1, an average kills death ratio 
+of 0.69, an average average damage per round (ADR) of 100.1, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.5, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.14. Using viper this player has a total of 113 kills, 163 deaths, 
+66 assists, 14 first bloods, and 32 first deaths. Over their entire career, killjoy is their second most played agent. Over the 192.0 rounds they have played killjoy, 
+they have an average rating of Unknown, an average average combat score (ACS) of 159.9, an average kills death ratio 
+of 0.66, an average average damage per round (ADR) of 109.8, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.53, an average assists per round (APR) 
+of 0.16, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.11. Using killjoy this player has a total of 101.0 kills, 152.0 deaths, 
+31.0 assists, 14.0 first bloods, and 21.0 first deaths. Over their entire career, jett is their third most played agent. Over the 160.0 rounds they have played jett, 
+they have an average rating of 0.66, an average average combat score (ACS) of 185.6, an average kills death ratio 
+of 0.72, an average average damage per round (ADR) of 115.9, an average kill, assist, survive, trade percent (KAST) 
+of 59%, an average kills per round (KPR) of 0.59, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.24. Using jett this player has a total of 94.0 kills, 131.0 deaths, 
+27.0 assists, 27.0 first bloods, and 38.0 first deaths. 

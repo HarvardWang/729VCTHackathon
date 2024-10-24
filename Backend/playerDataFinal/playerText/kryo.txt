@@ -1,0 +1,26 @@
+kryo is a member of yara mi lala (PRZ). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 457 rounds 
+with an average rating of 0.93, an average average combat score (ACS) of 198.5, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 137.0, an average kill, assist, survive, trade percent (KAST) 
+of 66%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.12, an average first deaths per round (FDPR) 
+of 0.17, an average headshot percentage of 22%, and an average clutch success percentage 
+of 13%. This player is not an in game leader. Over their entire career, jett is their most played agent. Over the 611 rounds they have played jett, 
+they have an average rating of 0.93, an average average combat score (ACS) of 205.7, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 135.1, an average kill, assist, survive, trade percent (KAST) 
+of 64%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.18, and an average first deaths per round (FDPR) 
+of 0.2. Using jett this player has a total of 439 kills, 482 deaths, 
+103 assists, 112 first bloods, and 124 first deaths. Over their entire career, raze is their second most played agent. Over the 544.0 rounds they have played raze, 
+they have an average rating of 0.98, an average average combat score (ACS) of 230.7, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 151.9, an average kill, assist, survive, trade percent (KAST) 
+of 67%, an average kills per round (KPR) of 0.77, an average assists per round (APR) 
+of 0.19, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.16. Using raze this player has a total of 418.0 kills, 415.0 deaths, 
+106.0 assists, 83.0 first bloods, and 87.0 first deaths. Over their entire career, phoenix is their third most played agent. Over the 318.0 rounds they have played phoenix, 
+they have an average rating of 1.11, an average average combat score (ACS) of 241.8, an average kills death ratio 
+of 1.16, an average average damage per round (ADR) of 161.2, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.82, an average assists per round (APR) 
+of 0.25, an average first kills per round (FKPR) of 0.17, and an average first deaths per round (FDPR) 
+of 0.16. Using phoenix this player has a total of 262.0 kills, 225.0 deaths, 
+80.0 assists, 55.0 first bloods, and 51.0 first deaths. 

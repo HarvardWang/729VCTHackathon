@@ -1,0 +1,26 @@
+grok is a member of Mini PEKKA Gaming (Mini). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 204 rounds 
+with an average rating of 0.77, an average average combat score (ACS) of 167.4, an average kills death ratio 
+of 0.66, an average average damage per round (ADR) of 111.6, an average kill, assist, survive, trade percent (KAST) 
+of 62%, an average kills per round (KPR) of 0.53, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.05, an average first deaths per round (FDPR) 
+of 0.08, an average headshot percentage of 23%, and an average clutch success percentage 
+of 10%. This player is not an in game leader. Over their entire career, brimstone is their most played agent. Over the 244 rounds they have played brimstone, 
+they have an average rating of 0.99, an average average combat score (ACS) of 204.7, an average kills death ratio 
+of 0.97, an average average damage per round (ADR) of 134.9, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.4, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.07. Using brimstone this player has a total of 170 kills, 176 deaths, 
+97 assists, 16 first bloods, and 17 first deaths. Over their entire career, omen is their second most played agent. Over the 153.0 rounds they have played omen, 
+they have an average rating of 0.9, an average average combat score (ACS) of 177.7, an average kills death ratio 
+of 0.8, an average average damage per round (ADR) of 120.3, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.47, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using omen this player has a total of 94.0 kills, 117.0 deaths, 
+72.0 assists, 11.0 first bloods, and 9.0 first deaths. Over their entire career, astra is their third most played agent. Over the 87.0 rounds they have played astra, 
+they have an average rating of 0.64, an average average combat score (ACS) of 142.8, an average kills death ratio 
+of 0.57, an average average damage per round (ADR) of 102.8, an average kill, assist, survive, trade percent (KAST) 
+of 59%, an average kills per round (KPR) of 0.46, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.06, and an average first deaths per round (FDPR) 
+of 0.11. Using astra this player has a total of 40.0 kills, 70.0 deaths, 
+23.0 assists, 5.0 first bloods, and 10.0 first deaths. 

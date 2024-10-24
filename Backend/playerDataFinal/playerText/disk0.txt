@@ -1,0 +1,26 @@
+disk0 is a member of ORDER (ORD). They play in the Oceania region and the VCT 
+international circuit. Over their entire career, they have played 2916 rounds 
+with an average rating of 1.17, an average average combat score (ACS) of 226.6, an average kills death ratio 
+of 1.22, an average average damage per round (ADR) of 147.0, an average kill, assist, survive, trade percent (KAST) 
+of 74%, an average kills per round (KPR) of 0.8, an average assists per round (APR) 
+of 0.26, an average first kills per round (FKPR) of 0.09, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 23%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, raze is their most played agent. Over the 1309 rounds they have played raze, 
+they have an average rating of 1.25, an average average combat score (ACS) of 258.0, an average kills death ratio 
+of 1.33, an average average damage per round (ADR) of 166.1, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.88, an average assists per round (APR) 
+of 0.27, an average first kills per round (FKPR) of 0.11, and an average first deaths per round (FDPR) 
+of 0.09. Using raze this player has a total of 1156 kills, 868 deaths, 
+352 assists, 149 first bloods, and 112 first deaths. Over their entire career, omen is their second most played agent. Over the 1077.0 rounds they have played omen, 
+they have an average rating of Unknown, an average average combat score (ACS) of 202.9, an average kills death ratio 
+of 1.17, an average average damage per round (ADR) of 126.4, an average kill, assist, survive, trade percent (KAST) 
+of Unknown, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.04. Using omen this player has a total of 774.0 kills, 661.0 deaths, 
+249.0 assists, 74.0 first bloods, and 42.0 first deaths. Over their entire career, killjoy is their third most played agent. Over the 545.0 rounds they have played killjoy, 
+they have an average rating of 1.28, an average average combat score (ACS) of 242.2, an average kills death ratio 
+of 1.42, an average average damage per round (ADR) of 155.5, an average kill, assist, survive, trade percent (KAST) 
+of 76%, an average kills per round (KPR) of 0.86, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using killjoy this player has a total of 469.0 kills, 331.0 deaths, 
+108.0 assists, 36.0 first bloods, and 32.0 first deaths. 

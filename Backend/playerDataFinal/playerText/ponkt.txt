@@ -1,0 +1,26 @@
+ponkt is a member of NOM Esports (NOM). They play in the Europe region and the VCT 
+international circuit. Over their entire career, they have played 3639 rounds 
+with an average rating of 0.96, an average average combat score (ACS) of 199.0, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 130.4, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.17, an average first kills per round (FKPR) of 0.1, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 32%, and an average clutch success percentage 
+of 16%. This player is not an in game leader. Over their entire career, cypher is their most played agent. Over the 3046 rounds they have played cypher, 
+they have an average rating of 0.95, an average average combat score (ACS) of 199.3, an average kills death ratio 
+of 1.03, an average average damage per round (ADR) of 127.0, an average kill, assist, survive, trade percent (KAST) 
+of 69%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.2, an average first kills per round (FKPR) of 0.1, and an average first deaths per round (FDPR) 
+of 0.12. Using cypher this player has a total of 2181 kills, 2111 deaths, 
+606 assists, 290 first bloods, and 379 first deaths. Over their entire career, killjoy is their second most played agent. Over the 2102.0 rounds they have played killjoy, 
+they have an average rating of 1.0, an average average combat score (ACS) of 206.5, an average kills death ratio 
+of 1.07, an average average damage per round (ADR) of 136.8, an average kill, assist, survive, trade percent (KAST) 
+of 71%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.15, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.1. Using killjoy this player has a total of 1538.0 kills, 1432.0 deaths, 
+319.0 assists, 189.0 first bloods, and 209.0 first deaths. Over their entire career, sage is their third most played agent. Over the 764.0 rounds they have played sage, 
+they have an average rating of 0.91, an average average combat score (ACS) of 179.3, an average kills death ratio 
+of 0.94, an average average damage per round (ADR) of 119.7, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.29, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.1. Using sage this player has a total of 501.0 kills, 535.0 deaths, 
+220.0 assists, 64.0 first bloods, and 78.0 first deaths. 

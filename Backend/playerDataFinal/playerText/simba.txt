@@ -1,0 +1,26 @@
+simba is a member of Indiana Hoosiers (IU). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 530 rounds 
+with an average rating of 0.87, an average average combat score (ACS) of 188.8, an average kills death ratio 
+of 0.84, an average average damage per round (ADR) of 121.3, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.13, an average first kills per round (FKPR) of 0.13, an average first deaths per round (FDPR) 
+of 0.12, an average headshot percentage of 26%, and an average clutch success percentage 
+of 9%. This player is not an in game leader. Over their entire career, chamber is their most played agent. Over the 465 rounds they have played chamber, 
+they have an average rating of 1.05, an average average combat score (ACS) of 194.2, an average kills death ratio 
+of 1.09, an average average damage per round (ADR) of 126.2, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.71, an average assists per round (APR) 
+of 0.09, an average first kills per round (FKPR) of 0.15, and an average first deaths per round (FDPR) 
+of 0.09. Using chamber this player has a total of 331 kills, 305 deaths, 
+40 assists, 69 first bloods, and 44 first deaths. Over their entire career, jett is their second most played agent. Over the 428.0 rounds they have played jett, 
+they have an average rating of 0.9, an average average combat score (ACS) of 202.1, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 127.2, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.73, an average assists per round (APR) 
+of 0.14, an average first kills per round (FKPR) of 0.14, and an average first deaths per round (FDPR) 
+of 0.15. Using jett this player has a total of 311.0 kills, 341.0 deaths, 
+60.0 assists, 58.0 first bloods, and 65.0 first deaths. Over their entire career, omen is their third most played agent. Over the 166.0 rounds they have played omen, 
+they have an average rating of 0.87, an average average combat score (ACS) of 139.3, an average kills death ratio 
+of 0.74, an average average damage per round (ADR) of 89.5, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.49, an average assists per round (APR) 
+of 0.42, an average first kills per round (FKPR) of 0.02, and an average first deaths per round (FDPR) 
+of 0.08. Using omen this player has a total of 81.0 kills, 109.0 deaths, 
+69.0 assists, 4.0 first bloods, and 13.0 first deaths. 

@@ -1,0 +1,26 @@
+swagg is a member of Red Eye (RDY). They play in the Latin America region and the VCT 
+international circuit. Over their entire career, they have played 256 rounds 
+with an average rating of 0.81, an average average combat score (ACS) of 163.8, an average kills death ratio 
+of 0.72, an average average damage per round (ADR) of 110.6, an average kill, assist, survive, trade percent (KAST) 
+of 65%, an average kills per round (KPR) of 0.54, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.06, an average first deaths per round (FDPR) 
+of 0.07, an average headshot percentage of 22%, and an average clutch success percentage 
+of 12%. This player is not an in game leader. Over their entire career, viper is their most played agent. Over the 204 rounds they have played viper, 
+they have an average rating of 0.99, an average average combat score (ACS) of 185.2, an average kills death ratio 
+of 0.98, an average average damage per round (ADR) of 120.7, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.64, an average assists per round (APR) 
+of 0.31, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.1. Using viper this player has a total of 131 kills, 134 deaths, 
+64 assists, 18 first bloods, and 21 first deaths. Over their entire career, fade is their second most played agent. Over the 194.0 rounds they have played fade, 
+they have an average rating of 0.92, an average average combat score (ACS) of 187.1, an average kills death ratio 
+of 0.82, an average average damage per round (ADR) of 118.2, an average kill, assist, survive, trade percent (KAST) 
+of 73%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.49, an average first kills per round (FKPR) of 0.05, and an average first deaths per round (FDPR) 
+of 0.06. Using fade this player has a total of 118.0 kills, 144.0 deaths, 
+95.0 assists, 10.0 first bloods, and 12.0 first deaths. Over their entire career, breach is their third most played agent. Over the 188.0 rounds they have played breach, 
+they have an average rating of 0.9, an average average combat score (ACS) of 180.0, an average kills death ratio 
+of 0.79, an average average damage per round (ADR) of 119.7, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.61, an average assists per round (APR) 
+of 0.5, an average first kills per round (FKPR) of 0.03, and an average first deaths per round (FDPR) 
+of 0.06. Using breach this player has a total of 115.0 kills, 145.0 deaths, 
+94.0 assists, 6.0 first bloods, and 11.0 first deaths. 

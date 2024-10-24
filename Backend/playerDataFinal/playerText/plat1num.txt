@@ -1,0 +1,26 @@
+plat1num is a member of UC Irvine (UCI). They play in the North America region and the VCT 
+international circuit. Over their entire career, they have played 2532 rounds 
+with an average rating of 0.94, an average average combat score (ACS) of 194.5, an average kills death ratio 
+of 0.91, an average average damage per round (ADR) of 128.9, an average kill, assist, survive, trade percent (KAST) 
+of 68%, an average kills per round (KPR) of 0.66, an average assists per round (APR) 
+of 0.28, an average first kills per round (FKPR) of 0.07, an average first deaths per round (FDPR) 
+of 0.09, an average headshot percentage of 23%, and an average clutch success percentage 
+of 15%. This player is not an in game leader. Over their entire career, sova is their most played agent. Over the 2907 rounds they have played sova, 
+they have an average rating of 1.09, an average average combat score (ACS) of 212.3, an average kills death ratio 
+of 1.08, an average average damage per round (ADR) of 140.5, an average kill, assist, survive, trade percent (KAST) 
+of 75%, an average kills per round (KPR) of 0.72, an average assists per round (APR) 
+of 0.37, an average first kills per round (FKPR) of 0.07, and an average first deaths per round (FDPR) 
+of 0.06. Using sova this player has a total of 2088 kills, 1934 deaths, 
+1070 assists, 191 first bloods, and 163 first deaths. Over their entire career, skye is their second most played agent. Over the 775.0 rounds they have played skye, 
+they have an average rating of 0.98, an average average combat score (ACS) of 194.6, an average kills death ratio 
+of 0.99, an average average damage per round (ADR) of 124.0, an average kill, assist, survive, trade percent (KAST) 
+of 72%, an average kills per round (KPR) of 0.69, an average assists per round (APR) 
+of 0.3, an average first kills per round (FKPR) of 0.08, and an average first deaths per round (FDPR) 
+of 0.08. Using skye this player has a total of 537.0 kills, 542.0 deaths, 
+234.0 assists, 60.0 first bloods, and 61.0 first deaths. Over their entire career, cypher is their third most played agent. Over the 640.0 rounds they have played cypher, 
+they have an average rating of 0.96, an average average combat score (ACS) of 195.8, an average kills death ratio 
+of 1.01, an average average damage per round (ADR) of 129.8, an average kill, assist, survive, trade percent (KAST) 
+of 70%, an average kills per round (KPR) of 0.7, an average assists per round (APR) 
+of 0.23, an average first kills per round (FKPR) of 0.09, and an average first deaths per round (FDPR) 
+of 0.1. Using cypher this player has a total of 450.0 kills, 447.0 deaths, 
+146.0 assists, 56.0 first bloods, and 67.0 first deaths. 
